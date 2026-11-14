@@ -5,7 +5,7 @@ from playwright.sync_api import sync_playwright, expect
 
 URL = os.environ.get('YAKKUK_TEST_URL', 'http://127.0.0.1:8000').rstrip('/')
 API = 'https://yakkuk-ai.example'
-MODEL = '@cf/meta/llama-3.1-8b-instruct-fp8-fast'
+MODEL = '@cf/meta/llama-3.3-70b-instruct-fp8-fast'
 ANALYSIS = {'urgent': [], 'drugs': [{'input': '가상 약 A', 'ingredient': '확인 필요', 'ingredient_en': [], 'unsure': True}],
             'combos': [], 'checklist': [], 'observations': [], 'questions': ['의료진 확인'], 'plan': [], 'member_talk': []}
 
@@ -59,6 +59,11 @@ with sync_playwright() as p:
     expect(page.locator('#status')).to_contain_text('정리를 마쳤습니다')
     assert len(calls) == 1 and calls[0]['kind'] == 'analysis'
     assert page.evaluate('lastData.drugs[0].input') == '가상 약 A'
+    page.locator('#fictional').uncheck()
+    page.locator('.chips button').first.click()
+    expect(page.locator('#result')).to_contain_text('가상 사례 확인란을 먼저 선택하세요')
+    assert len(calls) == 1
+    page.locator('#fictional').check()
     page.locator('.chips button').first.click()
     expect(page.locator('#result')).to_contain_text('가상 학습 설명')
     assert len(calls) == 2 and calls[-1]['kind'] == 'study'

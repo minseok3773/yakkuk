@@ -550,7 +550,8 @@ async function ask(prompt, target, quiet, title){
     if (title && out.text){ notes = notes.filter(n => n.title !== title); notes.push({title, text: out.text}); }
     return out.text || "";
   } catch (e) {
-    target.textContent = "설명을 가져오지 못했습니다. 잠시 뒤 다시 누르거나, Claude 사용량이 다 떨어졌다면 요청문을 복사해 ChatGPT에 물어보세요. ";
+    if (!$("fictional")?.checked){ target.textContent = e.message; $("fictional")?.focus(); return null; }
+    target.textContent = (e.message || "AI 설명을 가져오지 못했습니다. 입력과 기존 결과는 유지됩니다.") + " 요청문을 복사해 승인된 외부 서비스에서 가상 정보로 질문할 수 있습니다. ";
     const cb = el("button", {type:"button", class:"mini", text:"ChatGPT에 물어볼 요청문 복사"});
     cb.addEventListener("click", () => copyText(prompt, cb));
     target.append(cb);

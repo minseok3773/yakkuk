@@ -4,7 +4,7 @@
 
 GitHub Pages 화면은 유지하고 별도 Cloudflare Worker에서 추론한다. 브라우저나 GitHub에 Cloudflare API 토큰을 넣지 않는다. Workers AI 바인딩은 별도의 Google API 키가 필요 없다. 기존 브라우저 저장소와 JSON 백업 형식도 유지한다.
 
-Cloudflare Worker를 `https://yakkuk-ai.jsy7648.workers.dev/`에 배포했다. 실제 가상 학습·분석 응답과 불명확한 약의 성분을 추측하지 않는 동작을 검증한 후 `ai-config.js`에 공개 서버 주소를 등록했다. 같은 요청의 재사용과 저장·새로고침 후 결과 복원을 확인했다. 운영 화면은 `https://minseok3773.github.io/yakkuk/`이며, 비밀값이나 배포 토큰은 웹 파일에 포함하지 않는다.
+Cloudflare Worker를 `https://yakkuk-ai.jsy7648.workers.dev/`에 배포했다. 실제 가상 학습·분석 응답과 불명확한 약의 성분을 추측하지 않는 동작을 검증한 후 `ai-config.js`에 공개 서버 주소를 등록했다. 같은 요청의 재사용과 저장·새로고침 후 결과 복원을 확인했다. 공개 사이트의 약 6개 가상 예시에서는 여섯 약의 영문 성분명 매핑을 기준값과 대조했고, 실제 모델이 만든 퀴즈 3문항의 화면 표시도 확인했다. 이는 의학적 성능 인증이 아니다. 운영 화면은 `https://minseok3773.github.io/yakkuk/`이며, 비밀값이나 배포 토큰은 웹 파일에 포함하지 않는다.
 
 ## 사용자 계정에서 필요한 준비
 
@@ -46,7 +46,7 @@ NODE_USE_ENV_PROXY=1 npm run connect:api -- https://yakkuk-ai.ACCOUNT.workers.de
 ## 비용·한도와 요청 방식
 
 - Cloudflare 공식 문서 기준 Workers Free의 Workers AI 무료 할당은 계정 전체 **하루 10,000 Neurons**, UTC 00:00 초기화다. 토큰 수·모델별 소모량에 따라 요청 가능 횟수는 달라진다. 같은 계정의 다른 서비스도 이 한도를 공유할 수 있다.
-- 고정 모델 `@cf/meta/llama-3.1-8b-instruct-fp8-fast`를 사용한다. 모델을 유료 모델로 자동 변경하지 않는다. 출력은 요청당 최대 4,096 토큰으로 제한한다.
+- 고정 모델 `@cf/meta/llama-3.3-70b-instruct-fp8-fast`를 사용한다. 모델을 유료 모델로 자동 변경하지 않는다. 출력은 분석 최대 8,192 토큰, 학습 1,024 토큰, 퀴즈 2,048 토큰으로 제한한다. 작은 모델의 반복 출력과 잘못된 성분명 표기를 실제 검증에서 발견하여, JSON 모드와 제한된 스키마를 사용하는 더 큰 무료 지원 모델로 고정했다. 목록 길이와 영문 성분명 형식은 서버에서도 검증한다. 큰 모델은 무료 Neurons를 더 빨리 사용할 수 있어 20회의 분석을 보장하는 것은 아니다.
 - 서버에 SQLite 기반 Durable Object 일일 카운터를 두고 모든 접속을 합쳐 **최대 20회/UTC일**로 제한한다. 더 작은 제한은 설정할 수 있지만 코드상 20회를 넘길 수 없다. 요청 실패도 보수적으로 횟수에 포함한다. 이 횟수 제한은 Neurons 잔량의 정확한 측정이 아니며, 계정 자체를 Workers Free로 유지해야 월 0원 조건을 지킬 수 있다.
 - Durable Objects는 SQLite 방식으로 Workers Free에서 제공된다. 무료 서비스 자체 한도를 넘으면 오류로 멈추며 앱에서 유료 플랜으로 전환하지 않는다.
 - 상태 조회·화면 열기·저장·복원은 모델을 호출하지 않는다. **AI 자동 분석**, 약 공부 또는 퀴즈 버튼을 명시적으로 눌렀을 때만 추론을 요청한다.
@@ -60,7 +60,7 @@ NODE_USE_ENV_PROXY=1 npm run connect:api -- https://yakkuk-ai.ACCOUNT.workers.de
 
 Cloudflare의 공식 Workers AI 데이터 문서는 일반 상태 비저장 추론에 대해 처리에 필요한 기간 이후 입력·출력을 보관하지 않고 Customer Content를 모델 학습에 쓰지 않는다고 설명한다. 다만 운영 메타데이터, 사용자가 선택한 저장 기능, 안전·법적 예외가 있어 무조건적인 무보관 보증으로 해석하지 않는다. 개인정보 정책·계정 약관도 함께 적용된다. 2026-11-15 KST에 검증된 Node HTTPS 경로로 Cloudflare 약관·개인정보 정책·Developer Platform 서비스별 약관 원문을 읽었다. Self-Serve 2.2.1(i)는 HIPAA 정의의 PHI를 서면 동의 없이 저장·전송하지 못하도록 하고, 2.5.2는 데이터 전송에 필요한 권리·허가를 고객이 확보하도록 한다. HIPAA가 모든 한국 회원자료에 자동 적용된다는 뜻은 아니지만 실제 자료 도입은 별도의 법적·기관 검토가 필요하다. 개인정보 정책의 국외 이전·보관 항목과 서비스별 Workers AI 약관의 출력 오류 가능성·모델별 이용 조건도 함께 적용된다.
 
-Llama 3.1 라이선스와 이용 정책은 공식 저장소 원문에서 확인했다. 무자격 의료행위와 적법한 권리·동의 없는 민감정보 처리를 제한한다. [라이선스](licenses/LLAMA-3.1.txt)를 보존하고 연결 화면과 응답에 **Built with Llama**를 표시한다. 모델 가중치를 배포하거나 사용자 기기에 설치하지 않는다.
+Llama 3.3 라이선스와 이용 정책은 공식 저장소 원문에서 확인했다. 무자격 의료행위와 적법한 권리·동의 없는 민감정보 처리를 제한한다. [라이선스](licenses/LLAMA-3.3.txt)를 보존하고 연결 화면과 응답에 **Built with Llama**를 표시한다. 모델 가중치를 배포하거나 사용자 기기에 설치하지 않는다.
 
 현재 기능 범위는 **가상 정보로 의료 지식을 학습하고 복약 관찰 항목을 정리하는 용도**다. 실제 회원자료, 진단·치료 결정, 응급 판정은 범위에 포함하지 않는다. 입력된 내용과 AI의 추정을 구분하고 모르는 약은 확인 필요로 표시하도록 요청하지만, 지시문이나 JSON 검증이 의료적 정확성을 보장하지 않는다. 모델은 공식 의약품 DB나 근거 검색에 연결되지 않았다.
 
@@ -71,7 +71,7 @@ Llama 3.1 라이선스와 이용 정책은 공식 저장소 원문에서 확인�
 - [오류 코드](https://developers.cloudflare.com/workers-ai/platform/errors/), [공식 문서 소스](https://github.com/cloudflare/cloudflare-docs/blob/production/src/content/docs/workers-ai/platform/errors.mdx)
 - [Durable Objects 가격](https://developers.cloudflare.com/durable-objects/platform/pricing/)
 - [Cloudflare 개인정보 정책](https://www.cloudflare.com/privacypolicy/), [계정 약관](https://www.cloudflare.com/terms/), [Developer Platform 서비스별 약관](https://www.cloudflare.com/service-specific-terms-developer-platform/)
-- [Llama 3.1 라이선스](https://github.com/meta-llama/llama-models/blob/main/models/llama3_1/LICENSE), [이용 정책](https://github.com/meta-llama/llama-models/blob/main/models/llama3_1/USE_POLICY.md)
+- [Llama 3.3 라이선스](https://github.com/meta-llama/llama-models/blob/main/models/llama3_3/LICENSE), [이용 정책](https://github.com/meta-llama/llama-models/blob/main/models/llama3_3/USE_POLICY.md)
 
 ## 검증 결과 구분
 

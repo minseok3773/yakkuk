@@ -68,7 +68,7 @@ test('one explicit analysis uses fixed free-tier model and bounded generation', 
   assert.deepEqual(JSON.parse((await response.json()).text), analysis);
   assert.equal(calls.length, 1);
   assert.equal(calls[0].model, MODEL);
-  assert.equal(calls[0].input.max_tokens, 4096);
+  assert.equal(calls[0].input.max_tokens, 8192);
   assert.equal(calls[0].input.messages[0].role, 'system');
   assert.match(calls[0].input.messages[0].content, /가상 사례/);
   assert.deepEqual([...storage.values.keys()], ['budget']);
@@ -156,4 +156,9 @@ test('structured JSON mode is requested and accepts the provider object response
   assert.deepEqual(JSON.parse((await response.json()).text), analysis);
   assert.deepEqual(JSON.parse(normalizeOutput({ items: [{ q: '가상 문제', options: ['A','B','C','D'], answer: 0, explain: '가상 해설' }] }, 'quiz'))[0].answer, 0);
   assert.throws(() => normalizeOutput({ items: [null] }, 'quiz'));
+});
+
+test('repetitive analysis and non-English ingredient keys are rejected', () => {
+  assert.throws(() => normalizeOutput({ ...analysis, questions: Array(8).fill('repeat') }, 'analysis'));
+  assert.throws(() => normalizeOutput({ ...analysis, drugs: [{ ...analysis.drugs[0], ingredient_en: ['리스페리돈'], unsure: false }] }, 'analysis'));
 });
