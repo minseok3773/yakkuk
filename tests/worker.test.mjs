@@ -41,6 +41,22 @@ test('health checks and preflight do not run inference or consume budget', async
   assert.equal(calls.length, 0);
   assert.equal(storage.values.size, 0);
 });
+
+test('an added owned origin works alongside the existing site without allowing other domains', async () => {
+  const { env, calls } = setup();
+  env.ADDITIONAL_ORIGINS = ' https://yakkuk.pages.dev ';
+  for (const requestOrigin of [origin, 'https://yakkuk.pages.dev']) {
+    const response = await worker.fetch(req({ path: '/api/status', method: 'GET', requestOrigin }), env);
+    assert.equal(response.status, 200);
+    assert.equal(response.headers.get('Access-Control-Allow-Origin'), requestOrigin);
+    assert.equal(response.headers.get('Vary'), 'Origin');
+    assert.equal((await worker.fetch(req({ method: 'OPTIONS', requestOrigin }), env)).status, 204);
+  }
+  for (const requestOrigin of ['https://yakkuk.pages.dev.evil.example', 'http://yakkuk.pages.dev', 'https://other.pages.dev']) {
+    assert.equal((await worker.fetch(req({ path: '/api/status', method: 'GET', requestOrigin }), env)).status, 403);
+  }
+  assert.equal(calls.length, 0);
+});
 test('denied origin, missing consent and invalid inputs are rejected before inference', async () => {
   const { env, calls, storage } = setup();
   for (const [options, status] of [

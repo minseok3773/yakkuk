@@ -129,9 +129,10 @@ async function readBody(request) {
 export default {
   async fetch(request, env) {
     const origin = request.headers.get('Origin');
-    const allowed = env.ALLOWED_ORIGIN;
+    const origins = [env.ALLOWED_ORIGIN, ...String(env.ADDITIONAL_ORIGINS || '').split(',')].map(v => v?.trim()).filter(Boolean);
+    const allowed = origins.includes(origin) ? origin : '';
     // CORS is not authentication; the durable global cap limits public-endpoint abuse.
-    if (!allowed || origin !== allowed) return failure('origin_denied', '허용되지 않은 사이트입니다.', 403, '');
+    if (!allowed) return failure('origin_denied', '허용되지 않은 사이트입니다.', 403, '');
     const path = new URL(request.url).pathname;
     if (!['/api/status', '/api/analyze'].includes(path)) return failure('not_found', '없는 경로입니다.', 404, allowed);
     if (request.method === 'OPTIONS') return new Response(null, { status: 204, headers: {
