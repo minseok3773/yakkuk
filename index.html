@@ -131,6 +131,7 @@ ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
   <div class="cols">
     <form class="panel" id="form">
       <div class="sec-head"><h2>입력</h2><span class="tag ex" id="exTag">예시가 채워져 있음</span></div>
+      <p class="what" id="connectionStatus" role="status">실행 방법을 확인하는 중입니다.</p>
       <div class="row">
         <div class="field"><label for="age">연령대</label>
           <select id="age"><option value="">선택 안 함</option><option>20대</option><option>30대</option><option>40대</option><option selected>50대</option><option>60대</option><option>70대 이상</option></select></div>
@@ -163,12 +164,13 @@ ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
         <span class="hint">직원이 보거나 회원이 말한 신체·행동 변화를 적으면 주치의 문의사항에 반영됩니다.</span>
       </div>
       <div class="btns">
-        <button type="submit" class="primary" id="run" disabled>AI 연결 확인 중</button>
+        <button type="submit" class="primary" id="run" disabled>실행 준비 중</button>
         <button type="button" id="clear">입력 지우기</button>
       </div>
       <p class="status" id="status" role="status"></p>
       <details class="alt" id="alt">
-        <summary>Claude 사용량이 다 떨어졌을 때 (ChatGPT로 정리)</summary>
+        <summary>AI 설명 받기: 요청문 복사 → ChatGPT 답 붙여넣기</summary>
+        <p class="hint">가상 사례만 사용하세요. 이 사이트에서 ChatGPT를 자동 호출하지 않으며, 붙여 넣은 AI 답은 의료진 확인이 필요합니다.</p>
         <ol>
           <li>위 칸을 채운 뒤 누릅니다. <button type="button" class="mini" id="altCopy">요청문 복사</button></li>
           <li>ChatGPT를 열어 새 대화에 붙여 넣고 답을 받습니다.</li>
@@ -234,9 +236,14 @@ function setStatus(msg, err){ statusEl.textContent = msg; statusEl.className = "
 
 (async () => {
   try { sample = window.claude ? await window.claude.use("sample") : null; } catch(e){ sample = null; }
-  if (sample){ runBtn.disabled = false; runBtn.textContent = "정리하기";
+  if (sample){ runBtn.disabled = false; runBtn.textContent = "AI로 정리하기";
+    $("connectionStatus").textContent = "Claude AI에 연결되었습니다. 가상 사례 확인 후 버튼을 눌렀을 때만 분석을 요청합니다.";
     try { const lim = await sample.limits(); if (lim && lim.images) $("photoField").hidden = false; } catch(e){} }
-  else { runBtn.textContent = "정리하기"; setStatus("이 화면에서는 AI 정리를 쓸 수 없습니다. Claude에 로그인한 상태로 이 페이지를 열어 주세요.", true); }
+  else {
+    runBtn.disabled = false; runBtn.textContent = "입력 내용 정리 (AI 없음)";
+    $("connectionStatus").textContent = "이 웹사이트에는 AI 자동 분석이 연결되어 있지 않습니다. 약 이름과 증상을 입력하면 전달용 요약을 만들 수 있습니다. AI 설명은 아래 요청문 복사·답 붙여넣기로 이용하세요.";
+    setStatus("가상 사례를 입력한 뒤 ‘입력 내용 정리’를 눌러 주세요.");
+  }
 })();
 
 $("clear").addEventListener("click", () => {
@@ -395,7 +402,7 @@ function condCheck(drugs){
 }
 
 function buildPrompt(drugs, obs, age, sex, conds){
-  return `너는 한국 정신재활시설 실무자(정신건강사회복지사)의 복약 관찰을 돕는 정리 도우미다.
+  return `가상 사례를 사용하는 학습 실습이다. 너는 한국 정신재활시설 실무자(정신건강사회복지사)의 복약 관찰을 돕는 정리 도우미다.
 목적은 진단이 아니라 "관찰과 연계"다. 실무자가 무엇을 관찰하고 주치의·약사에게 무엇을 물을지 준비하도록 돕는다.
 
 규칙:
@@ -428,7 +435,19 @@ checklist는 3~5개 영역, 영역당 2~4개 항목. 관찰된 변화 입력이 
 ${drugs}
 
 [최근 관찰된 변화]
-${obs || "입력 없음"}`;
+${obs || "입력 없음"}
+
+[약물명·용량·변경 시점]
+${$("medTimeline")?.value.trim() || "입력 없음"}
+
+[증상·발생 시점·경과]
+${$("symTimeline")?.value.trim() || "입력 없음"}
+
+[기저질환·검사결과·출처]
+${$("conditionsText")?.value.trim() || "입력 없음"}
+
+[재활지원·생활 변화·확인할 사항]
+${$("rehabNotes")?.value.trim() || "입력 없음"}`;
 }
 
 async function copyText(t, btn, box){
@@ -445,11 +464,15 @@ function snapshot(){
   return lastInput;
 }
 $("altCopy").addEventListener("click", () => {
+  try { requireFictional(); }
+  catch (e) { setStatus(e.message, true); $("fictional")?.focus(); return; }
   const i = snapshot();
   if (!i.drugs){ setStatus("복용 중인 약을 먼저 입력해 주세요.", true); $("drugs").focus(); return; }
   copyText(buildPrompt(i.drugs, i.obs, i.age, i.sex, i.conds), $("altCopy"), $("altPrompt"));
 });
 $("altRun").addEventListener("click", () => {
+  try { requireFictional(); }
+  catch (e) { setStatus(e.message, true); $("fictional")?.focus(); return; }
   const t = $("altIn").value.trim();
   if (!t){ setStatus("ChatGPT의 답을 붙여 넣어 주세요.", true); $("altIn").focus(); return; }
   try { const d = parseJSON(t); if (!Array.isArray(d.drugs)) throw new Error("shape"); snapshot(); lastData = d; render(d); setStatus("붙여 넣은 답으로 결과를 만들었습니다. 약 정보는 공식 확인 링크로 대조해 주세요."); }
@@ -464,9 +487,16 @@ function parseJSON(text){
 
 $("form").addEventListener("submit", async (e) => {
   e.preventDefault();
-  if (busy || !sample) return;
+  if (busy) return;
   const drugs = $("drugs").value.trim();
   if (!drugs){ setStatus("복용 중인 약을 한 줄에 하나씩 입력해 주세요.", true); $("drugs").focus(); return; }
+  try { requireFictional(); }
+  catch (err) { setStatus(err.message, true); $("fictional")?.focus(); return; }
+  if (!sample){
+    try { runWithoutAI(); }
+    catch (err) { setStatus(err.message || "입력 내용을 정리하지 못했습니다. 페이지를 새로고침해 주세요.", true); }
+    return;
+  }
   busy = true; runBtn.disabled = true; setStatus("정리하는 중입니다. 약이 많으면 1분쯤 걸립니다.");
   try {
     lastConds = Array.from(document.querySelectorAll("#conds input:checked")).map(c => c.value);
@@ -485,7 +515,7 @@ $("form").addEventListener("submit", async (e) => {
   } catch (err) {
     const code = err && err.code;
     if (code === "not_granted") setStatus("AI 사용을 허용해야 정리할 수 있습니다. 다시 눌러 허용해 주세요.", true);
-    else if (code === "rate_limited") { setStatus("요청이 많아 막혔습니다. 1~2분 뒤 다시 누르거나, 사용량이 다 떨어졌다면 아래 'ChatGPT로 정리'를 써 주세요.", true); $("alt").open = true; }
+    else if (err?.status === 429 || /limit|quota|usage/i.test(code || "")) { setStatus("AI 요청 한도로 새 분석이 대기 중입니다. 입력 요약·기록 저장과 기존 결과 조회는 계속 사용할 수 있습니다. AI 설명은 아래 요청문 복사·답 붙여넣기를 이용하세요.", true); $("alt").open = true; }
     else if (code === "truncated") setStatus("결과가 너무 길어 끝까지 받지 못했습니다. 약을 절반씩 나눠 두 번 정리해 주세요.", true);
     else { setStatus("결과를 받지 못했습니다. 다시 눌러 주세요. Claude 사용량이 다 떨어졌다면 아래 'ChatGPT로 정리'를 써 주세요.", true); $("alt").open = true; }
   } finally { busy = false; runBtn.disabled = false; }
@@ -733,6 +763,6 @@ function toText(d){
   return L.join("\n");
 }
 </script>
-<script src="workspace.js"></script>
+<script src="workspace.js?v=web-run-1"></script>
 </body>
 </html>

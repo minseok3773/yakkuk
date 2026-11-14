@@ -33,7 +33,45 @@ function refresh() {
 function collect() { return Object.fromEntries(fields.map(k=>[k,$(k).value])); }
 function requireFictional() { if (!$('fictional').checked) throw new Error('가상 사례 확인란을 먼저 선택하세요. 실제 회원자료는 사용할 수 없습니다.'); }
 function summary() {
- const f=collect(); return `가상 사례 · 주치의 전달용 초안\n${f.caseTitle}\n\n[입력된 사실·진술: 의료적으로 검증되지 않음]\n약 목록: ${f.drugs}\n약 변경 시점: ${f.medTimeline || '미입력'}\n증상과 경과: ${f.symTimeline || '미입력'}\n최근 관찰: ${f.obs}\n질환·검사·출처: ${f.conditionsText || '미입력'}\n재활지원·본인 희망: ${f.rehabNotes || '미입력'}\n\n[추가 확인사항: 자동 진단 아님]\n약 변경과 증상 발생의 선후관계, 누락된 처방·일반약·건강기능식품, 검사 날짜·단위·출처를 확인해 주세요.\n내과: 신체질환·검사결과와의 관련 여부 / 정신과: 수면·정신증상·약물 영향 / 정형외과: 통증·외상·보행과 활동 제한을 해당 의료진에게 문의하세요.\n\n[가능한 원인·AI 추정]\n자동으로 추정하지 않음. 원인·진단·복약 변경은 의료진 확인 필요.\n\n[의료진에게 물을 내용]\n관찰된 변화의 평가 필요성, 추가로 확인할 검사·관찰 항목, 재활활동 지원 시 주의점을 알려 주세요.`;
+ const f=collect();
+ const conds=CONDS.filter(c=>document.querySelector('#conds input[value="'+c.id+'"]')?.checked).map(c=>c.label).join(', ');
+ return `가상 사례 · 주치의 전달용 초안\n${f.caseTitle}\n\n[입력된 사실·진술: 의료적으로 검증되지 않음]\n연령대·성별: ${f.age || '미입력'} / ${f.sex || '미입력'}\n선택한 상태: ${conds || '선택 없음'}\n약 목록: ${f.drugs}\n약 변경 시점: ${f.medTimeline || '미입력'}\n증상과 경과: ${f.symTimeline || '미입력'}\n최근 관찰: ${f.obs || '미입력'}\n질환·검사·출처: ${f.conditionsText || '미입력'}\n재활지원·본인 희망: ${f.rehabNotes || '미입력'}\n\n[추가 확인사항: 자동 진단 아님]\n약 변경과 증상 발생의 선후관계, 누락된 처방·일반약·건강기능식품, 검사 날짜·단위·출처를 확인해 주세요.\n내과: 신체질환·검사결과와의 관련 여부 / 정신과: 수면·정신증상·약물 영향 / 정형외과: 통증·외상·보행과 활동 제한을 해당 의료진에게 문의하세요.\n\n[가능한 원인·AI 추정]\n자동으로 추정하지 않음. 원인·진단·복약 변경은 의료진 확인 필요.\n\n[의료진에게 물을 내용]\n관찰된 변화의 평가 필요성, 추가로 확인할 검사·관찰 항목, 재활활동 지원 시 주의점을 알려 주세요.`;
+}
+function showAnalysisPrompt() {
+ requireFictional();
+ const i=snapshot();
+ if(!i.drugs) throw new Error('복용 중인 약을 먼저 입력해 주세요.');
+ $('altPrompt').value=buildPrompt(i.drugs,i.obs,i.age,i.sex,i.conds);
+ $('altPrompt').hidden=false; $('alt').open=true;
+ $('alt').scrollIntoView({block:'center'});
+ setStatus('요청문을 만들었습니다. 외부 AI로 전송하지 않았습니다. 가상 사례 요청문을 복사해 답을 받은 뒤 아래 칸에 붙여 넣으세요.');
+}
+function renderInputSummary(text) {
+ const copy=el('button',{type:'button',text:'요약 복사'});
+ const box=el('textarea',{rows:'12',readonly:'','aria-label':'입력 내용 정리 결과'});
+ box.value=text;
+ copy.onclick=()=>copyText(text,copy,box);
+ const next=el('button',{type:'button',class:'primary',text:'AI 설명용 요청문 보기'});
+ next.onclick=action(showAnalysisPrompt);
+ $('result').replaceChildren(
+  el('div',{class:'sec'},el('h2',{text:'입력 내용 정리 (AI 없음)'}),
+   el('p',{class:'what',text:'입력하신 약 이름과 증상을 전달용 문서로 정리했습니다. 성분·부작용·원인을 분석한 결과가 아니며, 외부 AI에 전송하지 않았습니다.'}),box,copy),
+  el('div',{class:'sec'},el('h2',{text:'약·증상에 관한 AI 설명이 필요하신가요?'}),
+   el('p',{text:'이 웹사이트에는 AI 자동 분석이 연결되어 있지 않습니다. 가상 사례 요청문을 복사해 ChatGPT 등 기관이 승인한 서비스에서 답을 받은 뒤, 답 전체를 이 화면에 붙여 넣어 결과를 볼 수 있습니다.'}),next,
+   el('p',{class:'hint',text:'기록을 남기려면 위 가상 사례 기록실의 기록 저장을 누르세요. 저장 후 JSON 백업도 권장합니다.'}))
+ );
+}
+function runWithoutAI() {
+ requireFictional();
+ const i=snapshot();
+ if(!i.drugs) throw new Error('복용 중인 약을 먼저 입력해 주세요.');
+ const text=summary();
+ // A fresh input summary must not save an older AI result as its analysis.
+ lastData=null; notes=[];
+ $('summaryText').value=text;
+ renderInputSummary(text);
+ setStatus('입력 내용 정리를 마쳤습니다. AI 분석·외부 전송 없음. AI 설명이 필요하면 결과 아래 요청문 보기를 눌러 주세요.');
+ $('result').scrollIntoView({block:'start'});
 }
 function action(fn) { return async () => { try { await fn(); } catch(e) { notice(e.message || '처리하지 못했습니다.'); } }; }
 $('caseSave').onclick=action(()=>{
@@ -47,7 +85,9 @@ $('caseLoad').onclick=action(()=>{
  fields.forEach(k=>{$(k).value=r.fields[k] || '';});
  document.querySelectorAll('#conds input').forEach(c=>c.checked=(r.conditions || []).includes(c.value));
  currentId=r.id; lastData=r.result || null; snapshot();
- if(lastData) render(lastData); else $('result').textContent='저장된 AI 결과가 없습니다.';
+ if(lastData) render(lastData);
+ else if(r.summary) renderInputSummary(r.summary);
+ else $('result').textContent='저장된 AI 결과가 없습니다.';
  if($('memo')) $('memo').value=r.memo || ''; notes=r.studyNotes || [];
  $('summaryText').value=r.summary || ''; notice('기록과 저장된 결과를 열었습니다. AI 호출 없음.');
 });
