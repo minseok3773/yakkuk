@@ -94,6 +94,19 @@ with sync_playwright() as p:
     page.locator('#labLink').click()
     page.locator('#caseSave').click()
     expect(page.locator('#caseStatus')).to_contain_text('저장했습니다')
+    # A failed initial health check must restore the usable manual/local workflow.
+    fallback = browser.new_page()
+    fallback.route('**/ai-config.js*', configured)
+    fallback.route(API + '/**', lambda route: route.fulfill(status=503,
+        json={'error': {'code': 'unavailable'}}, headers={'Access-Control-Allow-Origin': URL}))
+    fallback.goto(URL)
+    expect(fallback.locator('#connectionStatus')).to_contain_text('확인하지 못했습니다')
+    expect(fallback.locator('#run')).to_have_text('AI 분석 요청문 만들기')
+    expect(fallback.locator('#run')).to_be_enabled()
+    fallback.locator('#drugs').fill('가상 약')
+    fallback.locator('#fictional').check()
+    fallback.locator('#inputSummary').click()
+    expect(fallback.get_by_role('textbox', name='입력 내용 정리 결과', exact=True)).to_be_visible()
     assert not errors, errors
     browser.close()
     print('PASS: automatic analysis/study/quiz via mocked HTTPS Worker, explicit consent, zero background inference, cache reuse, invalid response/network/quota handling, recording after quota')

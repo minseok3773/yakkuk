@@ -18,6 +18,8 @@
     try {
       const endpoint = new URL(configured);
       if (endpoint.protocol !== 'https:' || endpoint.username || endpoint.password || endpoint.search || endpoint.hash || endpoint.pathname !== '/') throw error('AI 서버 주소 설정을 확인해 주세요.', 'invalid_config');
+      runBtn.disabled = true;
+      runBtn.textContent = 'AI 연결 확인 중';
       $('connectionStatus').textContent = '무료 AI 서버 연결을 확인하는 중입니다. 분석 요청은 아직 전송하지 않았습니다.';
       const response = await request(new URL('/api/status', endpoint), {}, 8000);
       const status = await response.json();
@@ -46,6 +48,8 @@
       setStatus('약과 증상을 입력한 뒤 ‘AI 자동 분석’을 눌러 주세요.');
     } catch (e) {
       // Manual prompting and local records remain usable if the server is unavailable.
+      runBtn.disabled = false;
+      runBtn.textContent = 'AI 분석 요청문 만들기';
       $('connectionStatus').textContent = (e.message || 'AI 서버 연결을 확인하지 못했습니다.') + ' 요청문 복사·답 붙여넣기를 이용할 수 있습니다.';
     }
   }

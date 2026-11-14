@@ -4,7 +4,7 @@
 
 GitHub Pages 화면은 유지하고 별도 Cloudflare Worker에서 추론한다. 브라우저나 GitHub에 Cloudflare API 토큰을 넣지 않는다. Workers AI 바인딩은 별도의 Google API 키가 필요 없다. 기존 브라우저 저장소와 JSON 백업 형식도 유지한다.
 
-구현과 모의 검증, Worker 빌드는 완료했다. **Cloudflare 인증과 Account ID가 아직 없어 실제 서버 배포·실제 모델 응답 검증·운영 사이트 연결은 미완료**다. `ai-config.js`의 주소는 그 검증이 끝나기 전까지 비워 두며 자동 분석이 연결됐다고 표시하지 않는다.
+Cloudflare Worker를 `https://yakkuk-ai.jsy7648.workers.dev/`에 배포했다. 실제 가상 학습·분석 응답과 불명확한 약의 성분을 추측하지 않는 동작을 검증한 후 `ai-config.js`에 공개 서버 주소를 등록했다. 같은 요청의 재사용과 저장·새로고침 후 결과 복원을 확인했다. 운영 화면은 `https://minseok3773.github.io/yakkuk/`이며, 비밀값이나 배포 토큰은 웹 파일에 포함하지 않는다.
 
 ## 사용자 계정에서 필요한 준비
 
@@ -36,7 +36,7 @@ XDG_CONFIG_HOME=/workspace/.yakkuk-config WRANGLER_LOG_PATH=/tmp/yakkuk-wrangler
 배포가 성공해 Worker의 HTTPS 루트 주소를 받으면 다음을 실행한다.
 
 ```sh
-npm run connect:api -- https://yakkuk-ai.ACCOUNT.workers.dev/
+NODE_USE_ENV_PROXY=1 npm run connect:api -- https://yakkuk-ai.ACCOUNT.workers.dev/
 ```
 
 위 명령은 상태 조회 후 **가상 학습 1회 + 가상 분석 1회**를 실제 모델에 요청한다. 두 요청이 성공할 때만 공개 서버 주소를 `ai-config.js`에 쓴다. 인증키는 쓰지 않는다. 실패하면 주소를 바꾸지 않으며, 출력을 진단하고 자동 재시도하지 않는다. 실제 모델의 한국어 출력·JSON 형식·불명확한 약에 대한 확인 필요 표시를 추가로 확인한다. 임상 성능 검증은 아니다.
@@ -58,7 +58,7 @@ npm run connect:api -- https://yakkuk-ai.ACCOUNT.workers.dev/
 
 서버는 프롬프트·모델 답·IP를 자체 저장하거나 로그에 쓰지 않는다. Durable Object에는 날짜·요청 횟수·대기 여부만 저장한다. Worker 관측 로그를 활성화하지 않으며 AI Gateway나 별도 서버 캐시도 구성하지 않는다. 브라우저의 기존 입력·응답 저장과 JSON 백업은 유지된다.
 
-Cloudflare의 공식 Workers AI 데이터 문서는 일반 상태 비저장 추론에 대해 처리에 필요한 기간 이후 입력·출력을 보관하지 않고 Customer Content를 모델 학습에 쓰지 않는다고 설명한다. 다만 운영 메타데이터, 사용자가 선택한 저장 기능, 안전·법적 예외가 있어 무조건적인 무보관 보증으로 해석하지 않는다. 개인정보 정책·계정 약관도 함께 적용된다. 이 환경에서는 Cloudflare 약관·개인정보 정책 사이트 원문 접근이 차단되어 전체 조항을 검증하지 못했다.
+Cloudflare의 공식 Workers AI 데이터 문서는 일반 상태 비저장 추론에 대해 처리에 필요한 기간 이후 입력·출력을 보관하지 않고 Customer Content를 모델 학습에 쓰지 않는다고 설명한다. 다만 운영 메타데이터, 사용자가 선택한 저장 기능, 안전·법적 예외가 있어 무조건적인 무보관 보증으로 해석하지 않는다. 개인정보 정책·계정 약관도 함께 적용된다. 2026-11-15 KST에 검증된 Node HTTPS 경로로 Cloudflare 약관·개인정보 정책·Developer Platform 서비스별 약관 원문을 읽었다. Self-Serve 2.2.1(i)는 HIPAA 정의의 PHI를 서면 동의 없이 저장·전송하지 못하도록 하고, 2.5.2는 데이터 전송에 필요한 권리·허가를 고객이 확보하도록 한다. HIPAA가 모든 한국 회원자료에 자동 적용된다는 뜻은 아니지만 실제 자료 도입은 별도의 법적·기관 검토가 필요하다. 개인정보 정책의 국외 이전·보관 항목과 서비스별 Workers AI 약관의 출력 오류 가능성·모델별 이용 조건도 함께 적용된다.
 
 Llama 3.1 라이선스와 이용 정책은 공식 저장소 원문에서 확인했다. 무자격 의료행위와 적법한 권리·동의 없는 민감정보 처리를 제한한다. [라이선스](licenses/LLAMA-3.1.txt)를 보존하고 연결 화면과 응답에 **Built with Llama**를 표시한다. 모델 가중치를 배포하거나 사용자 기기에 설치하지 않는다.
 
@@ -70,7 +70,7 @@ Llama 3.1 라이선스와 이용 정책은 공식 저장소 원문에서 확인�
 - [Workers AI 데이터 이용](https://developers.cloudflare.com/workers-ai/platform/data-usage/), [공식 문서 소스](https://github.com/cloudflare/cloudflare-docs/blob/production/src/content/docs/workers-ai/platform/data-usage.mdx)
 - [오류 코드](https://developers.cloudflare.com/workers-ai/platform/errors/), [공식 문서 소스](https://github.com/cloudflare/cloudflare-docs/blob/production/src/content/docs/workers-ai/platform/errors.mdx)
 - [Durable Objects 가격](https://developers.cloudflare.com/durable-objects/platform/pricing/)
-- [Cloudflare 개인정보 정책](https://www.cloudflare.com/privacypolicy/), [계정 약관](https://www.cloudflare.com/terms/) — 본문 검증 미완료
+- [Cloudflare 개인정보 정책](https://www.cloudflare.com/privacypolicy/), [계정 약관](https://www.cloudflare.com/terms/), [Developer Platform 서비스별 약관](https://www.cloudflare.com/service-specific-terms-developer-platform/)
 - [Llama 3.1 라이선스](https://github.com/meta-llama/llama-models/blob/main/models/llama3_1/LICENSE), [이용 정책](https://github.com/meta-llama/llama-models/blob/main/models/llama3_1/USE_POLICY.md)
 
 ## 검증 결과 구분
@@ -78,4 +78,6 @@ Llama 3.1 라이선스와 이용 정책은 공식 저장소 원문에서 확인�
 - 서버 모의 테스트: 명시적 가상 정보 확인, 요청 크기·출처 검사, 동시 요청의 일일 제한, UTC 초기화, 무료 한도 대기, 유료 모델 요구·혼잡·타임아웃·응답 형식 오류를 확인한다.
 - 브라우저 모의 테스트: 클릭 전 추론 없음, 자동 분석·학습·퀴즈 경로, 캐시 재사용, 오류 시 기존 결과 유지, 한도 초과 후 저장 가능을 확인한다.
 - 기존 화면·저장·복원·백업 통합 테스트를 유지한다.
-- 실제 계정 배포, 실제 AI 추론 및 운영 사이트 검증은 인증 정보와 네트워크 적용 후 별도로 실행해야 한다.
+- 실제 서버 배포와 한국어 학습·분석 요청을 검증했다. 반환 JSON은 스키마를 지정해 생성하고 서버에서 다시 검사한다. 모델의 일반 응답이 문서 형식을 지키지 않는 문제를 실제 검증에서 발견해 수정했으며, 형식이 틀린 답은 결과에 적용하지 않는다.
+- 초기 연결 검사 실패 시 주 버튼을 수동 요청문 경로로 복구하는 회귀 테스트를 추가했다.
+- 검증용 Chromium은 이 클라우드의 프록시 CA를 신뢰하지 않았다. 영구 NSS 인증서 저장소 변경은 자동 승인 검토가 이후 브라우징 신뢰 범위에 영향을 준다는 이유로 거절하여 적용하지 않았다. UI 통합 검증은 기존 신뢰 설정으로 TLS를 검증하는 Node 클라이언트로 실제 HTTPS 요청을 중계해 수행했다. 브라우저 자체의 직접 TLS 연결을 검증한 것으로 간주하지 않는다. 모의 테스트에서는 실제 추론하지 않는다.

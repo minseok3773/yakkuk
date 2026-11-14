@@ -8,6 +8,9 @@ errors, requests = [], []
 
 
 def watch(page):
+    # Exercise the no-server workflow even when production has a configured backend.
+    page.route('**/ai-config.js*', lambda route: route.fulfill(
+        content_type='application/javascript', body='window.YAKKUK_AI = {endpoint: ""};'))
     page.on('pageerror', lambda e: errors.append(str(e)))
     page.on('request', lambda r: requests.append(r.url))
     return page

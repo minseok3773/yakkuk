@@ -142,3 +142,18 @@ test('study and quiz use the same server boundary, with valid JSON and no though
   assert.deepEqual(JSON.parse(normalizeOutput(JSON.stringify(quiz), 'quiz')), quiz);
   assert.throws(() => normalizeOutput('[{"q":"x","options":[],"answer":8}]', 'quiz'));
 });
+
+test('structured JSON mode is requested and accepts the provider object response', async () => {
+  const { env, calls } = setup();
+  const run = env.AI.run;
+  env.AI.run = async (model, input) => {
+    await run(model, input);
+    return { response: analysis };
+  };
+  const response = await worker.fetch(req(), env);
+  assert.equal(response.status, 200);
+  assert.equal(calls[0].input.response_format.type, 'json_schema');
+  assert.deepEqual(JSON.parse((await response.json()).text), analysis);
+  assert.deepEqual(JSON.parse(normalizeOutput({ items: [{ q: '가상 문제', options: ['A','B','C','D'], answer: 0, explain: '가상 해설' }] }, 'quiz'))[0].answer, 0);
+  assert.throws(() => normalizeOutput({ items: [null] }, 'quiz'));
+});
