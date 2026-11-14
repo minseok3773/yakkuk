@@ -1,0 +1,14 @@
+{
+  "name": "yakkuk",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/worker.test.mjs",
+    "test:browser": "python3 tests/smoke.py",
+    "test:ai-browser": "python3 tests/ai-browser.py",
+    "build:api": "wrangler deploy --dry-run --outdir /tmp/yakkuk-worker-build",
+    "deploy:api": "wrangler deploy",
+    "connect:api": "node scripts/connect-ai.mjs"
+  },
+  "devDependencies": {"wrangler": "4.162.0"}
+}

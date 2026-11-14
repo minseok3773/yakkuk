@@ -1,4 +1,4 @@
-/* No remote services or credentials. All clinical content is fictional in this release. */
+/* Records stay local. Optional server AI uses fictional information only; no browser credentials. */
 'use strict';
 const STORE = 'yakkuk.workspace.v1';
 const CACHE = 'yakkuk.ai-cache.v1';
@@ -146,7 +146,9 @@ showView();
 async function guardedSample(prompt, options={}) {
  requireFictional();
  let cache;try{cache=readStore(CACHE,{});}catch{throw new Error('AI 캐시를 읽지 못했습니다. 백업 후 저장소를 확인하세요.');}
- const key=JSON.stringify([prompt,options.images ? 'image-not-cacheable' : 'text']);
+ const parts=[prompt,options.images ? 'image-not-cacheable' : 'text'];
+ if(sample?.cacheScope) parts.push(sample.cacheScope,options.task || 'study');
+ const key=JSON.stringify(parts);
  if(!options.images && Object.hasOwn(cache,key)){if(options.onText)options.onText({text:cache[key].text});return cache[key];}
  if(localStorage.getItem(LIMIT)===new Date().toISOString().slice(0,10))throw Object.assign(new Error('오늘 AI 요청이 대기 중입니다. 기록 기능은 계속 사용할 수 있습니다.'),{code:'rate_limit'});
  if(!sample)throw new Error('이 브라우저에는 AI 연결이 없습니다. 가상 사례 요청문 복사를 사용하세요.');

@@ -521,7 +521,7 @@ $("form").addEventListener("submit", async (e) => {
     const condText = CONDS.filter(c => lastConds.includes(c.id)).map(c => c.label).join(", ");
     lastInput.conds = condText;
     const out = await guardedSample(buildPrompt(drugs, $("obs").value.trim(), $("age").value, $("sex").value, condText), {
-      cache: false,
+      cache: false, task: "analysis",
       onText: ({text}) => { if (text) setStatus("정리하는 중입니다. (" + text.length + "자 작성)"); }
     });
     if (out.truncated) throw {code:"truncated"};
@@ -534,7 +534,7 @@ $("form").addEventListener("submit", async (e) => {
     if (code === "not_granted") setStatus("AI 사용을 허용해야 정리할 수 있습니다. 다시 눌러 허용해 주세요.", true);
     else if (err?.status === 429 || /limit|quota|usage/i.test(code || "")) { setStatus("AI 요청 한도로 새 분석이 대기 중입니다. 입력 요약·기록 저장과 기존 결과 조회는 계속 사용할 수 있습니다. AI 설명은 아래 요청문 복사·답 붙여넣기를 이용하세요.", true); $("alt").open = true; }
     else if (code === "truncated") setStatus("결과가 너무 길어 끝까지 받지 못했습니다. 약을 절반씩 나눠 두 번 정리해 주세요.", true);
-    else { setStatus("결과를 받지 못했습니다. 다시 눌러 주세요. Claude 사용량이 다 떨어졌다면 아래 'ChatGPT로 정리'를 써 주세요.", true); $("alt").open = true; }
+    else { setStatus(err?.message || "AI 결과를 받지 못했습니다. 입력과 기존 결과는 유지됩니다. 아래 요청문 복사·답 붙여넣기를 이용할 수 있습니다.", true); $("alt").open = true; }
   } finally { busy = false; runBtn.disabled = false; }
 });
 
@@ -545,7 +545,7 @@ async function ask(prompt, target, quiet, title){
   if (busy){ setStatus("앞의 작업이 끝난 뒤 다시 눌러 주세요.", true); return null; }
   busy = true; target.textContent = "약국이가 쓰는 중입니다.";
   try {
-    const out = await guardedSample(prompt, quiet ? {cache:false} : {onText: ({text}) => { if (text) target.textContent = text; }});
+    const out = await guardedSample(prompt, quiet ? {cache:false,task:"quiz"} : {task:"study",onText: ({text}) => { if (text) target.textContent = text; }});
     if (!quiet) target.textContent = out.text || "";
     if (title && out.text){ notes = notes.filter(n => n.title !== title); notes.push({title, text: out.text}); }
     return out.text || "";
@@ -780,6 +780,8 @@ function toText(d){
   return L.join("\n");
 }
 </script>
-<script src="workspace.js?v=analysis-layout-1"></script>
+<script src="ai-config.js?v=worker-ai-1"></script>
+<script src="ai-client.js?v=worker-ai-1"></script>
+<script src="workspace.js?v=worker-ai-1"></script>
 </body>
 </html>

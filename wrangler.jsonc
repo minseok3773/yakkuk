@@ -1,0 +1,18 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "yakkuk-ai",
+  "main": "server/worker.mjs",
+  "compatibility_date": "2025-06-01",
+  "workers_dev": true,
+  "send_metrics": false,
+  "observability": {"enabled": false},
+  "ai": {"binding": "AI"},
+  "durable_objects": {
+    "bindings": [{"name": "BUDGET", "class_name": "DailyBudget"}]
+  },
+  "migrations": [{"tag": "v1", "new_sqlite_classes": ["DailyBudget"]}],
+  "vars": {
+    "ALLOWED_ORIGIN": "https://minseok3773.github.io",
+    "DAILY_REQUEST_LIMIT": "20"
+  }
+}
