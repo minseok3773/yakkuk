@@ -1,0 +1,51 @@
+# 구현·운영 검토 (2026-11-15 KST)
+
+## 기존 코드 확인
+
+기준 HEAD: 0ae3f18c3424ada4caf394e8a80187b0a2a2c82c.
+기존 index.html은 단일 페이지이며 데이터베이스·localStorage가 없었다. lastData, notes, lastInput은 메모리 변수라 새로고침 시 사라진다. Claude `window.claude.use('sample')`로 분석·학습·퀴즈·사진 인식을 호출하고 `downloads.save`로 txt를 저장한다. ChatGPT 요청문 복사와 JSON 붙여넣기, 내장 약물·상태·노인 규칙이 있다. 기존 저장 파일을 삭제하거나 변경하지 않는다. 기존 txt는 구조화 백업이 아니므로 JSON 복원 대상이 아니다.
+
+기존 규칙·화면·라이선스·Claude 연동을 보존했다. 모든 실제 모델 호출에 가상 사례 동의, 응답 캐시와 한도 대기를 적용했다. 외부 Google Fonts 요청을 제거했다. 새 workspace.js가 localStorage에 입력·조건·결과·학습 노트·메모·요약을 명시적으로 저장하고 JSON으로 백업한다. 결과를 열 때 AI를 호출하지 않는다. 체크리스트의 체크 상태와 진행 중 요청은 저장하지 않으며, 입력 수정 후에는 저장 버튼을 다시 눌러야 한다. 원본부터 서버 데이터는 없었다. 브라우저/도메인/포트 변경은 별도 저장소이므로 JSON을 내보낸 뒤 복원해야 한다.
+
+## 월 0원 구성과 제약
+
+정적 HTML/JS를 HTTPS 정적 호스팅에 올리면 사용자 GPU·로컬 AI·서버 DB가 필요 없다. GitHub Pages 또는 Cloudflare Pages 무료 요금제를 후보로 삼는다. 이 저장소의 루트 index.html와 workspace.js가 배포 대상이다. 빌드 명령은 없다. GitHub Pages는 공개 저장소의 Pages 지원 여부를 확인한 뒤 Settings → Pages에서 해당 브랜치 루트를 선택하거나, 별도 배포 브랜치를 사용한다. 무료 호스팅은 사용량·저장소 공개 조건·약관이 바뀔 수 있으므로 현재 한도 확인 전 영구 0원을 보장하지 않는다. 인터넷 공개는 아직 실행하지 않았다. 사용자 계정의 호스팅 설정과 저장소 공개 범위 확인이 필요하다.
+
+AI 없이 기록·요약·학습 요청문 생성은 API 비용 0원이다. 기존 Claude 아티팩트 연결은 사용자의 기존 플랫폼 이용권·사용량 제한에 따른다. API 무료 이용권이 아니다. ChatGPT 무료 UI도 API 무료 제공과 동일하지 않으며 계정·한도·의료 및 개인정보 조건 확인이 필요하다. Gemini 무료 API는 검토 후보이나 현재 가격·학습 사용·민감정보·의료적 이용 조항을 확인하지 못해 연결하지 않았다. 숫자로 된 무료 한도를 추정하거나 유료 계정·결제·자동 전환·API 키를 설정하지 않았다.
+
+기존 플랫폼이 429 또는 limit/quota/usage 코드로 거절하면 UTC 날짜 기준 당일 새 AI 요청을 중단한다. 날짜 변경은 제공자의 무료 한도 초기화를 보장하지 않으며 다음 명시적 요청에서 다시 거절되면 대기를 유지한다. 기존 캐시를 먼저 재사용하고 기록·저장은 계속된다. 자동 재시도·유료 모델 전환은 없다. 플랫폼이 실제 요금·잔량을 노출하지 않으므로 클라이언트만으로 과금 상한을 보증하지 않는다. 사진은 캐시하지 않는다. 캐시는 동일 요청문 기준이며 AI 출력의 정확성을 보증하지 않는다.
+
+## 공개 프로젝트 직접 확인
+
+아래 Git 저장소를 임시 경로에 shallow clone하여 README·LICENSE와 구현 파일을 읽었다. 실행 의존성 설치나 실제 외부 모델 요청은 하지 않았다. 공개 저장소는 동작하지만 서비스 기능·임상 성능이 검증됐다는 의미는 아니다. 원본 데이터셋의 실제 환자 자료는 제품에 복사하지 않았다.
+
+|프로젝트·확인 커밋|라이선스·구현 근거|이번 선택|
+|---|---|---|
+|[DxGPT 평가 코드](https://github.com/foundation29org/dxgpt_testing), c7abe550ccad59465bdf53b67e9629e3f239f0eb|MIT, Foundation29hub. src/seq_diagnosis_v2.py에 Azure/OpenAI/Anthropic 호출과 평가 코드가 존재. DxGPT 서비스 전체 소스와 동일하다고 볼 수 없음.|가상 사례로 오류·한도 상황을 분리 평가하는 방식 참고. 진단 순위 생성 코드는 미도입.|
+|[MedRAG](https://github.com/Teddy-XiongGZ/MedRAG), 7599a728a28789fd601728c08d313b1148051f41|LICENSE는 NCBI 미국 정부 저작물 Public Domain 고지이며 MIT로 표시하면 안 됨. src/medrag.py에 검색 시스템과 OpenAI/Gemini/로컬 모델 분기가 구현됨. 코퍼스·모델·종속성은 각각 권리 확인 필요.|근거와 추정 구분 개념 참고. 대규모 코퍼스·GPU·모델 서버를 도입하지 않음. 실제 RAG 검색·인용 검증은 미구현.|
+|[OpenHealth](https://github.com/OpenHealthForAll/open-health), 095fdc7a958ec71aa7fc9ad8a2114ecec9714e0d|AGPL-3.0. Next.js, Prisma, src/app/api/chat-rooms 등 구현이 존재하며 API 키 설정을 요구함.|검사·증상·건강자료 통합 입력 구조 참고. 코드는 복사하지 않음. 추후 코드를 결합하면 네트워크 제공 시 대응 소스 제공 등 AGPL 의무를 먼저 검토.|
+
+기존 RxCheck MIT 저작권 고지는 그대로 유지했다. 위 신규 3개 프로젝트 코드는 포함하지 않았다.
+
+## 외부 서비스·약관 확인 한계
+
+현재 네트워크 정책에서 공식 문서/서비스 HTTPS CONNECT가 403으로 거절되었다. 이는 해당 서비스가 중단됐다는 증거가 아니다. 다음 링크의 최신 본문·가격·의료적 이용 제한·보관 기간·학습 활용·삭제·국외 이전·처리위탁 조건은 **미확인**이다. 계정 인증 후의 기능도 미검증이다.
+
+- [Gemini API 약관](https://ai.google.dev/gemini-api/terms), [가격](https://ai.google.dev/gemini-api/docs/pricing)
+- [Claude 이용 정책](https://www.anthropic.com/legal/aup), [개인정보 정책](https://www.anthropic.com/legal/privacy)
+- [OpenAI 이용 정책](https://openai.com/policies/usage-policies/), [개인정보 정책](https://openai.com/policies/privacy-policy/)
+- [GitHub Pages 제한](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits)
+- [Cloudflare Pages 제한](https://developers.cloudflare.com/pages/platform/limits/)
+- [DxGPT 서비스](https://dxgpt.app/), OpenHealth README가 안내하는 [서비스](https://www.open-health.me/), [Clinic](https://qna.open-health.me/)
+
+공식 문서 접근을 위한 도메인 추가는 환경 설정 초안에 저장했다. 저장만으로 현재 네트워크에 적용되지는 않았다. 환경 설정을 적용한 뒤 해당 문서를 재조회해야 한다. 새 외부 AI 연결은 최신 약관 확인과 무료 요금제 계정 실측 후의 후속 작업이다.
+
+## 실제 회원자료 적용 범위
+
+현재 버전은 가상 사례 전용이다. 체크박스는 익명화 도구가 아니며 사용자가 입력한 실제 자료를 자동 판별하거나 차단하지 못한다. AI 없는 요약도 입력된 내용을 재배열할 뿐 의료적으로 검증된 사실이 아니다. AI 생성·붙여넣기 결과와 내장 규칙을 별도로 표시한다. 자동 진단, 처방 변경, 응급 선별, 근거 검색 완료를 주장하지 않는다.
+
+실제 자료 도입 전 기관 승인을 받고 최소 수집 범위·법적 근거·정보주체 권리·보관/파기·접근통제·감사·암호화·백업 관리·국외 이전·외부 처리자 계약을 검토해야 한다. 현재 localStorage와 JSON은 암호화되지 않으며 공유 기기·브라우저 확장·스크립트 접근에 대한 보안 경계가 아니다. 별칭도 건강정보의 재식별 가능성을 제거하지 않는다. 실제 자료용 인증·서버 보안 저장·권한 관리 기능은 구현하지 않았다.
+
+## 검증
+
+`python3 tests/smoke.py`는 실제 Chromium과 로컬 HTTP 서버로 실행한다. 가상 동의, 다분야 전달 요약, 기존 JSON 결과·중복 성분 규칙, 저장 후 재접속과 메모 복원, JSON 다운로드·복원·잘못된/중복 백업 거절, AI 동일 요청 재사용, 429 대기와 기록 저장 유지, 통신/응답 형식/저장 공간 오류, 모바일 제목 표시, 외부 요청 없음 등을 확인한다. AI 경계는 모의 함수이며 실제 외부 모델 품질·무료 한도·약관 준수를 검증한 것은 아니다. 저장은 명시적이며 브라우저 저장소 삭제 시 JSON 백업 없이는 복구할 수 없다.
