@@ -111,6 +111,11 @@ details.care summary > * + *{margin-left:8px}
 .care-body{display:flex;flex-direction:column;gap:7px;padding-top:10px}
 .alert{color:var(--crit)}
 details.paste summary{font-size:13px;font-weight:500;color:var(--accent)}
+.chip.on{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.member-head{display:flex;justify-content:space-between;align-items:baseline;gap:8px;flex-wrap:wrap}
+.member-head label{font-weight:600}
+.member-tools{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.member-tools input{flex:1 1 140px;width:auto;padding:4px 8px;font-size:13.5px}
 a{color:var(--accent)}
 ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
 .combo{border-left:4px solid var(--line);padding:6px 0 6px 12px;display:flex;flex-direction:column;gap:3px}
@@ -135,12 +140,29 @@ ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
   <div class="rules">
     <p><strong>진단 도구가 아닙니다.</strong> 약 정보는 내장 자료(미국 FDA 허가사항 요약)를 먼저 쓰고, 자료가 없는 약만 AI가 설명합니다. 어느 쪽이든 틀릴 수 있으니 결과에 붙은 공식 확인 링크로 대조하세요.</p>
     <p><strong>약은 그대로 둡니다.</strong> 약의 중단·감량·변경은 주치의만 결정하며, 이 도구는 관찰·연계·건강관리만 돕습니다.</p>
-    <p><strong>회원 이름·주민번호·연락처는 입력하지 마세요.</strong> 입력 내용은 이 화면에 남지 않으니, 남길 것은 결과 아래 "메모장 파일로 저장"으로 저장하세요.</p>
+    <p><strong>회원 이름·주민번호·연락처는 입력하지 마세요.</strong> 회원은 번호나 별칭으로 구분합니다. 회원별 기록은 이 컴퓨터의 이 브라우저에만 저장되고, 다른 컴퓨터에서는 보이지 않습니다.</p>
   </div>
 
   <div class="cols">
     <form class="panel" id="form">
       <div class="sec-head"><h2>입력</h2><span class="tag ex" id="exTag">예시가 채워져 있음</span></div>
+      <div class="field" id="memberField">
+        <div class="member-head"><label id="memberLabel">회원</label><span class="hint" id="memberState" role="status"></span></div>
+        <div class="chips" id="members" role="group" aria-labelledby="memberLabel"></div>
+        <div class="member-tools" id="memberTools" hidden>
+          <label for="memberName" class="hint">표시 이름 바꾸기</label>
+          <input type="text" id="memberName" maxlength="20" placeholder="예: 회원 1, 3층 가">
+          <button type="button" class="mini" id="memberDelete">이 회원 삭제</button>
+        </div>
+        <span class="hint">회원을 누르면 그 회원의 약, 관찰 내용, 마지막 정리 결과, 체크한 항목, 메모가 열립니다. 고치면 바로 저장됩니다. 실명 대신 번호나 별칭을 쓰세요.</span>
+        <details class="alt" id="backup">
+          <summary>회원 기록 백업과 복원</summary>
+          <span class="hint">회원 기록은 이 컴퓨터의 이 브라우저에만 있습니다. 브라우저의 인터넷 사용 기록(사이트 자료)을 지우면 함께 사라질 수 있으니 가끔 백업 파일로 내려받아 두세요. 다른 컴퓨터나 다른 브라우저에서는 백업 파일을 불러와야 보입니다.</span>
+          <div class="btns"><button type="button" id="backupSave">백업 파일로 내려받기</button></div>
+          <div class="field"><label for="backupLoad">백업 파일에서 불러오기</label><input type="file" id="backupLoad" accept=".json,application/json"></div>
+          <p class="status" id="backupMsg" role="status"></p>
+        </details>
+      </div>
       <div class="row">
         <div class="field"><label for="age">연령대</label>
           <select id="age"><option value="">선택 안 함</option><option>20대</option><option>30대</option><option>40대</option><option selected>50대</option><option>60대</option><option>70대 이상</option></select></div>
@@ -251,11 +273,12 @@ function setStatus(msg, err){ statusEl.textContent = msg; statusEl.className = "
   else { runBtn.textContent = "정리하기"; setStatus("이 화면에서는 AI 정리를 쓸 수 없습니다. 'AI 없이 내장 자료로만 보기'는 쓸 수 있습니다. AI 정리는 Claude에 로그인한 상태로 이 페이지를 열어야 합니다.", true); }
 })();
 
-$("clear").addEventListener("click", () => {
+function clearInputs(){
   $("drugs").value = ""; $("obs").value = ""; $("age").value = ""; $("sex").value = "";
   document.querySelectorAll("#conds input").forEach(c => c.checked = false);
   isExample = false; $("exTag").style.display = "none"; $("drugs").focus();
-});
+  saveSoon();
+}
 let isExample = true;
 ["drugs","obs"].forEach(id => $(id).addEventListener("input", () => { isExample = false; $("exTag").style.display = "none"; }));
 
@@ -271,6 +294,7 @@ $("photo").addEventListener("change", async (e) => {
       if (isExample){ $("drugs").value = t; $("obs").value = ""; isExample = false; $("exTag").style.display = "none"; }
       else $("drugs").value = ($("drugs").value.trim() ? $("drugs").value.trim() + "\n" : "") + t;
       setStatus("사진에서 읽은 약을 넣었습니다. 약 봉투와 대조한 뒤 정리하기를 눌러 주세요.");
+      saveSoon();
     }
   } catch (err) {
     setStatus(err && err.code === "not_granted" ? "AI 사용을 허용해야 사진을 읽을 수 있습니다." : "사진을 읽지 못했습니다. 직접 입력해 주세요.", true);
@@ -846,7 +870,7 @@ $("altCopy").addEventListener("click", () => {
 $("altRun").addEventListener("click", () => {
   const t = $("altIn").value.trim();
   if (!t){ setStatus("ChatGPT의 답을 붙여 넣어 주세요.", true); $("altIn").focus(); return; }
-  try { const d = parseJSON(t); if (!Array.isArray(d.drugs)) throw new Error("shape"); snapshot(); lastData = d; render(d); setStatus("붙여 넣은 답으로 결과를 만들었습니다. 약 정보는 공식 확인 링크로 대조해 주세요."); }
+  try { const d = parseJSON(t); if (!Array.isArray(d.drugs)) throw new Error("shape"); snapshot(); ensureMember(); lastData = d; render(d); saveNow(); setStatus("붙여 넣은 답으로 결과를 만들었습니다. 약 정보는 공식 확인 링크로 대조해 주세요."); }
   catch (e) { setStatus("붙여 넣은 답을 읽지 못했습니다. ChatGPT 답을 처음부터 끝까지 빠짐없이 복사했는지 확인해 주세요.", true); }
 });
 
@@ -854,8 +878,10 @@ $("localRun").addEventListener("click", () => {
   if (busy) return;
   const i = snapshot();
   if (!i.drugs){ setStatus("복용 중인 약을 먼저 입력해 주세요.", true); $("drugs").focus(); return; }
+  ensureMember();
   lastData = localData(i.drugs.split("\n").map(x => x.trim()).filter(Boolean));
   render(lastData);
+  saveNow();
   const miss = lastData.drugs.filter(x => x.unsure).length;
   setStatus("내장 자료로 정리했습니다. " + (miss ? miss + "개 약은 이름으로 찾지 못했습니다. " : "") + "관찰 체크리스트와 문의사항은 AI 정리에서 나옵니다.");
 });
@@ -872,6 +898,7 @@ $("form").addEventListener("submit", async (e) => {
   if (busy) return;
   const drugs = $("drugs").value.trim();
   if (!drugs){ setStatus("복용 중인 약을 한 줄에 하나씩 입력해 주세요.", true); $("drugs").focus(); return; }
+  ensureMember();
   busy = true; runBtn.disabled = true; setStatus("정리하는 중입니다. 약이 많으면 1분쯤 걸립니다.");
   try {
     const i = snapshot();
@@ -882,7 +909,8 @@ $("form").addEventListener("submit", async (e) => {
     if (out.truncated) throw {code:"truncated"};
     lastData = parseJSON(out.text || "");
     render(lastData);
-    setStatus("정리를 마쳤습니다. 약 정보는 공식 확인 링크로 대조해 주세요.");
+    saveNow();
+    setStatus("정리를 마쳤습니다." + (curRec() ? " " + str(curRec().label) + "에 저장했습니다." : "") + " 약 정보는 공식 확인 링크로 대조해 주세요.");
   } catch (err) {
     const code = err && err.code;
     if (code === "not_granted") setStatus("AI 사용을 허용해야 정리할 수 있습니다. 다시 눌러 허용해 주세요.", true);
@@ -891,6 +919,218 @@ $("form").addEventListener("submit", async (e) => {
     else { setStatus("결과를 받지 못했습니다. 다시 눌러 주세요. Claude 사용량이 다 떨어졌다면 아래 'ChatGPT로 정리'를 써 주세요.", true); $("alt").open = true; }
   } finally { busy = false; runBtn.disabled = false; }
 });
+
+/* ---------- 회원별 저장 ----------
+   회원 기록(입력, 마지막 정리 결과, 체크한 항목, 메모, 공부 노트)을 이 컴퓨터의 이 브라우저 저장 공간에만 둔다.
+   서버로 보내지 않으므로 다른 컴퓨터·휴대폰에서는 보이지 않고, 브라우저의 사이트 자료를 지우면 함께 지워진다.
+   그래서 백업 파일로 내려받고 불러오는 기능을 함께 둔다. 실명은 받지 않고 번호나 별칭으로 구분한다. */
+const STORE = "yakkuk.members.v1", BLANK = $("result").innerHTML;
+let members = [], cur = null, storeOk = true, saveTimer = null;
+try { localStorage.setItem(STORE + ".probe", "1"); localStorage.removeItem(STORE + ".probe"); } catch (e) { storeOk = false; }
+function storeRead(){
+  let raw = null;
+  try { raw = localStorage.getItem(STORE); } catch (e) { storeOk = false; return []; }
+  if (!raw) return [];
+  try { const v = JSON.parse(raw); if (v && Array.isArray(v.list)) return v.list.filter(m => m && typeof m.id === "string"); } catch (e) {}
+  try { localStorage.setItem(STORE + ".broken", raw); } catch (e) {}   /* 읽지 못한 자료는 덮어쓰기 전에 따로 보관 */
+  return [];
+}
+function storeWrite(){
+  try { localStorage.setItem(STORE, JSON.stringify({v:1, list:members})); storeOk = true; } catch (e) { storeOk = false; }
+  return storeOk;
+}
+const curRec = () => members.find(m => m.id === cur) || null;
+function when(iso){
+  const d = new Date(iso);
+  return isNaN(d) ? "" : (d.getMonth() + 1) + "월 " + d.getDate() + "일 " + String(d.getHours()).padStart(2, "0") + ":" + String(d.getMinutes()).padStart(2, "0");
+}
+/* 화면에 있는 것을 회원 기록에 담음 */
+function collect(rec){
+  rec.input = {age:$("age").value, sex:$("sex").value, drugs:$("drugs").value, obs:$("obs").value,
+    conds:Array.from(document.querySelectorAll("#conds input:checked")).map(c => c.value)};
+  rec.data = lastData;
+  rec.signs = Array.from(document.querySelectorAll("#result input[data-sign]:checked")).map(c => c.getAttribute("data-area") + "|" + c.getAttribute("data-sign"));
+  rec.acts = Array.from(document.querySelectorAll("#result input[data-act]:checked")).map(c => c.getAttribute("data-topic") + "|" + c.getAttribute("data-act"));
+  const memo = $("memo");
+  if (memo) rec.memo = memo.value;
+  rec.notes = notes.slice(-30);
+  rec.updated = new Date().toISOString();
+}
+function saveNow(){
+  const rec = curRec();
+  if (!rec) return true;
+  collect(rec);
+  const ok = storeWrite();
+  if (!ok) setStatus("회원 기록을 저장하지 못했습니다. 저장 공간이 가득 찼거나 브라우저가 저장을 막고 있습니다. 백업 파일로 내려받아 두세요.", true);
+  paintMembers();
+  return ok;
+}
+function saveSoon(){ if (!cur) return; clearTimeout(saveTimer); saveTimer = setTimeout(saveNow, 500); }
+function flush(){ clearTimeout(saveTimer); saveNow(); }
+function blankScreen(){
+  $("drugs").value = ""; $("obs").value = ""; $("age").value = ""; $("sex").value = "";
+  document.querySelectorAll("#conds input").forEach(c => c.checked = false);
+  lastData = null; lastInput = null; notes = [];
+  $("result").innerHTML = BLANK;
+  isExample = false; $("exTag").style.display = "none";
+}
+function paintMembers(){
+  const box = $("members");
+  box.textContent = "";
+  members.forEach(m => {
+    const on = m.id === cur;
+    const b = el("button", {type:"button", class:"mini chip" + (on ? " on" : ""), "aria-pressed": on ? "true" : "false", title: "마지막 저장 " + when(m.updated), text: str(m.label)});
+    b.addEventListener("click", () => openMember(m.id));
+    box.append(b);
+  });
+  const add = el("button", {type:"button", class:"mini", id:"memberAdd", text:"+ 새 회원"});
+  add.addEventListener("click", () => {
+    const adopt = !cur && !isExample && !!$("drugs").value.trim();
+    const rec = newMember(adopt);
+    if (!rec) return;
+    setStatus(adopt ? "지금 화면의 내용을 " + rec.label + "(으)로 저장했습니다." : rec.label + "을(를) 만들었습니다. 약을 입력해 주세요.");
+    if (!adopt) $("drugs").focus();
+  });
+  box.append(add);
+  const rec = curRec();
+  $("memberTools").hidden = !rec;
+  if (rec && document.activeElement !== $("memberName")) $("memberName").value = str(rec.label);
+  $("clear").dataset.guard = rec ? "1" : "";
+  $("memberState").textContent = !storeOk ? "이 화면에서는 저장할 수 없음"
+    : rec ? str(rec.label) + " · 저장 " + when(rec.updated)
+    : members.length ? members.length + "명 저장됨 · 회원을 눌러 여세요" : "저장된 회원 없음";
+}
+function newMember(adopt){
+  if (busy){ setStatus("앞의 작업이 끝난 뒤 다시 눌러 주세요.", true); return null; }
+  if (!storeOk){ setStatus("이 화면에서는 회원 기록을 저장할 수 없습니다. 브라우저가 저장을 막고 있습니다.", true); return null; }
+  flush();
+  const n = members.reduce((mx, m) => { const k = /^회원 (\d+)$/.exec(str(m.label)); return k ? Math.max(mx, +k[1]) : mx; }, 0) + 1;
+  const now = new Date().toISOString();
+  const rec = {id:"m" + Date.now().toString(36) + Math.random().toString(36).slice(2, 6), label:"회원 " + n, created:now, updated:now,
+    input:{age:"", sex:"", drugs:"", obs:"", conds:[]}, data:null, signs:[], acts:[], memo:"", notes:[]};
+  members.push(rec); cur = rec.id;
+  if (adopt) collect(rec); else blankScreen();
+  isExample = false; $("exTag").style.display = "none";
+  storeWrite(); paintMembers();
+  return rec;
+}
+/* 정리하기를 눌렀는데 고른 회원이 없으면 새 회원을 만들어 저장함 (예시 그대로일 때는 저장하지 않음) */
+function ensureMember(){ if (!cur && storeOk && !isExample) newMember(true); }
+function openMember(id){
+  if (busy){ setStatus("앞의 작업이 끝난 뒤 다시 눌러 주세요.", true); return; }
+  flush();
+  cur = id;
+  const rec = curRec();
+  if (!rec){ cur = null; paintMembers(); return; }
+  const i = rec.input || {};
+  $("age").value = str(i.age); $("sex").value = str(i.sex); $("drugs").value = str(i.drugs); $("obs").value = str(i.obs);
+  document.querySelectorAll("#conds input").forEach(c => c.checked = arr(i.conds).includes(c.value));
+  isExample = false; $("exTag").style.display = "none";
+  snapshot();
+  lastData = rec.data && Array.isArray(rec.data.drugs) ? rec.data : null;
+  if (lastData){
+    render(lastData);
+    const signs = new Set(arr(rec.signs)), acts = new Set(arr(rec.acts));
+    document.querySelectorAll("#result input[data-sign]").forEach(c => { c.checked = signs.has(c.getAttribute("data-area") + "|" + c.getAttribute("data-sign")); });
+    document.querySelectorAll("#result input[data-act]").forEach(c => { c.checked = acts.has(c.getAttribute("data-topic") + "|" + c.getAttribute("data-act")); });
+    if ($("memo")) $("memo").value = str(rec.memo);
+    notes = arr(rec.notes).map(n => ({title:str(n && n.title), text:str(n && n.text)}));
+  } else { notes = []; $("result").innerHTML = BLANK; }
+  paintMembers();
+  setStatus(str(rec.label) + "의 기록을 열었습니다." + (lastData ? " 마지막 저장 " + when(rec.updated) + "." : " 아직 정리한 결과가 없습니다."));
+}
+/* 지우는 단추는 한 번 더 눌러야 실행됨 (화면이 확인 창을 띄울 수 없어서) */
+function twoStep(btn, askText, fn){
+  const base = btn.textContent;
+  let armed = false, t = null;
+  btn.addEventListener("click", () => {
+    if (!btn.dataset.guard || armed){ armed = false; clearTimeout(t); btn.textContent = base; fn(); return; }
+    armed = true; btn.textContent = askText;
+    t = setTimeout(() => { armed = false; btn.textContent = base; }, 5000);
+  });
+}
+$("memberDelete").dataset.guard = "1";
+twoStep($("memberDelete"), "한 번 더 누르면 삭제 (되돌릴 수 없음)", () => {
+  const rec = curRec();
+  if (!rec || busy) return;
+  clearTimeout(saveTimer);
+  members = members.filter(m => m.id !== rec.id); cur = null;
+  storeWrite(); blankScreen(); paintMembers();
+  setStatus(str(rec.label) + "의 기록을 삭제했습니다.");
+});
+twoStep($("clear"), "한 번 더 누르면 이 회원의 입력을 지움", clearInputs);
+$("memberName").addEventListener("change", () => {
+  const rec = curRec();
+  if (!rec) return;
+  const v = $("memberName").value.trim().slice(0, 20);
+  if (!v){ $("memberName").value = str(rec.label); return; }
+  rec.label = v; storeWrite(); paintMembers();
+  setStatus("표시 이름을 " + v + "(으)로 바꿨습니다.");
+});
+["drugs","obs"].forEach(id => $(id).addEventListener("input", saveSoon));
+["age","sex"].forEach(id => $(id).addEventListener("change", saveSoon));
+$("conds").addEventListener("change", saveSoon);
+$("result").addEventListener("change", e => { if (e.target.matches && e.target.matches("input[data-sign],input[data-act]")) saveSoon(); });
+$("result").addEventListener("input", e => { if (e.target.id === "memo") saveSoon(); });
+window.addEventListener("pagehide", flush);
+document.addEventListener("visibilitychange", () => { if (document.hidden) flush(); });
+/* 같은 브라우저의 다른 창에서 바뀐 목록을 따라감 */
+window.addEventListener("storage", e => {
+  if (e.key !== STORE || busy) return;
+  const keep = curRec();
+  members = storeRead();
+  if (keep && !members.some(m => m.id === keep.id)) members.push(keep);
+  paintMembers();
+});
+
+/* 백업: 모든 회원 기록을 파일 하나로 내려받고, 그 파일에서 다시 불러옴 */
+function backupMsg(t, err){ const m = $("backupMsg"); m.textContent = t; m.className = "status" + (err ? " err" : ""); }
+$("backupSave").addEventListener("click", async () => {
+  flush();
+  if (!members.length){ backupMsg("저장된 회원이 없습니다.", true); return; }
+  const now = new Date(), z = n => String(n).padStart(2, "0");
+  /* 파일로 직접 열었을 때는 한글 파일 이름이 빠지는 브라우저가 있어 영문 이름을 씀 */
+  const name = (downloads ? "약국이_회원백업_" : "yakkuk-backup-") + now.getFullYear() + "-" + z(now.getMonth() + 1) + "-" + z(now.getDate()) + ".json";
+  const text = JSON.stringify({app:"약국이", v:1, saved:now.toISOString(), list:members}, null, 1);
+  try {
+    if (downloads) await downloads.save({filename:name, data:text});
+    else { const a = el("a", {href:URL.createObjectURL(new Blob([text], {type:"application/json"})), download:name}); document.body.append(a); a.click(); a.remove(); }
+    backupMsg("회원 " + members.length + "명의 기록을 백업 파일로 내려받았습니다. 회원의 건강 정보가 들어 있으니 안전한 곳에 보관하세요.");
+  } catch (e) {
+    backupMsg(e && e.code === "declined" ? "내려받기를 취소했습니다." : "백업 파일을 내려받지 못했습니다.", true);
+  }
+});
+$("backupLoad").addEventListener("change", e => {
+  const f = e.target.files && e.target.files[0];
+  if (!f) return;
+  if (busy){ backupMsg("앞의 작업이 끝난 뒤 다시 골라 주세요.", true); e.target.value = ""; return; }
+  const r = new FileReader();
+  r.onload = () => {
+    try {
+      const v = JSON.parse(String(r.result).replace(/^﻿/, ""));
+      const list = arr(v && v.list).filter(m => m && typeof m.id === "string" && typeof m.label === "string");
+      if (!list.length) throw new Error("empty");
+      flush();
+      let add = 0, upd = 0;
+      list.forEach(m => {
+        const i = members.findIndex(x => x.id === m.id);
+        if (i < 0){ members.push(m); add++; }
+        else if (str(m.updated) > str(members[i].updated)){ members[i] = m; upd++; }
+      });
+      cur = null;
+      if (!storeWrite()) throw new Error("store");
+      blankScreen(); paintMembers();
+      backupMsg("백업 파일을 불러왔습니다. 새로 들어온 회원 " + add + "명, 더 새 기록으로 바뀐 회원 " + upd + "명. 회원을 눌러 여세요.");
+    } catch (x) {
+      backupMsg("백업 파일을 읽지 못했습니다. 약국이에서 내려받은 백업 파일(.json)인지 확인해 주세요.", true);
+    }
+    e.target.value = "";
+  };
+  r.onerror = () => { backupMsg("파일을 읽지 못했습니다.", true); e.target.value = ""; };
+  r.readAsText(f);
+});
+members = storeRead();
+paintMembers();
 
 /* ---------- 공부 기능 ---------- */
 const TEACH = "너는 '약국이'다. 약을 잘 모르는 정신건강사회복지사에게 약을 가르치는 친절한 선생님이다. 쉬운 한국어 존댓말로 설명하고, 전문용어는 처음 나올 때 괄호로 풀이한다. 마크다운 기호(#, *, -)를 쓰지 않는다. 진단하지 않고, 약의 중단·감량·변경을 권하지 않는다. 확실하지 않은 내용은 지어내지 말고 모른다고 쓴다.\n\n";
@@ -901,7 +1141,7 @@ async function ask(prompt, target, quiet, title){
   try {
     const out = await sample(prompt, quiet ? {cache:false} : {onText: ({text}) => { if (text) target.textContent = text; }});
     if (!quiet) target.textContent = out.text || "";
-    if (title && out.text){ notes = notes.filter(n => n.title !== title); notes.push({title, text: out.text}); }
+    if (title && out.text){ notes = notes.filter(n => n.title !== title); notes.push({title, text: out.text}); saveSoon(); }
     return out.text || "";
   } catch (e) {
     target.textContent = "설명을 가져오지 못했습니다. 잠시 뒤 다시 누르거나, Claude 사용량이 다 떨어졌다면 요청문을 복사해 ChatGPT에 물어보세요. ";
@@ -1187,7 +1427,7 @@ function render(d){
     const stamp = now.getFullYear() + "-" + z(now.getMonth() + 1) + "-" + z(now.getDate());
     const L = ["약국이 저장 기록", "저장한 날: " + stamp + " " + z(now.getHours()) + ":" + z(now.getMinutes()), ""];
     if (lastInput){
-      L.push("■ 입력한 내용", "연령대: " + (lastInput.age || "미입력") + " / 성별: " + (lastInput.sex || "미입력"), "회원 상태: " + (lastInput.conds || "선택 없음"), "복용 중인 약:");
+      L.push("■ 입력한 내용", ...(curRec() ? ["회원: " + str(curRec().label)] : []), "연령대: " + (lastInput.age || "미입력") + " / 성별: " + (lastInput.sex || "미입력"), "회원 상태: " + (lastInput.conds || "선택 없음"), "복용 중인 약:");
       lastInput.drugs.split("\n").forEach(x => { if (x.trim()) L.push("  " + x.trim()); });
       L.push("최근 관찰된 변화: " + (lastInput.obs || "입력 없음"), "");
     }
@@ -1195,7 +1435,7 @@ function render(d){
     if (notes.length){ L.push("", "■ 공부 노트 (이번에 읽은 설명)"); notes.forEach(n => L.push("", "▶ " + n.title, n.text)); }
     if (memo.value.trim()) L.push("", "■ 내 메모", memo.value.trim());
     try {
-      await downloads.save({filename: "약국이_" + stamp + "_" + z(now.getHours()) + z(now.getMinutes()) + ".txt", data: "﻿" + L.join("\n").replace(/\r?\n/g, "\r\n")});
+      await downloads.save({filename: "약국이_" + (curRec() ? str(curRec().label).replace(/[\\/:*?"<>|]/g, "") + "_" : "") + stamp + "_" + z(now.getHours()) + z(now.getMinutes()) + ".txt", data: "﻿" + L.join("\n").replace(/\r?\n/g, "\r\n")});
       saveMsg.className = "status"; saveMsg.textContent = "저장했습니다. 내려받은 파일을 메모장으로 열 수 있습니다.";
     } catch (e) {
       saveMsg.className = "status err";
