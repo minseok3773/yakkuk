@@ -65,9 +65,6 @@ h1{font-family:var(--display);font-size:26px;margin:0;text-wrap:balance}
 h2{font-size:17px;margin:0;font-weight:600;text-wrap:balance}
 h3{font-size:14px;margin:0;font-weight:600;color:var(--muted)}
 p{margin:0}
-.lead{color:var(--muted);max-width:65ch}
-.rules{background:var(--warn-bg);color:var(--warn);border-left:4px solid var(--warn);padding:12px 14px;border-radius:4px;display:flex;flex-direction:column;gap:4px;font-size:14px}
-.rules strong{font-weight:600}
 .cols{display:grid;grid-template-columns:minmax(300px,380px) 1fr;gap:18px;align-items:start}
 @media (max-width:820px){.cols{grid-template-columns:1fr}}
 .panel{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:16px;display:flex;flex-direction:column;gap:14px;min-width:0}
@@ -141,14 +138,7 @@ ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
 <div class="wrap">
   <header>
     <h1>약국이</h1>
-    <p class="lead">약국이는 회원이 여러 진료과에서 받는 약을 한데 모아 정리하고, 무엇을 관찰해 주치의·약사에게 전달할지, 약은 그대로 둔 채 건강관리로 무엇을 도울지 준비합니다. 약마다 왜 먹는지, 왜 함께 먹으면 안 좋은지 물어보며 공부할 수 있습니다.</p>
   </header>
-
-  <div class="rules">
-    <p><strong>진단 도구가 아닙니다.</strong> 약 정보는 내장 자료(미국 FDA 허가사항 요약)를 먼저 쓰고, 자료가 없는 약만 AI가 설명합니다. 어느 쪽이든 틀릴 수 있으니 결과에 붙은 공식 확인 링크로 대조하세요.</p>
-    <p><strong>약은 그대로 둡니다.</strong> 약의 중단·감량·변경은 주치의만 결정하며, 이 도구는 관찰·연계·건강관리만 돕습니다.</p>
-    <p><strong>회원 이름·주민번호·연락처는 입력하지 마세요.</strong> 회원은 번호나 별칭으로 구분합니다. 회원별 기록은 이 컴퓨터의 이 브라우저에만 저장되고, 다른 컴퓨터에서는 보이지 않습니다.</p>
-  </div>
 
   <div class="cols">
     <form class="panel" id="form">
@@ -161,10 +151,9 @@ ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
           <input type="text" id="memberName" maxlength="20" placeholder="예: 회원 1, 3층 가">
           <button type="button" class="mini" id="memberDelete">이 회원 삭제</button>
         </div>
-        <span class="hint">회원을 누르면 그 회원의 약, 관찰 내용, 마지막 정리 결과, 체크한 항목, 메모가 열립니다. 고치면 바로 저장됩니다. 실명 대신 번호나 별칭을 쓰세요.</span>
         <details class="alt" id="backup">
           <summary>기록 백업과 복원</summary>
-          <span class="hint">회원 기록, 오답노트, 붙여 둔 약 사진은 이 컴퓨터의 이 브라우저에만 있습니다. 브라우저의 인터넷 사용 기록(사이트 자료)을 지우면 함께 사라질 수 있으니 가끔 백업 파일로 내려받아 두세요. 다른 컴퓨터나 다른 브라우저에서는 백업 파일을 불러와야 보입니다.</span>
+          <span class="hint">기록은 이 컴퓨터의 이 브라우저에만 있고, 브라우저의 사이트 자료를 지우면 함께 사라집니다.</span>
           <div class="btns"><button type="button" id="backupSave">백업 파일로 내려받기</button></div>
           <div class="field"><label for="backupLoad">백업 파일에서 불러오기</label><input type="file" id="backupLoad" accept=".json,application/json"></div>
           <p class="status" id="backupMsg" role="status"></p>
@@ -178,28 +167,24 @@ ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
       </div>
       <div class="field">
         <label for="drugs">복용 중인 약</label>
-        <textarea id="drugs" rows="8">리스페리돈 2mg 하루 2회 (정신과)
+        <textarea id="drugs" rows="8" placeholder="한 줄에 하나씩. 예: 리스페리돈 2mg 하루 2회 (정신과). 병원에서 맞는 주사제도 적습니다.">리스페리돈 2mg 하루 2회 (정신과)
 벤즈트로핀 1mg 하루 2회 (정신과)
 로라제팜 0.5mg 취침 전 (정신과)
 메트포르민 500mg 하루 2회 (내과)
 암로디핀 5mg 하루 1회 (내과)
 탐스로신 0.2mg 하루 1회 (비뇨기과)</textarea>
-        <span class="hint">한 줄에 하나씩. 약 봉투에 적힌 이름 그대로, 용량·횟수·진료과를 알면 함께 적습니다. 병원에서 맞는 장기지속형 주사제(2주·한 달·석 달에 한 번 맞는 주사)는 약 봉투에 없으니 따로 적어 주세요.</span>
       </div>
       <div class="field" id="photoField" hidden>
-        <label for="photo">약 봉투·처방전 사진에서 읽어 오기 (선택)</label>
+        <label for="photo">약 봉투·처방전 사진에서 읽어 오기 (이름은 가리고)</label>
         <input type="file" id="photo" accept="image/*">
-        <span class="hint">회원 이름이 보이지 않게 가리고 찍은 사진을 올리세요. 읽은 약 이름이 위 칸에 들어갑니다. 틀리게 읽을 수 있으니 꼭 대조하세요.</span>
       </div>
       <div class="field">
         <label id="condsLabel">회원 상태 (해당하는 것만 선택)</label>
         <div class="conds" id="conds" role="group" aria-labelledby="condsLabel"></div>
-        <span class="hint">선택한 상태에서 특히 조심할 약을 따로 표시합니다.</span>
       </div>
       <div class="field">
         <label for="obs">최근 관찰된 변화 (선택)</label>
         <textarea id="obs" rows="4">최근 2주 변비가 심해짐. 낮에 졸려서 프로그램 참여가 줄어듦. 일어설 때 어지럽다고 함.</textarea>
-        <span class="hint">직원이 보거나 회원이 말한 신체·행동 변화를 적으면 주치의 문의사항에 반영됩니다.</span>
       </div>
       <div class="btns">
         <button type="submit" class="primary" id="run" disabled>AI 연결 확인 중</button>
@@ -217,27 +202,16 @@ ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
         <textarea id="altPrompt" readonly hidden aria-label="복사할 요청문"></textarea>
         <textarea id="altIn" rows="3" placeholder="ChatGPT의 답을 여기에 붙여 넣으세요" aria-label="ChatGPT 답 붙여넣기"></textarea>
         <div class="btns"><button type="button" id="altRun">붙여 넣은 답으로 결과 보기</button></div>
-        <span class="hint">내장 규칙 점검, 저장은 그대로 작동합니다. 약 공부 설명도 같은 방식으로 요청문을 복사해 ChatGPT에 물을 수 있습니다.</span>
       </details>
     </form>
 
     <div class="result" id="result">
-      <div class="sec"><h2>1. 약별 정리</h2><p class="what">약마다 성분, 쓰임, 흔한 부작용, 경고·주의, 관찰할 점을 보여 줍니다. 내장 자료(미국 FDA 허가사항 요약)에 있는 성분은 그 내용을 쓰고 원문 링크를 붙이며, 없는 성분만 AI가 설명합니다. 오른쪽 칸에 약 사진을 한 번 붙여 두면 다음부터 함께 나옵니다.</p></div>
-      <div class="sec"><h2>2. 약으로 미루어 본 건강 상태</h2><p class="what">먹는 약으로 미루어, 정신건강의학과·내과·비뇨의학과 등 어떤 건강 문제로 치료 중일 가능성이 있는지 보여 줍니다. 진단이 아니라 추정이며, 진단명은 주치의나 진단서로 확인합니다.</p></div>
-      <div class="sec"><h2>3. 함께 복용할 때 확인할 조합</h2><p class="what">프로그램에 넣어 둔 규칙으로 병용 주의, 같은 성분·효능 중복, 졸림·항콜린 작용처럼 겹쳐서 커지는 부담, 회원 상태와 나이에 따라 조심할 약을 먼저 점검하고, AI가 짚은 조합을 따로 보여 줍니다.</p></div>
-      <div class="sec"><h2>4. 관찰 체크리스트</h2><p class="what">수면, 움직임, 소화·배뇨, 체중, 어지럼 등 영역별로 살펴볼 항목을 체크할 수 있습니다.</p></div>
-      <div class="sec"><h2>5. 관찰된 변화와 약의 관련 가능성</h2><p class="what">입력한 변화가 어떤 약과 관련될 수 있는지, 약 외에 어떤 원인을 함께 봐야 하는지, 먼저 무엇을 해 볼지 정리합니다.</p></div>
-      <div class="sec"><h2>6. 건강 개입</h2><p class="what">약은 그대로 두고 실무자가 할 수 있는 일을 보여 줍니다. 체중·혈당 관리, 변비 예방, 낙상 예방, 움직임 변화 살피기처럼 복용 약에 따라 필요한 지침이 나오고, AI가 이 회원에게 먼저 할 일을 골라 줍니다.</p></div>
-      <div class="sec"><h2>7. 주치의·약사 문의사항과 재활계획 반영 초안</h2><p class="what">진료 동행이나 전화 문의 때 쓸 질문과, 재활계획서에 옮길 수 있는 개조식 문장을 만듭니다.</p></div>
-      <div class="sec"><h2>약 공부하기</h2><p class="what">회원이 먹는 약 전체에서 종합 퀴즈 10문제를 풀 수 있고, 틀린 문제는 오답노트에 모입니다. 궁금한 것을 직접 묻거나 약 하나씩 설명을 볼 수도 있습니다.</p></div>
-      <div class="sec"><h2>저장하기</h2><p class="what">입력한 내용, 정리 결과, 체크한 건강 개입, 읽은 공부 설명, 내 메모를 메모장 파일(.txt)로 저장합니다.</p></div>
-      <div class="sec"><h2>8. 회원에게 설명할 쉬운 말</h2><p class="what">복약 교육이나 상담 때 회원 눈높이로 전할 수 있는 짧은 문장을 만듭니다.</p></div>
+      <p class="status">정리 결과가 여기에 나옵니다.</p>
     </div>
   </div>
 
   <details class="sec" id="wrongSec">
     <summary>오답노트 <span class="what" id="wrongCount"></span></summary>
-    <p class="what">종합 퀴즈에서 틀린 문제가 여기에 모입니다. 다시 풀어서 맞히면 오답노트에서 빠집니다. 이 컴퓨터의 이 브라우저에만 저장됩니다.</p>
     <div class="btns">
       <button type="button" id="wrongRetry">오답 다시 풀기</button>
       <button type="button" id="wrongBack" hidden>목록으로</button>
@@ -271,7 +245,6 @@ ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
 
   <details class="sec" id="desk">
     <summary>바탕화면에 약국이 아이콘 만들기</summary>
-    <p class="what">컴퓨터 바탕화면에서 약국이를 바로 열 수 있는 아이콘입니다. 아래 단추로 묶음 파일을 내려받은 뒤 순서대로 하세요. 윈도우 컴퓨터 기준입니다.</p>
     <div class="btns"><button type="button" id="deskGet">아이콘 묶음 내려받기</button></div>
     <p class="status" id="deskMsg" role="status"></p>
     <ol class="steps">
@@ -698,8 +671,7 @@ function healthSection(d, drugs){
       el("ul", null, ...list.map(v => el("li", null, el("b", {text:v.input}), " — " + v.ko + " (" + v.cls + "): " + v.use))))),
     none.length ? el("p", {class:"what", text:"내장 자료에 없어 여기에 넣지 못한 약: " + none.join(", ")}) : null);
   return el("div", {class:"sec"},
-    el("h2", {text:"2. 약으로 미루어 본 건강 상태"}),
-    el("p", {class:"what", text:"진단이 아니라, 먹는 약으로 미루어 본 추정입니다. 같은 약이 다른 목적으로 쓰이기도 하니 진단명은 주치의나 진단서로 확인하세요. 회원에게 추정 내용을 진단처럼 전하지 마세요."}),
+    el("h2", {text:"2. 약으로 미루어 본 건강 상태 (추정)"}),
     str(h.summary) ? el("h3", {text:"종합 추정 (AI)"}) : null,
     str(h.summary) ? el("div", {class:"obs"}, el("span", {text:str(h.summary)})) : null,
     ...areas.map(a => el("div", {class:"combo"},
@@ -711,13 +683,12 @@ function healthSection(d, drugs){
     arr(h.overall).length ? el("ul", null, ...arr(h.overall).map(t => el("li", {text:str(t)}))) : null,
     !g.size ? null : hasAI
       ? el("details", {class:"paste"}, el("summary", {text:"약의 허가된 쓰임으로 본 근거 (AI 판단 아님)"}), el("div", {class:"care-body"}, base))
-      : el("div", {class:"area"}, el("h3", {text:"약의 허가된 쓰임으로 본 것 (AI 판단 아님)"}), base),
-    d.local ? el("p", {class:"what", text:"여러 약을 함께 놓고 본 종합 추정은 AI 정리(정리하기)에서 나옵니다."}) : null);
+      : el("div", {class:"area"}, el("h3", {text:"약의 허가된 쓰임으로 본 것 (AI 판단 아님)"}), base));
 }
 function healthText(d, drugs){
   const g = healthGroups(drugs), h = d.health && typeof d.health === "object" ? d.health : {}, L = [];
   if (!g.size && !str(h.summary) && !arr(h.areas).length) return L;
-  L.push("", "■ 약으로 미루어 본 건강 상태 (추정이며 진단 아님. 진단명은 주치의·진단서로 확인)");
+  L.push("", "■ 약으로 미루어 본 건강 상태 (추정)");
   if (str(h.summary)) L.push("- [AI 종합 추정] " + str(h.summary));
   arr(h.areas).forEach(a => L.push("- [AI·가능성 " + (str(a.certainty) || "보통") + "] " + str(a.area) + ": " + str(a.likely) + " (근거 약: " + arr(a.drugs).join(", ") + ")",
     ...(str(a.why) ? ["    까닭: " + str(a.why)] : []), ...(str(a.confirm) ? ["    확인할 것: " + str(a.confirm)] : [])));
@@ -775,7 +746,7 @@ function shrinkImage(blob){
 }
 function photoBox(x){
   const key = photoKey(x), name = str(x.input);
-  const box = el("div", {class:"photo", tabindex:"0", "aria-label": name + " 약 사진 칸"});
+  const box = el("div", {class:"photo", tabindex:"0", "aria-label": name + " 약 사진 칸", title:"그림을 복사한 뒤 이 칸을 누르고 Ctrl+V로 붙일 수 있습니다"});
   const file = el("input", {type:"file", accept:"image/*", "aria-label": name + " 약 사진 파일 고르기"});
   file.hidden = true;
   const msg = el("span", {class:"src", role:"status"});
@@ -788,13 +759,12 @@ function photoBox(x){
       del.dataset.guard = "1";
       twoStep(del, "한 번 더 누르면 지움", async () => { try { await photos.del(key); } catch (e) {} paint(null); msg.textContent = "사진을 지웠습니다."; });
       box.append(el("img", {src:url, alt:name + " 사진 (직접 넣은 것)"}),
-        el("span", {class:"src", text:"직접 넣은 사진입니다. 제품과 용량이 맞는지 확인하세요."}),
+        el("span", {class:"src", text:"직접 넣은 사진"}),
         el("div", {class:"btns"}, chg, del), find, msg, file);
     } else {
       const add = el("button", {type:"button", class:"mini", text:"사진 넣기"});
       add.addEventListener("click", () => file.click());
-      box.append(el("span", {class:"what", text:"약 사진 없음"}), add,
-        el("span", {class:"src", text:"그림을 복사한 뒤 이 칸을 누르고 Ctrl+V로 붙여도 됩니다."}), find, msg, file);
+      box.append(el("span", {class:"what", text:"약 사진 없음"}), add, find, msg, file);
     }
   };
   const put = async blob => {
@@ -1064,7 +1034,7 @@ $("altCopy").addEventListener("click", () => {
 $("altRun").addEventListener("click", () => {
   const t = $("altIn").value.trim();
   if (!t){ setStatus("ChatGPT의 답을 붙여 넣어 주세요.", true); $("altIn").focus(); return; }
-  try { const d = parseJSON(t); if (!Array.isArray(d.drugs)) throw new Error("shape"); snapshot(); ensureMember(); lastData = d; render(d); saveNow(); setStatus("붙여 넣은 답으로 결과를 만들었습니다. 약 정보는 공식 확인 링크로 대조해 주세요."); }
+  try { const d = parseJSON(t); if (!Array.isArray(d.drugs)) throw new Error("shape"); snapshot(); ensureMember(); lastData = d; render(d); saveNow(); setStatus("붙여 넣은 답으로 결과를 만들었습니다."); }
   catch (e) { setStatus("붙여 넣은 답을 읽지 못했습니다. ChatGPT 답을 처음부터 끝까지 빠짐없이 복사했는지 확인해 주세요.", true); }
 });
 
@@ -1077,7 +1047,7 @@ $("localRun").addEventListener("click", () => {
   render(lastData);
   saveNow();
   const miss = lastData.drugs.filter(x => x.unsure).length;
-  setStatus("내장 자료로 정리했습니다. " + (miss ? miss + "개 약은 이름으로 찾지 못했습니다. " : "") + "관찰 체크리스트와 문의사항은 AI 정리에서 나옵니다.");
+  setStatus("내장 자료로 정리했습니다." + (miss ? " " + miss + "개 약은 이름으로 찾지 못했습니다." : ""));
 });
 
 function parseJSON(text){
@@ -1104,7 +1074,7 @@ $("form").addEventListener("submit", async (e) => {
     lastData = parseJSON(out.text || "");
     render(lastData);
     saveNow();
-    setStatus("정리를 마쳤습니다." + (curRec() ? " " + str(curRec().label) + "에 저장했습니다." : "") + " 약 정보는 공식 확인 링크로 대조해 주세요.");
+    setStatus("정리를 마쳤습니다." + (curRec() ? " " + str(curRec().label) + "에 저장했습니다." : ""));
   } catch (err) {
     const code = err && err.code;
     if (code === "not_granted") setStatus("AI 사용을 허용해야 정리할 수 있습니다. 다시 눌러 허용해 주세요.", true);
@@ -1229,6 +1199,12 @@ function openMember(id){
     document.querySelectorAll("#result input[data-act]").forEach(c => { c.checked = acts.has(c.getAttribute("data-topic") + "|" + c.getAttribute("data-act")); });
     if ($("memo")) $("memo").value = str(rec.memo);
     notes = arr(rec.notes).map(n => ({title:str(n && n.title), text:str(n && n.text)}));
+    document.querySelectorAll("#result [data-note]").forEach(v => {
+      const n = notes.find(k => k.title === v.getAttribute("data-note"));
+      if (!n) return;
+      v.textContent = n.text; v.hidden = false;
+      const det = v.closest("details"); if (det) det.open = true;
+    });
   } else { notes = []; $("result").innerHTML = BLANK; }
   paintMembers();
   setStatus(str(rec.label) + "의 기록을 열었습니다." + (lastData ? " 마지막 저장 " + when(rec.updated) + "." : " 아직 정리한 결과가 없습니다."));
@@ -1290,7 +1266,7 @@ $("backupSave").addEventListener("click", async () => {
   try {
     if (downloads) await downloads.save({filename:name, data:text});
     else { const a = el("a", {href:URL.createObjectURL(new Blob([text], {type:"application/json"})), download:name}); document.body.append(a); a.click(); a.remove(); }
-    backupMsg("회원 " + members.length + "명의 기록, 오답노트 " + wrong.length + "문제, 약 사진 " + picN + "장을 백업 파일로 내려받았습니다. 회원의 건강 정보가 들어 있으니 안전한 곳에 보관하세요.");
+    backupMsg("회원 " + members.length + "명의 기록, 오답노트 " + wrong.length + "문제, 약 사진 " + picN + "장을 백업 파일로 내려받았습니다.");
   } catch (e) {
     backupMsg(e && e.code === "declined" ? "내려받기를 취소했습니다." : "백업 파일을 내려받지 못했습니다.", true);
   }
@@ -1352,12 +1328,15 @@ async function ask(prompt, target, quiet, title){
   } finally { busy = false; }
 }
 function why(names, msg){
+  const title = "왜 그런가요? " + names.join(" + ") + " · " + str(msg).slice(0, 40);
   const out = el("p", {class:"learn"}); out.hidden = true;
   const b = el("button", {type:"button", class:"mini", text:"왜 그런가요?"});
   b.addEventListener("click", () => {
     out.hidden = false;
     if (out.dataset.done) return;
-    ask(TEACH + "다음 약들에 대해 아래 주의사항이 표시되었다. 왜 이런 일이 생기는지 몸속 원리를 비유를 하나 섞어 쉬운 말로 설명하고, 마지막 줄에 '현장에서 볼 것:'으로 시작하는 한 문장을 붙여라. 300자 안팎.\n\n약: " + names.join(", ") + "\n주의사항: " + msg, out, false, "왜 그런가요? " + names.join(" + "))
+    const saved = notes.find(n => n.title === title);   /* 이 회원에게서 전에 읽은 설명은 다시 묻지 않음 */
+    if (saved){ out.textContent = saved.text; out.dataset.done = "1"; return; }
+    ask(TEACH + "다음 약들에 대해 아래 주의사항이 표시되었다. 왜 이런 일이 생기는지 몸속 원리를 비유를 하나 섞어 쉬운 말로 설명하고, 마지막 줄에 '현장에서 볼 것:'으로 시작하는 한 문장을 붙여라. 300자 안팎.\n\n약: " + names.join(", ") + "\n주의사항: " + msg, out, false, title)
       .then(t => { if (t) out.dataset.done = "1"; });
   });
   return [b, out];
@@ -1479,6 +1458,8 @@ function studySection(d){
     b.addEventListener("click", () => {
       const k = str(x.input);
       if (cache.has(k)){ out.textContent = cache.get(k); return; }
+      const saved = notes.find(n => n.title === "약 공부: " + k);   /* 전에 읽은 설명은 다시 묻지 않음 */
+      if (saved){ cache.set(k, saved.text); out.textContent = saved.text; return; }
       ask(TEACH + "아래 약을 다음 소제목 순서로 설명하라. 소제목은 대괄호로 쓴다. 600자 안팎.\n[이 약을 먹는 이유]\n[몸에서 하는 일] 비유 하나 포함\n[효과가 나타나는 시기]\n[부작용이 생기는 까닭]\n[현장에서 볼 점]\n[기억할 한 줄]\n\n약: " + k + "\n성분: " + str(x.ingredient) + "\n분류: " + str(x.class) + factsFor([x]), out, false, "약 공부: " + k)
         .then(t => { if (t) cache.set(k, t); });
     });
@@ -1486,9 +1467,7 @@ function studySection(d){
   }));
   return el("div", {class:"sec"},
     el("h2", {text:"약 공부하기"}),
-    el("p", {class:"what", text:"설명과 퀴즈는 AI가 쓴 것이라 틀릴 수 있습니다. 중요한 내용은 약사나 주치의에게 확인하세요."}),
     el("h3", {text:"종합 퀴즈"}),
-    el("p", {class:"what", text:"회원이 먹는 약 전체에서 10문제를 한 번에 냅니다. 틀린 문제는 오답노트에 모여 나중에 다시 풀 수 있습니다."}),
     el("div", {class:"btns"}, quizBtn), quizBox,
     el("h3", {text:"궁금한 것 물어보기"}), q, el("div", {class:"btns"}, qBtn), qOut,
     el("details", {class:"paste", id:"oneByOne"}, el("summary", {text:"약 하나씩 설명 보기"}), el("div", {class:"care-body"}, chips, out)));
@@ -1522,8 +1501,7 @@ function drugCard(x, d, flagged){
     if (arr(x.side_effects).length) row("흔한 부작용", el("div", {text:arr(x.side_effects).join(", ")}));
     if (str(x.watch)) row("관찰할 점", el("div", {text:str(x.watch)}));
     if (str(x.caution)) row("복용 시 주의", el("div", {text:str(x.caution)}));
-    row("출처", el("div", {class:"src", text: d.local ? "약 이름으로 내장 자료를 찾지 못했습니다. 이름을 다시 확인하거나 AI 정리를 써 주세요."
-      : "내장 자료에 없는 성분이라 AI가 쓴 설명입니다. 아래 링크의 공식 자료와 대조하세요."}), nedrug);
+    row("출처", el("div", {class:"src", text: d.local ? "내장 자료에서 찾지 못함" : "AI가 쓴 설명 (내장 자료에 없는 성분)"}), nedrug);
   }
   const paste = off.length ? null : pasteBox(x);
   return el("div", {class:"drug"},
@@ -1540,6 +1518,7 @@ function drugCard(x, d, flagged){
 function pasteBox(x){
   const ta = el("textarea", {rows:"3", placeholder:"의약품안전나라에서 이 약을 찾아 '효능·효과'와 '사용상의 주의사항'을 복사해 붙여 넣으세요", "aria-label": str(x.input) + " 공식 자료 붙여넣기"});
   const out = el("p", {class:"learn"}); out.hidden = true;
+  out.setAttribute("data-note", "붙여 넣은 공식 자료 요약: " + str(x.input));
   const btn = el("button", {type:"button", class:"mini", text:"붙여 넣은 자료로 간추리기"});
   btn.addEventListener("click", () => {
     const t = ta.value.trim();
@@ -1550,7 +1529,6 @@ function pasteBox(x){
   return el("details", {class:"paste"},
     el("summary", {text:"공식 자료를 붙여 넣어 간추리기"}),
     el("div", {class:"care-body"},
-      el("p", {class:"what", text:"이 화면은 다른 사이트를 직접 읽을 수 없습니다. 위 링크로 공식 사이트를 열어 설명서 글을 복사해 붙여 넣으면, 그 글에 있는 내용만으로 간추려 줍니다. 간추린 글은 저장 파일의 공부 노트에 들어갑니다."}),
       ta, el("div", {class:"btns"}, btn), out));
 }
 
@@ -1576,11 +1554,6 @@ function render(d){
   const lc = localCheck(drugs), cc = condCheck(drugs);
   const flagged = new Set();
   lc.pairs.forEach(x => x.names.forEach(n => flagged.add(n))); lc.burdens.forEach(x => x.names.forEach(n => flagged.add(n))); cc.forEach(x => x.names.forEach(n => flagged.add(n)));
-  if (d.local){
-    box.append(el("div", {class:"sec"},
-      el("h2", {text:"내장 자료로만 정리한 결과"}),
-      el("p", {class:"what", text:"AI를 쓰지 않고 약 이름으로 내장 자료를 찾아 정리했습니다. 이름으로 찾지 못한 약은 점검에서 빠져 있고, 관찰 체크리스트·문의사항·회원용 설명은 AI 정리에서만 나옵니다."})));
-  }
   const urgent = arr(d.urgent);
   if (urgent.length){
     box.append(el("div", {class:"sec urgent"},
@@ -1599,15 +1572,14 @@ function render(d){
       el("span", {class:"tag mid", text:"누적 부담 " + lc.burdens.length + "건"}),
       el("span", {class:"what", text:"약 " + drugs.length + "개 중 " + flagged.size + "개에 확인할 점이 있음 (내장 규칙 기준)" + (lc.skipped.length ? ", " + lc.skipped.length + "개는 성분을 몰라 점검하지 못함" : "")})),
     el("div", {class:"sum"},
+      d.local ? el("span", {class:"tag low", text:"AI 없이 정리"}) : null,
       el("span", {class:"tag off", text:"FDA 허가사항 요약 " + offN + "개"}),
       el("span", {class:"tag ai", text:(d.local ? "내장 자료 없음 " : "AI 설명 ") + (drugs.length - offN) + "개"}),
-      el("span", {class:"what", text:"약 정보의 출처"})),
-    el("p", {class:"what", text: hi ? "높음으로 표시된 항목부터 주치의·약사에게 확인을 요청하세요." : "높음 항목은 없습니다. 규칙에 없는 조합도 있으니 정기적인 약 검토는 계속 필요합니다."})));
+      el("span", {class:"what", text:"약 정보의 출처"}))));
 
   box.append(el("div", {class:"sec"},
     el("div", {class:"sec-head"}, el("h2", {text:"1. 약별 정리"}), el("span", {class:"what", text: drugs.length + "개 약"})),
-    el("div", {class:"drugs"}, ...drugs.map(x => drugCard(x, d, flagged))),
-    el("p", {class:"src", text:"'FDA 허가사항 요약'은 미국 FDA가 공개한 허가사항(약 설명서) " + OFFICIAL.length + "개 성분을 " + OFFICIAL_ASOF + "에 내려받아 이 프로젝트에서 우리말로 간추린 것입니다. 국내 허가사항과 쓰임·용량이 다를 수 있고 약사·의사의 검토를 받지 않았으니, 식약처 링크로 대조하세요. 국내에서만 쓰는 약은 내장 자료가 없어 AI가 설명합니다."})));
+    el("div", {class:"drugs"}, ...drugs.map(x => drugCard(x, d, flagged)))));
 
   const hs = healthSection(d, drugs);
   if (hs) box.append(hs);
@@ -1617,8 +1589,6 @@ function render(d){
   box.append(el("div", {class:"sec"},
     el("h2", {text:"3. 함께 복용할 때 확인할 조합"}),
     el("h3", {text:"내장 규칙 점검 (AI 판단 아님)"}),
-    el("p", {class:"what", text: d.local ? "약 이름에서 성분을 찾는 일도, 판정도 프로그램에 넣어 둔 표로 했습니다. 이름으로 찾지 못한 약은 점검하지 못했습니다."
-      : "판정은 프로그램에 넣어 둔 규칙으로 하지만, 약 이름에서 성분을 읽는 일은 AI가 합니다. 약별 정리의 성분이 약 봉투와 다르면 점검 결과도 틀립니다."}),
     lc.skipped.length ? el("div", {class:"combo hi"},
       el("div", {class:"combo-top"}, el("span", {class:"tag hi", text:"점검에서 빠짐"}), el("span", {text:lc.skipped.join(", ")})),
       el("p", {text:"성분을 확인하지 못해 규칙 점검을 하지 못한 약. 약 이름을 다시 확인하거나 약사에게 따로 물어볼 것."})) : null,
@@ -1642,9 +1612,7 @@ function render(d){
     ...combos.map(c => el("div", {class:"combo " + cls(c.level)},
       el("div", {class:"combo-top"}, el("span", {class:"tag " + cls(c.level), text: str(c.level)}), el("span", {text: arr(c.drugs).join(" + ")}), el("span", {class:"what", text: str(c.type)})),
       el("p", {text: str(c.note)}))),
-    el("p", {class:"what", text:"병용금기 여부는 약국의 DUR 점검이 기준입니다. 이 목록은 주치의·약사에게 확인을 요청할 근거로 쓰세요."}),
-    el("p", {class:"what"}, "약 정보를 직접 찾아볼 곳: ", el("a", {href:"https://www.health.kr/searchDrug/search_total_result.asp", target:"_blank", rel:"noopener", text:"약학정보원 의약품 검색"})),
-    el("p", {class:"src", text:"내장 규칙 " + RULES.length + "개 중 일부는 공개 코드 RxCheck(MIT 라이선스)의 규칙을 우리말로 옮긴 것이고, 정신과 약 관련 규칙은 따로 추가했습니다."})));
+    el("p", {class:"what"}, "약 정보를 직접 찾아볼 곳: ", el("a", {href:"https://www.health.kr/searchDrug/search_total_result.asp", target:"_blank", rel:"noopener", text:"약학정보원 의약품 검색"}))));
 
   if (arr(d.checklist).length){
     let n = 0;
@@ -1660,7 +1628,6 @@ function render(d){
   if (obs.length){
     box.append(el("div", {class:"sec"},
       el("h2", {text:"5. 관찰된 변화와 약의 관련 가능성"}),
-      el("p", {class:"what", text:"가능성일 뿐이며 판단은 주치의가 합니다."}),
       ...obs.map(o => el("div", {class:"obs"},
         el("b", {text: str(o.observed)}),
         el("span", {text:"관련될 수 있는 약: " + (arr(o.possibly_related).join(", ") || "특정하기 어려움")}),
@@ -1673,15 +1640,13 @@ function render(d){
   if (topics.length || focus.length){
     box.append(el("div", {class:"sec"},
       el("h2", {text:"6. 건강 개입"}),
-      el("p", {class:"what", text:"약은 그대로 두고, 실무자가 측정·기록, 생활습관 지원, 환경 조정, 교육, 기관 연계로 도울 수 있는 일입니다. 이번에 할 일을 체크하면 복사한 글과 저장 파일에 표시됩니다."}),
       focus.length ? el("h3", {text:"이 회원에게 먼저 할 일 (AI 제안)"}) : null,
       ...focus.map(f => el("div", {class:"obs"},
         el("b", {text: str(f.title)}), el("span", {text: str(f.why)}),
         el("ul", null, ...arr(f.steps).map(s => el("li", {text: str(s)}))),
         str(f.link) ? el("span", {text:"연계: " + str(f.link)}) : null)),
       topics.length ? el("h3", {text:"복용 약에 따른 기본 지침 (AI 판단 아님)"}) : null,
-      ...topics.map((t, i) => careCard(t, i < 2 || t.boost)),
-      topics.length ? el("p", {class:"src", text:"기본 지침은 약 허가사항의 주의·환자 상담 항목과 일반적인 건강관리 수칙을 바탕으로 이 프로젝트에서 작성했으며, 약사·의사의 검토를 받지 않았습니다. 약을 바꾸는 내용은 담지 않았습니다."}) : null));
+      ...topics.map((t, i) => careCard(t, i < 2 || t.boost))));
   }
 
   if (arr(d.questions).length || arr(d.plan).length){
@@ -1726,7 +1691,6 @@ function render(d){
   });
   box.append(el("div", {class:"sec"},
     el("h2", {text:"저장하기"}),
-    el("p", {class:"what", text:"입력한 내용, 정리 결과, 체크한 건강 개입, 이번에 읽은 공부 설명, 아래 메모를 한 파일(.txt)로 저장합니다. 회원 이름은 파일에도 적지 마세요."}),
     el("label", {for:"memo", text:"내 메모 (선택)"}), memo,
     el("div", {class:"btns"}, saveBtn, copyBtn), saveMsg, copyBox));
   if (arr(d.member_talk).length){
