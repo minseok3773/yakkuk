@@ -201,6 +201,9 @@ ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
         <button type="button" id="clear">입력 지우기</button>
       </div>
       <p class="status" id="status" role="status"></p>
+      <p class="hint" id="connectionStatus" role="status"></p>
+      <label class="check"><input type="checkbox" id="fictional"> 가상 정보로 시험하며, AI 요청 시 입력 내용 전송에 동의합니다. 현재 서버는 실제 회원자료용으로 설정되어 있지 않습니다.</label>
+      <div class="btns"><button type="button" class="mini" id="aiCheck">AI 연결 진단</button></div>
       <details class="alt" id="alt">
         <summary>Claude 사용량이 다 떨어졌을 때 (ChatGPT로 정리)</summary>
         <ol>
@@ -917,17 +920,20 @@ $("form").addEventListener("submit", async (e) => {
   try {
     const i = snapshot();
     const out = await sample(buildPrompt(i.drugs, i.obs, i.age, i.sex, i.conds), {
-      cache: false,
+      cache: false, task: "analysis",
       onText: ({text}) => { if (text) setStatus("정리하는 중입니다. (" + text.length + "자 작성)"); }
     });
     if (out.truncated) throw {code:"truncated"};
-    lastData = parseJSON(out.text || "");
+    const next = parseJSON(out.text || "");
+    if (!Array.isArray(next.drugs)) throw new Error("AI 답 형식이 올바르지 않습니다.");
+    lastData = next;
     render(lastData);
     saveNow();
     setStatus("정리를 마쳤습니다." + (curRec() ? " " + str(curRec().label) + "에 저장했습니다." : "") + " 약 정보는 공식 확인 링크로 대조해 주세요.");
   } catch (err) {
     const code = err && err.code;
-    if (code === "not_granted") setStatus("AI 사용을 허용해야 정리할 수 있습니다. 다시 눌러 허용해 주세요.", true);
+    if (code === "not_granted") setStatus(err.message || "가상 정보 확인란을 먼저 선택하세요.", true);
+    else if (err && err.message && code) setStatus(err.message, true);
     else if (code === "rate_limited") { setStatus("요청이 많아 막혔습니다. 1~2분 뒤 다시 누르거나, 사용량이 다 떨어졌다면 아래 'ChatGPT로 정리'를 써 주세요.", true); $("alt").open = true; }
     else if (code === "truncated") setStatus("결과가 너무 길어 끝까지 받지 못했습니다. 약을 절반씩 나눠 두 번 정리해 주세요.", true);
     else { setStatus("결과를 받지 못했습니다. 다시 눌러 주세요. Claude 사용량이 다 떨어졌다면 아래 'ChatGPT로 정리'를 써 주세요.", true); $("alt").open = true; }
@@ -1153,12 +1159,12 @@ async function ask(prompt, target, quiet, title){
   if (busy){ setStatus("앞의 작업이 끝난 뒤 다시 눌러 주세요.", true); return null; }
   busy = true; target.textContent = "약국이가 쓰는 중입니다.";
   try {
-    const out = await sample(prompt, quiet ? {cache:false} : {onText: ({text}) => { if (text) target.textContent = text; }});
+    const out = await sample(prompt, quiet ? {cache:false, task:"quiz"} : {task:"study", onText: ({text}) => { if (text) target.textContent = text; }});
     if (!quiet) target.textContent = out.text || "";
     if (title && out.text){ notes = notes.filter(n => n.title !== title); notes.push({title, text: out.text}); saveSoon(); }
     return out.text || "";
   } catch (e) {
-    target.textContent = "설명을 가져오지 못했습니다. 잠시 뒤 다시 누르거나, Claude 사용량이 다 떨어졌다면 요청문을 복사해 ChatGPT에 물어보세요. ";
+    target.textContent = (e.message || "설명을 가져오지 못했습니다. 잠시 뒤 다시 요청해 주세요.") + " 요청문을 복사해 별도로 물어볼 수도 있습니다. ";
     const cb = el("button", {type:"button", class:"mini", text:"ChatGPT에 물어볼 요청문 복사"});
     cb.addEventListener("click", () => copyText(prompt, cb));
     target.append(cb);
@@ -1531,6 +1537,8 @@ $("deskGet").addEventListener("click", async () => {
 });
 </script>
 <script src="browser-runtime.js"></script>
+<script src="ai-config.js"></script>
+<script src="ai-client.js"></script>
 </body>
 </html>
 
