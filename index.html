@@ -19,6 +19,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   --bg:#f2f5f4; --surface:#ffffff; --ink:#1c2b2a; --muted:#5a6967; --line:#d3dbd9;
   --accent:#0e6b62; --accent-ink:#ffffff; --note-bg:#e6f0ee;
   --warn:#8a5200; --warn-bg:#fdf2dc; --crit:#a02020; --crit-bg:#fbe8e6;
+  --common:#5b3fa6; --common-bg:#efeafa;
   --display:"Noto Serif KR","Apple SD Gothic Neo",serif;
   --body:"IBM Plex Sans KR","Apple SD Gothic Neo","Malgun Gothic",sans-serif;
 }
@@ -27,14 +28,14 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     color-scheme:dark;
     --bg:#111817; --surface:#1a2322; --ink:#e5edeb; --muted:#9aaba8; --line:#2f3c3a;
     --accent:#5cc4b6; --accent-ink:#0b1a18; --note-bg:#1e2d2b;
-    --warn:#f0b860; --warn-bg:#392d13; --crit:#ff9d94; --crit-bg:#3c1d1a;
+    --warn:#f0b860; --warn-bg:#392d13; --crit:#ff9d94; --crit-bg:#3c1d1a; --common:#c4b2ff; --common-bg:#2c2545;
   }
 }
 :root[data-theme="dark"]{
   color-scheme:dark;
   --bg:#111817; --surface:#1a2322; --ink:#e5edeb; --muted:#9aaba8; --line:#2f3c3a;
   --accent:#5cc4b6; --accent-ink:#0b1a18; --note-bg:#1e2d2b;
-  --warn:#f0b860; --warn-bg:#392d13; --crit:#ff9d94; --crit-bg:#3c1d1a;
+  --warn:#f0b860; --warn-bg:#392d13; --crit:#ff9d94; --crit-bg:#3c1d1a; --common:#c4b2ff; --common-bg:#2c2545;
 }
 *{box-sizing:border-box}
 [hidden]{display:none!important}
@@ -95,9 +96,11 @@ button:disabled{opacity:.55;cursor:not-allowed}
 .urgent h2{color:var(--crit)}
 .tag.off{color:var(--accent);background:var(--note-bg)}
 .tag.ai{color:var(--muted)}
+.tag.common{color:var(--common);background:var(--common-bg)}
 .drugs{display:flex;flex-direction:column;gap:14px}
 .drug{display:flex;flex-direction:column;gap:8px;min-width:0}
 .drug + .drug{border-top:1px solid var(--line);padding-top:14px}
+.drug.common{border-left:3px solid var(--common);padding-left:12px}
 .drug-head{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
 .kv{grid-template-columns:6.2em minmax(0,1fr);gap:5px 12px}
 .kv dt{font-size:13px;color:var(--muted);padding-top:1px}
@@ -123,7 +126,7 @@ details.paste summary{font-size:13px;font-weight:500;color:var(--accent)}
 a{color:var(--accent)}
 ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
 .combo{border-left:4px solid var(--line);padding:6px 0 6px 12px;display:flex;flex-direction:column;gap:3px}
-.combo.hi{border-color:var(--crit)} .combo.mid{border-color:var(--warn)}
+.combo.hi{border-color:var(--crit)} .combo.mid{border-color:var(--warn)} .combo.common{border-color:var(--common)}
 .combo-top{display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-weight:500}
 .area{display:flex;flex-direction:column;gap:6px}
 .check{display:flex;gap:8px;align-items:flex-start}
@@ -209,6 +212,13 @@ ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
       <p class="status">정리 결과가 여기에 나옵니다.</p>
     </div>
   </div>
+
+  <details class="sec" id="commonSec">
+    <summary>공통으로 먹는 약 <span class="what" id="commonCount"></span></summary>
+    <div class="btns"><button type="button" id="commonSave">메모장 파일로 저장</button></div>
+    <p class="status" id="commonMsg" role="status"></p>
+    <div class="result" id="commonList"></div>
+  </details>
 
   <details class="sec" id="wrongSec">
     <summary>오답노트 <span class="what" id="wrongCount"></span></summary>
@@ -1084,6 +1094,144 @@ $("form").addEventListener("submit", async (e) => {
   } finally { busy = false; runBtn.disabled = false; }
 });
 
+/* ---------- 공통으로 먹는 약: 저장된 회원 가운데 같은 약을 먹는 회원이 있으면 표시 ----------
+   같은 약: 성분이 같은 약(내장 사전으로 찾은 성분, 없으면 그 회원을 정리할 때 AI가 읽은 성분),
+   또는 용량을 뺀 약 이름이 같은 약. 회원 기록을 읽어 그때그때 셈하고 따로 저장하지 않는다.
+   한 회원의 저장·복사 글에는 다른 회원의 정보를 넣지 않는다. */
+const FORM_END = /(서방정|서방캡슐|장용정|장용캡슐|구강붕해정|필름코팅정|츄어블정|연질캡슐|경질캡슐|캡슐|캅셀|정|시럽|현탁액|패치)$/;
+const DOSE_WORD = /^(반알|한알|두알|세알|반정|아침|점심|저녁|취침|자기|잠자기|하루|매일|식전|식후|필요시|필요할)/;
+const DOSE_UNIT = /^\s*(mg|ml|mcg|μg|µg|g(?![a-z])|iu|밀리|미리|마이크로|그램)/i;
+const squash = s => str(s).replace(/\s+/g, "").toLowerCase();
+/* 줄에서 약 이름만 뗌: 앞의 번호, 괄호, 용량(숫자)부터 뒤, 복용 시간 낱말. B12, D3처럼 영문자에 바로 붙은 짧은 숫자는 이름으로 봄 */
+function drugName(line){
+  const s = str(line).replace(/^\s*(?:\d+\s*[.)]|[-•·*])\s*/, "").replace(/\([^)]*\)|\[[^\]]*\]/g, " ").replace(/[(\[].*$/, " ").replace(/\s+/g, " ").trim();
+  let end = s.length;
+  const re = /\d+(?:[.,]\d+)?/g;
+  let m;
+  while ((m = re.exec(s))){
+    if (m.index === 0) continue;
+    if (/[a-z]/i.test(s[m.index - 1]) && m[0].length <= 2 && !DOSE_UNIT.test(s.slice(m.index + m[0].length))) continue;
+    end = m.index; break;
+  }
+  const words = [];
+  for (const w of s.slice(0, end).trim().split(" ")){ if (words.length && DOSE_WORD.test(w)) break; if (w) words.push(w); }
+  return words.join(" ");
+}
+function nameKey(line){
+  const n = squash(drugName(line));
+  return n ? "n:" + (n.replace(FORM_END, "") || n) : "";
+}
+const ingKey = ks => ks.length ? "i:" + Array.from(new Set(ks)).sort().join("+") : "";
+/* AI가 읽은 영문 성분명. 내장 자료에 있는 성분은 내장 자료의 이름으로 맞춤 */
+function aiKey(x){
+  return ingKey(arr(x.ingredient_en).map(v => str(v).toLowerCase().replace(/\s+/g, " ").trim()).filter(Boolean)
+    .map(i => { const o = OFFICIAL.find(o => o.k.some(t => (" " + i + " ").includes(" " + t + " "))); return o ? o.k[0] : i; }));
+}
+function mode(list){
+  const c = new Map(); let best = "", n = 0;
+  list.forEach(v => { const k = (c.get(v) || 0) + 1; c.set(v, k); if (k > n){ n = k; best = v; } });
+  return best;
+}
+function occOf(id, label, line, x){
+  const lm = localMatch(line);
+  const o = {id, label, line, name:drugName(line), nk:nameKey(line), dict:ingKey(lm.map(v => v.k[0])), ai: x && !x.unsure ? aiKey(x) : "", x};
+  return o.nk || o.dict || o.ai ? o : null;
+}
+/* 회원들의 약을 같은 약끼리 묶음. now = 지금 화면의 정리 결과 {id, drugs} (그 회원의 저장된 약 대신 씀) */
+function commonIndex(now){
+  const occ = [];
+  members.forEach(m => {
+    if (now && m.id === now.id) return;
+    const ds = arr(m.data && m.data.drugs);
+    str(m.input && m.input.drugs).split("\n").map(v => v.trim()).filter(Boolean).forEach(line => {
+      const o = occOf(m.id, str(m.label), line, ds.find(v => v && squash(v.input) === squash(line)) || null);
+      if (o) occ.push(o);
+    });
+  });
+  if (now) now.drugs.forEach(x => { const o = str(x && x.input).trim() ? occOf(now.id, "", str(x.input).trim(), x) : null; if (o){ o.now = x; occ.push(o); } });
+  /* 이름이 같은 것끼리 먼저 묶고, 묶음마다 성분 하나(내장 사전 우선)를 정해 성분이 같은 묶음끼리 합침 */
+  const byName = new Map();
+  occ.forEach(o => { const k = o.nk || o.dict || o.ai; if (!byName.has(k)) byName.set(k, []); byName.get(k).push(o); });
+  const groups = new Map();
+  byName.forEach((list, k) => {
+    const ik = mode(list.map(o => o.dict).filter(Boolean)) || mode(list.map(o => o.ai).filter(Boolean));
+    const g = ik || k;
+    if (!groups.has(g)) groups.set(g, {key:g, occ:[]});
+    groups.get(g).occ.push(...list);
+    list.forEach(o => { o.g = g; });
+  });
+  return {occ, groups};
+}
+function whoOf(g, skip){
+  const out = [];
+  g.occ.forEach(o => { if (o.id !== skip && !out.some(w => w.id === o.id)) out.push({id:o.id, label:o.label, line:o.line}); });
+  const at = id => { const i = members.findIndex(m => m.id === id); return i < 0 ? members.length : i; };   /* 회원 목록 순서대로 */
+  return out.sort((a, b) => at(a.id) - at(b.id));
+}
+/* 정리 결과의 약마다 같은 약을 먹는 다른 회원 */
+function commonFor(drugs){
+  const me = cur || "__now", ci = commonIndex({id:me, drugs});
+  return drugs.map(x => { const o = ci.occ.find(v => v.now === x); return o ? whoOf(ci.groups.get(o.g), me) : []; });
+}
+function groupTitle(g){
+  const ks = g.key.startsWith("i:") ? g.key.slice(2).split("+") : [];
+  const os = ks.map(k => OFFICIAL.find(o => o.k[0] === k));
+  if (ks.length && os.every(Boolean)) return {title:os.map(o => o.ko[0]).join(" + "), cls:os.map(o => o.cls).join(" / ")};
+  const ax = g.occ.find(o => o.ai && o.ai === g.key && o.x);
+  const ko = ax ? str(ax.x.ingredient) : "";
+  return {title: ko && !ko.includes("확인 필요") ? ko : mode(g.occ.map(o => o.name)) || g.occ[0].line, cls: ax ? str(ax.x.class) : ""};
+}
+/* 2명 이상이 먹는 약: 먹는 회원이 많은 순 */
+function commonRows(){
+  const rows = [];
+  commonIndex(null).groups.forEach(g => {
+    const who = whoOf(g, null);
+    if (who.length < 2) return;
+    const t = groupTitle(g), names = Array.from(new Set(g.occ.map(o => o.name).filter(Boolean)));
+    rows.push({who, title:t.title, cls:t.cls, names:names.filter(n => n !== t.title)});
+  });
+  return rows.sort((a, b) => b.who.length - a.who.length || a.title.localeCompare(b.title, "ko"));
+}
+function memberChip(w){
+  const b = el("button", {type:"button", class:"mini chip" + (w.id === cur ? " on" : ""), title:w.line, text:w.label || "회원"});
+  b.addEventListener("click", () => { openMember(w.id); if (cur === w.id) $("memberField").scrollIntoView({block:"start", behavior:"smooth"}); });
+  return b;
+}
+function paintCommon(){
+  const rows = commonRows(), box = $("commonList");
+  $("commonCount").textContent = rows.length ? "(" + rows.length + "가지)" : "(없음)";
+  $("commonSave").hidden = !rows.length;
+  box.textContent = "";
+  if (!$("commonSec").open) return;   /* 접혀 있을 때는 그리지 않음 */
+  if (!rows.length){ box.append(el("p", {class:"what", text:"같이 먹는 약이 없습니다."})); return; }
+  rows.forEach(r => box.append(el("div", {class:"combo common"},
+    el("div", {class:"combo-top"}, el("span", {text:r.title}), el("span", {class:"tag common", text:"회원 " + r.who.length + "명"}),
+      r.cls ? el("span", {class:"what", text:r.cls}) : null),
+    el("div", {class:"chips"}, ...r.who.map(memberChip)),
+    r.names.length ? el("p", {class:"what", text:"적힌 이름: " + r.names.join(", ")}) : null)));
+}
+$("commonSec").addEventListener("toggle", paintCommon);
+$("commonSave").addEventListener("click", async () => {
+  flush();
+  const rows = commonRows(), msg = $("commonMsg");
+  const now = new Date(), z = n => String(n).padStart(2, "0"), day = now.getFullYear() + "-" + z(now.getMonth() + 1) + "-" + z(now.getDate());
+  const L = ["[약국이 공통으로 먹는 약] 저장된 회원 " + members.length + "명 가운데 2명 이상이 먹는 약 (" + day + ")",
+    "성분이 같으면 같은 약으로 셈. 성분을 모르는 약은 약 이름으로 셈.", ""];
+  rows.forEach((r, i) => {
+    L.push((i + 1) + ". " + r.title + (r.cls ? " (" + r.cls + ")" : "") + " — 회원 " + r.who.length + "명");
+    r.who.forEach(w => L.push("   - " + w.label + ": " + w.line));
+    L.push("");
+  });
+  const text = "﻿" + L.join("\r\n");
+  try {
+    if (downloads) await downloads.save({filename:"약국이_공통약_" + day + ".txt", data:text});
+    else { const a = el("a", {href:URL.createObjectURL(new Blob([text], {type:"text/plain"})), download:"yakkuk-common-" + day + ".txt"}); document.body.append(a); a.click(); a.remove(); }
+    msg.className = "status"; msg.textContent = "공통으로 먹는 약 목록을 메모장 파일로 내려받았습니다.";
+  } catch (e) {
+    msg.className = "status err"; msg.textContent = e && e.code === "declined" ? "내려받기를 취소했습니다." : "내려받지 못했습니다.";
+  }
+});
+
 /* ---------- 회원별 저장 ----------
    회원 기록(입력, 마지막 정리 결과, 체크한 항목, 메모, 공부 노트)을 이 컴퓨터의 이 브라우저 저장 공간에만 둔다.
    서버로 보내지 않으므로 다른 컴퓨터·휴대폰에서는 보이지 않고, 브라우저의 사이트 자료를 지우면 함께 지워진다.
@@ -1163,6 +1311,7 @@ function paintMembers(){
   $("memberState").textContent = !storeOk ? "이 화면에서는 저장할 수 없음"
     : rec ? str(rec.label) + " · 저장 " + when(rec.updated)
     : members.length ? members.length + "명 저장됨 · 회원을 눌러 여세요" : "저장된 회원 없음";
+  paintCommon();
 }
 function newMember(adopt){
   if (busy){ setStatus("앞의 작업이 끝난 뒤 다시 눌러 주세요.", true); return null; }
@@ -1476,7 +1625,8 @@ function studySection(d){
 function levelClass(l){ l = str(l); return l.includes("높") ? "hi" : l.includes("보통") ? "mid" : "low"; }
 
 /* ---------- 약별 정리: 내장 자료(FDA 허가사항 요약)에 있는 성분은 그 내용을 쓰고, 없는 성분만 AI 설명을 씀 ---------- */
-function drugCard(x, d, flagged){
+function drugCard(x, d, flagged, others){
+  others = arr(others);
   const offAI = officialFor(x), lm = localMatch(str(x.input)), off = offOf(x);
   const mismatch = lm.length > 0 && !lm.some(o => offAI.includes(o));
   const extra = arr(x.ingredient_en).map(i => str(i).toLowerCase().trim()).filter(i => i && !OFFICIAL.some(o => o.k.some(t => (" " + i + " ").includes(" " + t + " "))));
@@ -1503,9 +1653,11 @@ function drugCard(x, d, flagged){
     if (str(x.caution)) row("복용 시 주의", el("div", {text:str(x.caution)}));
     row("출처", el("div", {class:"src", text: d.local ? "내장 자료에서 찾지 못함" : "AI가 쓴 설명 (내장 자료에 없는 성분)"}), nedrug);
   }
+  if (others.length) kv.prepend(el("dt", {text:"같이 먹음"}), el("dd", null, el("div", {class:"chips"}, ...others.map(memberChip))));
   const paste = off.length ? null : pasteBox(x);
-  return el("div", {class:"drug"},
+  return el("div", {class:"drug" + (others.length ? " common" : "")},
     el("div", {class:"drug-head"}, el("b", {text:str(x.input)}),
+      others.length ? el("span", {class:"tag common", text:"공통 약 · 회원 " + (others.length + 1) + "명"}) : null,
       off.length ? el("span", {class:"tag off", text:"FDA 허가사항 요약"}) : el("span", {class:"tag ai", text: d.local ? "내장 자료 없음" : "AI 설명"}),
       x.unsure && !d.local ? el("span", {class:"tag mid", text:"약 이름 확인 필요"}) : null,
       mismatch ? el("span", {class:"tag hi", text:"성분 확인 필요"}) : null,
@@ -1550,6 +1702,7 @@ function careCard(t, open){
 function render(d){
   const box = $("result"); box.textContent = ""; notes = [];
   const drugs = arr(d.drugs);
+  const shared = commonFor(drugs), sharedN = shared.filter(v => v.length).length;
 
   const lc = localCheck(drugs), cc = condCheck(drugs);
   const flagged = new Set();
@@ -1578,8 +1731,8 @@ function render(d){
       el("span", {class:"what", text:"약 정보의 출처"}))));
 
   box.append(el("div", {class:"sec"},
-    el("div", {class:"sec-head"}, el("h2", {text:"1. 약별 정리"}), el("span", {class:"what", text: drugs.length + "개 약"})),
-    el("div", {class:"drugs"}, ...drugs.map(x => drugCard(x, d, flagged)))));
+    el("div", {class:"sec-head"}, el("h2", {text:"1. 약별 정리"}), el("span", {class:"what", text: drugs.length + "개 약" + (sharedN ? " · 공통 약 " + sharedN + "개" : "")})),
+    el("div", {class:"drugs"}, ...drugs.map((x, i) => drugCard(x, d, flagged, shared[i])))));
 
   const hs = healthSection(d, drugs);
   if (hs) box.append(hs);
