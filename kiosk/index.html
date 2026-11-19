@@ -105,7 +105,7 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
 .cart-head .count{color:var(--muted)}
 .cart-head button{margin-left:auto;color:var(--danger);font-weight:500;font-size:.95rem;min-height:2.5rem;padding:0 .5rem}
 .lines{overflow-y:auto;display:flex;flex-direction:column;gap:6px;min-height:0}
-.line{display:grid;grid-template-columns:minmax(0,1fr) auto auto;gap:10px;align-items:center;padding:6px 0;border-bottom:1px solid var(--line)}
+.line{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:10px;align-items:center;padding:6px 0;border-bottom:1px solid var(--line)}
 .line:last-child{border-bottom:0}
 .line .nm{font-weight:700}
 .line .op{font-size:.85rem;color:var(--muted)}
@@ -123,7 +123,7 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
 #pay{align-items:center}
 .paybox{width:min(720px,100%);flex:1;min-height:0;display:flex;flex-direction:column;gap:14px}
 .receipt{background:var(--surface);border:2px solid var(--line);border-radius:var(--r);padding:16px;overflow-y:auto;min-height:0}
-.receipt .line{grid-template-columns:minmax(0,1fr) auto auto}
+.receipt .line{grid-template-columns:minmax(0,1fr) auto}
 .receipt .x{color:var(--muted)}
 .sumrow{display:flex;justify-content:space-between;align-items:baseline;border-top:2px dashed var(--line);margin-top:8px;padding-top:10px;font-size:1.2rem}
 .sumrow strong{font-size:1.8rem;color:var(--accent)}
@@ -282,7 +282,7 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
     <div class="cart-head"><h2>담은 메뉴</h2><span class="count num" id="count"></span><button id="clear" type="button">모두 빼기</button></div>
     <div class="lines" id="lines"></div>
     <div class="cart-foot">
-      <div class="total">합계 <strong class="num" id="total">0원</strong></div>
+      <div class="total">담은 수 <strong class="num" id="total">0개</strong></div>
       <button class="btn btn-main" id="go-pay" type="button">주문하기</button>
     </div>
   </div>
@@ -425,7 +425,7 @@ function renderMenu(){
     return `<button class="item" type="button" data-id="${m.id}" ${out?"disabled":""}>
       ${m.tag && !out ? `<span class="tag">${m.tag}</span>`:""}
       <div class="pic" style="background:color-mix(in srgb, ${m.color} 16%, transparent)">${cup(m.color, m.cat)}</div>
-      <h3>${m.name}</h3><div class="desc">${m.desc}</div><div class="price num">${won(m.price)}</div>
+      <h3>${m.name}</h3><div class="desc">${m.desc}</div>
       ${out?`<div class="out">오늘은 다 팔렸어요</div>`:""}
     </button>`;
   }).join("");
@@ -441,18 +441,18 @@ function openOptions(m){
     const unit = m.price + (m.size ? SIZES.find(s=>s.k===o.size).add : 0) + o.shot*SHOT_PRICE;
     const ready = !needTemp || o.temp;
     $("#modal").innerHTML = `<div class="back" id="bk"><div class="sheet" role="dialog" aria-modal="true" aria-label="${m.name} 고르기">
-      <h2>${m.name}</h2><p class="sub">${m.desc} · ${won(m.price)}</p>
+      <h2>${m.name}</h2><p class="sub">${m.desc}</p>
       ${needTemp?`<div class="opt"><h3>따뜻하게 / 차갑게 <span style="color:var(--danger)">(꼭 골라 주세요)</span></h3><div class="choices">
         <button type="button" class="choice hot" data-t="HOT" aria-pressed="${o.temp==="HOT"}">따뜻하게<small>HOT</small></button>
         <button type="button" class="choice" data-t="ICE" aria-pressed="${o.temp==="ICE"}">차갑게<small>ICE · 얼음</small></button></div></div>`:""}
-      ${m.size?`<div class="opt"><h3>컵 크기</h3><div class="choices">${SIZES.map(s=>`<button type="button" class="choice" data-s="${s.k}" aria-pressed="${o.size===s.k}">${s.k}<small>${s.add?"+"+won(s.add):"기본"}</small></button>`).join("")}</div></div>`:""}
+      ${m.size?`<div class="opt"><h3>컵 크기</h3><div class="choices">${SIZES.map(s=>`<button type="button" class="choice" data-s="${s.k}" aria-pressed="${o.size===s.k}">${s.k}<small>${s.add?"더 많이":"기본"}</small></button>`).join("")}</div></div>`:""}
       ${m.shot?`<div class="opt"><h3>진하기</h3><div class="choices">
         <button type="button" class="choice" data-h="0" aria-pressed="${o.shot===0}">보통<small>기본</small></button>
-        <button type="button" class="choice" data-h="1" aria-pressed="${o.shot===1}">진하게<small>샷 추가 +${won(SHOT_PRICE)}</small></button></div></div>`:""}
+        <button type="button" class="choice" data-h="1" aria-pressed="${o.shot===1}">진하게<small>샷 추가</small></button></div></div>`:""}
       <div class="sheet-foot">
         <div class="qty"><button type="button" id="q-minus" aria-label="하나 빼기">−</button><span class="num">${o.qty}</span><button type="button" id="q-plus" aria-label="하나 더">+</button></div>
         <button class="btn btn-line" type="button" id="o-cancel">안 담을래요</button>
-        <button class="btn btn-main num" type="button" id="o-add" ${ready?"":"disabled"}>${ready ? won(unit*o.qty)+" 담기" : "온도를 골라 주세요"}</button>
+        <button class="btn btn-main num" type="button" id="o-add" ${ready?"":"disabled"}>${ready ? "담기" : "온도를 골라 주세요"}</button>
       </div></div></div>`;
     $("#bk").onclick = e => { if(e.target.id==="bk") closeModal(); };
     $("#modal").querySelectorAll("[data-t]").forEach(b => b.onclick = () => { o.temp=b.dataset.t; draw(); say(o.temp==="HOT"?"따뜻하게":"차갑게"); });
@@ -479,7 +479,7 @@ const total = () => S.cart.reduce((a,l) => a + l.unit*l.qty, 0);
 function lineHTML(l, i, edit){
   return `<div class="line"><div style="min-width:0"><div class="nm">${l.name}</div>${l.opts.length?`<div class="op">${l.opts.join(" · ")}</div>`:""}</div>
     ${edit?`<div class="qty"><button type="button" data-m="${i}" aria-label="${l.name} 하나 빼기">−</button><span class="num">${l.qty}</span><button type="button" data-p="${i}" aria-label="${l.name} 하나 더">+</button></div>`:`<span class="x num">${l.qty}개</span>`}
-    <span class="sum num">${won(l.unit*l.qty)}</span></div>`;
+    </div>`;
 }
 function renderCart(){
   const n = S.cart.reduce((a,l)=>a+l.qty,0);
@@ -487,7 +487,7 @@ function renderCart(){
   $("#lines").innerHTML = S.cart.length ? S.cart.map((l,i)=>lineHTML(l,i,true)).join("") : `<div class="empty">아직 담은 메뉴가 없어요. 위에서 메뉴를 눌러 주세요.</div>`;
   $("#lines").querySelectorAll("[data-m]").forEach(b => b.onclick = () => { const l=S.cart[b.dataset.m]; l.qty--; if(!l.qty) S.cart.splice(b.dataset.m,1); renderCart(); });
   $("#lines").querySelectorAll("[data-p]").forEach(b => b.onclick = () => { const l=S.cart[b.dataset.p]; if(l.qty<20) l.qty++; renderCart(); });
-  $("#total").textContent = won(total());
+  $("#total").textContent = n ? `${n}개` : "0개";
   $("#go-pay").disabled = !S.cart.length;
   $("#clear").hidden = !S.cart.length;
   $("#g-menu").innerHTML = S.cart.length
@@ -502,7 +502,7 @@ $("#back-menu").onclick = () => show("menu");
 function renderReceipt(){
   $("#receipt").innerHTML = `<div class="muted" style="margin-bottom:6px">${S.where==="포장"?"가져가요 (포장)":"먹고 가요 (매장)"}</div>`
     + S.cart.map((l,i)=>lineHTML(l,i,false)).join("")
-    + `<div class="sumrow"><span>합계</span><strong class="num">${won(total())}</strong></div>`;
+    + `<div class="sumrow"><span>모두</span><strong class="num">${S.cart.reduce((a,l)=>a+l.qty,0)}개</strong></div>`;
 }
 $("#place").onclick = () => place();
 function place(){
