@@ -163,9 +163,6 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
 .order ul{margin:0;padding-left:1.1rem}
 .order .when{margin-left:auto;font-size:.85rem;color:var(--muted)}
 .order .btn{min-height:3rem;font-size:1rem}
-.soldlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(140px,100%),1fr));gap:8px}
-.soldlist .chip{text-align:left;border-radius:12px}
-.soldlist .chip[aria-pressed="true"]{background:var(--danger-bg);border-color:var(--danger);color:var(--danger)}
 .muted{color:var(--muted);font-size:.9rem;margin:0}
 
 /* 연결 상태와 알림 띠 */
@@ -182,6 +179,8 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
 .status{display:flex;gap:6px;justify-content:center;flex-wrap:wrap}
 .status span{padding:.4rem 1rem;border-radius:999px;background:var(--soft);color:var(--muted);font-weight:700}
 .status span.on{background:var(--accent);color:var(--accent-ink)}
+.codeline{display:flex;align-items:baseline;gap:12px;margin-bottom:10px}
+.codeline b{font-family:var(--display);font-weight:400;font-size:2rem;letter-spacing:.12em;color:var(--accent)}
 .howto{margin:0;padding-left:1.2rem;display:flex;flex-direction:column;gap:4px}
 
 /* 창(모달) */
@@ -235,30 +234,7 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
   .total strong{font-size:1.35rem}
   .toast{bottom:auto;top:max(16px,env(safe-area-inset-top,0px))}
 }
-/* 인쇄: 화면에는 숨기고, 인쇄할 때는 주문내역서만 남김. 영수증 프린터(감열지)는 흑백이라 색을 고정함 */
-#printarea{display:none}
-@media print{
-  body{background:#fff!important;height:auto}
-  body > *:not(#printarea){display:none!important}
-  #printarea{display:block;color:#000;background:#fff;font-family:var(--body)}
-  #printarea *{color:#000!important}
-  .slip{padding:3mm 2mm 6mm;font-size:11pt;line-height:1.35;break-after:page;page-break-after:always}
-  .slip:last-child{break-after:auto;page-break-after:auto}
-  .slip h1{font-family:var(--display);font-size:16pt;text-align:center;margin:0}
-  .slip .kind{text-align:center;font-size:10pt;border:1px solid #000;border-radius:4px;padding:1px 0;margin:2mm 0}
-  .slip .no{font-family:var(--display);font-size:40pt;text-align:center;line-height:1.05;margin:1mm 0}
-  .slip .meta{display:flex;justify-content:space-between;font-size:9.5pt}
-  .slip hr{border:0;border-top:1px dashed #000;margin:2mm 0}
-  .slip table{width:100%;border-collapse:collapse}
-  .slip td{vertical-align:top;padding:1mm 0}
-  .slip td.r{text-align:right;white-space:nowrap;padding-left:2mm}
-  .slip .op{font-size:9.5pt}
-  .slip .kit td{font-size:14pt;font-weight:700}
-  .slip .kit .op{font-size:12pt;font-weight:700}
-  .slip .tot{display:flex;justify-content:space-between;font-size:13pt;font-weight:700}
-  .slip .msg{text-align:center;font-size:9.5pt;margin-top:2mm}
-  .slip .warn{text-align:center;font-weight:700;border:2px solid #000;padding:1mm;margin-top:2mm}
-}
+@media print{body{display:none}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}.btn:active{transform:none!important}}
 </style>
 
@@ -349,69 +325,27 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
   </div>
   <div class="alert call" id="call-alert" hidden><span id="call-text">손님이 직원을 불렀어요</span><button class="btn" type="button" id="call-ok">가 볼게요</button></div>
   <div class="alert new" id="new-alert" hidden><span id="new-text"></span><button class="btn" type="button" id="new-ok">확인</button></div>
-  <div class="staff-grid">
-    <div class="panel">
-      <h2>기기 연결</h2>
-      <p class="muted" id="conn-help"></p>
-      <div id="code-box" hidden>
-        <p class="muted" style="margin-bottom:6px">카페 코드 (두 기기가 같아야 연결돼요)</p>
-        <div class="ready" style="justify-content:flex-start"><b class="num" id="code-now">-</b></div>
-        <div class="choices" style="margin-top:8px">
-          <button type="button" class="choice" id="code-new">새 코드 만들기</button>
-          <button type="button" class="choice" id="code-enter">코드 입력하기</button>
-          <button type="button" class="choice" id="code-link">연결 링크 복사</button>
-        </div>
-        <div id="code-qr-box" hidden style="margin-top:10px;text-align:center">
-          <div id="code-qr" style="display:inline-block;background:#fff;padding:8px;border-radius:12px;line-height:0"></div>
-          <p class="muted">태블릿 카메라로 이 QR코드를 찍으면 같은 코드로 연결돼요.</p>
-        </div>
-        <ol class="howto" style="margin-top:8px">
-          <li>직원 휴대폰에서 <b>새 코드 만들기</b>를 눌러요.</li>
-          <li>손님 태블릿에서도 직원 화면에 들어와 <b>코드 입력하기</b>로 같은 코드를 넣어요.</li>
-          <li>휴대폰은 <b>이 기기를 직원용으로</b>를 눌러 두세요.</li>
-        </ol>
-      </div>
-      <div class="choices"><button type="button" class="choice" id="st-role" aria-pressed="false">이 기기를 직원용으로</button></div>
-    </div>
-    <div class="panel">
-      <h2>오늘 요약</h2>
-      <div class="stats" id="stats"></div>
-    </div>
-    <div class="panel">
-      <h2>주문내역서 인쇄</h2>
-      <p class="muted">손님이 결제를 마치면 연결된 프린터로 바로 인쇄합니다.</p>
-      <div class="choices">
-        <button type="button" class="choice" id="pr-auto" aria-pressed="false">주문 때 자동 인쇄</button>
-        <button type="button" class="choice" id="pr-cust" aria-pressed="true">손님용</button>
-        <button type="button" class="choice" id="pr-kit" aria-pressed="true">만드는 사람용</button>
-      </div>
-      <div class="choices">
-        <button type="button" class="choice" data-paper="80" aria-pressed="true">용지 80mm</button>
-        <button type="button" class="choice" data-paper="58" aria-pressed="false">용지 58mm</button>
-        <button type="button" class="choice" data-paper="A4" aria-pressed="false">일반 A4</button>
-      </div>
-      <div class="row"><button class="btn btn-line" type="button" id="pr-test">시험 인쇄</button></div>
-      <p class="muted">인쇄 창 없이 바로 나오게 하려면 키오스크 PC에서 크롬을 <b>--kiosk --kiosk-printing</b> 옵션으로 실행하고, 영수증 프린터를 기본 프린터로 정해 두세요. Claude 화면 안에서 열면 인쇄가 되지 않습니다.</p>
-    </div>
-    <div class="panel">
-      <h2>품절 표시</h2>
-      <p class="muted">누르면 품절로 바뀌고 손님 화면에서 고를 수 없게 됩니다.</p>
-      <div class="soldlist" id="soldlist"></div>
-    </div>
-  </div>
   <div class="panel">
     <h2>주문 목록</h2>
-    <p class="muted">접수 → 만드는 중 → 완료 순서로 눌러 주세요. 완료를 누르면 손님 번호를 불러 주세요.</p>
+    <p class="muted">위에서부터 차례로 만들어 주세요. 다 만들면 손님 번호를 불러 주세요.</p>
     <div class="staff-grid" id="orders"></div>
+  </div>
+  <div class="panel" id="conn-panel">
+    <h2>기기 연결</h2>
+    <p class="muted" id="conn-help"></p>
+    <div id="code-box" hidden>
+      <div class="codeline"><span>카페 코드</span><b class="num" id="code-now">-</b></div>
+      <div class="row">
+        <button type="button" class="btn btn-main" id="code-new">새 코드 만들기</button>
+        <button type="button" class="btn btn-line" id="code-enter">코드 입력하기</button>
+      </div>
+    </div>
   </div>
 </section>
 
 <div id="modal"></div>
-<div id="printarea"></div>
-<style id="pagesize"></style>
 <div class="toast" id="toast" hidden></div>
 
-<script src="https://cdn.jsdelivr.net/npm/qrcode-generator@1.4.4/qrcode.js"></script>
 <script>
 /* ---------- 메뉴 자료: 가게에 맞게 이 부분만 고치면 됩니다 ---------- */
 const CATS = ["커피","차·음료","디저트"];
@@ -594,7 +528,6 @@ function place(method){
   saveOrder(order);
   S.myNo = no;
   S.cart=[];
-  if(P.auto) printOrder(order);
   $("#d-no").textContent = no;
   $("#d-title").textContent = method==="현금" ? "카운터에서 현금을 내 주세요" : "주문이 들어갔어요";
   $("#d-msg").textContent = (method==="현금" ? "직원에게 이 번호를 말씀하고 돈을 내 주세요. " : "") + `음료가 준비되면 ${no}번을 불러 드릴게요. 번호를 기억해 주세요.`;
@@ -668,69 +601,20 @@ $("#st-reset").onclick = () => {
 const NEXT = {"접수":"제조중","제조중":"완료"};
 const LABEL = {"접수":"만들기 시작","제조중":"다 만들었어요"};
 function renderStaff(){
-  const os = S.orders, sum = os.reduce((a,o)=>a+o.total,0);
-  const cups = os.reduce((a,o)=>a+o.items.reduce((b,i)=>b+i.qty,0),0);
-  const wait = os.filter(o=>o.st!=="완료").length;
-  $("#stats").innerHTML = `<div><span>주문</span><strong class="num">${os.length}건</strong></div><div><span>메뉴 수</span><strong class="num">${cups}개</strong></div><div><span>매출</span><strong class="num">${won(sum)}</strong></div><div><span>기다리는 주문</span><strong class="num">${wait}건</strong></div>`;
-  $("#soldlist").innerHTML = MENU.map(m => `<button type="button" class="chip" data-sold="${m.id}" aria-pressed="${S.sold.has(m.id)}">${S.sold.has(m.id)?"품절 · ":""}${m.name}</button>`).join("");
-  $("#soldlist").querySelectorAll("[data-sold]").forEach(b => b.onclick = () => {
-    const id=b.dataset.sold; S.sold.has(id) ? S.sold.delete(id) : S.sold.add(id); saveSold(); renderStaff();
-  });
+  const os = S.orders;
   const list = [...os].sort((a,b) => (a.st==="완료") - (b.st==="완료") || a.at - b.at);
   $("#orders").innerHTML = list.length ? list.map(o => `<div class="order" data-st="${o.st}">
     <div class="order-h"><span class="no num">${o.no}번</span><span class="pill ${o.st==="접수"?"wait":""}">${o.st==="제조중"?"만드는 중":o.st}</span><span class="pill">${o.where}</span>${!o.paid?`<span class="pill wait">현금 받기</span>`:""}<span class="when num">${new Date(o.at).toLocaleTimeString("ko-KR",{hour:"2-digit",minute:"2-digit"})}</span></div>
     <ul>${o.items.map(i=>`<li><b>${esc(i.name)}</b> ${i.qty}개${i.opts.length?` · ${esc(i.opts.join(", "))}`:""}</li>`).join("")}</ul>
-    <div class="row"><button class="btn btn-line" type="button" data-print="${o.no}">다시 인쇄</button>${!o.paid?`<button class="btn btn-sun" type="button" data-paid="${o.no}">현금 받았어요</button>`:""}${NEXT[o.st]?`<button class="btn btn-main" type="button" data-next="${o.no}">${LABEL[o.st]}</button>`:""}</div>
+    <div class="row">${!o.paid?`<button class="btn btn-sun" type="button" data-paid="${o.no}">현금 받았어요</button>`:""}${NEXT[o.st]?`<button class="btn btn-main" type="button" data-next="${o.no}">${LABEL[o.st]}</button>`:""}</div>
   </div>`).join("") : `<p class="muted">아직 들어온 주문이 없어요.</p>`;
   $("#orders").querySelectorAll("[data-next]").forEach(b => b.onclick = () => {
     const o = os.find(x=>x.no==b.dataset.next), st = NEXT[o.st]; updateOrder(o, {st});
     if(st==="완료") toast(`${o.no}번 손님을 불러 주세요.`);
   });
   $("#orders").querySelectorAll("[data-paid]").forEach(b => b.onclick = () => { updateOrder(os.find(x=>x.no==b.dataset.paid), {paid:true}); });
-  $("#orders").querySelectorAll("[data-print]").forEach(b => b.onclick = () => printOrder(os.find(x=>x.no==b.dataset.print)));
-  syncPrint();
 }
 
-/* ---------- 주문내역서 인쇄 ---------- */
-const P = Object.assign({auto:false, cust:true, kit:true, paper:"80"}, store.get("print", {}));
-function savePrint(){ store.set("print", P); syncPrint(); }
-function syncPrint(){
-  $("#pr-auto").setAttribute("aria-pressed", P.auto);
-  $("#pr-cust").setAttribute("aria-pressed", P.cust);
-  $("#pr-kit").setAttribute("aria-pressed", P.kit);
-  document.querySelectorAll("[data-paper]").forEach(b => b.setAttribute("aria-pressed", b.dataset.paper===P.paper));
-  $("#pagesize").textContent = P.paper==="A4"
-    ? "@media print{@page{size:A4;margin:15mm}#printarea{width:80mm;margin:0 auto}}"
-    : `@media print{@page{size:${P.paper}mm auto;margin:0}#printarea{width:${P.paper}mm}}`;
-}
-$("#pr-auto").onclick = () => { P.auto=!P.auto; savePrint(); };
-$("#pr-cust").onclick = () => { P.cust=!P.cust; if(!P.cust && !P.kit) P.kit=true; savePrint(); };
-$("#pr-kit").onclick = () => { P.kit=!P.kit; if(!P.cust && !P.kit) P.cust=true; savePrint(); };
-document.querySelectorAll("[data-paper]").forEach(b => b.onclick = () => { P.paper=b.dataset.paper; savePrint(); });
-$("#pr-test").onclick = () => printOrder({no:0, at:Date.now(), where:"매장", method:"카드", paid:true, total:2500, items:[{name:"시험 인쇄", opts:["따뜻하게"], qty:1, unit:2500}]});
-
-function slipHTML(o, kind){
-  const d = new Date(o.at);
-  const when = d.toLocaleDateString("ko-KR") + " " + d.toLocaleTimeString("ko-KR",{hour:"2-digit",minute:"2-digit"});
-  const where = o.where==="포장" ? "포장 (가져가요)" : "매장 (먹고 가요)";
-  const head = `<h1>${esc(SHOP_NAME)}</h1><div class="kind">${kind==="kit"?"만드는 사람용":"손님용 주문내역서"}</div>
-    <div class="no">${o.no}번</div><div class="meta"><span>${where}</span><span>${when}</span></div><hr>`;
-  if(kind==="kit"){
-    return `<div class="slip">${head}<table class="kit">${o.items.map(i=>`<tr><td>${esc(i.name)}${i.opts.length?`<div class="op">${esc(i.opts.join(" · "))}</div>`:""}</td><td class="r">${i.qty}개</td></tr>`).join("")}</table>
-      ${!o.paid?`<div class="warn">현금 결제 전 · 카운터 확인</div>`:""}</div>`;
-  }
-  return `<div class="slip">${head}<table>${o.items.map(i=>`<tr><td>${esc(i.name)} × ${i.qty}${i.opts.length?`<div class="op">${esc(i.opts.join(" · "))}</div>`:""}</td><td class="r">${won(i.unit*i.qty)}</td></tr>`).join("")}</table><hr>
-    <div class="tot"><span>합계</span><span>${won(o.total)}</span></div>
-    <div class="meta"><span>결제</span><span>${o.method==="현금" ? (o.paid?"현금 (받음)":"현금 · 카운터에서 내 주세요") : "카드"}</span></div><hr>
-    <div class="msg">음료가 준비되면 <b>${o.no}번</b>을 불러 드릴게요.<br>회원 바리스타가 정성껏 만듭니다. 감사합니다.</div></div>`;
-}
-function printOrder(o){
-  if(!o) return;
-  syncPrint();
-  $("#printarea").innerHTML = (P.cust ? slipHTML(o,"cust") : "") + (P.kit ? slipHTML(o,"kit") : "");
-  setTimeout(() => { try{ window.print(); }catch(e){} }, 150);
-}
-syncPrint();
 /* 다른 창(카운터 화면)에서 주문이 들어오면 직원 화면 새로 고침 */
 window.addEventListener("storage", e => {
   if(DB) return;
@@ -757,22 +641,13 @@ function setConn(s){
   const help = {
     on: mode==="relay" ? "같은 카페 코드를 넣은 기기끼리 주문을 실시간으로 주고받고 있어요." : "다른 기기와 주문을 실시간으로 주고받고 있어요.",
     local: "지금은 다른 기기와 연결되지 않았어요. 이 기기 안에서는 계속 쓸 수 있어요. Claude 계정 없이 쓰려면 인터넷 주소(GitHub Pages)로 열어 주세요.",
-    nocode: "두 기기에 같은 카페 코드를 넣으면 연결돼요. 아래에서 코드를 만들거나 입력해 주세요.",
+    nocode: "휴대폰은 새 코드 만들기, 태블릿은 코드 입력하기를 눌러 주세요.",
     slow: "아직 연결되지 않았어요. 와이파이를 확인해 주세요. 연결되면 저절로 이어집니다.",
     wait: "연결하는 중이에요."
   };
   $("#conn-help").textContent = help[s] || help.wait;
   $("#code-box").hidden = mode!=="relay";
   $("#code-now").textContent = store.get("code","") || "아직 없음";
-  drawCodeQR();
-}
-/* 연결 링크 QR코드: QR 라이브러리를 못 불러오면 조용히 숨김 */
-function codeLink(){ return location.href.split("#")[0] + "#cafe-" + store.get("code",""); }
-function drawCodeQR(){
-  const box = $("#code-qr-box"), code = store.get("code","");
-  if(!code || typeof qrcode!=="function" || mode!=="relay"){ box.hidden = true; return; }
-  try{ const q = qrcode(0, "M"); q.addData(codeLink()); q.make(); $("#code-qr").innerHTML = q.createSvgTag({cellSize:5, margin:2}); box.hidden = false; }
-  catch(e){ box.hidden = true; }
 }
 async function dbWrite(fn){
   try{ await fn(); }
@@ -898,9 +773,6 @@ function newOrderAlert(list){
 $("#new-ok").onclick = () => $("#new-alert").hidden = true;
 
 /* 이 기기를 직원용으로: 다음에 열면 바로 직원 화면 */
-function syncRole(){ const on = store.get("role","")==="staff"; $("#st-role").setAttribute("aria-pressed", on); $("#st-role").textContent = on ? "직원용 기기로 쓰는 중 (누르면 해제)" : "이 기기를 직원용으로"; }
-$("#st-role").onclick = () => { store.set("role", store.get("role","")==="staff" ? "" : "staff"); syncRole(); };
-syncRole();
 
 
 function connectRelay(){
@@ -945,7 +817,8 @@ $("#code-new").onclick = () => {
     <h2>새 카페 코드를 만들까요?</h2><p class="sub" style="margin:0">지금 연결된 기기들과의 연결이 끊겨요. 다른 기기에도 새 코드를 넣어야 해요.</p>
     <div class="row"><button class="btn btn-line" type="button" id="c-no">그만두기</button><button class="btn btn-main" type="button" id="c-ok">만들기</button></div></div></div>`;
   $("#c-no").onclick = closeModal;
-  $("#c-ok").onclick = () => { setCode(newCode()); closeModal(); toast("새 코드를 만들었어요: " + store.get("code","")); };
+  /* 코드를 만든 기기 = 직원용. 다음부터 열면 바로 직원 화면 */
+  $("#c-ok").onclick = () => { setCode(newCode()); store.set("role","staff"); closeModal(); toast("새 코드를 만들었어요: " + store.get("code","") + ". 태블릿에 이 코드를 넣어 주세요."); };
 };
 $("#code-enter").onclick = () => {
   let code = "";
@@ -959,15 +832,10 @@ $("#code-enter").onclick = () => {
     $("#modal").querySelectorAll("[data-k]").forEach(b => b.onclick = () => { if(code.length<6){ code += b.dataset.k; draw(); } });
     $("#k-x").onclick = closeModal;
     $("#k-b").onclick = () => { code = code.slice(0,-1); draw(); };
-    $("#k-ok").onclick = () => { setCode(code); closeModal(); toast("코드 " + code + "로 연결해요."); };
+    /* 코드를 입력한 기기 = 손님용 태블릿. 바로 손님 화면으로 */
+    $("#k-ok").onclick = () => { setCode(code); store.set("role",""); reset(); toast("연결했어요. 이제 손님 화면으로 쓰면 돼요."); };
   };
   draw();
-};
-$("#code-link").onclick = async () => {
-  const link = codeLink();
-  if(!store.get("code","")){ toast("먼저 코드를 만들어 주세요."); return; }
-  try{ await navigator.clipboard.writeText(link); toast("연결 링크를 복사했어요. 태블릿에서 열면 코드가 저절로 들어가요."); }
-  catch(e){ toast(link); }
 };
 /* 링크로 들어오면 코드 자동 입력: ...#cafe-ABC123 */
 (function(){
