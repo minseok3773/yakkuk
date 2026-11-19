@@ -82,7 +82,7 @@ python3 tools/fda_labels.py digest labels
 | | Claude판 | 웹사이트판 |
 |---|---|---|
 | 주소 | https://claude.ai/artifact/WGQi3CQMq4St226oxSJU2o | https://minseok3773.github.io/yakkuk/ |
-| 여는 조건 | Claude 로그인 필요 | 로그인 없이 열림 (GitHub Pages, `main` 가지) |
+| 여는 조건 | Claude 로그인 필요 | 로그인 없이 열림 (GitHub Pages, `gh-pages` 가지) |
 | AI 정리·질문·설명·퀴즈 | Claude가 바로 답함 (보는 사람의 Claude 사용량을 씀) | 요청문을 복사해 ChatGPT에 붙여 넣고, 받은 답을 다시 붙여 넣음 |
 | 약 봉투 사진 읽기 | 됨 | 없음 |
 | 내장 자료 정리, 규칙 점검, 건강 개입 지침, 공통 약, 회원 저장, 백업, 메모장 파일 저장 | 됨 | 됨 |
