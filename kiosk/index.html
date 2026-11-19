@@ -2,9 +2,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="쉼표카페">
+<meta name="apple-mobile-web-app-title" content="둥지카페">
 <meta name="robots" content="noindex">
-<title>쉼표카페 키오스크</title>
+<title>둥지카페 키오스크</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Jua&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
@@ -127,11 +127,6 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
 .receipt .x{color:var(--muted)}
 .sumrow{display:flex;justify-content:space-between;align-items:baseline;border-top:2px dashed var(--line);margin-top:8px;padding-top:10px;font-size:1.2rem}
 .sumrow strong{font-size:1.8rem;color:var(--accent)}
-.methods{display:grid;grid-template-columns:1fr 1fr;gap:12px}
-.methods button{background:var(--surface);border:3px solid var(--line);border-radius:20px;padding:1.2rem .8rem;display:flex;flex-direction:column;align-items:center;gap:.3rem;font-weight:700;font-size:1.25rem}
-.methods button span{font-weight:400;font-size:.9rem;color:var(--muted)}
-.methods button:hover{border-color:var(--accent)}
-.methods svg{width:44px;height:44px;color:var(--accent)}
 .row{display:flex;gap:10px;flex-wrap:wrap}
 .row .btn{flex:1}
 
@@ -248,7 +243,7 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
 <!-- 1. 시작 -->
 <section class="screen" id="start">
   <div class="ready" id="ready" hidden></div>
-  <h1>쉼표카페<br>어서 오세요</h1>
+  <h1>둥지카페<br>어서 오세요</h1>
   <p>화면을 눌러 주문을 시작해 주세요. 어려우면 언제든 <b>직원 부르기</b>를 누르세요.</p>
   <div class="where">
     <button id="here" type="button">
@@ -273,7 +268,7 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
 <!-- 2. 메뉴 -->
 <section class="screen" id="menu" hidden>
   <div class="top">
-    <div class="logo">쉼표카페<i>,</i></div>
+    <div class="logo">둥지카페<i>,</i></div>
     <span class="chip" id="where-chip"></span>
     <button class="chip" id="m-big" type="button" aria-pressed="false">글씨 크게</button>
     <button class="chip" id="m-voice" type="button" aria-pressed="false">소리</button>
@@ -296,19 +291,12 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
 <!-- 3. 결제 -->
 <section class="screen" id="pay" hidden>
   <div class="paybox">
-    <div class="guide"><b>2단계</b><span>주문 내용을 확인하고 결제 방법을 골라 주세요.</span></div>
+    <div class="guide"><b>2단계</b><span>주문 내용이 맞는지 확인하고 <strong>이대로 주문하기</strong>를 눌러 주세요.</span></div>
     <div class="receipt" id="receipt"></div>
-    <div class="methods">
-      <button type="button" data-method="카드">
-        <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round" aria-hidden="true"><rect x="5" y="11" width="38" height="26" rx="4"/><path d="M5 19h38M11 30h9"/></svg>
-        카드로 내기<span>카드를 단말기에 꽂아요</span>
-      </button>
-      <button type="button" data-method="현금">
-        <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="13" width="40" height="22" rx="3"/><circle cx="24" cy="24" r="5"/></svg>
-        현금으로 내기<span>카운터에서 직원에게 내요</span>
-      </button>
+    <div class="row">
+      <button class="btn btn-line" id="back-menu" type="button">메뉴 더 고르기</button>
+      <button class="btn btn-main" id="place" type="button" style="min-height:4.5rem;font-size:1.35rem">이대로 주문하기</button>
     </div>
-    <div class="row"><button class="btn btn-line" id="back-menu" type="button">메뉴 더 고르기</button></div>
   </div>
 </section>
 
@@ -373,7 +361,7 @@ const SIZES = [{k:"보통",add:0},{k:"큰 컵",add:500}];
 const SHOT_PRICE = 500;
 const STAFF_PIN = "1234";          // 직원 화면 비밀번호: 꼭 바꿔서 쓰세요
 const IDLE_SEC = 90;               // 손대지 않으면 처음으로 돌아가기 전까지 시간
-const SHOP_NAME = "쉼표카페";       // 주문내역서 맨 위에 찍히는 가게 이름
+const SHOP_NAME = "둥지카페";       // 주문내역서 맨 위에 찍히는 가게 이름
 /* ------------------------------------------------------------------- */
 
 const $ = s => document.querySelector(s);
@@ -403,7 +391,7 @@ function show(id){
   document.querySelectorAll(".screen").forEach(s => s.hidden = s.id !== id);
   closeModal();
   if(id==="menu"){ renderMenu(); say("마시고 싶은 메뉴를 눌러 주세요."); }
-  if(id==="pay"){ renderReceipt(); say("주문 내용을 확인하고 결제 방법을 골라 주세요. 합계 " + won(total()) + "입니다."); }
+  if(id==="pay"){ renderReceipt(); say("주문 내용이 맞는지 확인하고, 이대로 주문하기를 눌러 주세요."); }
   if(id==="staff") renderStaff();
 }
 
@@ -516,30 +504,19 @@ function renderReceipt(){
     + S.cart.map((l,i)=>lineHTML(l,i,false)).join("")
     + `<div class="sumrow"><span>합계</span><strong class="num">${won(total())}</strong></div>`;
 }
-document.querySelectorAll("[data-method]").forEach(b => b.onclick = () => askPay(b.dataset.method));
-function askPay(method){
-  if(method==="현금"){ place(method); return; }
-  $("#modal").innerHTML = `<div class="back"><div class="sheet center" role="dialog" aria-modal="true" aria-label="카드 결제">
-    <h2>카드를 꽂아 주세요</h2><p class="sub" style="margin:0">화면 아래 단말기에 카드를 꽂고, 결제가 끝날 때까지 빼지 마세요.</p>
-    <div class="bigtime num">${won(total())}</div>
-    <div class="row"><button class="btn btn-line" type="button" id="p-no">취소</button><button class="btn btn-main" type="button" id="p-ok">결제됐어요</button></div>
-    <p class="muted">연습용 화면입니다. 실제 카드 단말기와 연결하려면 결제 대행사(VAN) 연동이 필요해요.</p>
-  </div></div>`;
-  say("카드를 단말기에 꽂아 주세요.");
-  $("#p-no").onclick = closeModal;
-  $("#p-ok").onclick = () => place(method);
-}
-function place(method){
+$("#place").onclick = () => place();
+function place(){
   const no = (S.orders.reduce((a,o)=>Math.max(a,o.no),0) % 999) + 1;
-  const order = {no, day:today(), at:Date.now(), where:S.where, method, paid:method==="카드", items:S.cart.map(l=>({name:l.name,opts:l.opts,qty:l.qty,unit:l.unit})), total:total(), st:"접수"};
+  const order = {no, day:today(), at:Date.now(), where:S.where, paid:true, items:S.cart.map(l=>({name:l.name,opts:l.opts,qty:l.qty,unit:l.unit})), total:total(), st:"접수"};
   saveOrder(order);
   S.myNo = no;
   S.cart=[];
   $("#d-no").textContent = no;
-  $("#d-title").textContent = method==="현금" ? "카운터에서 현금을 내 주세요" : "주문이 들어갔어요";
-  $("#d-msg").textContent = (method==="현금" ? "직원에게 이 번호를 말씀하고 돈을 내 주세요. " : "") + `음료가 준비되면 ${no}번을 불러 드릴게요. 번호를 기억해 주세요.`;
+  $("#d-title").textContent = "주문이 들어갔어요";
+  $("#d-title").dataset.no = "";
+  $("#d-msg").textContent = `음료가 준비되면 ${no}번을 불러 드릴게요. 번호를 기억해 주세요.`;
   show("done");
-  say(`주문 번호는 ${no}번입니다. ` + (method==="현금" ? "카운터에서 현금을 내 주세요." : "준비되면 불러 드릴게요."));
+  say(`주문 번호는 ${no}번입니다. 준비되면 불러 드릴게요.`);
   renderMyStatus();
   let sec = 20; $("#d-sec").textContent = sec;
   clearInterval(place.t);
@@ -728,7 +705,7 @@ function gotCall(c){
   const t = new Date(c.at).toLocaleTimeString("ko-KR",{hour:"2-digit",minute:"2-digit"});
   $("#call-text").textContent = `손님이 직원을 불렀어요 (${t})`;
   $("#call-alert").hidden = false; $("#call-alert").dataset.at = c.at;
-  ding(3);
+  ding();
 }
 $("#call-ok").onclick = () => { lastCall = +$("#call-alert").dataset.at || Date.now(); store.set("lastCall", lastCall); $("#call-alert").hidden = true; };
 
@@ -753,26 +730,62 @@ function renderMyStatus(){
 
 /* 직원 휴대폰: 새 주문 알림(소리·진동) */
 const isStaff = () => store.get("role","")==="staff" || !$("#staff").hidden;
-let actx = null;
-function ding(n){
-  try{ navigator.vibrate && navigator.vibrate([200,100,200]); }catch(e){}
-  if(!actx) return;
+let actx = null, voiceOn = false;
+/* 띵~동 (두 음 차임). 휴대폰은 한 번 눌러줘야 소리를 낼 수 있어 '알림 소리 켜기'로 깨움 */
+function chime(){
+  if(!actx) return 0;
   try{
-    for(let i=0;i<(n||2);i++){
-      const o = actx.createOscillator(), g = actx.createGain(), t = actx.currentTime + i*0.35;
-      o.frequency.value = i%2 ? 660 : 880; o.connect(g); g.connect(actx.destination);
-      g.gain.setValueAtTime(0.0001,t); g.gain.exponentialRampToValueAtTime(0.4,t+0.02); g.gain.exponentialRampToValueAtTime(0.0001,t+0.3);
-      o.start(t); o.stop(t+0.32);
-    }
+    [[1318.5,0],[1046.5,0.42]].forEach(([f,d]) => {        // 미(E6) → 도(C6)
+      [1,2,3].forEach((h,k) => {                            // 배음을 섞어 맑은 종소리처럼
+        const o = actx.createOscillator(), g = actx.createGain(), t = actx.currentTime + d;
+        o.type = "sine"; o.frequency.value = f*h; o.connect(g); g.connect(actx.destination);
+        const v = [0.35,0.08,0.04][k];
+        g.gain.setValueAtTime(0.0001,t); g.gain.exponentialRampToValueAtTime(v,t+0.01); g.gain.exponentialRampToValueAtTime(0.0001,t+1.1);
+        o.start(t); o.stop(t+1.15);
+      });
+    });
+  }catch(e){}
+  return 950;
+}
+/* 여자 목소리 고르기: 기기마다 이름이 달라 알려진 한국어 여성 목소리를 먼저 찾음 */
+function pickVoice(){
+  try{
+    const vs = speechSynthesis.getVoices().filter(v => /^ko/i.test(v.lang));
+    const fem = /yuna|sora|heami|sunhi|jimin|seoyeon|female|여성|유나|google 한국의/i;
+    return vs.find(v => fem.test(v.name)) || vs[0] || null;
+  }catch(e){ return null; }
+}
+function speakAlarm(text){
+  if(!voiceOn) return;
+  try{
+    speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text); u.lang = "ko-KR"; u.rate = 1.0; u.pitch = 1.35; u.volume = 1;
+    const v = pickVoice(); if(v) u.voice = v;
+    speechSynthesis.speak(u);
   }catch(e){}
 }
+function alarm(text){
+  try{ navigator.vibrate && navigator.vibrate([300,120,300]); }catch(e){}
+  const wait = chime();
+  setTimeout(() => speakAlarm(text), wait);
+}
+function ding(){ alarm("직원 호출이요!"); }
+/* 직원 화면을 보는 동안 휴대폰 화면이 꺼지지 않게 (안 되는 기기는 그냥 넘어감) */
+let wake = null;
+async function keepAwake(){ try{ if(!wake && navigator.wakeLock) { wake = await navigator.wakeLock.request("screen"); wake.addEventListener("release", () => wake = null); } }catch(e){} }
+document.addEventListener("visibilitychange", () => { if(!document.hidden && voiceOn) keepAwake(); });
 $("#st-sound").onclick = () => {
   try{ actx = actx || new (window.AudioContext || window.webkitAudioContext)(); actx.resume(); }catch(e){}
-  $("#st-sound").setAttribute("aria-pressed", "true"); $("#st-sound").textContent = "알림 소리 켜짐"; ding(2);
+  voiceOn = true;
+  try{ speechSynthesis.getVoices(); }catch(e){}
+  keepAwake();
+  $("#st-sound").setAttribute("aria-pressed", "true"); $("#st-sound").textContent = "알림 소리 켜짐";
+  alarm("둥지카페 주문!!");
 };
 function newOrderAlert(list){
   $("#new-text").textContent = `새 주문이 들어왔어요: ${list.map(o => o.no+"번").join(", ")}`;
-  $("#new-alert").hidden = false; ding(2);
+  $("#new-alert").hidden = false;
+  alarm("둥지카페 주문!!");
 }
 $("#new-ok").onclick = () => $("#new-alert").hidden = true;
 
