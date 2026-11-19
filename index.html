@@ -327,6 +327,7 @@ $("photo").addEventListener("change", async (e) => {
   } finally { busy = false; runBtn.disabled = false; e.target.value = ""; }
 });
 
+/* @@share-begin: 약국이 현황판(board/index.html)도 여기부터 @@share-end까지를 그대로 씁니다. 고친 뒤 python3 tools/build_board.py */
 /* ---------- 내장 약 정보: 미국 FDA가 공개한 허가사항(openFDA drug label)을 2026-11-14에 내려받아, 이 프로젝트에서 우리말로 간추린 것 ----------
    k = 영문 성분명, ko = 우리말 성분명, br = 널리 알려진 제품명, se = 허가사항의 흔한 이상반응, warn = 경고문·경고와 주의,
    care = 실무자가 살필 점, id = 허가사항 문서 번호(DailyMed setid), dt = 그 문서의 개정일, n = 근거 문서가 특수한 경우의 설명.
@@ -594,7 +595,9 @@ const ELDER = [
   {list:G.nsaid, lv:"보통", msg:"노인에서 위장 출혈과 신장 손상 위험이 커지는 약."},
   {list:["glimepiride","glibenclamide"], lv:"보통", msg:"노인에서 저혈당이 오래 갈 수 있는 약. 식은땀, 떨림, 멍함을 관찰."}
 ];
+/* @@share-end */
 $("conds").append(...CONDS.map(c => el("label", {for:"c_" + c.id}, el("input", {type:"checkbox", id:"c_" + c.id, value:c.id}), el("span", {text:c.label}))));
+/* @@share-begin: 약국이 현황판(board/index.html)도 여기부터 @@share-end까지를 그대로 씁니다. 고친 뒤 python3 tools/build_board.py */
 let lastConds = [], lastAge = "";
 function condCheck(drugs){
   const out = [];
@@ -671,6 +674,7 @@ const AREAS = [
   [/항히스타민/, "알레르기"]
 ];
 function areaOf(cls){ const a = AREAS.find(p => p[0].test(cls)); return a ? a[1] : "기타"; }
+/* @@share-end */
 function healthGroups(drugs){
   const g = new Map();
   drugs.forEach(x => offOf(x).forEach(o => {
@@ -803,6 +807,7 @@ function photoBox(x){
   return box;
 }
 
+/* @@share-begin: 약국이 현황판(board/index.html)도 여기부터 @@share-end까지를 그대로 씁니다. 고친 뒤 python3 tools/build_board.py */
 /* ---------- 건강 개입 기본 지침: 약은 그대로 두고 실무자가 할 수 있는 일. AI가 아니라 아래 표로 정하므로 같은 약이면 항상 같은 지침이 나옴 ----------
    list = 이 지침을 띄우는 성분, cond = 관련된 회원 상태(선택하면 맨 위로 올림) */
 const CARE = [
@@ -978,6 +983,7 @@ function careTopics(drugs){
   });
   return out.sort((a, b) => b.boost - a.boost);
 }
+/* @@share-end */
 
 function buildPrompt(drugs, obs, age, sex, conds){
   const pre = drugs.split("\n").map(x => x.trim()).filter(Boolean).map(l => [l, localMatch(l)]).filter(p => p[1].length);
@@ -1119,6 +1125,7 @@ $("form").addEventListener("submit", async (e) => {
    같은 약: 성분이 같은 약(내장 사전으로 찾은 성분, 없으면 그 회원을 정리할 때 AI가 읽은 성분),
    또는 용량을 뺀 약 이름이 같은 약. 회원 기록을 읽어 그때그때 셈하고 따로 저장하지 않는다.
    한 회원의 저장·복사 글에는 다른 회원의 정보를 넣지 않는다. */
+/* @@share-begin: 약국이 현황판(board/index.html)도 여기부터 @@share-end까지를 그대로 씁니다. 고친 뒤 python3 tools/build_board.py */
 const FORM_END = /(서방정|서방캡슐|장용정|장용캡슐|구강붕해정|필름코팅정|츄어블정|연질캡슐|경질캡슐|캡슐|캅셀|정|시럽|현탁액|패치)$/;
 const DOSE_WORD = /^(반알|한알|두알|세알|반정|아침|점심|저녁|취침|자기|잠자기|하루|매일|식전|식후|필요시|필요할)/;
 const DOSE_UNIT = /^\s*(mg|ml|mcg|μg|µg|g(?![a-z])|iu|밀리|미리|마이크로|그램)/i;
@@ -1153,6 +1160,7 @@ function mode(list){
   list.forEach(v => { const k = (c.get(v) || 0) + 1; c.set(v, k); if (k > n){ n = k; best = v; } });
   return best;
 }
+/* @@share-end */
 function occOf(id, label, line, x){
   const lm = localMatch(line);
   const o = {id, label, line, name:drugName(line), nk:nameKey(line), dict:ingKey(lm.map(v => v.k[0])), ai: x && !x.unsure ? aiKey(x) : "", x};
