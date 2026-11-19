@@ -192,6 +192,30 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
   .line .sum{min-width:4.5rem}
   .cart{max-height:50%}
 }
+/* 인쇄: 화면에는 숨기고, 인쇄할 때는 주문내역서만 남김. 영수증 프린터(감열지)는 흑백이라 색을 고정함 */
+#printarea{display:none}
+@media print{
+  body{background:#fff!important;height:auto}
+  body > *:not(#printarea){display:none!important}
+  #printarea{display:block;color:#000;background:#fff;font-family:var(--body)}
+  #printarea *{color:#000!important}
+  .slip{padding:3mm 2mm 6mm;font-size:11pt;line-height:1.35;break-after:page;page-break-after:always}
+  .slip:last-child{break-after:auto;page-break-after:auto}
+  .slip h1{font-family:var(--display);font-size:16pt;text-align:center;margin:0}
+  .slip .kind{text-align:center;font-size:10pt;border:1px solid #000;border-radius:4px;padding:1px 0;margin:2mm 0}
+  .slip .no{font-family:var(--display);font-size:40pt;text-align:center;line-height:1.05;margin:1mm 0}
+  .slip .meta{display:flex;justify-content:space-between;font-size:9.5pt}
+  .slip hr{border:0;border-top:1px dashed #000;margin:2mm 0}
+  .slip table{width:100%;border-collapse:collapse}
+  .slip td{vertical-align:top;padding:1mm 0}
+  .slip td.r{text-align:right;white-space:nowrap;padding-left:2mm}
+  .slip .op{font-size:9.5pt}
+  .slip .kit td{font-size:14pt;font-weight:700}
+  .slip .kit .op{font-size:12pt;font-weight:700}
+  .slip .tot{display:flex;justify-content:space-between;font-size:13pt;font-weight:700}
+  .slip .msg{text-align:center;font-size:9.5pt;margin-top:2mm}
+  .slip .warn{text-align:center;font-weight:700;border:2px solid #000;padding:1mm;margin-top:2mm}
+}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}.btn:active{transform:none!important}}
 </style>
 
@@ -282,6 +306,22 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
       <div class="stats" id="stats"></div>
     </div>
     <div class="panel">
+      <h2>주문내역서 인쇄</h2>
+      <p class="muted">손님이 결제를 마치면 연결된 프린터로 바로 인쇄합니다.</p>
+      <div class="choices">
+        <button type="button" class="choice" id="pr-auto" aria-pressed="true">주문 때 자동 인쇄</button>
+        <button type="button" class="choice" id="pr-cust" aria-pressed="true">손님용</button>
+        <button type="button" class="choice" id="pr-kit" aria-pressed="true">만드는 사람용</button>
+      </div>
+      <div class="choices">
+        <button type="button" class="choice" data-paper="80" aria-pressed="true">용지 80mm</button>
+        <button type="button" class="choice" data-paper="58" aria-pressed="false">용지 58mm</button>
+        <button type="button" class="choice" data-paper="A4" aria-pressed="false">일반 A4</button>
+      </div>
+      <div class="row"><button class="btn btn-line" type="button" id="pr-test">시험 인쇄</button></div>
+      <p class="muted">인쇄 창 없이 바로 나오게 하려면 키오스크 PC에서 크롬을 <b>--kiosk --kiosk-printing</b> 옵션으로 실행하고, 영수증 프린터를 기본 프린터로 정해 두세요. Claude 화면 안에서 열면 인쇄가 되지 않습니다.</p>
+    </div>
+    <div class="panel">
       <h2>품절 표시</h2>
       <p class="muted">누르면 품절로 바뀌고 손님 화면에서 고를 수 없게 됩니다.</p>
       <div class="soldlist" id="soldlist"></div>
@@ -295,6 +335,8 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
 </section>
 
 <div id="modal"></div>
+<div id="printarea"></div>
+<style id="pagesize"></style>
 <div class="toast" id="toast" hidden></div>
 
 <script>
@@ -317,6 +359,7 @@ const SIZES = [{k:"보통",add:0},{k:"큰 컵",add:500}];
 const SHOT_PRICE = 500;
 const STAFF_PIN = "1234";          // 직원 화면 비밀번호: 꼭 바꿔서 쓰세요
 const IDLE_SEC = 90;               // 손대지 않으면 처음으로 돌아가기 전까지 시간
+const SHOP_NAME = "쉼표카페";       // 주문내역서 맨 위에 찍히는 가게 이름
 /* ------------------------------------------------------------------- */
 
 const $ = s => document.querySelector(s);
@@ -405,7 +448,7 @@ function openOptions(m){
         <button type="button" class="choice" data-h="0" aria-pressed="${o.shot===0}">보통<small>기본</small></button>
         <button type="button" class="choice" data-h="1" aria-pressed="${o.shot===1}">진하게<small>샷 추가 +${won(SHOT_PRICE)}</small></button></div></div>`:""}
       <div class="sheet-foot">
-        <div class="qty"><button type="button" id="q-" aria-label="하나 빼기">−</button><span class="num">${o.qty}</span><button type="button" id="q+" aria-label="하나 더">+</button></div>
+        <div class="qty"><button type="button" id="q-minus" aria-label="하나 빼기">−</button><span class="num">${o.qty}</span><button type="button" id="q-plus" aria-label="하나 더">+</button></div>
         <button class="btn btn-line" type="button" id="o-cancel">안 담을래요</button>
         <button class="btn btn-main num" type="button" id="o-add" ${ready?"":"disabled"}>${ready ? won(unit*o.qty)+" 담기" : "온도를 골라 주세요"}</button>
       </div></div></div>`;
@@ -413,8 +456,8 @@ function openOptions(m){
     $("#modal").querySelectorAll("[data-t]").forEach(b => b.onclick = () => { o.temp=b.dataset.t; draw(); say(o.temp==="HOT"?"따뜻하게":"차갑게"); });
     $("#modal").querySelectorAll("[data-s]").forEach(b => b.onclick = () => { o.size=b.dataset.s; draw(); });
     $("#modal").querySelectorAll("[data-h]").forEach(b => b.onclick = () => { o.shot=+b.dataset.h; draw(); });
-    $("#q-").onclick = () => { if(o.qty>1){ o.qty--; draw(); } };
-    $("#q+").onclick = () => { if(o.qty<20){ o.qty++; draw(); } };
+    $("#q-minus").onclick = () => { if(o.qty>1){ o.qty--; draw(); } };
+    $("#q-plus").onclick = () => { if(o.qty<20){ o.qty++; draw(); } };
     $("#o-cancel").onclick = closeModal;
     $("#o-add").onclick = () => {
       const opts = [needTemp||m.temp==="ice" ? (o.temp==="HOT"?"따뜻하게":"차갑게") : null, m.size && o.size!=="보통" ? o.size : null, o.shot ? "샷 추가" : null].filter(Boolean);
@@ -477,6 +520,7 @@ function place(method){
   const order = {no, day:today(), at:Date.now(), where:S.where, method, paid:method==="카드", items:S.cart.map(l=>({name:l.name,opts:l.opts,qty:l.qty,unit:l.unit})), total:total(), st:"접수"};
   S.orders.push(order); store.set("orders", S.orders);
   S.cart=[];
+  if(P.auto) printOrder(order);
   $("#d-no").textContent = no;
   $("#d-title").textContent = method==="현금" ? "카운터에서 현금을 내 주세요" : "주문이 들어갔어요";
   $("#d-msg").textContent = (method==="현금" ? "직원에게 이 번호를 말씀하고 돈을 내 주세요. " : "") + `음료가 준비되면 ${no}번을 불러 드릴게요. 번호를 기억해 주세요.`;
@@ -561,14 +605,57 @@ function renderStaff(){
   $("#orders").innerHTML = list.length ? list.map(o => `<div class="order" data-st="${o.st}">
     <div class="order-h"><span class="no num">${o.no}번</span><span class="pill ${o.st==="접수"?"wait":""}">${o.st==="제조중"?"만드는 중":o.st}</span><span class="pill">${o.where}</span>${!o.paid?`<span class="pill wait">현금 받기</span>`:""}<span class="when num">${new Date(o.at).toLocaleTimeString("ko-KR",{hour:"2-digit",minute:"2-digit"})}</span></div>
     <ul>${o.items.map(i=>`<li><b>${esc(i.name)}</b> ${i.qty}개${i.opts.length?` · ${esc(i.opts.join(", "))}`:""}</li>`).join("")}</ul>
-    <div class="row">${!o.paid?`<button class="btn btn-sun" type="button" data-paid="${o.no}">현금 받았어요</button>`:""}${NEXT[o.st]?`<button class="btn btn-main" type="button" data-next="${o.no}">${LABEL[o.st]}</button>`:""}</div>
+    <div class="row"><button class="btn btn-line" type="button" data-print="${o.no}">다시 인쇄</button>${!o.paid?`<button class="btn btn-sun" type="button" data-paid="${o.no}">현금 받았어요</button>`:""}${NEXT[o.st]?`<button class="btn btn-main" type="button" data-next="${o.no}">${LABEL[o.st]}</button>`:""}</div>
   </div>`).join("") : `<p class="muted">아직 들어온 주문이 없어요.</p>`;
   $("#orders").querySelectorAll("[data-next]").forEach(b => b.onclick = () => {
     const o = os.find(x=>x.no==b.dataset.next); o.st = NEXT[o.st]; store.set("orders", os); renderStaff();
     if(o.st==="완료") toast(`${o.no}번 손님을 불러 주세요.`);
   });
   $("#orders").querySelectorAll("[data-paid]").forEach(b => b.onclick = () => { const o=os.find(x=>x.no==b.dataset.paid); o.paid=true; store.set("orders", os); renderStaff(); });
+  $("#orders").querySelectorAll("[data-print]").forEach(b => b.onclick = () => printOrder(os.find(x=>x.no==b.dataset.print)));
+  syncPrint();
 }
+
+/* ---------- 주문내역서 인쇄 ---------- */
+const P = Object.assign({auto:true, cust:true, kit:true, paper:"80"}, store.get("print", {}));
+function savePrint(){ store.set("print", P); syncPrint(); }
+function syncPrint(){
+  $("#pr-auto").setAttribute("aria-pressed", P.auto);
+  $("#pr-cust").setAttribute("aria-pressed", P.cust);
+  $("#pr-kit").setAttribute("aria-pressed", P.kit);
+  document.querySelectorAll("[data-paper]").forEach(b => b.setAttribute("aria-pressed", b.dataset.paper===P.paper));
+  $("#pagesize").textContent = P.paper==="A4"
+    ? "@media print{@page{size:A4;margin:15mm}#printarea{width:80mm;margin:0 auto}}"
+    : `@media print{@page{size:${P.paper}mm auto;margin:0}#printarea{width:${P.paper}mm}}`;
+}
+$("#pr-auto").onclick = () => { P.auto=!P.auto; savePrint(); };
+$("#pr-cust").onclick = () => { P.cust=!P.cust; if(!P.cust && !P.kit) P.kit=true; savePrint(); };
+$("#pr-kit").onclick = () => { P.kit=!P.kit; if(!P.cust && !P.kit) P.cust=true; savePrint(); };
+document.querySelectorAll("[data-paper]").forEach(b => b.onclick = () => { P.paper=b.dataset.paper; savePrint(); });
+$("#pr-test").onclick = () => printOrder({no:0, at:Date.now(), where:"매장", method:"카드", paid:true, total:2500, items:[{name:"시험 인쇄", opts:["따뜻하게"], qty:1, unit:2500}]});
+
+function slipHTML(o, kind){
+  const d = new Date(o.at);
+  const when = d.toLocaleDateString("ko-KR") + " " + d.toLocaleTimeString("ko-KR",{hour:"2-digit",minute:"2-digit"});
+  const where = o.where==="포장" ? "포장 (가져가요)" : "매장 (먹고 가요)";
+  const head = `<h1>${esc(SHOP_NAME)}</h1><div class="kind">${kind==="kit"?"만드는 사람용":"손님용 주문내역서"}</div>
+    <div class="no">${o.no}번</div><div class="meta"><span>${where}</span><span>${when}</span></div><hr>`;
+  if(kind==="kit"){
+    return `<div class="slip">${head}<table class="kit">${o.items.map(i=>`<tr><td>${esc(i.name)}${i.opts.length?`<div class="op">${esc(i.opts.join(" · "))}</div>`:""}</td><td class="r">${i.qty}개</td></tr>`).join("")}</table>
+      ${!o.paid?`<div class="warn">현금 결제 전 · 카운터 확인</div>`:""}</div>`;
+  }
+  return `<div class="slip">${head}<table>${o.items.map(i=>`<tr><td>${esc(i.name)} × ${i.qty}${i.opts.length?`<div class="op">${esc(i.opts.join(" · "))}</div>`:""}</td><td class="r">${won(i.unit*i.qty)}</td></tr>`).join("")}</table><hr>
+    <div class="tot"><span>합계</span><span>${won(o.total)}</span></div>
+    <div class="meta"><span>결제</span><span>${o.method==="현금" ? (o.paid?"현금 (받음)":"현금 · 카운터에서 내 주세요") : "카드"}</span></div><hr>
+    <div class="msg">음료가 준비되면 <b>${o.no}번</b>을 불러 드릴게요.<br>회원 바리스타가 정성껏 만듭니다. 감사합니다.</div></div>`;
+}
+function printOrder(o){
+  if(!o) return;
+  syncPrint();
+  $("#printarea").innerHTML = (P.cust ? slipHTML(o,"cust") : "") + (P.kit ? slipHTML(o,"kit") : "");
+  setTimeout(() => { try{ window.print(); }catch(e){} }, 150);
+}
+syncPrint();
 /* 다른 창(카운터 화면)에서 주문이 들어오면 직원 화면 새로 고침 */
 window.addEventListener("storage", e => {
   if(e.key==="cafe.orders"){ S.orders = store.get("orders",[]).filter(o=>o.day===today()); if(!$("#staff").hidden) renderStaff(); }
