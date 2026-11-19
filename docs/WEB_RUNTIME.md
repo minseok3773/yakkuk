@@ -1,20 +1,29 @@
-# 최신 약국이의 일반 브라우저 실행
+# 약국이 웹사이트판
 
 배포 주소: https://minseok3773.github.io/yakkuk/
 
-원본은 `claude/funny-shannon-e3jdl2`의 `5b59002c6aade026bf4b1bd005aab1dbafc5d1b0`입니다. 이전의 독립 웹 시제품을 바탕으로 기능을 덧붙이지 않고, 최신 Claude 작업본을 기준으로 합니다.
+이 가지(`gh-pages`)의 `index.html`은 개발 가지 `claude/funny-shannon-e3jdl2`의 `index.html`과 같은 파일입니다. 같은 파일이 Claude 안에서 열리면 Claude판(AI 정리), Claude 밖에서 열리면 웹사이트판으로 동작합니다. 제목 옆에 "웹사이트판" 딱지가 붙습니다.
 
-## 변경 범위
+## 웹사이트판에서 되는 일 (2026-11-19부터)
 
-- `index.html`의 약 정보·점검 규칙·건강 개입·회원 저장 형식은 원본을 유지합니다.
-- 마지막에 `browser-runtime.js`를 불러옵니다. Claude 밖에서만 실행되며 기본 정리 단추, 표준 브라우저 다운로드, AI 미연결 안내와 수동 요청문 복사를 지원합니다.
-- 내장 바탕화면 ZIP의 바로가기는 위 웹주소를 엽니다. 아이콘 그림은 원본을 유지합니다.
-- Claude 원본 게시물과 개발 브랜치는 수정하지 않습니다.
+- 내장 자료 정리(미국 FDA 허가사항 요약), 병용·누적 부담 규칙 점검, 건강 개입 기본 지침, 공통으로 먹는 약, 회원별 저장, 오답노트, 백업·복원, 메모장 파일 저장, 바탕화면 아이콘 그림 내려받기
+- AI가 필요한 일(정리, "왜 그런가요?", 질문, 약 설명, 종합 퀴즈)은 요청문을 복사해 ChatGPT에 붙여 넣고, 받은 답을 다시 붙여 넣는 방식입니다. 자동으로 AI를 부르지 않습니다.
+- 약 봉투 사진 읽기는 없습니다.
 
-## AI와 저장
+## Cloudflare AI 연결을 뺀 일
 
-기존 `ai-config.js`의 Cloudflare Worker 주소와 `ai-client.js` 연결을 사용합니다. 브라우저에는 API 키를 넣지 않습니다. AI 호출은 기존 서버의 가상 사례 전용 범위를 유지하며, 사용자가 확인란을 선택하고 버튼을 눌렀을 때만 전송합니다. 분석·설명·퀴즈의 요청 종류를 구분하고, 한도 초과 시 자동 재시도나 유료 전환을 하지 않습니다. 사진 읽기는 이 연결에서 지원하지 않습니다. 내장 자료와 회원 기록·저장은 AI 연결과 별도로 작동합니다.
+2026-11-19 사용자가 "최신 약국이 + ChatGPT 방식만"을 골라, 웹사이트가 Cloudflare Workers AI(가상 사례 전용)를 부르던 연결을 뺐습니다.
 
-회원 기록은 기존 형식인 `localStorage`의 `yakkuk.members.v1`을 사용합니다. 서버 저장이나 다른 사이트의 기록 수집을 추가하지 않습니다. Claude 주소와 GitHub Pages 주소는 서로 다른 저장 공간이므로 기존 기록을 자동 이관하지 않습니다. 사용자가 이전 화면에서 JSON 백업을 내려받고 새 화면에서 직접 가져올 수 있습니다. 기존 웹 시제품의 `yakkuk` 기록 형식도 삭제하거나 자동 변환하지 않습니다.
+- 지운 파일: `browser-runtime.js`, `ai-client.js`, `ai-config.js`, 그리고 이들을 시험하던 `tests/browser-runtime.test.mjs`, `tests/ai-client.test.mjs`, `tests/ai-browser.py`, `tests/smoke.py`. 이전 시제품 파일 `workspace.js`, `browser-downloads.js`도 쓰이지 않아 지웠습니다. 모두 git 기록에 남아 있습니다.
+- 남긴 파일: Worker 원본(`server/`, `wrangler.jsonc`, `package.json`, `scripts/connect-ai.mjs`, `tests/worker.test.mjs`, `docs/AI_SETUP.md`, `docs/licenses/`). 다시 연결할 때 참고합니다.
+- Cloudflare에 배포된 Worker는 그대로 있지만 웹사이트에서 부르지 않습니다. 필요 없으면 Cloudflare 대시보드에서 지울 수 있습니다.
 
-`index.html`과 `browser-runtime.js`를 HTTPS 정적 호스팅으로 게시합니다. 별도의 빌드, GPU, API 키가 필요하지 않습니다. 공개 Git 저장소나 배포 파일에 회원 기록·백업·API 키를 올리지 않습니다.
+## 저장
+
+회원 기록은 `localStorage`의 `yakkuk.members.v1`, 오답노트는 `yakkuk.wrong.v1`, 붙여 둔 약 사진은 IndexedDB `yakkuk-photos`에 둡니다. 서버로 보내지 않습니다. 저장 형식이 이전 웹사이트판과 같아서 이 주소에 저장해 둔 기록은 그대로 열립니다. Claude판과 웹사이트판은 저장 공간이 달라 기록을 옮기려면 백업 파일을 씁니다.
+
+ChatGPT에 요청문을 붙여 넣으면 회원의 약과 관찰 내용이 ChatGPT로 보내집니다. 회원 실명·주민번호·연락처는 입력하지 않습니다.
+
+## 갱신
+
+개발 가지의 `index.html`을 이 가지에 그대로 복사해 올립니다. 강제 푸시는 하지 않습니다.
