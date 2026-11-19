@@ -27,3 +27,11 @@ ChatGPT에 요청문을 붙여 넣으면 회원의 약과 관찰 내용이 ChatG
 ## 갱신
 
 개발 가지의 `index.html`을 이 가지에 그대로 복사해 올립니다. 강제 푸시는 하지 않습니다.
+
+## 약국이 현황판 (/board/)
+
+주소: https://minseok3773.github.io/yakkuk/board/ (2026-11-19 추가)
+
+- 회원을 한눈에 보는 현황판, 약 정리(내장 자료·규칙), 날짜별 복약·관찰 일지, 회원용 쉬운 안내문 인쇄. AI를 쓰지 않습니다.
+- `board/index.html`은 개발 가지에서 `python3 tools/build_board.py`로 만든 파일을 그대로 복사해 올립니다. 이 가지에서 직접 고치지 않습니다.
+- 기록은 `localStorage`의 `yakkuk.board.v1`에 둡니다. 같은 주소에 있는 약국이 웹사이트판 기록(`yakkuk.members.v1`)은 "기존 약국이 회원 가져오기"로 읽어서 복사만 하고 고치지 않습니다.
