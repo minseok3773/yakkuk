@@ -696,7 +696,7 @@ function gotOrders(list){
   if(!firstLoad && recent.length && isStaff()) newOrderAlert(recent);
   firstLoad = false;
   if(!$("#staff").hidden) renderStaff();
-  renderReady(); renderMyStatus();
+  renderReady(); renderMyStatus(); announceReady();
 }
 function gotSold(ids){ S.sold = new Set(ids || []); if(!$("#menu").hidden) renderMenu(); if(!$("#staff").hidden) renderStaff(); }
 function gotCall(c){
@@ -724,7 +724,6 @@ function renderMyStatus(){
   if(o.st==="완료" && !$("#done").hidden && $("#d-title").dataset.no != o.no){
     $("#d-title").dataset.no = o.no;
     $("#d-title").textContent = `${o.no}번 음료가 나왔어요`;
-    say(`${o.no}번 손님, 음료가 나왔어요. 카운터에서 받아 가세요.`);
   }
 }
 
@@ -755,11 +754,12 @@ function pickVoice(){
     return vs.find(v => fem.test(v.name)) || vs[0] || null;
   }catch(e){ return null; }
 }
-function speakAlarm(text){
+function speakAlarm(text, bright){
   if(!voiceOn) return;
   try{
     speechSynthesis.cancel();
-    const u = new SpeechSynthesisUtterance(text); u.lang = "ko-KR"; u.rate = 1.0; u.pitch = 1.35; u.volume = 1;
+    const u = new SpeechSynthesisUtterance(text); u.lang = "ko-KR";
+    u.rate = bright ? 1.05 : 1.0; u.pitch = bright ? 1.5 : 1.35; u.volume = 1;   // 손님 호출은 더 밝고 경쾌하게
     const v = pickVoice(); if(v) u.voice = v;
     speechSynthesis.speak(u);
   }catch(e){}
@@ -770,6 +770,28 @@ function alarm(text){
   setTimeout(() => speakAlarm(text), wait);
 }
 function ding(){ alarm("직원 호출이요!"); }
+
+/* 손님 태블릿: 다 만든 메뉴를 소리로 불러 줌. "띵동~ 3번 손님~ 아메리카노 완성되었습니다~"
+   태블릿은 손님이 화면을 한 번이라도 누르면 소리가 켜짐 */
+function unlockAudio(){
+  try{ actx = actx || new (window.AudioContext || window.webkitAudioContext)(); if(actx.state!=="running") actx.resume(); }catch(e){}
+  if(!voiceOn){ voiceOn = true; try{ speechSynthesis.getVoices(); }catch(e){} }
+}
+document.addEventListener("pointerdown", unlockAudio, true);
+const announced = new Set();
+function menuWords(o){
+  return o.items.map(i => i.name + (i.qty > 1 ? ` ${i.qty}${MENU.find(m => m.name===i.name)?.cat==="디저트" ? "개" : "잔"}` : "")).join(", ");
+}
+function announceReady(){
+  if(isStaff()) return;
+  const ready = S.orders.filter(o => o.st==="완료" && (o.doneAt || 0) > S.openedAt && !announced.has(o.no));
+  if(!ready.length) return;
+  ready.forEach(o => announced.add(o.no));
+  const text = ready.map(o => `${o.no}번 손님~ ${menuWords(o)} 완성되었습니다~`).join(" ");
+  try{ navigator.vibrate && navigator.vibrate(200); }catch(e){}
+  const wait = chime();
+  setTimeout(() => speakAlarm(text + " 카운터에서 받아 가세요!", true), wait);
+}
 /* 직원 화면을 보는 동안 휴대폰 화면이 꺼지지 않게 (안 되는 기기는 그냥 넘어감) */
 let wake = null;
 async function keepAwake(){ try{ if(!wake && navigator.wakeLock) { wake = await navigator.wakeLock.request("screen"); wake.addEventListener("release", () => wake = null); } }catch(e){} }
