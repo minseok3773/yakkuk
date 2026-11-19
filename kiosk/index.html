@@ -765,12 +765,45 @@ function speakAlarm(text, bright){
     speechSynthesis.speak(u);
   }catch(e){}
 }
-function alarm(text){
-  try{ navigator.vibrate && navigator.vibrate([300,120,300]); }catch(e){}
-  const wait = chime();
-  setTimeout(() => speakAlarm(text), wait);
+/* AI 목소리 파일(voice/*.mp3)을 이어 붙여 말하기. 파일을 못 읽으면 기기 목소리로 대신 말함 */
+const vcache = {};
+function voicedRange(b){                 // 앞뒤 무음을 잘라 자연스럽게 이어지게
+  const d = b.getChannelData(0), th = 0.01; let a = 0, z = d.length - 1;
+  while(a < z && Math.abs(d[a]) < th) a++;
+  while(z > a && Math.abs(d[z]) < th) z--;
+  return [Math.max(0, a/b.sampleRate - 0.03), Math.min(b.duration, z/b.sampleRate + 0.06)];
 }
-function ding(){ alarm("직원 호출이요!"); }
+function clip(name){
+  if(!vcache[name]){
+    vcache[name] = fetch("voice/" + name + ".mp3")
+      .then(r => { if(!r.ok) throw 0; return r.arrayBuffer(); })
+      .then(buf => new Promise((ok, no) => actx.decodeAudioData(buf, ok, no)))
+      .catch(e => { delete vcache[name]; throw e; });
+  }
+  return vcache[name];
+}
+async function playClips(names, delayMs){
+  if(!actx || !names.length) return false;
+  try{
+    const bufs = await Promise.all(names.map(clip));
+    if(actx.state !== "running") await actx.resume();
+    let t = actx.currentTime + (delayMs || 0)/1000;
+    bufs.forEach(b => {
+      const [s0, s1] = voicedRange(b), src = actx.createBufferSource();
+      src.buffer = b; src.connect(actx.destination); src.start(t, s0, s1 - s0); t += (s1 - s0) + 0.12;
+    });
+    return true;
+  }catch(e){ return false; }
+}
+async function say2(clips, text, bright){      // 목소리 파일 → 안 되면 기기 목소리
+  const wait = chime();
+  if(!(await playClips(clips, wait))) setTimeout(() => speakAlarm(text, bright), wait);
+}
+function alarm(text, clipName){
+  try{ navigator.vibrate && navigator.vibrate([300,120,300]); }catch(e){}
+  say2(clipName ? [clipName] : [], text, false);
+}
+function ding(){ alarm("직원 호출이요!", "staff_call"); }
 
 /* 손님 태블릿: 다 만든 메뉴를 소리로 불러 줌. "띵동~ 3번 손님~ 아메리카노 완성되었습니다~"
    태블릿은 손님이 화면을 한 번이라도 누르면 소리가 켜짐 */
@@ -783,6 +816,7 @@ function unlockAudio(){
   try{ actx = actx || new (window.AudioContext || window.webkitAudioContext)(); if(actx.state!=="running") actx.resume(); }catch(e){}
   if(!voiceOn){ voiceOn = true; try{ speechSynthesis.getVoices(); }catch(e){} }
   unlockSpeech();
+  if(actx && !unlockAudio.pre){ unlockAudio.pre = true; ["staff_order","staff_call","done"].forEach(n => clip(n).catch(()=>{})); }
 }
 document.addEventListener("pointerdown", unlockAudio, true);
 const announced = new Set();
@@ -794,10 +828,23 @@ function announceReady(){
   const ready = S.orders.filter(o => o.st==="완료" && (o.doneAt || 0) > S.openedAt && !announced.has(o.no));
   if(!ready.length) return;
   ready.forEach(o => announced.add(o.no));
-  const text = ready.map(o => `${o.no}번 손님~ ${menuWords(o)} 완성되었습니다~`).join(" ");
+  const text = ready.map(o => `${o.no}번 손님~ ${menuWords(o)} 완성되었습니다~`).join(" ") + " 카운터에서 받아 가세요!";
+  /* 파일로 만들 수 있으면: "3번 손님~" + "아메리카노" + "두 잔" ... + "완성되었습니다~ 카운터에서 받아 가세요!" */
+  let clips = [];
+  for(const o of ready){
+    if(o.no > 100){ clips = null; break; }
+    clips.push("n/" + o.no);
+    for(const i of o.items){
+      const m = MENU.find(x => x.name===i.name);
+      if(!m || i.qty > 9){ clips = null; break; }
+      clips.push("m/" + m.id);
+      if(i.qty > 1) clips.push("q/" + (m.cat==="디저트" ? "ea" : "cup") + i.qty);
+    }
+    if(!clips) break;
+  }
+  if(clips) clips.push("done");
   try{ navigator.vibrate && navigator.vibrate(200); }catch(e){}
-  const wait = chime();
-  setTimeout(() => speakAlarm(text + " 카운터에서 받아 가세요!", true), wait);
+  say2(clips || [], text, true);
 }
 /* 직원 화면을 보는 동안 휴대폰 화면이 꺼지지 않게 (안 되는 기기는 그냥 넘어감) */
 let wake = null;
@@ -805,16 +852,16 @@ async function keepAwake(){ try{ if(!wake && navigator.wakeLock) { wake = await 
 document.addEventListener("visibilitychange", () => { if(!document.hidden && voiceOn) keepAwake(); });
 $("#st-sound").onclick = () => {
   try{ actx = actx || new (window.AudioContext || window.webkitAudioContext)(); actx.resume(); }catch(e){}
-  voiceOn = true; speechReady = true;
+  voiceOn = true;
   keepAwake();
   $("#st-sound").setAttribute("aria-pressed", "true"); $("#st-sound").textContent = "알림 소리 켜짐";
-  chime();
-  speakAlarm("둥지카페 주문!!");      // 누른 순간 바로 말해야 휴대폰이 이후 목소리를 허락함
+  unlockSpeech();                      // 기기 목소리도 누른 순간 깨워 둠(파일을 못 읽을 때 대신 말함)
+  say2(["staff_order"], "둥지카페 주문!!", false);
 };
 function newOrderAlert(list){
   $("#new-text").textContent = `새 주문이 들어왔어요: ${list.map(o => o.no+"번").join(", ")}`;
   $("#new-alert").hidden = false;
-  alarm("둥지카페 주문!!");
+  alarm("둥지카페 주문!!", "staff_order");
 }
 $("#new-ok").onclick = () => $("#new-alert").hidden = true;
 
