@@ -3,6 +3,7 @@
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="쉼표카페">
+<meta name="robots" content="noindex">
 <title>쉼표카페 키오스크</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -360,6 +361,10 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
           <button type="button" class="choice" id="code-enter">코드 입력하기</button>
           <button type="button" class="choice" id="code-link">연결 링크 복사</button>
         </div>
+        <div id="code-qr-box" hidden style="margin-top:10px;text-align:center">
+          <div id="code-qr" style="display:inline-block;background:#fff;padding:8px;border-radius:12px;line-height:0"></div>
+          <p class="muted">태블릿 카메라로 이 QR코드를 찍으면 같은 코드로 연결돼요.</p>
+        </div>
         <ol class="howto" style="margin-top:8px">
           <li>직원 휴대폰에서 <b>새 코드 만들기</b>를 눌러요.</li>
           <li>손님 태블릿에서도 직원 화면에 들어와 <b>코드 입력하기</b>로 같은 코드를 넣어요.</li>
@@ -406,6 +411,7 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
 <style id="pagesize"></style>
 <div class="toast" id="toast" hidden></div>
 
+<script src="https://cdn.jsdelivr.net/npm/qrcode-generator@1.4.4/qrcode.js"></script>
 <script>
 /* ---------- 메뉴 자료: 가게에 맞게 이 부분만 고치면 됩니다 ---------- */
 const CATS = ["커피","차·음료","디저트"];
@@ -758,6 +764,15 @@ function setConn(s){
   $("#conn-help").textContent = help[s] || help.wait;
   $("#code-box").hidden = mode!=="relay";
   $("#code-now").textContent = store.get("code","") || "아직 없음";
+  drawCodeQR();
+}
+/* 연결 링크 QR코드: QR 라이브러리를 못 불러오면 조용히 숨김 */
+function codeLink(){ return location.href.split("#")[0] + "#cafe-" + store.get("code",""); }
+function drawCodeQR(){
+  const box = $("#code-qr-box"), code = store.get("code","");
+  if(!code || typeof qrcode!=="function" || mode!=="relay"){ box.hidden = true; return; }
+  try{ const q = qrcode(0, "M"); q.addData(codeLink()); q.make(); $("#code-qr").innerHTML = q.createSvgTag({cellSize:5, margin:2}); box.hidden = false; }
+  catch(e){ box.hidden = true; }
 }
 async function dbWrite(fn){
   try{ await fn(); }
@@ -949,7 +964,7 @@ $("#code-enter").onclick = () => {
   draw();
 };
 $("#code-link").onclick = async () => {
-  const link = location.href.split("#")[0] + "#cafe-" + store.get("code","");
+  const link = codeLink();
   if(!store.get("code","")){ toast("먼저 코드를 만들어 주세요."); return; }
   try{ await navigator.clipboard.writeText(link); toast("연결 링크를 복사했어요. 태블릿에서 열면 코드가 저절로 들어가요."); }
   catch(e){ toast(link); }
