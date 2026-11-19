@@ -167,6 +167,22 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
 .soldlist .chip[aria-pressed="true"]{background:var(--danger-bg);border-color:var(--danger);color:var(--danger)}
 .muted{color:var(--muted);font-size:.9rem;margin:0}
 
+/* 연결 상태와 알림 띠 */
+.conn{font-size:.9rem;border-radius:999px;padding:.25rem .8rem;font-weight:700;background:var(--soft);color:var(--muted)}
+.conn[data-s="on"]{background:var(--accent);color:var(--accent-ink)}
+.conn[data-s="local"]{background:var(--danger-bg);color:var(--danger)}
+.alert{border-radius:16px;padding:14px 16px;display:flex;gap:12px;align-items:center;flex-wrap:wrap;font-size:1.15rem;font-weight:700}
+.alert span{flex:1;min-width:12rem}
+.alert.new{background:var(--accent);color:var(--accent-ink)}
+.alert.call{background:var(--sun);color:var(--sun-ink)}
+.alert .btn{min-height:3rem;background:var(--surface);color:var(--ink)}
+.ready{background:var(--surface);border:2px solid var(--line);border-radius:18px;padding:.6rem 1.2rem;display:flex;gap:.8rem;align-items:center;flex-wrap:wrap;justify-content:center}
+.ready b{font-family:var(--display);font-weight:400;font-size:1.8rem;color:var(--accent)}
+.status{display:flex;gap:6px;justify-content:center;flex-wrap:wrap}
+.status span{padding:.4rem 1rem;border-radius:999px;background:var(--soft);color:var(--muted);font-weight:700}
+.status span.on{background:var(--accent);color:var(--accent-ink)}
+.howto{margin:0;padding-left:1.2rem;display:flex;flex-direction:column;gap:4px}
+
 /* 창(모달) */
 .back{position:fixed;inset:0;background:rgba(0,0,0,.45);display:flex;align-items:flex-end;justify-content:center;z-index:20;padding:16px;padding-bottom:max(16px,env(safe-area-inset-bottom,0px))}
 @media (min-width:700px){.back{align-items:center}}
@@ -247,6 +263,7 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
 
 <!-- 1. 시작 -->
 <section class="screen" id="start">
+  <div class="ready" id="ready" hidden></div>
   <h1>쉼표카페<br>어서 오세요</h1>
   <p>화면을 눌러 주문을 시작해 주세요. 어려우면 언제든 <b>직원 부르기</b>를 누르세요.</p>
   <div class="where">
@@ -316,6 +333,7 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
   <div class="ticket"><small>주문 번호</small><div class="no num" id="d-no">0</div></div>
   <h2 id="d-title">주문이 들어갔어요</h2>
   <p id="d-msg"></p>
+  <div class="status" id="d-status" aria-live="polite"></div>
   <button class="btn btn-main" id="d-home" type="button">처음 화면으로 (<span class="num" id="d-sec">15</span>초)</button>
 </section>
 
@@ -323,10 +341,24 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
 <section class="screen" id="staff" hidden>
   <div class="top">
     <div class="logo">직원 화면</div>
+    <span class="conn" id="conn" data-s="wait">연결 중</span>
+    <button class="chip" id="st-sound" type="button" aria-pressed="false">알림 소리 켜기</button>
     <button class="chip" id="st-reset" type="button">오늘 기록 지우기</button>
     <button class="chip" id="st-out" type="button">손님 화면으로</button>
   </div>
+  <div class="alert call" id="call-alert" hidden><span id="call-text">손님이 직원을 불렀어요</span><button class="btn" type="button" id="call-ok">가 볼게요</button></div>
+  <div class="alert new" id="new-alert" hidden><span id="new-text"></span><button class="btn" type="button" id="new-ok">확인</button></div>
   <div class="staff-grid">
+    <div class="panel">
+      <h2>기기 연결</h2>
+      <p class="muted" id="conn-help"></p>
+      <ol class="howto">
+        <li>손님용 태블릿과 직원용 휴대폰에서 <b>같은 Claude 계정</b>으로 이 페이지를 열어요.</li>
+        <li>휴대폰에서 직원 화면에 들어와 <b>이 기기를 직원용으로</b>를 눌러요.</li>
+        <li>태블릿에서 주문하면 몇 초 안에 휴대폰에 주문이 떠요.</li>
+      </ol>
+      <div class="choices"><button type="button" class="choice" id="st-role" aria-pressed="false">이 기기를 직원용으로</button></div>
+    </div>
     <div class="panel">
       <h2>오늘 요약</h2>
       <div class="stats" id="stats"></div>
@@ -335,7 +367,7 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
       <h2>주문내역서 인쇄</h2>
       <p class="muted">손님이 결제를 마치면 연결된 프린터로 바로 인쇄합니다.</p>
       <div class="choices">
-        <button type="button" class="choice" id="pr-auto" aria-pressed="true">주문 때 자동 인쇄</button>
+        <button type="button" class="choice" id="pr-auto" aria-pressed="false">주문 때 자동 인쇄</button>
         <button type="button" class="choice" id="pr-cust" aria-pressed="true">손님용</button>
         <button type="button" class="choice" id="pr-kit" aria-pressed="true">만드는 사람용</button>
       </div>
@@ -395,7 +427,7 @@ const store = {
   get(k, d){ try{ const v = localStorage.getItem("cafe."+k); return v ? JSON.parse(v) : d; }catch(e){ return d; } },
   set(k, v){ try{ localStorage.setItem("cafe."+k, JSON.stringify(v)); }catch(e){} }
 };
-const today = () => new Date().toLocaleDateString("ko-KR");
+const today = () => { const d=new Date(); return d.getFullYear()+String(d.getMonth()+1).padStart(2,"0")+String(d.getDate()).padStart(2,"0"); };
 
 const S = {
   where:null, cat:CATS[0], cart:[], big:false, help:false, voice:false,
@@ -430,7 +462,7 @@ function syncToggles(){
 ["#s-big","#m-big"].forEach(s => $(s).onclick = () => { S.big=!S.big; syncToggles(); });
 ["#s-voice","#m-voice"].forEach(s => $(s).onclick = () => { S.voice=!S.voice; syncToggles(); if(S.voice) say("소리 안내를 켰어요."); });
 $("#s-help").onclick = () => { S.help=!S.help; if(S.help){ S.big=true; } syncToggles(); };
-document.querySelectorAll("[data-call]").forEach(b => b.onclick = () => toast("직원에게 알렸어요. 곧 도와드릴게요."));
+document.querySelectorAll("[data-call]").forEach(b => b.onclick = () => { callStaff(); toast("직원에게 알렸어요. 곧 도와드릴게요."); });
 
 $("#here").onclick = () => { S.where="매장"; $("#where-chip").textContent="먹고 가요"; show("menu"); };
 $("#togo").onclick = () => { S.where="포장"; $("#where-chip").textContent="가져가요"; show("menu"); };
@@ -544,7 +576,8 @@ function askPay(method){
 function place(method){
   const no = (S.orders.reduce((a,o)=>Math.max(a,o.no),0) % 999) + 1;
   const order = {no, day:today(), at:Date.now(), where:S.where, method, paid:method==="카드", items:S.cart.map(l=>({name:l.name,opts:l.opts,qty:l.qty,unit:l.unit})), total:total(), st:"접수"};
-  S.orders.push(order); store.set("orders", S.orders);
+  saveOrder(order);
+  S.myNo = no;
   S.cart=[];
   if(P.auto) printOrder(order);
   $("#d-no").textContent = no;
@@ -552,7 +585,8 @@ function place(method){
   $("#d-msg").textContent = (method==="현금" ? "직원에게 이 번호를 말씀하고 돈을 내 주세요. " : "") + `음료가 준비되면 ${no}번을 불러 드릴게요. 번호를 기억해 주세요.`;
   show("done");
   say(`주문 번호는 ${no}번입니다. ` + (method==="현금" ? "카운터에서 현금을 내 주세요." : "준비되면 불러 드릴게요."));
-  let sec = 15; $("#d-sec").textContent = sec;
+  renderMyStatus();
+  let sec = 20; $("#d-sec").textContent = sec;
   clearInterval(place.t);
   place.t = setInterval(() => { sec--; $("#d-sec").textContent = sec; if(sec<=0){ clearInterval(place.t); reset(); } }, 1000);
 }
@@ -614,7 +648,7 @@ $("#st-reset").onclick = () => {
     <h2>오늘 주문 기록을 지울까요?</h2><p class="sub" style="margin:0">주문 번호가 1번부터 다시 시작돼요. 되돌릴 수 없어요.</p>
     <div class="row"><button class="btn btn-line" type="button" id="r-no">그대로 둘게요</button><button class="btn btn-danger" type="button" id="r-ok">지우기</button></div></div></div>`;
   $("#r-no").onclick = closeModal;
-  $("#r-ok").onclick = () => { S.orders=[]; store.set("orders", []); closeModal(); renderStaff(); toast("오늘 기록을 지웠어요."); };
+  $("#r-ok").onclick = () => { resetToday(); closeModal(); toast("오늘 기록을 지웠어요."); };
 };
 const NEXT = {"접수":"제조중","제조중":"완료"};
 const LABEL = {"접수":"만들기 시작","제조중":"다 만들었어요"};
@@ -625,7 +659,7 @@ function renderStaff(){
   $("#stats").innerHTML = `<div><span>주문</span><strong class="num">${os.length}건</strong></div><div><span>메뉴 수</span><strong class="num">${cups}개</strong></div><div><span>매출</span><strong class="num">${won(sum)}</strong></div><div><span>기다리는 주문</span><strong class="num">${wait}건</strong></div>`;
   $("#soldlist").innerHTML = MENU.map(m => `<button type="button" class="chip" data-sold="${m.id}" aria-pressed="${S.sold.has(m.id)}">${S.sold.has(m.id)?"품절 · ":""}${m.name}</button>`).join("");
   $("#soldlist").querySelectorAll("[data-sold]").forEach(b => b.onclick = () => {
-    const id=b.dataset.sold; S.sold.has(id) ? S.sold.delete(id) : S.sold.add(id); store.set("sold",[...S.sold]); renderStaff();
+    const id=b.dataset.sold; S.sold.has(id) ? S.sold.delete(id) : S.sold.add(id); saveSold(); renderStaff();
   });
   const list = [...os].sort((a,b) => (a.st==="완료") - (b.st==="완료") || a.at - b.at);
   $("#orders").innerHTML = list.length ? list.map(o => `<div class="order" data-st="${o.st}">
@@ -634,16 +668,16 @@ function renderStaff(){
     <div class="row"><button class="btn btn-line" type="button" data-print="${o.no}">다시 인쇄</button>${!o.paid?`<button class="btn btn-sun" type="button" data-paid="${o.no}">현금 받았어요</button>`:""}${NEXT[o.st]?`<button class="btn btn-main" type="button" data-next="${o.no}">${LABEL[o.st]}</button>`:""}</div>
   </div>`).join("") : `<p class="muted">아직 들어온 주문이 없어요.</p>`;
   $("#orders").querySelectorAll("[data-next]").forEach(b => b.onclick = () => {
-    const o = os.find(x=>x.no==b.dataset.next); o.st = NEXT[o.st]; store.set("orders", os); renderStaff();
-    if(o.st==="완료") toast(`${o.no}번 손님을 불러 주세요.`);
+    const o = os.find(x=>x.no==b.dataset.next), st = NEXT[o.st]; updateOrder(o, {st});
+    if(st==="완료") toast(`${o.no}번 손님을 불러 주세요.`);
   });
-  $("#orders").querySelectorAll("[data-paid]").forEach(b => b.onclick = () => { const o=os.find(x=>x.no==b.dataset.paid); o.paid=true; store.set("orders", os); renderStaff(); });
+  $("#orders").querySelectorAll("[data-paid]").forEach(b => b.onclick = () => { updateOrder(os.find(x=>x.no==b.dataset.paid), {paid:true}); });
   $("#orders").querySelectorAll("[data-print]").forEach(b => b.onclick = () => printOrder(os.find(x=>x.no==b.dataset.print)));
   syncPrint();
 }
 
 /* ---------- 주문내역서 인쇄 ---------- */
-const P = Object.assign({auto:true, cust:true, kit:true, paper:"80"}, store.get("print", {}));
+const P = Object.assign({auto:false, cust:true, kit:true, paper:"80"}, store.get("print", {}));
 function savePrint(){ store.set("print", P); syncPrint(); }
 function syncPrint(){
   $("#pr-auto").setAttribute("aria-pressed", P.auto);
@@ -684,9 +718,143 @@ function printOrder(o){
 syncPrint();
 /* 다른 창(카운터 화면)에서 주문이 들어오면 직원 화면 새로 고침 */
 window.addEventListener("storage", e => {
-  if(e.key==="cafe.orders"){ S.orders = store.get("orders",[]).filter(o=>o.day===today()); if(!$("#staff").hidden) renderStaff(); }
-  if(e.key==="cafe.sold"){ S.sold = new Set(store.get("sold",[])); if(!$("#menu").hidden) renderMenu(); }
+  if(DB) return;
+  if(e.key==="cafe.orders") gotOrders(store.get("orders",[]).filter(o=>o.day===today()));
+  if(e.key==="cafe.sold") gotSold(store.get("sold",[]));
+  if(e.key==="cafe.call") gotCall(store.get("call",null));
 });
 
+/* ---------- 기기 연결: 태블릿(손님) ↔ 휴대폰(직원) ----------
+   Claude 페이지의 공유 저장소(db)를 씁니다. 없으면 이 기기 안에서만 저장합니다.
+   orders/<날짜>-<번호> : 주문 한 건,  settings/sold : 품절 목록,  settings/call : 직원 호출 */
+let DB = null, firstLoad = true, seen = new Set(), lastCall = +(store.get("lastCall", 0));
+function setConn(s){
+  const el = $("#conn"); el.dataset.s = s;
+  el.textContent = s==="on" ? "기기 연결됨" : s==="local" ? "이 기기에서만" : s==="slow" ? "연결 확인 중" : "연결 중";
+  $("#conn-help").textContent = s==="on" ? "다른 기기와 주문을 실시간으로 주고받고 있어요."
+    : s==="local" ? "지금은 다른 기기와 연결되지 않았어요. Claude에 로그인한 상태로 이 페이지 링크를 열어야 기기끼리 연결돼요. 이 기기 안에서는 계속 쓸 수 있어요."
+    : s==="slow" ? "저장소에 아직 닿지 않았어요. 인터넷 연결을 확인해 주세요. 연결되면 저절로 이어집니다."
+    : "연결하는 중이에요.";
+}
+async function dbWrite(fn){
+  try{ await fn(); }
+  catch(e){
+    if(e && e.code==="unavailable"){ await new Promise(r=>setTimeout(r, 800+Math.random()*800)); try{ await fn(); return; }catch(e2){} }
+    toast("저장하지 못했어요. 인터넷 연결을 확인하고 다시 눌러 주세요.");
+  }
+}
+function saveOrder(o){
+  if(DB){ gotOrders([...S.orders, o]); dbWrite(() => DB.doc(`orders/${o.day}-${o.no}`).set(o)); }
+  else { const os=[...S.orders, o]; store.set("orders", os); gotOrders(os); }
+}
+function updateOrder(o, patch){
+  if(!o) return;
+  if(patch.st==="완료") patch = {...patch, doneAt:Date.now()};   // 손님 화면에 15분만 보이게
+  if(DB){ dbWrite(() => DB.doc(`orders/${o.day}-${o.no}`).update(patch)); }
+  else { const os=S.orders.map(x => x===o ? {...x, ...patch} : x); store.set("orders", os); gotOrders(os); }
+}
+function resetToday(){
+  if(DB){ S.orders.forEach(o => dbWrite(() => DB.doc(`orders/${o.day}-${o.no}`).delete())); }
+  else { store.set("orders", []); gotOrders([]); }
+}
+function saveSold(){
+  if(DB) dbWrite(() => DB.doc("settings/sold").set({ids:[...S.sold]}));
+  else store.set("sold", [...S.sold]);
+}
+function callStaff(){
+  const c = {at:Date.now(), where:S.where || ""};
+  if(DB) dbWrite(() => DB.doc("settings/call").set(c));
+  else store.set("call", c);
+}
+
+/* 받은 자료를 화면에 반영 */
+function gotOrders(list){
+  S.orders = list.filter(o => o && o.day===today()).sort((a,b) => a.at - b.at);
+  const fresh = S.orders.filter(o => !seen.has(o.no));
+  S.orders.forEach(o => seen.add(o.no));
+  if(!firstLoad && fresh.length && isStaff()) newOrderAlert(fresh);
+  firstLoad = false;
+  if(!$("#staff").hidden) renderStaff();
+  renderReady(); renderMyStatus();
+}
+function gotSold(ids){ S.sold = new Set(ids || []); if(!$("#menu").hidden) renderMenu(); if(!$("#staff").hidden) renderStaff(); }
+function gotCall(c){
+  if(!c || !c.at || c.at <= lastCall || Date.now() - c.at > 10*60*1000) return;
+  if(!isStaff()) return;
+  const t = new Date(c.at).toLocaleTimeString("ko-KR",{hour:"2-digit",minute:"2-digit"});
+  $("#call-text").textContent = `손님이 직원을 불렀어요 (${t})`;
+  $("#call-alert").hidden = false; $("#call-alert").dataset.at = c.at;
+  ding(3);
+}
+$("#call-ok").onclick = () => { lastCall = +$("#call-alert").dataset.at || Date.now(); store.set("lastCall", lastCall); $("#call-alert").hidden = true; };
+
+/* 손님 화면: 다 된 번호, 내 주문 진행 상황 */
+function renderReady(){
+  const done = S.orders.filter(o => o.st==="완료" && Date.now() - (o.doneAt || o.at) < 15*60*1000).slice(-4);
+  $("#ready").hidden = !done.length;
+  $("#ready").innerHTML = `<span>음료가 나왔어요. 카운터에서 받아 가세요</span>` + done.map(o => `<b class="num">${o.no}번</b>`).join("");
+}
+function renderMyStatus(){
+  const o = S.orders.find(x => x.no===S.myNo);
+  if(!o){ $("#d-status").innerHTML = ""; return; }
+  const steps = ["접수","제조중","완료"], at = steps.indexOf(o.st);
+  const names = {"접수":"주문 받음","제조중":"만드는 중","완료":"다 됐어요"};
+  $("#d-status").innerHTML = steps.map((s,i) => `<span class="${i<=at?"on":""}">${names[s]}</span>`).join("");
+  if(o.st==="완료" && !$("#done").hidden && $("#d-title").dataset.no != o.no){
+    $("#d-title").dataset.no = o.no;
+    $("#d-title").textContent = `${o.no}번 음료가 나왔어요`;
+    say(`${o.no}번 손님, 음료가 나왔어요. 카운터에서 받아 가세요.`);
+  }
+}
+
+/* 직원 휴대폰: 새 주문 알림(소리·진동) */
+const isStaff = () => store.get("role","")==="staff" || !$("#staff").hidden;
+let actx = null;
+function ding(n){
+  try{ navigator.vibrate && navigator.vibrate([200,100,200]); }catch(e){}
+  if(!actx) return;
+  try{
+    for(let i=0;i<(n||2);i++){
+      const o = actx.createOscillator(), g = actx.createGain(), t = actx.currentTime + i*0.35;
+      o.frequency.value = i%2 ? 660 : 880; o.connect(g); g.connect(actx.destination);
+      g.gain.setValueAtTime(0.0001,t); g.gain.exponentialRampToValueAtTime(0.4,t+0.02); g.gain.exponentialRampToValueAtTime(0.0001,t+0.3);
+      o.start(t); o.stop(t+0.32);
+    }
+  }catch(e){}
+}
+$("#st-sound").onclick = () => {
+  try{ actx = actx || new (window.AudioContext || window.webkitAudioContext)(); actx.resume(); }catch(e){}
+  $("#st-sound").setAttribute("aria-pressed", "true"); $("#st-sound").textContent = "알림 소리 켜짐"; ding(2);
+};
+function newOrderAlert(list){
+  $("#new-text").textContent = `새 주문이 들어왔어요: ${list.map(o => o.no+"번").join(", ")}`;
+  $("#new-alert").hidden = false; ding(2);
+}
+$("#new-ok").onclick = () => $("#new-alert").hidden = true;
+
+/* 이 기기를 직원용으로: 다음에 열면 바로 직원 화면 */
+function syncRole(){ const on = store.get("role","")==="staff"; $("#st-role").setAttribute("aria-pressed", on); $("#st-role").textContent = on ? "직원용 기기로 쓰는 중 (누르면 해제)" : "이 기기를 직원용으로"; }
+$("#st-role").onclick = () => { store.set("role", store.get("role","")==="staff" ? "" : "staff"); syncRole(); };
+syncRole();
+
+
+async function connect(){
+  let db = null;
+  try{ if(window.claude && window.claude.use) db = await window.claude.use("db"); }catch(e){ db = null; }
+  if(!db){ setConn("local"); return; }
+  DB = db; setConn("wait"); firstLoad = true; seen = new Set();
+  const slow = setTimeout(() => setConn("slow"), 10000);
+  const fail = e => { clearTimeout(slow); setConn("local"); DB = null; };
+  DB.collection("orders").where("day","==",today()).onSnapshot(snap => {
+    if(!snap.metadata.fromCache){ clearTimeout(slow); setConn("on"); }
+    gotOrders(snap.docs.map(d => d.data()));
+  }, fail);
+  DB.doc("settings/sold").onSnapshot(d => gotSold(d.exists ? d.data().ids : []), () => {});
+  DB.doc("settings/call").onSnapshot(d => { if(d.exists) gotCall(d.data()); }, () => {});
+}
+
+gotOrders(S.orders);
 syncToggles();
+if(store.get("role","")==="staff") show("staff");
+if(document.readyState === "loading") document.addEventListener("DOMContentLoaded", connect); else connect();
 </script>
