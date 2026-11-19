@@ -1,3 +1,8 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="쉼표카페">
 <title>쉼표카페 키오스크</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -29,6 +34,8 @@
 html{font-size:16px;height:100%}
 html.big{font-size:20px}
 *{box-sizing:border-box}
+[hidden]{display:none!important}
+button{touch-action:manipulation}
 body{margin:0;height:100%;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:1rem;line-height:1.5;-webkit-tap-highlight-color:transparent;user-select:none}
 button{font:inherit;color:inherit;cursor:pointer;border:0;background:none}
 button:focus-visible{outline:3px solid var(--sun);outline-offset:2px}
@@ -185,12 +192,31 @@ html.big .grid{grid-template-columns:repeat(auto-fill,minmax(min(220px,100%),1fr
 
 .toast{position:fixed;left:50%;bottom:max(24px,env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:.8rem 1.4rem;border-radius:14px;font-weight:700;z-index:30;max-width:calc(100% - 32px);text-align:center}
 
+/* 휴대폰: 메뉴가 보일 자리를 먼저 확보. 위 단추는 한 줄로 밀어 넘기고, 장바구니는 낮게 */
 @media (max-width:520px){
+  .screen{gap:8px;padding-block:8px}
   .where{grid-template-columns:1fr}
   .where button{padding:1.2rem 1rem;flex-direction:row;justify-content:center;gap:1rem}
   .where svg{width:48px;height:48px}
-  .line .sum{min-width:4.5rem}
-  .cart{max-height:50%}
+  #menu .top{flex-wrap:nowrap;overflow-x:auto;padding-bottom:2px}
+  #menu .top > *{flex:0 0 auto}
+  .logo{font-size:1.25rem}
+  .chip{min-height:2.6rem;padding:.2rem .75rem;font-size:.9rem}
+  .guide{padding:.5rem .8rem;font-size:.95rem}
+  .help .guide{font-size:1.1rem;padding:.7rem .9rem}
+  .tab{min-height:2.9rem;padding:.3rem 1rem;font-size:1rem}
+  .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+  html.big .grid{grid-template-columns:minmax(0,1fr)}
+  .item{padding:10px}
+  .item .pic{height:64px}
+  .item .pic svg{width:44px;height:44px}
+  .item h3{font-size:1.1rem}
+  .cart{max-height:38%;padding:10px;gap:6px}
+  .line{grid-template-columns:minmax(0,1fr) auto;row-gap:4px}
+  .line > div:first-child{grid-column:1 / -1}
+  .line .sum{min-width:0}
+  .total strong{font-size:1.35rem}
+  .toast{bottom:auto;top:max(16px,env(safe-area-inset-top,0px))}
 }
 /* 인쇄: 화면에는 숨기고, 인쇄할 때는 주문내역서만 남김. 영수증 프린터(감열지)는 흑백이라 색을 고정함 */
 #printarea{display:none}
