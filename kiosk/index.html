@@ -757,7 +757,8 @@ function pickVoice(){
 function speakAlarm(text, bright){
   if(!voiceOn) return;
   try{
-    speechSynthesis.cancel();
+    if(speechSynthesis.speaking || speechSynthesis.pending) speechSynthesis.cancel();
+    if(speechSynthesis.paused) speechSynthesis.resume();
     const u = new SpeechSynthesisUtterance(text); u.lang = "ko-KR";
     u.rate = bright ? 1.05 : 1.0; u.pitch = bright ? 1.5 : 1.35; u.volume = 1;   // 손님 호출은 더 밝고 경쾌하게
     const v = pickVoice(); if(v) u.voice = v;
@@ -773,9 +774,15 @@ function ding(){ alarm("직원 호출이요!"); }
 
 /* 손님 태블릿: 다 만든 메뉴를 소리로 불러 줌. "띵동~ 3번 손님~ 아메리카노 완성되었습니다~"
    태블릿은 손님이 화면을 한 번이라도 누르면 소리가 켜짐 */
+let speechReady = false;
+function unlockSpeech(){
+  if(speechReady) return;
+  try{ const u = new SpeechSynthesisUtterance(" "); u.volume = 0; u.lang = "ko-KR"; speechSynthesis.speak(u); speechReady = true; }catch(e){}
+}
 function unlockAudio(){
   try{ actx = actx || new (window.AudioContext || window.webkitAudioContext)(); if(actx.state!=="running") actx.resume(); }catch(e){}
   if(!voiceOn){ voiceOn = true; try{ speechSynthesis.getVoices(); }catch(e){} }
+  unlockSpeech();
 }
 document.addEventListener("pointerdown", unlockAudio, true);
 const announced = new Set();
@@ -798,11 +805,11 @@ async function keepAwake(){ try{ if(!wake && navigator.wakeLock) { wake = await 
 document.addEventListener("visibilitychange", () => { if(!document.hidden && voiceOn) keepAwake(); });
 $("#st-sound").onclick = () => {
   try{ actx = actx || new (window.AudioContext || window.webkitAudioContext)(); actx.resume(); }catch(e){}
-  voiceOn = true;
-  try{ speechSynthesis.getVoices(); }catch(e){}
+  voiceOn = true; speechReady = true;
   keepAwake();
   $("#st-sound").setAttribute("aria-pressed", "true"); $("#st-sound").textContent = "알림 소리 켜짐";
-  alarm("둥지카페 주문!!");
+  chime();
+  speakAlarm("둥지카페 주문!!");      // 누른 순간 바로 말해야 휴대폰이 이후 목소리를 허락함
 };
 function newOrderAlert(list){
   $("#new-text").textContent = `새 주문이 들어왔어요: ${list.map(o => o.no+"번").join(", ")}`;
