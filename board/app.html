@@ -182,6 +182,9 @@ details.care summary > * + *{margin-left:8px}
 .ai-text{white-space:pre-wrap;background:var(--note-bg);border-radius:8px;padding:10px 12px;font-size:14.5px;line-height:1.65}
 .ask-paste{display:flex;flex-direction:column;gap:8px;border:1px dashed var(--line);border-radius:8px;padding:10px}
 .ask-paste textarea{min-height:80px;font-size:13.5px}
+.vrow{display:flex;gap:8px 14px;flex-wrap:wrap;align-items:center}
+.vrow input{width:86px}
+.vbp,.vwt{display:flex;gap:5px;align-items:center}
 
 /* 인쇄 */
 #print{display:none}
@@ -324,8 +327,13 @@ const logOf = (mid, date) => (db.logs[mid] || {})[date] || null;
 function setLog(mid, date, patch){
   const L = db.logs[mid] = db.logs[mid] || {};
   const e = Object.assign({med:"", signs:[], note:""}, L[date] || {}, patch, {at:new Date().toISOString()});
-  if (!e.med && !arr(e.signs).length && !str(e.note).trim()) delete L[date]; else L[date] = e;
+  if (!e.med && !arr(e.signs).length && !str(e.note).trim() && !hasVitRaw(e)) delete L[date]; else L[date] = e;
 }
+/* 혈압·체중은 일지의 그날 기록에 적은 그대로 둠(bpS·bpD·wt). 범위 판정은 함께 쓰는 vitalsSum */
+const hasVitRaw = e => !!(e && (str(e.bpS).trim() || str(e.bpD).trim() || str(e.wt).trim()));
+const vitOf = (date, e) => ({date, sys:e.bpS, dia:e.bpD, wt:e.wt});
+const vitalsOf = m => Object.keys(db.logs[m.id] || {}).filter(d => db.logs[m.id][d]).map(d => vitOf(d, db.logs[m.id][d]));
+const mdOf = iso => Number(str(iso).slice(5, 7)) + "월 " + Number(str(iso).slice(8, 10)) + "일";
 
 /* 약 점검: 내장 자료와 내장 규칙만 씀 (AI 아님). 같은 입력이면 다시 계산하지 않음 */
 const anaCache = new Map();
@@ -381,6 +389,9 @@ function alertsOf(m){
   const miss = es.filter(e => e && ["part","miss","refuse"].includes(e.med)).length;
   if (miss >= 2) out.push({lv: miss >= 4 ? "hi" : "mid", text:"복약 확인 · 7일 중 " + miss + "일"});
   SIGNS.forEach(s => { const n = es.filter(e => e && arr(e.signs).includes(s.id)).length; if (n >= 3) out.push({lv:"mid", text:s.label + " · 7일 중 " + n + "일"}); });
+  const vs = vitalsSum(vitalsOf(m), m.height), since = lastDays(30)[0], b = vs.lastBp, c = vs.change;
+  if (b && b.date >= since && (b.lvl.rank >= 3 || b.lvl.rank === 1)) out.push({lv:b.lvl.rank >= 3 ? "hi" : "mid", text:"혈압 " + b.lvl.label + " · " + bpText(b) + " (" + mdOf(b.date) + ")"});
+  if (c && c.to.date >= since && (c.pct >= 7 || c.pct <= -5)) out.push({lv:c.pct >= 7 ? "hi" : "mid", text:"체중 " + signed(c.pct) + "% · " + mdOf(c.from.date) + "부터"});
   return out;
 }
 
@@ -423,7 +434,7 @@ function paintBoard(){
   v.append(el("section", {class:"tiles", "aria-label":"요약"},
     el("div", {class:"tile"}, el("b", {text:String(db.members.length)}, el("small", {text:"명"})), el("span", {text:"회원"})),
     el("div", {class:"tile"}, el("b", {text:String(logged)}, el("small", {text:"/ " + db.members.length})), el("span", {text:"오늘 복약 기록"})),
-    el("div", {class:"tile" + (watch.length ? " warn" : "")}, el("b", {text:String(watch.length)}, el("small", {text:"명"})), el("span", {text:"살펴볼 회원 (최근 7일)"})),
+    el("div", {class:"tile" + (watch.length ? " warn" : "")}, el("b", {text:String(watch.length)}, el("small", {text:"명"})), el("span", {text:"살펴볼 회원"})),
     el("div", {class:"tile common"}, el("b", {text:String(cm.rows.length)}, el("small", {text:"가지"})), el("span", {text:"공통으로 먹는 약"}))));
 
   const list = el("div", {class:"rows", role:"list"});
@@ -442,7 +453,7 @@ function paintBoard(){
     watch.length ? el("div", null, ...watch.map(x => el("div", {class:"alert-item"},
       el("div", null, memberLink(x.m.id, "log")),
       el("div", {class:"tags"}, ...x.a.map(a => el("span", {class:"tag " + a.lv, text:a.text}))))))
-      : el("p", {class:"muted", text:"최근 7일 일지에서 살펴볼 회원이 없습니다."}));
+      : el("p", {class:"muted", text:"일지에서 살펴볼 회원이 없습니다."}));
   const comBox = el("section", {class:"card"}, el("h2", {text:"공통으로 먹는 약"}),
     cm.rows.length ? el("div", {class:"rows"}, ...cm.rows.map(r => el("div", {class:"citem"},
       el("div", {class:"tags"}, el("b", {text:r.title}), el("span", {class:"tag common", text:"회원 " + r.ids.length + "명"}), r.cls ? el("span", {class:"muted", text:r.cls}) : null),
@@ -484,6 +495,8 @@ function paintMember(){
   const ageSel = el("select", {"aria-label":"연령대"}, ...["", "20대", "30대", "40대", "50대", "60대", "70대 이상"].map(x => el("option", {value:x, text:x || "선택 안 함"})));
   const sexSel = el("select", {"aria-label":"성별"}, ...["", "남성", "여성"].map(x => el("option", {value:x, text:x || "선택 안 함"})));
   ageSel.value = str(m.age); sexSel.value = str(m.sex);
+  const hIn = el("input", {type:"number", inputmode:"decimal", min:"100", max:"230", step:"0.1", value:str(m.height), "aria-label":"키(cm)"});
+  hIn.addEventListener("change", () => { m.height = hIn.value.trim(); touch(m); saveNow(); if (route.tab === "log") paintLog(m); });
   const onInfo = () => { m.age = ageSel.value; m.sex = sexSel.value; m.conds = Array.from(conds.querySelectorAll("input:checked")).map(c => c.value); touch(m); saveNow(); if (route.tab === "drugs") paintDrugs(m); };
   ageSel.addEventListener("change", onInfo); sexSel.addEventListener("change", onInfo);
   const conds = el("div", {class:"conds", role:"group", "aria-label":"회원 상태"}, ...CONDS.map(c => el("label", null,
@@ -492,8 +505,8 @@ function paintMember(){
   v.append(el("p", {class:"crumb"}, el("a", {href:"#/", text:"← 현황판"})),
     el("section", {class:"card"},
       el("div", {class:"mhead"}, label, el("span", {id:"areas", class:"tags"})),
-      el("details", {class:"minfo"}, el("summary", {text:"회원 정보 (연령대·성별·상태)"}),
-        el("div", {class:"minfo-body"}, el("div", {class:"pair"}, el("label", null, "연령대", ageSel), el("label", null, "성별", sexSel)), conds, el("div", null, del))),
+      el("details", {class:"minfo"}, el("summary", {text:"회원 정보 (연령대·성별·키·상태)"}),
+        el("div", {class:"minfo-body"}, el("div", {class:"pair"}, el("label", null, "연령대", ageSel), el("label", null, "성별", sexSel), el("label", null, "키(cm)", hIn)), conds, el("div", null, del))),
       el("div", {class:"tabs", role:"tablist"}, ...tabs.map(([id, name]) => el("button", {type:"button", role:"tab", "aria-selected":route.tab === id ? "true" : "false", text:name,
         on:{click:() => go("#/m/" + m.id + "/" + id)}})))),
     el("div", {id:"tabBody", class:"wrapcol"}));
@@ -527,7 +540,7 @@ async function copyText(t, btn){
 
 /* ---------- AI: 지금은 요청문을 복사해 ChatGPT에 묻고, 받은 답을 붙여 넣음. 다른 연결 방식이 정해지면 askAI만 바꿈 ---------- */
 const AI_RULES = "너는 한국 정신재활시설의 정신건강사회복지사를 돕는 도우미다. 지킬 것: 진단하지 않는다(건강 상태는 '~로 추정됨', '~일 가능성'으로만 쓴다). "
-  + "약의 중단·감량·변경·추가를 권하지 않는다. 판단이 필요한 것은 '주치의·약사 확인'으로 넘긴다. 회원은 아래 별칭으로만 부른다. 기록에 없는 내용은 지어내지 않는다. 쉬운 우리말로 쓴다.";
+  + "약의 중단·감량·변경·추가를 권하지 않는다. 판단이 필요한 것은 '주치의·약사 확인'으로 넘긴다. 회원은 아래 별칭으로만 부른다. 기록에 없는 내용은 지어내지 않는다. 혈압·체중은 잰 값의 범위로만 말하고 진단명을 단정하지 않는다. 쉬운 우리말로 쓴다.";
 function askAI(prompt, onAnswer){
   const box = el("div", {class:"ask-paste"});
   const raw = el("textarea", {readonly:true, rows:"4", "aria-label":"복사할 요청문"}); raw.hidden = true; raw.value = prompt;
@@ -556,33 +569,43 @@ function overallPrompt(m){
     ...a.lc.labs.map(x => "- [정기 검사] " + x.names.join(", ") + ": " + x.msg), ...a.cc.map(x => "- [" + x.cond + "] " + x.names.join(", ") + ": " + x.msg)];
   const es = lastDays(30).map(d => logOf(m.id, d)).filter(Boolean), miss = es.filter(e => ["part","miss","refuse"].includes(e.med)).length;
   const signs = SIGNS.map(x => [x.label, es.filter(e => arr(e.signs).includes(x.id)).length]).filter(x => x[1]).map(x => x[0] + " " + x[1] + "일");
-  return AI_RULES + "\n\n아래 회원의 약과 최근 기록을 보고 다음 소제목 순서로 700~1000자로 정리하라. 소제목은 대괄호로 쓴다.\n"
-    + "[약으로 미루어 본 건강 상태 (추정)] 진료 영역별로, 근거가 되는 약과 함께 '~로 추정됨'으로 쓴다\n[살펴볼 점] 이 약들로 실무자가 관찰할 것\n"
+  const vt = vitalsText(vitalsOf(m), m.height, 20);
+  return AI_RULES + "\n\n아래 회원의 약" + (vt ? "과 혈압·체중" : "") + ", 최근 기록을 보고 다음 소제목 순서로 " + (vt ? "800~1200자" : "700~1000자") + "로 정리하라. 소제목은 대괄호로 쓴다.\n"
+    + (vt ? "[약과 혈압·체중으로 미루어 본 건강 상태 (추정)] 진료 영역별로, 근거가 되는 약과 측정값을 함께 '~로 추정됨'으로 쓴다\n"
+      + "[혈압·체중으로 본 점] 잰 값의 흐름과 약과 함께 볼 점. 혈압약을 먹는데 높게 나오면 '조절이 충분하지 않을 가능성, 주치의 확인'처럼 쓴다\n"
+      : "[약으로 미루어 본 건강 상태 (추정)] 진료 영역별로, 근거가 되는 약과 함께 '~로 추정됨'으로 쓴다\n")
+    + "[살펴볼 점] 이 약들로 실무자가 관찰할 것\n"
     + "[주치의·약사 문의사항] 3~5개\n[재활계획 반영 초안] 2~4개. 건강관리와 생활 지원 중심으로 쓴다\n\n"
     + whoText(m) + "\n먹는 약:\n" + linesOf(m).map(l => "- " + l).join("\n")
     + "\n내장 규칙 점검 결과:\n" + (checks.join("\n") || "- 걸린 규칙 없음")
     + "\n최근 30일 일지: 기록 " + es.length + "일, 복약 일부·못 먹음·거부 " + miss + "일" + (signs.length ? ", 관찰된 변화: " + signs.join(", ") : "")
-    + factsFor(a.drugs);
+    + (vt ? "\n\n" + vt : "") + factsFor(a.drugs);
 }
 function overallCard(m){
-  const ov = m.ai && m.ai.overall, stale = ov && ov.drugs !== m.drugs;
+  const ov = m.ai && m.ai.overall, stale = ov && ov.drugs !== m.drugs, vn = vitalsSum(vitalsOf(m), m.height).list.length, newV = ov && !stale && vn > (ov.vit || 0);
   const btn = el("button", {type:"button", class:ov ? "mini" : "", text:ov ? "다시 정리" : "AI 종합 정리 만들기 (건강 상태 추정·문의사항·재활계획)"});
-  btn.addEventListener("click", () => btn.replaceWith(askAI(overallPrompt(m), t => { setAI(m, {overall:{text:t, at:new Date().toISOString(), drugs:m.drugs}}); paintDrugs(m); return ""; })));
+  btn.addEventListener("click", () => btn.replaceWith(askAI(overallPrompt(m), t => { setAI(m, {overall:{text:t, at:new Date().toISOString(), drugs:m.drugs, vit:vn}}); paintDrugs(m); return ""; })));
   return el("section", {class:"card"},
     el("div", {class:"card-head"}, el("h2", {text:"AI 종합 정리"}), el("div", {class:"tags"},
-      ov ? el("span", {class:"tag low", text:"참고 · " + aiDate(ov.at)}) : null, stale ? el("span", {class:"tag mid", text:"약이 바뀜 · 다시 정리 필요"}) : null)),
+      ov ? el("span", {class:"tag low", text:"참고 · " + aiDate(ov.at)}) : null, stale ? el("span", {class:"tag mid", text:"약이 바뀜 · 다시 정리 필요"}) : null,
+      newV ? el("span", {class:"tag mid", text:"새 혈압·체중 기록 있음"}) : null)),
     ov ? el("p", {class:"ai-text", text:ov.text}) : null, el("div", null, btn));
 }
 /* 한 달 일지 요약 */
 function monthKeys(m, ym){ return Object.keys(db.logs[m.id] || {}).filter(k => k.startsWith(ym + "-")).sort(); }
 function monthPrompt(m, ym){
   const [y, mo] = ym.split("-").map(Number), keys = monthKeys(m, ym);
-  const lines = keys.map(k => { const e = logOf(m.id, k), md = medOf(e.med);
-    return "- " + korDate(k) + ": 복약 " + (md ? md.label : "기록 없음") + (arr(e.signs).length ? " / 변화: " + e.signs.map(signLabel).join(", ") : "") + (str(e.note).trim() ? " / 메모: " + str(e.note).trim() : ""); });
+  const lines = keys.map(k => { const e = logOf(m.id, k), md = medOf(e.med), bl = bpLevel(e.bpS, e.bpD), wv = wtOk(e.wt);
+    return "- " + korDate(k) + ": 복약 " + (md ? md.label : "기록 없음") + (bl ? " / 혈압 " + numOf(e.bpS) + "/" + numOf(e.bpD) + " (" + bl.label + ")" : "") + (wv ? " / 체중 " + wv + "kg" : "")
+      + (arr(e.signs).length ? " / 변화: " + e.signs.map(signLabel).join(", ") : "") + (str(e.note).trim() ? " / 메모: " + str(e.note).trim() : ""); });
+  const mv = vitalsSum(keys.map(k => vitOf(k, logOf(m.id, k))), m.height);
   return AI_RULES + "\n\n아래는 한 달 동안의 복약·관찰 일지다. 주치의·약사에게 전할 관찰 요약을 다음 소제목 순서로 500~700자로 써라. 소제목은 대괄호로 쓴다.\n"
-    + "[복약] 거른 날(일부만 먹음·못 먹음·거부)의 날짜와 횟수, 흐름\n[관찰된 변화] 어떤 변화가 언제부터 며칠 있었는지\n[메모에서 눈여겨볼 점]\n"
+    + "[복약] 거른 날(일부만 먹음·못 먹음·거부)의 날짜와 횟수, 흐름\n[관찰된 변화] 어떤 변화가 언제부터 며칠 있었는지\n"
+    + (mv.list.length ? "[혈압·체중] 잰 값의 흐름(범위)과 약·복약·관찰된 변화와 함께 볼 점\n" : "") + "[메모에서 눈여겨볼 점]\n"
     + "[주치의·약사에게 전할 말] 2~4개. 약을 바꾸라는 말은 쓰지 않는다\n\n"
-    + whoText(m) + "\n먹는 약: " + (linesOf(m).join(" / ") || "적힌 약 없음") + "\n기간: " + y + "년 " + mo + "월 (기록한 날 " + keys.length + "일)\n일지:\n" + lines.join("\n");
+    + whoText(m) + "\n먹는 약: " + (linesOf(m).join(" / ") || "적힌 약 없음") + "\n기간: " + y + "년 " + mo + "월 (기록한 날 " + keys.length + "일)"
+    + (mv.list.length ? "\n혈압 범위는 프로그램이 대한고혈압학회 2022 분류로 나눈 것이다." + (mv.bmi ? " 키 " + numOf(m.height) + "cm, 이 달 마지막 BMI " + mv.bmi + " (" + mv.bmiLv.label + " 범위)." : "") : "")
+    + "\n일지:\n" + lines.join("\n");
 }
 function monthAICard(m, ym, mo){
   const sm = ((m.ai && m.ai.month) || {})[ym], more = sm && monthKeys(m, ym).length > (sm.days || 0);
@@ -722,11 +745,13 @@ function paintLog(m){
   for (let i = 0; i < first.getDay(); i++) cal.append(el("span", {class:"day out", "aria-hidden":"true"}));
   for (let d = 1; d <= days; d++){
     const iso = calYM + "-" + pad(d), e = logOf(m.id, iso), md = e && medOf(e.med), future = iso > t;
+    const bl = e && bpLevel(e.bpS, e.bpD), wv = e && wtOk(e.wt);
     cal.append(el("button", {type:"button", class:"day" + (iso === t ? " today" : "") + (iso === selDate ? " sel" : ""), disabled:future,
-      "aria-label":korDate(iso) + (md ? ", " + md.label : "") + (e && arr(e.signs).length ? ", 관찰 " + e.signs.length + "개" : "") + (e && str(e.note).trim() ? ", 메모 있음" : ""),
+      "aria-label":korDate(iso) + (md ? ", " + md.label : "") + (e && arr(e.signs).length ? ", 관찰 " + e.signs.length + "개" : "")
+        + (bl ? ", 혈압 " + numOf(e.bpS) + "/" + numOf(e.bpD) + " " + bl.label : "") + (wv ? ", 체중 " + wv + "kg" : "") + (e && str(e.note).trim() ? ", 메모 있음" : ""),
       on:{click:() => { selDate = iso; paintLog(m); }}},
       el("span", {text:String(d)}), el("span", {class:"bar" + (md ? " " + md.lv : "")}),
-      e && (arr(e.signs).length || str(e.note).trim()) ? el("small", {text:[arr(e.signs).length ? "관찰 " + e.signs.length : "", str(e.note).trim() ? "메모" : ""].filter(Boolean).join(" · ")}) : null));
+      e && (arr(e.signs).length || str(e.note).trim() || bl || wv) ? el("small", {text:[arr(e.signs).length ? "관찰 " + e.signs.length : "", bl || wv ? "측정" : "", str(e.note).trim() ? "메모" : ""].filter(Boolean).join(" · ")}) : null));
   }
   const monthEntries = Object.keys(db.logs[m.id] || {}).filter(k => k.startsWith(calYM + "-")).sort().map(k => [k, logOf(m.id, k)]);
   const count = id => monthEntries.filter(([, e]) => e.med === id).length;
@@ -744,8 +769,20 @@ function paintLog(m){
     el("section", {class:"card"}, el("h2", {text:mo + "월 요약"}),
       el("div", {class:"tags"}, el("span", {class:"tag low", text:"기록한 날 " + monthEntries.length + "일"}),
         ...MED.map(x => count(x.id) ? el("span", {class:"tag " + x.lv, text:x.short + " " + count(x.id) + "일"}) : null)),
-      signCount.length ? el("div", {class:"tags"}, ...signCount.map(([l, n]) => el("span", {class:"tag common", text:l + " " + n + "일"}))) : null));
+      signCount.length ? el("div", {class:"tags"}, ...signCount.map(([l, n]) => el("span", {class:"tag common", text:l + " " + n + "일"}))) : null,
+      ...monthVitalRows(m, monthEntries)));
   if (monthEntries.length) body.append(monthAICard(m, calYM, mo));
+}
+/* 이 달에 잰 혈압·체중 (잰 값의 범위) */
+function monthVitalRows(m, entries){
+  const v = vitalsSum(entries.map(([k, e]) => vitOf(k, e)), m.height), rows = [];
+  if (v.bp.length) rows.push(el("div", {class:"tags"},
+    el("span", {class:"tag " + (v.highN ? "hi" : v.lowN ? "mid" : "low"), text:"혈압 " + v.bp.length + "번 · 140/90 이상 " + v.highN + "번" + (v.lowN ? " · 90/60 미만 " + v.lowN + "번" : "")}),
+    ...v.bp.slice(-12).map(x => el("span", {class:"tag " + x.lvl.lv, title:x.lvl.label, text:Number(x.date.slice(8)) + "일 " + bpText(x)}))));
+  if (v.wt.length) rows.push(el("div", {class:"tags"},
+    el("span", {class:"tag low", text:"체중 " + (v.change ? v.change.from.wt + " → " + v.change.to.wt + "kg (" + signed(v.change.kg) + "kg)" : v.wt[0].wt + "kg")}),
+    v.bmi ? el("span", {class:"tag " + v.bmiLv.lv, text:"BMI " + v.bmi + " " + v.bmiLv.label}) : null));
+  return rows;
 }
 function dayEditor(m){
   const d = selDate, e = logOf(m.id, d) || {med:"", signs:[], note:""};
@@ -759,11 +796,23 @@ function dayEditor(m){
   note.value = str(e.note);
   note.addEventListener("input", () => { setLog(m.id, d, {note:note.value}); saveSoon(); });
   note.addEventListener("change", refresh);
+  const vIn = (ph, label, val, mode) => el("input", {type:"number", inputmode:mode, step:mode === "decimal" ? "0.1" : "1", placeholder:ph, "aria-label":label, value:str(val)});
+  const sys = vIn("수축기", "혈압 수축기(높은 값)", e.bpS, "numeric"), dia = vIn("이완기", "혈압 이완기(낮은 값)", e.bpD, "numeric"), wt = vIn("체중", "체중(kg)", e.wt, "decimal");
+  const bpTag = el("span", {class:"tag"}), bmiTag = el("span", {class:"tag"});
+  const showV = () => {
+    const l = bpLevel(sys.value, dia.value), b = bmiOf(wt.value, m.height), bl = bmiLevel(b);
+    bpTag.hidden = !l; if (l){ bpTag.className = "tag " + l.lv; bpTag.textContent = "혈압 " + l.label; }
+    bmiTag.hidden = !b; if (b){ bmiTag.className = "tag " + bl.lv; bmiTag.textContent = "BMI " + b + " " + bl.label; }
+  };
+  [sys, dia, wt].forEach(x => x.addEventListener("input", () => { setLog(m.id, d, {bpS:sys.value.trim(), bpD:dia.value.trim(), wt:wt.value.trim()}); saveSoon(); showV(); }));
+  showV();
+  const vit = el("div", {class:"vrow"}, el("span", {class:"vbp"}, sys, "/", dia, el("span", {class:"muted", text:"mmHg"})),
+    el("span", {class:"vwt"}, wt, el("span", {class:"muted", text:"kg"})), bpTag, bmiTag);
   const clear = el("button", {type:"button", class:"mini", text:"이 날 기록 지우기"});
   twoStep(clear, "한 번 더 누르면 지움", () => { if (db.logs[m.id]) delete db.logs[m.id][d]; saveNow(); refresh(); });
   return el("section", {class:"card", id:"dayEditor"},
     el("div", {class:"card-head"}, el("h2", {text:korDate(d) + (d === today() ? " · 오늘" : "")}), logOf(m.id, d) ? clear : null),
-    el("h3", {text:"복약"}), seg, el("h3", {text:"관찰된 변화"}), signs, el("h3", {text:"메모"}), note);
+    el("h3", {text:"복약"}), seg, el("h3", {text:"관찰된 변화"}), signs, el("h3", {text:"혈압·체중"}), vit, el("h3", {text:"메모"}), note);
 }
 
 /* 쉬운 안내문: 기본 문장은 분류에 따라 채우고, 실무자가 고쳐 쓴 것은 회원별로 저장 */
@@ -869,16 +918,23 @@ function printLog(m, ym){
   const rows = [];
   for (let d = 1; d <= days; d++){
     const iso = ym + "-" + pad(d), e = logOf(m.id, iso), md = e && medOf(e.med);
-    rows.push(el("tr", null, el("td", {text:korDate(iso)}), el("td", {text:md ? md.label : ""}), el("td", {text:e ? arr(e.signs).map(signLabel).join(", ") : ""}), el("td", {text:e ? str(e.note) : ""})));
+    const bl = e && bpLevel(e.bpS, e.bpD), wv = e && wtOk(e.wt);
+    rows.push(el("tr", null, el("td", {text:korDate(iso)}), el("td", {text:md ? md.label : ""}),
+      el("td", {text:bl ? numOf(e.bpS) + "/" + numOf(e.bpD) + (bl.rank ? " " + bl.label : "") : ""}), el("td", {text:wv ? String(wv) : ""}),
+      el("td", {text:e ? arr(e.signs).map(signLabel).join(", ") : ""}), el("td", {text:e ? str(e.note) : ""})));
   }
-  const es = Object.keys(db.logs[m.id] || {}).filter(k => k.startsWith(ym + "-")).map(k => logOf(m.id, k)), aiSum = ((m.ai && m.ai.month) || {})[ym];
+  const ks = Object.keys(db.logs[m.id] || {}).filter(k => k.startsWith(ym + "-")).sort(), es = ks.map(k => logOf(m.id, k)), aiSum = ((m.ai && m.ai.month) || {})[ym];
+  const mv = vitalsSum(ks.map(k => vitOf(k, logOf(m.id, k))), m.height);
   const sum = MED.map(x => [x.short, es.filter(e => e.med === x.id).length]).filter(x => x[1]).map(x => x[0] + " " + x[1] + "일")
-    .concat(SIGNS.map(s => [s.label, es.filter(e => arr(e.signs).includes(s.id)).length]).filter(x => x[1]).map(x => x[0] + " " + x[1] + "일"));
+    .concat(SIGNS.map(s => [s.label, es.filter(e => arr(e.signs).includes(s.id)).length]).filter(x => x[1]).map(x => x[0] + " " + x[1] + "일"))
+    .concat(mv.bp.length ? ["혈압 " + mv.bp.length + "번(140/90 이상 " + mv.highN + "번)"] : [])
+    .concat(mv.change ? ["체중 " + mv.change.from.wt + "→" + mv.change.to.wt + "kg"] : mv.wt.length ? ["체중 " + mv.wt[0].wt + "kg"] : [])
+    .concat(mv.bmi ? ["BMI " + mv.bmi + " " + mv.bmiLv.label] : []);
   doPrint([el("div", {class:"p-page p-log"},
     el("h1", {text:"복약·관찰 일지"}),
     el("p", {class:"p-meta", text:"회원: " + str(m.label) + " · " + y + "년 " + mo + "월 · 출력 " + today() + " · 관찰 기록 (진단 아님)"}),
     el("p", {class:"p-meta", text:"먹는 약: " + (linesOf(m).join(" / ") || "적힌 약 없음")}),
-    el("table", null, el("thead", null, el("tr", null, el("th", {text:"날짜"}), el("th", {text:"복약"}), el("th", {text:"관찰된 변화"}), el("th", {text:"메모"}))), el("tbody", null, ...rows)),
+    el("table", null, el("thead", null, el("tr", null, el("th", {text:"날짜"}), el("th", {text:"복약"}), el("th", {text:"혈압"}), el("th", {text:"체중(kg)"}), el("th", {text:"관찰된 변화"}), el("th", {text:"메모"}))), el("tbody", null, ...rows)),
     el("p", {class:"p-meta", style:"margin-top:8pt", text:"요약: 기록한 날 " + es.length + "일" + (sum.length ? " · " + sum.join(" · ") : "")}),
     aiSum ? el("h2", {text:"AI 요약 (참고자료, 진단 아님)"}) : null, aiSum ? el("p", {class:"p-ai", text:aiSum.text}) : null)]);
 }
@@ -917,29 +973,56 @@ function syncPlan(list){
     if (!m){ plan.add.push(o); return; }
     if (!m.from || str(o.updated) <= str(m.fromUpdated)) return;
     const drugs = str((o.input || {}).drugs);
-    if (drugs === str(m.drugs) || (m.importedDrugs != null && str(m.drugs) === str(m.importedDrugs))) plan.upd.push([m, o]);
+    if (drugs === str(m.drugs) || (m.importedDrugs != null && str(m.drugs) === str(m.importedDrugs))) plan.upd.push([m, o, drugs !== str(m.drugs)]);
     else plan.kept.push([m, o]);
   });
   return plan;
 }
+function takeVitals(m, i){
+  const L = db.logs[m.id] = db.logs[m.id] || {}, at = new Date().toISOString();
+  let n = 0;
+  arr(i.vitals).forEach(v => {
+    if (!v || !/^\d{4}-\d{2}-\d{2}$/.test(str(v.date)) || hasVitRaw(L[v.date])) return;
+    const p = {};
+    if (bpLevel(v.sys, v.dia)){ p.bpS = String(numOf(v.sys)); p.bpD = String(numOf(v.dia)); }
+    if (wtOk(v.wt)) p.wt = String(wtOk(v.wt));
+    if (!Object.keys(p).length) return;
+    L[v.date] = Object.assign({med:"", signs:[], note:""}, L[v.date] || {}, p, {at});
+    n++;
+  });
+  if (!Object.keys(L).length) delete db.logs[m.id];
+  return n;
+}
 function applyPlan(plan){
   const now = new Date().toISOString();
+  let vit = 0;
   plan.add.forEach(o => {
-    const i = o.input || {};
-    db.members.push({id:newId(), from:o.id, fromUpdated:str(o.updated), importedDrugs:str(i.drugs), label:str(o.label).slice(0, 20) || nextLabel(),
-      age:str(i.age), sex:str(i.sex), conds:arr(i.conds).map(str), drugs:str(i.drugs), guide:{}, created:now, updated:now});
+    const i = o.input || {}, m = {id:newId(), from:o.id, fromUpdated:str(o.updated), importedDrugs:str(i.drugs), label:str(o.label).slice(0, 20) || nextLabel(),
+      age:str(i.age), sex:str(i.sex), height:str(i.height).trim(), conds:arr(i.conds).map(str), drugs:str(i.drugs), guide:{}, created:now, updated:now};
+    db.members.push(m);
+    vit += takeVitals(m, i);
   });
   plan.upd.forEach(([m, o]) => {
     const i = o.input || {};
-    Object.assign(m, {drugs:str(i.drugs), importedDrugs:str(i.drugs), age:str(i.age), sex:str(i.sex), conds:arr(i.conds).map(str), fromUpdated:str(o.updated)});
+    Object.assign(m, {drugs:str(i.drugs), importedDrugs:str(i.drugs), age:str(i.age), sex:str(i.sex), height:str(i.height).trim() || str(m.height), conds:arr(i.conds).map(str), fromUpdated:str(o.updated)});
+    vit += takeVitals(m, i);
     touch(m);
   });
+  plan.kept.forEach(([m, o]) => {
+    const i = o.input || {};
+    vit += takeVitals(m, i);
+    if (!str(m.height).trim() && str(i.height).trim()){ m.height = str(i.height).trim(); touch(m); }
+  });
+  plan.vit = vit;
   saveNow();
 }
 function planText(plan, where){
   const names = list => list.map(([m]) => str(m.label)).join(", "), parts = [];
   if (plan.add.length) parts.push("새 회원 " + plan.add.length + "명을 가져왔습니다");
-  if (plan.upd.length) parts.push("약이 바뀐 회원 " + plan.upd.length + "명(" + names(plan.upd) + ")의 약을 새로 맞췄습니다");
+  const chg = plan.upd.filter(x => x[2]), info = plan.upd.filter(x => !x[2]);
+  if (chg.length) parts.push("약이 바뀐 회원 " + chg.length + "명(" + names(chg) + ")의 약을 새로 맞췄습니다");
+  if (info.length) parts.push("기록이 바뀐 회원 " + info.length + "명(" + names(info) + ")의 정보를 맞췄습니다");
+  if (plan.vit) parts.push("혈압·체중 " + plan.vit + "건을 일지에 넣었습니다");
   let t = where + (parts.length ? "에서 " + parts.join(", ") + "." : "에서 새로 가져오거나 바꿀 회원이 없습니다.");
   if (plan.kept.length) t += " 새 약국이에서도 약을 고친 회원(" + names(plan.kept) + ")은 그대로 두었습니다. 두 쪽의 약을 비교해 맞춰 주세요.";
   return t;
