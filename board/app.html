@@ -9,7 +9,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600&family=Noto+Serif+KR:wght@600&display=swap" rel="stylesheet">
 <style>
-/* 약국이 현황판: 회원을 한눈에 보는 현황판 + 약 정리 + 복약·관찰 일지 + 쉬운 안내문. 기록은 이 브라우저에만 저장. */
+/* 약국이 현황판: 회원을 한눈에 보는 현황판 + 회원 한 화면(약 정리, 혈압·체중·혈당, AI 종합 정리, 쉬운 안내문). 기록은 이 브라우저에만 저장. */
 :root{
   --bg:#f2f5f4; --surface:#ffffff; --ink:#1c2b2a; --muted:#5a6967; --line:#d3dbd9;
   --accent:#0e6b62; --accent-ink:#ffffff; --note-bg:#e6f0ee;
@@ -67,6 +67,8 @@ input[type=checkbox]{width:auto}
 .card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px;display:flex;flex-direction:column;gap:12px;min-width:0}
 .card-head{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
 .wrapcol{display:flex;flex-direction:column;gap:16px;min-width:0}
+#view{display:flex;flex-direction:column;gap:16px;min-width:0}
+#view > :empty{display:none}
 .chip.on{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
 
 /* 머리 */
@@ -97,20 +99,11 @@ details.menu > summary::-webkit-details-marker{display:none}
 @media (max-width:640px){.tiles{grid-template-columns:repeat(2,minmax(0,1fr))}}
 .find{max-width:220px}
 .rows{display:flex;flex-direction:column}
-.row{display:grid;grid-template-columns:minmax(120px,1.2fr) minmax(230px,1.6fr) 150px minmax(120px,1.4fr);gap:12px;align-items:center;padding:10px 0;border-top:1px solid var(--line)}
+.row{display:grid;grid-template-columns:minmax(120px,1fr) minmax(200px,1.5fr) minmax(140px,1.4fr);gap:12px;align-items:center;padding:10px 0;border-top:1px solid var(--line)}
 .row.head{border-top:0;padding-top:0;color:var(--muted);font-size:12.5px;font-weight:600}
 .who{display:flex;flex-direction:column;gap:2px;min-width:0}
 .who button{border:0;background:none;padding:0;text-align:left;font-weight:600;font-size:15.5px;color:var(--accent);text-decoration:underline;text-underline-offset:3px;overflow-wrap:anywhere}
-.seg{display:flex;gap:4px;flex-wrap:wrap}
-.seg button{padding:4px 9px;font-size:13px}
-.seg button.on.ok{background:var(--ok);border-color:var(--ok);color:var(--surface)}
-.seg button.on.mid{background:var(--warn);border-color:var(--warn);color:var(--surface)}
-.seg button.on.hi{background:var(--crit);border-color:var(--crit);color:var(--surface)}
-.week{display:grid;grid-template-columns:repeat(7,18px);gap:3px}
-.week i{position:relative;width:18px;height:18px;border-radius:4px;background:var(--bg);border:1px solid var(--line)}
-.week i.ok{background:var(--ok);border-color:var(--ok)} .week i.mid{background:var(--warn);border-color:var(--warn)} .week i.hi{background:var(--crit);border-color:var(--crit)}
-.week i.sign::after{content:"";position:absolute;right:-3px;top:-3px;width:7px;height:7px;border-radius:50%;background:var(--common);border:1px solid var(--surface)}
-.week i.today{outline:2px solid var(--ink);outline-offset:1px}
+.meas{display:flex;gap:5px;flex-wrap:wrap;align-items:center}
 @media (max-width:820px){
   .row{grid-template-columns:1fr;gap:6px}
   .row.head{display:none}
@@ -134,9 +127,6 @@ details.minfo summary{cursor:pointer;font-weight:500;font-size:14px;color:var(--
 .conds{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:4px 10px}
 .conds label{display:flex;gap:6px;align-items:flex-start;font-size:13.5px}
 .conds input{margin-top:4px}
-.tabs{display:flex;gap:6px;flex-wrap:wrap;border-bottom:1px solid var(--line);padding-bottom:0}
-.tabs button{border:0;border-bottom:3px solid transparent;border-radius:0;background:none;padding:8px 12px;font-weight:600;color:var(--muted)}
-.tabs button[aria-selected="true"]{color:var(--accent);border-bottom-color:var(--accent)}
 .sum{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
 .drugs{display:flex;flex-direction:column;gap:12px}
 .drug{display:flex;flex-direction:column;gap:6px;padding-top:12px;border-top:1px solid var(--line)}
@@ -154,25 +144,16 @@ details.care summary{cursor:pointer;font-weight:600}
 details.care summary > * + *{margin-left:8px}
 .care-body{display:flex;flex-direction:column;gap:6px;padding-top:8px;font-size:14.5px}
 
-/* 일지 */
-.cal-head{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
-.cal-head b{font-size:17px;min-width:7.5em;text-align:center}
-.cal{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:4px}
-.cal .wd{text-align:center;font-size:12.5px;color:var(--muted);font-weight:600}
-.cal .wd.sun{color:var(--crit)}
-.day{min-height:62px;padding:5px 6px;display:flex;flex-direction:column;align-items:flex-start;gap:3px;font-weight:500;border-radius:8px;text-align:left}
-.day.out{visibility:hidden}
-.day.today{outline:2px solid var(--ink);outline-offset:-2px}
-.day.sel{background:var(--note-bg);border-color:var(--accent)}
-.day .bar{height:6px;width:100%;border-radius:3px;background:transparent}
-.day .bar.ok{background:var(--ok)} .day .bar.mid{background:var(--warn)} .day .bar.hi{background:var(--crit)}
-.day small{font-size:11.5px;color:var(--muted);font-weight:500}
-@media (max-width:560px){.day{min-height:48px;padding:4px} .day small{display:none}}
-.legend{display:flex;gap:12px;flex-wrap:wrap;font-size:12.5px;color:var(--muted)}
-.legend i{display:inline-block;width:12px;height:8px;border-radius:2px;margin-right:4px;vertical-align:middle}
-.signs{display:flex;gap:6px;flex-wrap:wrap}
-.signs label{display:flex;gap:5px;align-items:center;border:1px solid var(--line);border-radius:999px;padding:3px 10px;font-size:13.5px;cursor:pointer}
-.signs label:has(input:checked){background:var(--common-bg);border-color:var(--common);color:var(--common);font-weight:600}
+/* 혈압·체중·혈당 */
+.vform{display:flex;gap:8px 14px;flex-wrap:wrap;align-items:center}
+.vform input{width:86px}
+.vform input[type=date]{width:auto}
+.vform select{width:auto}
+.vlist{display:flex;flex-direction:column}
+.vitem{display:flex;gap:6px 12px;align-items:center;flex-wrap:wrap;padding:7px 0;border-top:1px solid var(--line);font-size:14.5px}
+.vitem:first-child{border-top:0}
+.vitem .vdate{font-weight:600;min-width:7.5em}
+.vitem button{margin-left:auto}
 
 /* 안내문 */
 .gitem{display:flex;flex-direction:column;gap:6px;padding-top:12px;border-top:1px solid var(--line)}
@@ -295,20 +276,9 @@ const today = () => isoOf(new Date());
 const korDate = s => { const d = dayOf(s); return (d.getMonth() + 1) + "월 " + d.getDate() + "일 (" + WD[d.getDay()] + ")"; };
 function lastDays(n){ const t = dayOf(today()), out = []; for (let i = n - 1; i >= 0; i--) out.push(isoOf(addDays(t, -i))); return out; }
 
-/* ---------- 회원과 일지 ---------- */
-const MED = [
-  {id:"all", label:"다 먹음", short:"다 먹음", lv:"ok"},
-  {id:"part", label:"일부만 먹음", short:"일부", lv:"mid"},
-  {id:"miss", label:"못 먹음", short:"못 먹음", lv:"hi"},
-  {id:"refuse", label:"먹기를 거부함", short:"거부", lv:"hi"}
-];
-const medOf = id => MED.find(x => x.id === id) || null;
-const SIGNS = [
-  {id:"sleepy", label:"졸림"}, {id:"dizzy", label:"어지러움"}, {id:"consti", label:"변비"}, {id:"tremor", label:"떨림·뻣뻣함"},
-  {id:"restless", label:"안절부절"}, {id:"mouth", label:"입 마름"}, {id:"appetite", label:"식욕·체중 변화"}, {id:"sleep", label:"잠 문제"},
-  {id:"mood", label:"기분·불안 변화"}, {id:"etc", label:"그 밖의 변화"}
-];
-const signLabel = id => (SIGNS.find(s => s.id === id) || {label:id}).label;
+/* ---------- 회원과 날짜별 기록 ----------
+   2026-11-21 사용자 결정으로 날짜별 일지(복약·관찰된 변화·메모·달력)를 화면에서 뺌. 예전에 적은 med·signs·note는 지우지 않고
+   db.logs에 그대로 두며 백업에도 들어감. 지금은 그날 기록에 혈압·체중·혈당만 적음 */
 const memberById = id => db.members.find(m => m.id === id) || null;
 const linesOf = m => str(m.drugs).split("\n").map(v => v.trim()).filter(Boolean);
 const orderOf = id => { const i = db.members.findIndex(m => m.id === id); return i < 0 ? db.members.length : i; };
@@ -330,12 +300,12 @@ function setLog(mid, date, patch){
   const e = Object.assign({med:"", signs:[], note:""}, L[date] || {}, patch, {at:new Date().toISOString()});
   if (!e.med && !arr(e.signs).length && !str(e.note).trim() && !hasVitRaw(e) && !hasBgRaw(e)) delete L[date]; else L[date] = e;
 }
-/* 혈압·체중은 일지의 그날 기록에 적은 그대로 둠(bpS·bpD·wt). 범위 판정은 함께 쓰는 vitalsSum */
+/* 혈압·체중은 날짜별 기록(db.logs)에 적은 그대로 둠(bpS·bpD·wt). 범위 판정은 함께 쓰는 vitalsSum */
 const hasVitRaw = e => !!(e && (str(e.bpS).trim() || str(e.bpD).trim() || str(e.wt).trim()));
 const vitOf = (date, e) => ({date, sys:e.bpS, dia:e.bpD, wt:e.wt});
 const vitalsOf = m => Object.keys(db.logs[m.id] || {}).filter(d => db.logs[m.id][d]).map(d => vitOf(d, db.logs[m.id][d]));
 const mdOf = iso => Number(str(iso).slice(5, 7)) + "월 " + Number(str(iso).slice(8, 10)) + "일";
-/* 혈당(mg/dL): 일지의 그날 기록에 적은 그대로 둠(bg). 잰 때 bgWhen = fast 공복 · post 식후 2시간 · rand 식사와 무관 · "" 모름.
+/* 혈당(mg/dL): 날짜별 기록(db.logs)에 적은 그대로 둠(bg). 잰 때 bgWhen = fast 공복 · post 식후 2시간 · rand 식사와 무관 · "" 모름.
    범위는 대한당뇨병학회 당뇨병 진료지침(2023)의 기준값: 공복 100 미만 정상·100~125 조금 높음(공복혈당장애)·126 이상 높음,
    식후 2시간 140 미만 정상·140~199 조금 높음(내당능장애)·200 이상 높음, 식사와 무관하거나 잰 때를 모르면 200 이상만 높음,
    70 미만 낮음·54 미만 매우 낮음(저혈당 1·2단계). 잰 값의 범위일 뿐 진단 아님. 약사·의사 검토를 받지 않은 기준 */
@@ -414,17 +384,14 @@ function boardCommon(){
   return {rows, byLine};
 }
 
-/* 살펴볼 점: 최근 7일 일지에서 복약을 거른 날, 같은 변화가 이어진 날 (관찰 기록일 뿐 진단 아님) */
+/* 살펴볼 점: 최근에 잰 혈압·체중·혈당 (잰 값의 범위일 뿐 진단 아님). last = 마지막 측정 자체를 알리는 것(회원 줄에는 값으로 이미 보임) */
 function alertsOf(m){
-  const es = lastDays(7).map(d => logOf(m.id, d)), out = [];
-  const miss = es.filter(e => e && ["part","miss","refuse"].includes(e.med)).length;
-  if (miss >= 2) out.push({lv: miss >= 4 ? "hi" : "mid", text:"복약 확인 · 7일 중 " + miss + "일"});
-  SIGNS.forEach(s => { const n = es.filter(e => e && arr(e.signs).includes(s.id)).length; if (n >= 3) out.push({lv:"mid", text:s.label + " · 7일 중 " + n + "일"}); });
-  const vs = vitalsSum(vitalsOf(m), m.height), since = lastDays(30)[0], b = vs.lastBp, c = vs.change;
-  if (b && b.date >= since && (b.lvl.rank >= 3 || b.lvl.rank === 1)) out.push({lv:b.lvl.rank >= 3 ? "hi" : "mid", text:"혈압 " + b.lvl.label + " · " + bpText(b) + " (" + mdOf(b.date) + ")"});
+  const out = [], since = lastDays(30)[0];
+  const vs = vitalsSum(vitalsOf(m), m.height), b = vs.lastBp, c = vs.change;
+  if (b && b.date >= since && (b.lvl.rank >= 3 || b.lvl.rank === 1)) out.push({lv:b.lvl.rank >= 3 ? "hi" : "mid", last:true, text:"혈압 " + b.lvl.label + " · " + bpText(b) + " (" + mdOf(b.date) + ")"});
   if (c && c.to.date >= since && (c.pct >= 7 || c.pct <= -5)) out.push({lv:c.pct >= 7 ? "hi" : "mid", text:"체중 " + signed(c.pct) + "% · " + mdOf(c.from.date) + "부터"});
   const g = bgOf(m), lg = g[g.length - 1], gLast = lg && lg.date >= since && (lg.lvl.low || lg.lvl.high), low7 = g.filter(x => x.lvl.low && x.date >= lastDays(7)[0]);
-  if (gLast) out.push({lv:"hi", text:"혈당 " + lg.lvl.label + " · " + bgShort(lg) + " (" + mdOf(lg.date) + ")"});
+  if (gLast) out.push({lv:"hi", last:true, text:"혈당 " + lg.lvl.label + " · " + bgShort(lg) + " (" + mdOf(lg.date) + ")"});
   if (low7.length && !(gLast && lg.lvl.low)) out.push({lv:"hi", text:"혈당 70 미만 · 7일 중 " + low7.length + "번"});
   return out;
 }
@@ -434,7 +401,7 @@ let route = {view:"board"};
 function go(hash){ if (location.hash === hash) paint(); else location.hash = hash; }
 function readHash(){
   const p = location.hash.replace(/^#\/?/, "").split("/");
-  if (p[0] === "m" && memberById(p[1])) return {view:"member", id:p[1], tab:["drugs","log","guide"].includes(p[2]) ? p[2] : "drugs"};
+  if (p[0] === "m" && memberById(p[1])) return {view:"member", id:p[1]};   /* 예전 주소(#/m/회원/log 등)도 회원 화면으로 */
   return {view:"board"};
 }
 window.addEventListener("hashchange", () => { saveNow(); route = readHash(); paint(); window.scrollTo(0, 0); });
@@ -446,37 +413,35 @@ function paint(){
 function memberLink(id, tab, extra){
   const m = memberById(id);
   return el("button", Object.assign({type:"button", class:"mini chip" + (route.id === id && route.view === "member" ? " on" : ""), text:m ? str(m.label) : "회원",
-    on:{click:() => go("#/m/" + id + "/" + (tab || "drugs"))}}, extra || {}));
+    on:{click:() => go("#/m/" + id)}}, extra || {}));
 }
 
 /* ---------- 현황판 ---------- */
 let findText = "";
 function paintBoard(){
   const v = $("view"); v.textContent = "";
-  const t = today(), cm = boardCommon();
+  const cm = boardCommon();
   if (!db.members.length){
     const old = oldPlan().add;
     v.append(el("section", {class:"card empty"},
       el("h2", {text:"회원이 아직 없습니다"}),
       el("div", {class:"btns"},
-        el("button", {type:"button", class:"primary", text:"+ 첫 회원 추가", on:{click:() => { const m = addMember(); focusDrugs = true; go("#/m/" + m.id + "/drugs"); }}}),
+        el("button", {type:"button", class:"primary", text:"+ 첫 회원 추가", on:{click:() => { const m = addMember(); focusDrugs = true; go("#/m/" + m.id); }}}),
         old.length ? el("button", {type:"button", text:"기존 약국이 회원 가져오기 (" + old.length + "명)", on:{click:importOld}}) : null)));
     return;
   }
-  const logged = db.members.filter(m => logOf(m.id, t) && logOf(m.id, t).med).length;
   const watch = db.members.map(m => ({m, a:alertsOf(m)})).filter(x => x.a.length);
   v.append(el("section", {class:"tiles", "aria-label":"요약"},
     el("div", {class:"tile"}, el("b", {text:String(db.members.length)}, el("small", {text:"명"})), el("span", {text:"회원"})),
-    el("div", {class:"tile"}, el("b", {text:String(logged)}, el("small", {text:"/ " + db.members.length})), el("span", {text:"오늘 복약 기록"})),
     el("div", {class:"tile" + (watch.length ? " warn" : "")}, el("b", {text:String(watch.length)}, el("small", {text:"명"})), el("span", {text:"살펴볼 회원"})),
     el("div", {class:"tile common"}, el("b", {text:String(cm.rows.length)}, el("small", {text:"가지"})), el("span", {text:"공통으로 먹는 약"}))));
 
   const list = el("div", {class:"rows", role:"list"});
   const fill = () => {
     list.textContent = "";
-    list.append(el("div", {class:"row head", "aria-hidden":"true"}, el("span", {text:"회원"}), el("span", {text:"오늘 복약"}), el("span", {text:"최근 7일"}), el("span", {text:"확인할 점"})));
+    list.append(el("div", {class:"row head", "aria-hidden":"true"}, el("span", {text:"회원"}), el("span", {text:"마지막 측정"}), el("span", {text:"확인할 점"})));
     const q = findText.trim();
-    db.members.filter(m => !q || str(m.label).includes(q)).forEach(m => list.append(memberRow(m, t)));
+    db.members.filter(m => !q || str(m.label).includes(q)).forEach(m => list.append(memberRow(m)));
   };
   fill();
   const find = el("input", {type:"search", class:"find", placeholder:"회원 찾기", "aria-label":"회원 찾기", value:findText});
@@ -487,7 +452,7 @@ function paintBoard(){
     watch.length ? el("div", null, ...watch.map(x => el("div", {class:"alert-item"},
       el("div", null, memberLink(x.m.id, "log")),
       el("div", {class:"tags"}, ...x.a.map(a => el("span", {class:"tag " + a.lv, text:a.text}))))))
-      : el("p", {class:"muted", text:"일지에서 살펴볼 회원이 없습니다."}));
+      : el("p", {class:"muted", text:"살펴볼 회원이 없습니다."}));
   const comBox = el("section", {class:"card"}, el("h2", {text:"공통으로 먹는 약"}),
     cm.rows.length ? el("div", {class:"rows"}, ...cm.rows.map(r => el("div", {class:"citem"},
       el("div", {class:"tags"}, el("b", {text:r.title}), el("span", {class:"tag common", text:"회원 " + r.ids.length + "명"}), r.cls ? el("span", {class:"muted", text:r.cls}) : null),
@@ -496,25 +461,28 @@ function paintBoard(){
       : el("p", {class:"muted", text:"2명 이상이 같이 먹는 약이 없습니다."}));
   v.append(el("div", {class:"grid"}, main, el("div", {class:"side"}, watchBox, comBox)));
 }
-function memberRow(m, t){
-  const a = analyze(m), e = logOf(m.id, t), alerts = alertsOf(m), n = linesOf(m).length;
-  const seg = el("div", {class:"seg", role:"group", "aria-label":str(m.label) + " 오늘 복약"}, ...MED.map(x => el("button", {type:"button",
-    class:(e && e.med === x.id ? "on " : "") + x.lv, "aria-pressed":e && e.med === x.id ? "true" : "false", text:x.short, title:x.label,
-    on:{click:() => { setLog(m.id, t, {med: e && e.med === x.id ? "" : x.id}); saveNow(); paintBoard(); }}})));
-  const week = el("div", {class:"week", role:"img", "aria-label":"최근 7일 복약"}, ...lastDays(7).map(d => {
-    const x = logOf(m.id, d), md = x && medOf(x.med);
-    return el("i", {class:(md ? md.lv : "") + (x && arr(x.signs).length ? " sign" : "") + (d === t ? " today" : ""),
-      title:korDate(d) + " · " + (md ? md.label : "기록 없음") + (x && arr(x.signs).length ? " · " + x.signs.map(signLabel).join(", ") : "")});
-  }));
+function memberRow(m){
+  const a = analyze(m), alerts = alertsOf(m).filter(x => !x.last), n = linesOf(m).length;
   const flags = el("div", {class:"tags"},
     a.hi ? el("span", {class:"tag hi", text:"조합 높음 " + a.hi}) : null,
     a.lc.burdens.length ? el("span", {class:"tag mid", text:"누적 부담 " + a.lc.burdens.length}) : null,
     ...alerts.map(x => el("span", {class:"tag " + x.lv, text:x.text})),
     !n ? el("span", {class:"tag low", text:"약 없음"}) : null);
   return el("div", {class:"row", role:"listitem"},
-    el("div", {class:"who"}, el("button", {type:"button", text:str(m.label), on:{click:() => go("#/m/" + m.id + "/drugs")}}),
+    el("div", {class:"who"}, el("button", {type:"button", text:str(m.label), on:{click:() => go("#/m/" + m.id)}}),
       el("span", {class:"muted", text:"약 " + n + "개" + (m.age ? " · " + m.age : "") + (m.sex ? " · " + m.sex : "")})),
-    seg, el("div", null, week, el("button", {type:"button", class:"mini", style:"margin-top:6px", text:"일지", on:{click:() => go("#/m/" + m.id + "/log")}})), flags);
+    measLine(m), flags);
+}
+/* 회원 줄의 마지막 측정: 값과 범위 딱지, 잰 날 */
+const mdShort = iso => Number(str(iso).slice(5, 7)) + "/" + Number(str(iso).slice(8, 10));
+function measLine(m){
+  const vs = vitalsSum(vitalsOf(m), m.height), g = bgOf(m), lg = g[g.length - 1], b = vs.lastBp, w = vs.lastWt;
+  const box = el("div", {class:"meas"},
+    b ? el("span", {class:"tag " + b.lvl.lv, text:"혈압 " + bpText(b) + (b.lvl.rank ? " " + b.lvl.label : "") + " (" + mdShort(b.date) + ")"}) : null,
+    w ? el("span", {class:"tag " + (vs.bmiLv ? vs.bmiLv.lv : "low"), text:"체중 " + w.wt + "kg" + (vs.bmi ? " · BMI " + vs.bmi : "") + " (" + mdShort(w.date) + ")"}) : null,
+    lg ? el("span", {class:"tag " + (lg.lvl.lv || "low"), text:"혈당 " + bgShort(lg) + (lg.lvl.label && lg.lvl.label !== "정상" ? " " + lg.lvl.label : "") + " (" + mdShort(lg.date) + ")"}) : null);
+  if (!box.children.length) box.append(el("span", {class:"muted", text:"측정 없음"}));
+  return box;
 }
 
 /* ---------- 회원 화면 ---------- */
@@ -523,30 +491,30 @@ function paintMember(){
   const label = el("input", {class:"mlabel", value:str(m.label), maxlength:"20", "aria-label":"표시 이름 (번호나 별칭)"});
   label.addEventListener("change", () => { const x = label.value.trim().slice(0, 20); if (!x){ label.value = str(m.label); return; } m.label = x; touch(m); saveNow(); });
   const del = el("button", {type:"button", class:"mini", text:"이 회원 삭제"});
-  twoStep(del, "한 번 더 누르면 삭제 (일지 포함, 되돌릴 수 없음)", () => {
+  twoStep(del, "한 번 더 누르면 삭제 (측정 기록 포함, 되돌릴 수 없음)", () => {
     db.members = db.members.filter(x => x.id !== m.id); delete db.logs[m.id]; anaCache.delete(m.id); saveNow(); go("#/");
   });
   const ageSel = el("select", {"aria-label":"연령대"}, ...["", "20대", "30대", "40대", "50대", "60대", "70대 이상"].map(x => el("option", {value:x, text:x || "선택 안 함"})));
   const sexSel = el("select", {"aria-label":"성별"}, ...["", "남성", "여성"].map(x => el("option", {value:x, text:x || "선택 안 함"})));
   ageSel.value = str(m.age); sexSel.value = str(m.sex);
   const hIn = el("input", {type:"number", inputmode:"decimal", min:"100", max:"230", step:"0.1", value:str(m.height), "aria-label":"키(cm)"});
-  hIn.addEventListener("change", () => { m.height = hIn.value.trim(); touch(m); saveNow(); if (route.tab === "log") paintLog(m); });
-  const onInfo = () => { m.age = ageSel.value; m.sex = sexSel.value; m.conds = Array.from(conds.querySelectorAll("input:checked")).map(c => c.value); touch(m); saveNow(); if (route.tab === "drugs") paintDrugs(m); };
+  hIn.addEventListener("change", () => { m.height = hIn.value.trim(); touch(m); saveNow(); paintVitals(m); });
+  const onInfo = () => { m.age = ageSel.value; m.sex = sexSel.value; m.conds = Array.from(conds.querySelectorAll("input:checked")).map(c => c.value); touch(m); saveNow(); paintDrugViews(m); };
   ageSel.addEventListener("change", onInfo); sexSel.addEventListener("change", onInfo);
   const conds = el("div", {class:"conds", role:"group", "aria-label":"회원 상태"}, ...CONDS.map(c => el("label", null,
     el("input", {type:"checkbox", value:c.id, checked:arr(m.conds).includes(c.id), on:{change:onInfo}}), el("span", {text:c.label}))));
-  const tabs = [["drugs", "약 정리"], ["log", "복약·관찰 일지"], ["guide", "쉬운 안내문"]];
   v.append(el("p", {class:"crumb"}, el("a", {href:"#/", text:"← 현황판"})),
     el("section", {class:"card"},
       el("div", {class:"mhead"}, label, el("span", {id:"areas", class:"tags"})),
       el("details", {class:"minfo"}, el("summary", {text:"회원 정보 (연령대·성별·키·상태)"}),
-        el("div", {class:"minfo-body"}, el("div", {class:"pair"}, el("label", null, "연령대", ageSel), el("label", null, "성별", sexSel), el("label", null, "키(cm)", hIn)), conds, el("div", null, del))),
-      el("div", {class:"tabs", role:"tablist"}, ...tabs.map(([id, name]) => el("button", {type:"button", role:"tab", "aria-selected":route.tab === id ? "true" : "false", text:name,
-        on:{click:() => go("#/m/" + m.id + "/" + id)}})))),
-    el("div", {id:"tabBody", class:"wrapcol"}));
-  paintAreas(m);
-  if (route.tab === "log") paintLog(m); else if (route.tab === "guide") paintGuide(m); else paintDrugs(m);
+        el("div", {class:"minfo-body"}, el("div", {class:"pair"}, el("label", null, "연령대", ageSel), el("label", null, "성별", sexSel), el("label", null, "키(cm)", hIn)), conds, el("div", null, del)))),
+    el("div", {id:"drugBox", class:"wrapcol"}), el("div", {id:"vitBox", class:"wrapcol"}), el("div", {id:"aiBox", class:"wrapcol"}),
+    el("div", {id:"resBox", class:"wrapcol"}), el("div", {id:"guideBox", class:"wrapcol"}));
+  if (vitFor !== m.id){ vitFor = m.id; vitAll = false; vitMsg = ""; }
+  paintDrugs(m); paintVitals(m); paintDrugViews(m);
 }
+/* 약이나 회원 정보가 바뀌면 다시 그리는 칸: 진료 영역, AI 종합 정리, 약별 정리, 쉬운 안내문 */
+function paintDrugViews(m){ paintAreas(m); paintOverall(m); drugResult(m); paintGuide(m); }
 /* 약으로 본 진료 영역(추정): 먹는 약의 허가된 쓰임을 진료 영역으로 묶음 (AI 판단 아님) */
 function paintAreas(m){
   const box = $("areas");
@@ -601,10 +569,8 @@ function overallPrompt(m){
   const a = analyze(m);
   const checks = [...a.lc.pairs.map(x => "- [" + x.lv + "] " + x.names.join(" + ") + ": " + x.msg), ...a.lc.burdens.map(x => "- [누적 부담] " + x.title + " (" + x.names.join(", ") + ")"),
     ...a.lc.labs.map(x => "- [정기 검사] " + x.names.join(", ") + ": " + x.msg), ...a.cc.map(x => "- [" + x.cond + "] " + x.names.join(", ") + ": " + x.msg)];
-  const es = lastDays(30).map(d => logOf(m.id, d)).filter(Boolean), miss = es.filter(e => ["part","miss","refuse"].includes(e.med)).length;
-  const signs = SIGNS.map(x => [x.label, es.filter(e => arr(e.signs).includes(x.id)).length]).filter(x => x[1]).map(x => x[0] + " " + x[1] + "일");
   const vt = vitalsText(vitalsOf(m), m.height, 20), gt = bgText(bgOf(m), 20), kinds = [vt ? "혈압·체중" : "", gt ? "혈당" : ""].filter(Boolean).join("·");
-  return AI_RULES + "\n\n아래 회원의 약" + (kinds ? "과 " + kinds : "") + ", 최근 기록을 보고 다음 소제목 순서로 " + (kinds ? "800~1200자" : "700~1000자") + "로 정리하라. 소제목은 대괄호로 쓴다.\n"
+  return AI_RULES + "\n\n아래 회원의 약" + (kinds ? "과 " + kinds : "") + "을 보고 다음 소제목 순서로 " + (kinds ? "800~1200자" : "700~1000자") + "로 정리하라. 소제목은 대괄호로 쓴다.\n"
     + (kinds ? "[약과 " + kinds + "으로 미루어 본 건강 상태 (추정)] 진료 영역별로, 근거가 되는 약과 측정값을 함께 '~로 추정됨'으로 쓴다\n"
       + "[" + kinds + "으로 본 점] 잰 값의 흐름과 약과 함께 볼 점. 혈압약·당뇨약을 먹는데 높게 나오면 '조절이 충분하지 않을 가능성, 주치의 확인'처럼 쓴다"
       + (gt ? ". 70 미만 혈당이 있으면 저혈당 가능성으로 꼭 짚는다" : "") + "\n"
@@ -613,48 +579,19 @@ function overallPrompt(m){
     + "[주치의·약사 문의사항] 3~5개\n[재활계획 반영 초안] 2~4개. 건강관리와 생활 지원 중심으로 쓴다\n\n"
     + whoText(m) + "\n먹는 약:\n" + linesOf(m).map(l => "- " + l).join("\n")
     + "\n내장 규칙 점검 결과:\n" + (checks.join("\n") || "- 걸린 규칙 없음")
-    + "\n최근 30일 일지: 기록 " + es.length + "일, 복약 일부·못 먹음·거부 " + miss + "일" + (signs.length ? ", 관찰된 변화: " + signs.join(", ") : "")
     + (vt ? "\n\n" + vt : "") + (gt ? "\n\n" + gt : "") + factsFor(a.drugs);
 }
 function overallCard(m){
   const ov = m.ai && m.ai.overall, stale = ov && ov.drugs !== m.drugs, vn = vitalsSum(vitalsOf(m), m.height).list.length + bgOf(m).length, newV = ov && !stale && vn > (ov.vit || 0);
   const btn = el("button", {type:"button", class:ov ? "mini" : "", text:ov ? "다시 정리" : "AI 종합 정리 만들기 (건강 상태 추정·문의사항·재활계획)"});
-  btn.addEventListener("click", () => btn.replaceWith(askAI(overallPrompt(m), t => { setAI(m, {overall:{text:t, at:new Date().toISOString(), drugs:m.drugs, vit:vn}}); paintDrugs(m); return ""; })));
+  btn.addEventListener("click", () => btn.replaceWith(askAI(overallPrompt(m), t => { setAI(m, {overall:{text:t, at:new Date().toISOString(), drugs:m.drugs, vit:vn}}); paintOverall(m); return ""; })));
   return el("section", {class:"card"},
     el("div", {class:"card-head"}, el("h2", {text:"AI 종합 정리"}), el("div", {class:"tags"},
       ov ? el("span", {class:"tag low", text:"참고 · " + aiDate(ov.at)}) : null, stale ? el("span", {class:"tag mid", text:"약이 바뀜 · 다시 정리 필요"}) : null,
       newV ? el("span", {class:"tag mid", text:"새 측정 기록 있음"}) : null)),
     ov ? el("p", {class:"ai-text", text:ov.text}) : null, el("div", null, btn));
 }
-/* 한 달 일지 요약 */
-function monthKeys(m, ym){ return Object.keys(db.logs[m.id] || {}).filter(k => k.startsWith(ym + "-")).sort(); }
-function monthPrompt(m, ym){
-  const [y, mo] = ym.split("-").map(Number), keys = monthKeys(m, ym);
-  const lines = keys.map(k => { const e = logOf(m.id, k), md = medOf(e.med), bl = bpLevel(e.bpS, e.bpD), wv = wtOk(e.wt), gl = hasBgRaw(e) && bgLevel(e.bg, e.bgWhen);
-    return "- " + korDate(k) + ": 복약 " + (md ? md.label : "기록 없음") + (bl ? " / 혈압 " + numOf(e.bpS) + "/" + numOf(e.bpD) + " (" + bl.label + ")" : "") + (wv ? " / 체중 " + wv + "kg" : "")
-      + (gl ? " / 혈당 " + (bgWhenLabel(e.bgWhen) || "잰 때 모름") + " " + numOf(e.bg) + (gl.label ? " (" + gl.label + ")" : "") : "")
-      + (arr(e.signs).length ? " / 변화: " + e.signs.map(signLabel).join(", ") : "") + (str(e.note).trim() ? " / 메모: " + str(e.note).trim() : ""); });
-  const mv = vitalsSum(keys.map(k => vitOf(k, logOf(m.id, k))), m.height), mg = bgList(keys.map(k => [k, logOf(m.id, k)]));
-  const kinds = [mv.list.length ? "혈압·체중" : "", mg.length ? "혈당" : ""].filter(Boolean).join("·");
-  return AI_RULES + "\n\n아래는 한 달 동안의 복약·관찰 일지다. 주치의·약사에게 전할 관찰 요약을 다음 소제목 순서로 500~700자로 써라. 소제목은 대괄호로 쓴다.\n"
-    + "[복약] 거른 날(일부만 먹음·못 먹음·거부)의 날짜와 횟수, 흐름\n[관찰된 변화] 어떤 변화가 언제부터 며칠 있었는지\n"
-    + (kinds ? "[" + kinds + "] 잰 값의 흐름(범위)과 약·복약·관찰된 변화와 함께 볼 점" + (mg.length ? ". 70 미만 혈당이 있으면 꼭 짚는다" : "") + "\n" : "") + "[메모에서 눈여겨볼 점]\n"
-    + "[주치의·약사에게 전할 말] 2~4개. 약을 바꾸라는 말은 쓰지 않는다\n\n"
-    + whoText(m) + "\n먹는 약: " + (linesOf(m).join(" / ") || "적힌 약 없음") + "\n기간: " + y + "년 " + mo + "월 (기록한 날 " + keys.length + "일)"
-    + (mv.list.length ? "\n혈압 범위는 프로그램이 대한고혈압학회 2022 분류로 나눈 것이다." + (mv.bmi ? " 키 " + numOf(m.height) + "cm, 이 달 마지막 BMI " + mv.bmi + " (" + mv.bmiLv.label + " 범위)." : "") : "")
-    + (mg.length ? "\n혈당(mg/dL) 범위는 프로그램이 대한당뇨병학회 2023 기준(공복 126 이상·식후 2시간 200 이상 높음, 70 미만 낮음)으로 나눈 것이다. 당뇨약을 먹는 회원은 주치의가 정한 목표 혈당이 따로 있을 수 있다." : "")
-    + "\n일지:\n" + lines.join("\n");
-}
-function monthAICard(m, ym, mo){
-  const sm = ((m.ai && m.ai.month) || {})[ym], more = sm && monthKeys(m, ym).length > (sm.days || 0);
-  const btn = el("button", {type:"button", class:sm ? "mini" : "", text:sm ? "다시 요약" : "AI로 한 달 요약 만들기"});
-  btn.addEventListener("click", () => btn.replaceWith(askAI(monthPrompt(m, ym), t => {
-    setAI(m, {month:Object.assign({}, (m.ai || {}).month, {[ym]:{text:t, at:new Date().toISOString(), days:monthKeys(m, ym).length}})}); paintLog(m); return ""; })));
-  return el("section", {class:"card"},
-    el("div", {class:"card-head"}, el("h2", {text:mo + "월 AI 요약"}), el("div", {class:"tags"},
-      sm ? el("span", {class:"tag low", text:"참고 · " + aiDate(sm.at)}) : null, more ? el("span", {class:"tag mid", text:"그 뒤 기록이 늘어남"}) : null)),
-    sm ? el("p", {class:"ai-text", text:sm.text}) : null, el("div", null, btn));
-}
+function paintOverall(m){ const box = $("aiBox"); if (!box) return; box.textContent = ""; if (linesOf(m).length) box.append(overallCard(m)); }
 /* 쉬운 안내문 다듬기 */
 let guideNote = "";
 function guideItems(m){ return linesOf(m).map(line => { const g = guideOf(m, line); return {key:g.key, name:drugName(line) || line, when:g.when, use:g.use, tell:g.tell}; }); }
@@ -698,25 +635,22 @@ function applyGuideAI(m, t){
   return "";
 }
 
-/* 약 정리 */
+/* 약 정리: 입력 칸 (고치면 잠시 뒤 아래 칸들을 다시 그림) */
 function paintDrugs(m){
-  const body = $("tabBody"); body.textContent = "";
+  const box = $("drugBox"); box.textContent = "";
   const ta = el("textarea", {id:"drugsIn", rows:"6", placeholder:"한 줄에 하나씩. 예: 리스페리돈 2mg 하루 2회 (정신과)", "aria-label":"복용 중인 약"});
   ta.value = str(m.drugs);
-  const out = el("div", {class:"wrapcol"});
   let t = null;
-  ta.addEventListener("input", () => { m.drugs = ta.value; touch(m); saveSoon(); clearTimeout(t); t = setTimeout(() => drugResult(m, out), 350); });
-  body.append(el("section", {class:"card"}, el("h2", {text:"복용 중인 약"}), ta), out);
-  drugResult(m, out);
+  ta.addEventListener("input", () => { m.drugs = ta.value; touch(m); saveSoon(); clearTimeout(t); t = setTimeout(() => paintDrugViews(m), 350); });
+  box.append(el("section", {class:"card"}, el("h2", {text:"복용 중인 약"}), ta));
   if (focusDrugs){ focusDrugs = false; ta.focus(); }
 }
 let focusDrugs = false;
-function drugResult(m, out){
+function drugResult(m){
+  const out = $("resBox"); if (!out) return;
   out.textContent = "";
-  paintAreas(m);
   const a = analyze(m), drugs = a.drugs;
   if (!drugs.length) return;
-  out.append(overallCard(m));
   const cm = boardCommon();
   const flagged = new Set();
   a.lc.pairs.forEach(p => p.names.forEach(n => flagged.add(n))); a.lc.burdens.forEach(b => b.names.forEach(n => flagged.add(n))); a.cc.forEach(c => c.names.forEach(n => flagged.add(n)));
@@ -772,99 +706,62 @@ function drugCard(m, x, ids, flagged){
     kv);
 }
 
-/* 복약·관찰 일지 */
-let calYM = "", selDate = "", calFor = "";
-function paintLog(m){
-  if (calFor !== m.id){ calFor = m.id; selDate = today(); calYM = selDate.slice(0, 7); }
-  const body = $("tabBody"); body.textContent = "";
-  const [y, mo] = calYM.split("-").map(Number), first = new Date(y, mo - 1, 1), days = new Date(y, mo, 0).getDate(), t = today();
-  const move = n => { const d = new Date(y, mo - 1 + n, 1); calYM = d.getFullYear() + "-" + pad(d.getMonth() + 1); paintLog(m); };
-  const cal = el("div", {class:"cal"}, ...WD.map((w, i) => el("div", {class:"wd" + (i === 0 ? " sun" : ""), text:w})));
-  for (let i = 0; i < first.getDay(); i++) cal.append(el("span", {class:"day out", "aria-hidden":"true"}));
-  for (let d = 1; d <= days; d++){
-    const iso = calYM + "-" + pad(d), e = logOf(m.id, iso), md = e && medOf(e.med), future = iso > t;
-    const bl = e && bpLevel(e.bpS, e.bpD), wv = e && wtOk(e.wt), gl = e && hasBgRaw(e) && bgLevel(e.bg, e.bgWhen);
-    cal.append(el("button", {type:"button", class:"day" + (iso === t ? " today" : "") + (iso === selDate ? " sel" : ""), disabled:future,
-      "aria-label":korDate(iso) + (md ? ", " + md.label : "") + (e && arr(e.signs).length ? ", 관찰 " + e.signs.length + "개" : "")
-        + (bl ? ", 혈압 " + numOf(e.bpS) + "/" + numOf(e.bpD) + " " + bl.label : "") + (wv ? ", 체중 " + wv + "kg" : "")
-        + (gl ? ", 혈당 " + bgShort(bgItem(iso, e)) + (gl.label ? " " + gl.label : "") : "") + (e && str(e.note).trim() ? ", 메모 있음" : ""),
-      on:{click:() => { selDate = iso; paintLog(m); }}},
-      el("span", {text:String(d)}), el("span", {class:"bar" + (md ? " " + md.lv : "")}),
-      e && (arr(e.signs).length || str(e.note).trim() || bl || wv || gl) ? el("small", {text:[arr(e.signs).length ? "관찰 " + e.signs.length : "", bl || wv || gl ? "측정" : "", str(e.note).trim() ? "메모" : ""].filter(Boolean).join(" · ")}) : null));
-  }
-  const monthEntries = Object.keys(db.logs[m.id] || {}).filter(k => k.startsWith(calYM + "-")).sort().map(k => [k, logOf(m.id, k)]);
-  const count = id => monthEntries.filter(([, e]) => e.med === id).length;
-  const signCount = SIGNS.map(s => [s.label, monthEntries.filter(([, e]) => arr(e.signs).includes(s.id)).length]).filter(x => x[1]);
-  body.append(el("section", {class:"card"},
-    el("div", {class:"card-head"},
-      el("div", {class:"cal-head"}, el("button", {type:"button", class:"mini", text:"‹ 이전 달", on:{click:() => move(-1)}}),
-        el("b", {text:y + "년 " + mo + "월"}), el("button", {type:"button", class:"mini", text:"다음 달 ›", disabled:calYM >= t.slice(0, 7), on:{click:() => move(1)}}),
-        calYM !== t.slice(0, 7) ? el("button", {type:"button", class:"mini", text:"이번 달", on:{click:() => { calYM = t.slice(0, 7); selDate = t; paintLog(m); }}}) : null),
-      el("button", {type:"button", text:"이 달 일지 인쇄", on:{click:() => printLog(m, calYM)}})),
-    cal,
-    el("div", {class:"legend"}, el("span", null, el("i", {style:"background:var(--ok)"}), "다 먹음"), el("span", null, el("i", {style:"background:var(--warn)"}), "일부"),
-      el("span", null, el("i", {style:"background:var(--crit)"}), "못 먹음·거부"))),
-    dayEditor(m),
-    el("section", {class:"card"}, el("h2", {text:mo + "월 요약"}),
-      el("div", {class:"tags"}, el("span", {class:"tag low", text:"기록한 날 " + monthEntries.length + "일"}),
-        ...MED.map(x => count(x.id) ? el("span", {class:"tag " + x.lv, text:x.short + " " + count(x.id) + "일"}) : null)),
-      signCount.length ? el("div", {class:"tags"}, ...signCount.map(([l, n]) => el("span", {class:"tag common", text:l + " " + n + "일"}))) : null,
-      ...monthVitalRows(m, monthEntries)));
-  if (monthEntries.length) body.append(monthAICard(m, calYM, mo));
-}
-/* 이 달에 잰 혈압·체중 (잰 값의 범위) */
-function monthVitalRows(m, entries){
-  const v = vitalsSum(entries.map(([k, e]) => vitOf(k, e)), m.height), rows = [];
-  if (v.bp.length) rows.push(el("div", {class:"tags"},
-    el("span", {class:"tag " + (v.highN ? "hi" : v.lowN ? "mid" : "low"), text:"혈압 " + v.bp.length + "번 · 140/90 이상 " + v.highN + "번" + (v.lowN ? " · 90/60 미만 " + v.lowN + "번" : "")}),
-    ...v.bp.slice(-12).map(x => el("span", {class:"tag " + x.lvl.lv, title:x.lvl.label, text:Number(x.date.slice(8)) + "일 " + bpText(x)}))));
-  if (v.wt.length) rows.push(el("div", {class:"tags"},
-    el("span", {class:"tag low", text:"체중 " + (v.change ? v.change.from.wt + " → " + v.change.to.wt + "kg (" + signed(v.change.kg) + "kg)" : v.wt[0].wt + "kg")}),
-    v.bmi ? el("span", {class:"tag " + v.bmiLv.lv, text:"BMI " + v.bmi + " " + v.bmiLv.label}) : null));
-  const g = bgList(entries), gh = g.filter(x => x.lvl.high).length, gl = g.filter(x => x.lvl.low).length;
-  if (g.length) rows.push(el("div", {class:"tags"},
-    el("span", {class:"tag " + (gh || gl ? "hi" : "low"), text:"혈당 " + g.length + "번 · 높음 " + gh + "번" + (gl ? " · 70 미만 " + gl + "번" : "")}),
-    ...g.slice(-12).map(x => el("span", {class:"tag " + (x.lvl.lv || "low"), title:x.lvl.label || "", text:Number(x.date.slice(8)) + "일 " + bgShort(x)}))));
-  return rows;
-}
-function dayEditor(m){
-  const d = selDate, e = logOf(m.id, d) || {med:"", signs:[], note:""};
-  const refresh = () => paintLog(m);
-  const seg = el("div", {class:"seg", role:"group", "aria-label":"복약"}, ...MED.map(x => el("button", {type:"button", class:(e.med === x.id ? "on " : "") + x.lv,
-    "aria-pressed":e.med === x.id ? "true" : "false", text:x.label, on:{click:() => { setLog(m.id, d, {med:e.med === x.id ? "" : x.id}); saveNow(); refresh(); }}})));
-  const signs = el("div", {class:"signs", role:"group", "aria-label":"관찰된 변화"}, ...SIGNS.map(s => el("label", null,
-    el("input", {type:"checkbox", value:s.id, checked:arr(e.signs).includes(s.id), on:{change:() => {
-      setLog(m.id, d, {signs:Array.from(signs.querySelectorAll("input:checked")).map(c => c.value)}); saveNow(); refresh(); }}}), s.label)));
-  const note = el("textarea", {rows:"3", placeholder:"예: 저녁 약을 늦게 먹음. 프로그램 중 졸려 함.", "aria-label":"메모"});
-  note.value = str(e.note);
-  note.addEventListener("input", () => { setLog(m.id, d, {note:note.value}); saveSoon(); });
-  note.addEventListener("change", refresh);
-  const vIn = (ph, label, val, mode) => el("input", {type:"number", inputmode:mode, step:mode === "decimal" ? "0.1" : "1", placeholder:ph, "aria-label":label, value:str(val)});
-  const sys = vIn("수축기", "혈압 수축기(높은 값)", e.bpS, "numeric"), dia = vIn("이완기", "혈압 이완기(낮은 값)", e.bpD, "numeric"), wt = vIn("체중", "체중(kg)", e.wt, "decimal");
-  const bpTag = el("span", {class:"tag"}), bmiTag = el("span", {class:"tag"});
-  const showV = () => {
-    const l = bpLevel(sys.value, dia.value), b = bmiOf(wt.value, m.height), bl = bmiLevel(b);
-    bpTag.hidden = !l; if (l){ bpTag.className = "tag " + l.lv; bpTag.textContent = "혈압 " + l.label; }
-    bmiTag.hidden = !b; if (b){ bmiTag.className = "tag " + bl.lv; bmiTag.textContent = "BMI " + b + " " + bl.label; }
-  };
-  [sys, dia, wt].forEach(x => x.addEventListener("input", () => { setLog(m.id, d, {bpS:sys.value.trim(), bpD:dia.value.trim(), wt:wt.value.trim()}); saveSoon(); showV(); }));
-  showV();
-  const vit = el("div", {class:"vrow"}, el("span", {class:"vbp"}, sys, "/", dia, el("span", {class:"muted", text:"mmHg"})),
-    el("span", {class:"vwt"}, wt, el("span", {class:"muted", text:"kg"})), bpTag, bmiTag);
-  const bg = vIn("혈당", "혈당(mg/dL)", e.bg, "numeric");
-  const bgw = el("select", {"aria-label":"혈당 잰 때"}, ...BG_WHEN.map(([v, t]) => el("option", {value:v, text:t})));
-  bgw.value = hasBgRaw(e) ? str(e.bgWhen) : ((bgOf(m).filter(x => x.when).pop() || {}).when || "");   /* 새로 잴 때는 지난번 잰 때를 미리 골라 둠 */
-  const bgTag = el("span", {class:"tag"});
-  const showG = () => { const l = bgLevel(bg.value, bgw.value); bgTag.hidden = !(l && l.label); if (l && l.label){ bgTag.className = "tag " + l.lv; bgTag.textContent = "혈당 " + l.label; } };
-  const putG = () => { setLog(m.id, d, {bg:bg.value.trim(), bgWhen:bg.value.trim() ? bgw.value : ""}); saveSoon(); showG(); };
-  bg.addEventListener("input", putG); bgw.addEventListener("change", putG);
-  showG();
-  const gRow = el("div", {class:"vrow"}, el("span", {class:"vwt"}, bg, el("span", {class:"muted", text:"mg/dL"})), bgw, bgTag);
-  const clear = el("button", {type:"button", class:"mini", text:"이 날 기록 지우기"});
-  twoStep(clear, "한 번 더 누르면 지움", () => { if (db.logs[m.id]) delete db.logs[m.id][d]; saveNow(); refresh(); });
-  return el("section", {class:"card", id:"dayEditor"},
-    el("div", {class:"card-head"}, el("h2", {text:korDate(d) + (d === today() ? " · 오늘" : "")}), logOf(m.id, d) ? clear : null),
-    el("h3", {text:"복약"}), seg, el("h3", {text:"관찰된 변화"}), signs, el("h3", {text:"혈압·체중"}), vit, el("h3", {text:"혈당"}), gRow, el("h3", {text:"메모"}), note);
+/* 혈압·체중·혈당: 잰 날짜와 값을 목록으로 적음. 같은 날짜로 다시 넣으면 적은 값만 바뀜 */
+let vitAll = false, vitFor = "", vitMsg = "";
+const measRows = m => Object.keys(db.logs[m.id] || {}).sort().map(k => [k, db.logs[m.id][k]])
+  .filter(([, e]) => e && (bpLevel(e.bpS, e.bpD) || wtOk(e.wt) || (hasBgRaw(e) && bgLevel(e.bg))));
+const dayLabel = iso => (str(iso).slice(0, 4) !== today().slice(0, 4) ? str(iso).slice(0, 4) + "년 " : "") + korDate(iso);
+function paintVitals(m){
+  const box = $("vitBox"); if (!box) return; box.textContent = "";
+  const t = today();
+  const dIn = el("input", {type:"date", value:t, max:t, "aria-label":"잰 날"});
+  const vIn = (ph, label, mode) => el("input", {type:"number", inputmode:mode, step:mode === "decimal" ? "0.1" : "1", placeholder:ph, "aria-label":label});
+  const sys = vIn("수축기", "혈압 수축기(높은 값)", "numeric"), dia = vIn("이완기", "혈압 이완기(낮은 값)", "numeric"), wt = vIn("체중", "체중(kg)", "decimal"), bg = vIn("혈당", "혈당(mg/dL)", "numeric");
+  const bgw = el("select", {"aria-label":"혈당 잰 때"}, ...BG_WHEN.map(([v, x]) => el("option", {value:v, text:x})));
+  bgw.value = (bgOf(m).filter(x => x.when).pop() || {}).when || "";   /* 지난번 잰 때를 미리 골라 둠 */
+  const msg = el("p", {class:"status", role:"status"});
+  const say = (x, err) => { msg.hidden = !x; msg.textContent = x; msg.className = "status" + (err ? " err" : ""); };
+  say(vitMsg); vitMsg = "";
+  const add = el("button", {type:"button", class:"primary", text:"기록 넣기"});
+  add.addEventListener("click", () => {
+    const d = dIn.value || t, sy = sys.value.trim(), di = dia.value.trim(), w = wt.value.trim(), gv = bg.value.trim();
+    if (!sy && !di && !w && !gv){ say("혈압, 체중, 혈당 가운데 하나는 적어 주세요.", true); sys.focus(); return; }
+    if ((sy || di) && !bpLevel(sy, di)){ say("혈압 두 값을 확인해 주세요. 예: 130 / 85", true); sys.focus(); return; }
+    if (w && !wtOk(w)){ say("체중을 kg으로 적어 주세요. 예: 72.5", true); wt.focus(); return; }
+    if (gv && !bgLevel(gv)){ say("혈당을 mg/dL로 적어 주세요. 예: 110", true); bg.focus(); return; }
+    if (d > t){ say("앞으로의 날짜에는 넣을 수 없습니다.", true); dIn.focus(); return; }
+    const p = {};
+    if (sy){ p.bpS = String(numOf(sy)); p.bpD = String(numOf(di)); }
+    if (w) p.wt = String(wtOk(w));
+    if (gv){ p.bg = String(numOf(gv)); p.bgWhen = bgw.value; }
+    setLog(m.id, d, p); saveNow();
+    vitMsg = mdOf(d) + " 기록을 넣었습니다.";
+    paintVitals(m); paintOverall(m);
+  });
+  [dIn, sys, dia, wt, bg].forEach(x => x.addEventListener("keydown", e => { if (e.key === "Enter"){ e.preventDefault(); add.click(); } }));
+  const rows = measRows(m).reverse(), shown = vitAll ? rows : rows.slice(0, 10);
+  const list = el("div", {class:"vlist"}, ...shown.map(([k, e]) => {
+    const bl = bpLevel(e.bpS, e.bpD), wv = wtOk(e.wt), gl = hasBgRaw(e) && bgLevel(e.bg, e.bgWhen);
+    const del = el("button", {type:"button", class:"mini", text:"지우기", "aria-label":dayLabel(k) + " 측정 지우기"});
+    twoStep(del, "한 번 더 누르면 지움", () => { setLog(m.id, k, {bpS:"", bpD:"", wt:"", bg:"", bgWhen:""}); saveNow(); paintVitals(m); paintOverall(m); });
+    return el("div", {class:"vitem"}, el("span", {class:"vdate", text:dayLabel(k)}),
+      bl ? el("span", null, "혈압 " + numOf(e.bpS) + "/" + numOf(e.bpD) + " ", el("span", {class:"tag " + bl.lv, text:bl.label})) : null,
+      wv ? el("span", {text:"체중 " + wv + "kg"}) : null,
+      gl ? el("span", null, "혈당 " + bgShort(bgItem(k, e)) + " ", gl.label ? el("span", {class:"tag " + gl.lv, text:gl.label}) : null) : null,
+      del);
+  }));
+  const vs = vitalsSum(vitalsOf(m), m.height), g = bgOf(m), gh = g.filter(x => x.lvl.high).length, gl = g.filter(x => x.lvl.low).length, c = vs.change;
+  const sum = el("div", {class:"tags"},
+    c ? el("span", {class:"tag " + (c.pct >= 7 ? "hi" : c.pct <= -5 ? "mid" : "low"), text:"체중 " + signed(c.kg) + "kg (" + signed(c.pct) + "%) · " + mdOf(c.from.date) + "부터"}) : null,
+    vs.bmi ? el("span", {class:"tag " + vs.bmiLv.lv, text:"BMI " + vs.bmi + " " + vs.bmiLv.label}) : null,
+    vs.bp.length ? el("span", {class:"tag " + (vs.highN ? "mid" : "low"), text:"혈압 " + vs.bp.length + "번 · 140/90 이상 " + vs.highN + "번"}) : null,
+    g.length ? el("span", {class:"tag " + (gl ? "hi" : gh ? "mid" : "low"), text:"혈당 " + g.length + "번 · 높음 " + gh + "번 · 70 미만 " + gl + "번"}) : null);
+  box.append(el("section", {class:"card"},
+    el("div", {class:"card-head"}, el("h2", {text:"혈압·체중·혈당"}), rows.length ? el("button", {type:"button", text:"측정 기록 인쇄", on:{click:() => printVitals(m)}}) : null),
+    el("div", {class:"vform"}, dIn, el("span", {class:"vbp"}, sys, "/", dia, el("span", {class:"muted", text:"mmHg"})), el("span", {class:"vwt"}, wt, el("span", {class:"muted", text:"kg"})),
+      el("span", {class:"vwt"}, bg, el("span", {class:"muted", text:"mg/dL"})), bgw, add),
+    msg, sum.children.length ? sum : null, rows.length ? list : null,
+    rows.length > 10 ? el("div", null, el("button", {type:"button", class:"mini", text:vitAll ? "최근 10개만 보기" : "모두 보기 (" + rows.length + "개)", on:{click:() => { vitAll = !vitAll; paintVitals(m); }}})) : null));
 }
 
 /* 쉬운 안내문: 기본 문장은 분류에 따라 채우고, 실무자가 고쳐 쓴 것은 회원별로 저장 */
@@ -933,9 +830,9 @@ function guideOf(m, line){
 }
 let guideWeek = true;
 function paintGuide(m){
-  const body = $("tabBody"); body.textContent = "";
+  const body = $("guideBox"); if (!body) return; body.textContent = "";
   const ls = linesOf(m);
-  if (!ls.length){ body.append(el("section", {class:"card"}, el("p", {class:"muted", text:"'약 정리'에 약을 먼저 적어 주세요."}))); return; }
+  if (!ls.length) return;
   const week = el("input", {type:"checkbox", id:"gWeek", checked:guideWeek});
   week.addEventListener("change", () => { guideWeek = week.checked; });
   const items = ls.map(line => {
@@ -964,33 +861,26 @@ function doPrint(pages){
   window.print();
 }
 window.addEventListener("afterprint", () => { $("print").textContent = ""; });
-function printLog(m, ym){
+function printVitals(m){
   saveNow();
-  const [y, mo] = ym.split("-").map(Number), days = new Date(y, mo, 0).getDate();
-  const rows = [];
-  for (let d = 1; d <= days; d++){
-    const iso = ym + "-" + pad(d), e = logOf(m.id, iso), md = e && medOf(e.med);
-    const bl = e && bpLevel(e.bpS, e.bpD), wv = e && wtOk(e.wt), gl = e && hasBgRaw(e) && bgLevel(e.bg, e.bgWhen);
-    rows.push(el("tr", null, el("td", {text:korDate(iso)}), el("td", {text:md ? md.label : ""}),
-      el("td", {text:bl ? numOf(e.bpS) + "/" + numOf(e.bpD) + (bl.rank ? " " + bl.label : "") : ""}), el("td", {text:wv ? String(wv) : ""}),
-      el("td", {text:gl ? bgShort(bgItem(iso, e)) + (gl.label && gl.label !== "정상" ? " " + gl.label : "") : ""}),
-      el("td", {text:e ? arr(e.signs).map(signLabel).join(", ") : ""}), el("td", {text:e ? str(e.note) : ""})));
-  }
-  const ks = Object.keys(db.logs[m.id] || {}).filter(k => k.startsWith(ym + "-")).sort(), es = ks.map(k => logOf(m.id, k)), aiSum = ((m.ai && m.ai.month) || {})[ym];
-  const mv = vitalsSum(ks.map(k => vitOf(k, logOf(m.id, k))), m.height), mg = bgList(ks.map(k => [k, logOf(m.id, k)]));
-  const sum = MED.map(x => [x.short, es.filter(e => e.med === x.id).length]).filter(x => x[1]).map(x => x[0] + " " + x[1] + "일")
-    .concat(SIGNS.map(s => [s.label, es.filter(e => arr(e.signs).includes(s.id)).length]).filter(x => x[1]).map(x => x[0] + " " + x[1] + "일"))
-    .concat(mv.bp.length ? ["혈압 " + mv.bp.length + "번(140/90 이상 " + mv.highN + "번)"] : [])
-    .concat(mv.change ? ["체중 " + mv.change.from.wt + "→" + mv.change.to.wt + "kg"] : mv.wt.length ? ["체중 " + mv.wt[0].wt + "kg"] : [])
-    .concat(mv.bmi ? ["BMI " + mv.bmi + " " + mv.bmiLv.label] : [])
-    .concat(mg.length ? ["혈당 " + mg.length + "번(높음 " + mg.filter(x => x.lvl.high).length + "번, 70 미만 " + mg.filter(x => x.lvl.low).length + "번)"] : []);
+  const vs = vitalsSum(vitalsOf(m), m.height), g = bgOf(m), ov = m.ai && m.ai.overall;
+  const sum = [vs.bp.length ? "혈압 " + vs.bp.length + "번(140/90 이상 " + vs.highN + "번)" : "",
+    vs.change ? "체중 " + vs.change.from.wt + "→" + vs.change.to.wt + "kg (" + signed(vs.change.pct) + "%)" : vs.wt.length ? "체중 " + vs.wt[0].wt + "kg" : "",
+    vs.bmi ? "BMI " + vs.bmi + " " + vs.bmiLv.label : "",
+    g.length ? "혈당 " + g.length + "번(높음 " + g.filter(x => x.lvl.high).length + "번, 70 미만 " + g.filter(x => x.lvl.low).length + "번)" : ""].filter(Boolean);
+  const rows = measRows(m).map(([k, e]) => {
+    const bl = bpLevel(e.bpS, e.bpD), wv = wtOk(e.wt), gl = hasBgRaw(e) && bgLevel(e.bg, e.bgWhen);
+    return el("tr", null, el("td", {text:k.replace(/-/g, ".")}), el("td", {text:bl ? numOf(e.bpS) + "/" + numOf(e.bpD) + (bl.rank ? " " + bl.label : "") : ""}),
+      el("td", {text:wv ? String(wv) : ""}), el("td", {text:gl ? bgShort(bgItem(k, e)) + (gl.label && gl.label !== "정상" ? " " + gl.label : "") : ""}));
+  });
   doPrint([el("div", {class:"p-page p-log"},
-    el("h1", {text:"복약·관찰 일지"}),
-    el("p", {class:"p-meta", text:"회원: " + str(m.label) + " · " + y + "년 " + mo + "월 · 출력 " + today() + " · 관찰 기록 (진단 아님)"}),
+    el("h1", {text:"혈압·체중·혈당 기록"}),
+    el("p", {class:"p-meta", text:"회원: " + str(m.label) + (numOf(m.height) ? " · 키 " + numOf(m.height) + "cm" : "") + " · 출력 " + today() + " · 잰 값의 범위 (진단 아님)"}),
     el("p", {class:"p-meta", text:"먹는 약: " + (linesOf(m).join(" / ") || "적힌 약 없음")}),
-    el("table", null, el("thead", null, el("tr", null, el("th", {text:"날짜"}), el("th", {text:"복약"}), el("th", {text:"혈압"}), el("th", {text:"체중(kg)"}), el("th", {text:"혈당(mg/dL)"}), el("th", {text:"관찰된 변화"}), el("th", {text:"메모"}))), el("tbody", null, ...rows)),
-    el("p", {class:"p-meta", style:"margin-top:8pt", text:"요약: 기록한 날 " + es.length + "일" + (sum.length ? " · " + sum.join(" · ") : "")}),
-    aiSum ? el("h2", {text:"AI 요약 (참고자료, 진단 아님)"}) : null, aiSum ? el("p", {class:"p-ai", text:aiSum.text}) : null)]);
+    el("table", null, el("thead", null, el("tr", null, el("th", {text:"날짜"}), el("th", {text:"혈압"}), el("th", {text:"체중(kg)"}), el("th", {text:"혈당(mg/dL)"}))), el("tbody", null, ...rows)),
+    el("p", {class:"p-meta", style:"margin-top:8pt", text:"요약: " + (sum.join(" · ") || "없음")}),
+    ov ? el("h2", {text:"AI 종합 정리 (" + aiDate(ov.at) + (ov.drugs !== m.drugs ? ", 약이 바뀌기 전" : "") + ", 참고자료, 진단 아님)"}) : null,
+    ov ? el("p", {class:"p-ai", text:ov.text}) : null)]);
 }
 function printGuide(m){
   saveNow();
@@ -1076,7 +966,7 @@ function planText(plan, where){
   const chg = plan.upd.filter(x => x[2]), info = plan.upd.filter(x => !x[2]);
   if (chg.length) parts.push("약이 바뀐 회원 " + chg.length + "명(" + names(chg) + ")의 약을 새로 맞췄습니다");
   if (info.length) parts.push("기록이 바뀐 회원 " + info.length + "명(" + names(info) + ")의 정보를 맞췄습니다");
-  if (plan.vit) parts.push("혈압·체중 " + plan.vit + "건을 일지에 넣었습니다");
+  if (plan.vit) parts.push("혈압·체중 " + plan.vit + "건을 측정 기록에 넣었습니다");
   let t = where + (parts.length ? "에서 " + parts.join(", ") + "." : "에서 새로 가져오거나 바꿀 회원이 없습니다.");
   if (plan.kept.length) t += " 새 약국이에서도 약을 고친 회원(" + names(plan.kept) + ")은 그대로 두었습니다. 두 쪽의 약을 비교해 맞춰 주세요.";
   return t;
@@ -1094,7 +984,7 @@ function importOld(){
   $("dataMenu").open = true; paint();
 }
 $("importOld").addEventListener("click", importOld);
-$("addMember").addEventListener("click", () => { const m = addMember(); focusDrugs = true; go("#/m/" + m.id + "/drugs"); });
+$("addMember").addEventListener("click", () => { const m = addMember(); focusDrugs = true; go("#/m/" + m.id); });
 $("backupSave").addEventListener("click", () => {
   saveNow();
   const name = "약국이현황판_백업_" + today() + ".json";
@@ -1102,7 +992,7 @@ $("backupSave").addEventListener("click", () => {
   const a = el("a", {href:URL.createObjectURL(new Blob([text], {type:"application/json"})), download:name});
   document.body.append(a); a.click(); a.remove();
   setTimeout(() => URL.revokeObjectURL(a.href), 30000);
-  dataMsg("회원 " + db.members.length + "명의 기록과 일지를 백업 파일로 내려받았습니다.");
+  dataMsg("회원 " + db.members.length + "명의 기록을 백업 파일로 내려받았습니다.");
 });
 $("backupLoad").addEventListener("change", e => {
   const f = e.target.files && e.target.files[0];
@@ -1122,7 +1012,7 @@ $("backupLoad").addEventListener("change", e => {
           Object.keys(src).forEach(d => { const x = src[d]; if (/^\d{4}-\d{2}-\d{2}$/.test(d) && x && typeof x === "object" && (!L[d] || str(x.at) > str(L[d].at))){ L[d] = x; days++; } });
         });
         anaCache.clear(); saveNow();
-        dataMsg("불러왔습니다. 새 회원 " + add + "명, 더 새 기록으로 바뀐 회원 " + upd + "명, 일지 " + days + "일.");
+        dataMsg("불러왔습니다. 새 회원 " + add + "명, 더 새 기록으로 바뀐 회원 " + upd + "명, 날짜별 기록 " + days + "일.");
       } else if (v && Array.isArray(v.list)){
         const pl = syncPlan(v.list); applyPlan(pl);
         dataMsg(planText(pl, "약국이 백업 파일"));
