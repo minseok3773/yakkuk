@@ -187,6 +187,9 @@ details.care summary > * + *{margin-left:8px}
 .gitem:first-of-type{border-top:0;padding-top:0}
 .gitem label{font-size:13px;color:var(--muted);font-weight:500}
 .gitem h3{font-size:16px;color:var(--ink)}
+.ai-text{white-space:pre-wrap;background:var(--note-bg);border-radius:8px;padding:10px 12px;font-size:14.5px;line-height:1.65}
+.ask-paste{display:flex;flex-direction:column;gap:8px;border:1px dashed var(--line);border-radius:8px;padding:10px}
+.ask-paste textarea{min-height:80px;font-size:13.5px}
 
 /* 인쇄 */
 #print{display:none}
@@ -202,6 +205,8 @@ details.care summary > * + *{margin-left:8px}
   .p-log table{width:100%;border-collapse:collapse;font-size:9.5pt}
   .p-log th,.p-log td{border:1px solid #888;padding:3pt 5pt;text-align:left;vertical-align:top}
   .p-log td:first-child{white-space:nowrap}
+  .p-log h2{font-size:12pt;margin:10pt 0 4pt}
+  .p-ai{font-size:10pt;white-space:pre-wrap;line-height:1.5}
   .p-guide h1{font-size:26pt}
   .p-drug{border:2px solid #000;border-radius:8pt;padding:8pt 12pt;margin:0 0 10pt;break-inside:avoid}
   .p-drug h2{font-size:21pt;margin:0 0 4pt}
@@ -1130,6 +1135,118 @@ async function copyText(t, btn){
   catch (e) { btn.textContent = "복사하지 못했습니다"; setTimeout(() => { btn.textContent = old; }, 2000); return false; }
 }
 
+/* ---------- AI: 지금은 요청문을 복사해 ChatGPT에 묻고, 받은 답을 붙여 넣음. 다른 연결 방식이 정해지면 askAI만 바꿈 ---------- */
+const AI_RULES = "너는 한국 정신재활시설의 정신건강사회복지사를 돕는 도우미다. 지킬 것: 진단하지 않는다(건강 상태는 '~로 추정됨', '~일 가능성'으로만 쓴다). "
+  + "약의 중단·감량·변경·추가를 권하지 않는다. 판단이 필요한 것은 '주치의·약사 확인'으로 넘긴다. 회원은 아래 별칭으로만 부른다. 기록에 없는 내용은 지어내지 않는다. 쉬운 우리말로 쓴다.";
+function askAI(prompt, onAnswer){
+  const box = el("div", {class:"ask-paste"});
+  const raw = el("textarea", {readonly:true, rows:"4", "aria-label":"복사할 요청문"}); raw.hidden = true; raw.value = prompt;
+  const copy = el("button", {type:"button", class:"mini", text:"ChatGPT에 물어볼 요청문 복사"});
+  copy.addEventListener("click", async () => { if (!(await copyText(prompt, copy))){ raw.hidden = false; raw.focus(); raw.select(); } });
+  const ta = el("textarea", {rows:"4", placeholder:"ChatGPT의 답을 여기에 붙여 넣으세요", "aria-label":"ChatGPT 답 붙여넣기"});
+  const msg = el("span", {class:"status", role:"status"});
+  const ok = el("button", {type:"button", class:"mini primary", text:"붙여 넣은 답 넣기"});
+  ok.addEventListener("click", () => {
+    const t = ta.value.trim();
+    if (!t){ ta.focus(); return; }
+    const err = onAnswer(t);
+    if (err){ msg.className = "status err"; msg.textContent = err; }
+  });
+  box.append(el("div", {class:"tags"}, copy, el("a", {href:"https://chatgpt.com/", target:"_blank", rel:"noopener", text:"ChatGPT 열기"})), raw, ta, el("div", {class:"tags"}, ok, msg));
+  return box;
+}
+const aiDate = iso => iso ? korDate(str(iso).slice(0, 10)) : "";
+const whoText = m => "회원: " + str(m.label) + ([m.age, m.sex].filter(Boolean).length ? " (" + [m.age, m.sex].filter(Boolean).join(", ") + ")" : "")
+  + (arr(m.conds).length ? "\n회원 상태: " + arr(m.conds).map(id => (CONDS.find(c => c.id === id) || {label:id}).label).join(", ") : "");
+function setAI(m, patch){ m.ai = Object.assign({}, m.ai, patch); touch(m); saveNow(); }
+/* 회원 종합 정리 */
+function overallPrompt(m){
+  const a = analyze(m);
+  const checks = [...a.lc.pairs.map(x => "- [" + x.lv + "] " + x.names.join(" + ") + ": " + x.msg), ...a.lc.burdens.map(x => "- [누적 부담] " + x.title + " (" + x.names.join(", ") + ")"),
+    ...a.lc.labs.map(x => "- [정기 검사] " + x.names.join(", ") + ": " + x.msg), ...a.cc.map(x => "- [" + x.cond + "] " + x.names.join(", ") + ": " + x.msg)];
+  const es = lastDays(30).map(d => logOf(m.id, d)).filter(Boolean), miss = es.filter(e => ["part","miss","refuse"].includes(e.med)).length;
+  const signs = SIGNS.map(x => [x.label, es.filter(e => arr(e.signs).includes(x.id)).length]).filter(x => x[1]).map(x => x[0] + " " + x[1] + "일");
+  return AI_RULES + "\n\n아래 회원의 약과 최근 기록을 보고 다음 소제목 순서로 700~1000자로 정리하라. 소제목은 대괄호로 쓴다.\n"
+    + "[약으로 미루어 본 건강 상태 (추정)] 진료 영역별로, 근거가 되는 약과 함께 '~로 추정됨'으로 쓴다\n[살펴볼 점] 이 약들로 실무자가 관찰할 것\n"
+    + "[주치의·약사 문의사항] 3~5개\n[재활계획 반영 초안] 2~4개. 건강관리와 생활 지원 중심으로 쓴다\n\n"
+    + whoText(m) + "\n먹는 약:\n" + linesOf(m).map(l => "- " + l).join("\n")
+    + "\n내장 규칙 점검 결과:\n" + (checks.join("\n") || "- 걸린 규칙 없음")
+    + "\n최근 30일 일지: 기록 " + es.length + "일, 복약 일부·못 먹음·거부 " + miss + "일" + (signs.length ? ", 관찰된 변화: " + signs.join(", ") : "")
+    + factsFor(a.drugs);
+}
+function overallCard(m){
+  const ov = m.ai && m.ai.overall, stale = ov && ov.drugs !== m.drugs;
+  const btn = el("button", {type:"button", class:ov ? "mini" : "", text:ov ? "다시 정리" : "AI 종합 정리 만들기 (건강 상태 추정·문의사항·재활계획)"});
+  btn.addEventListener("click", () => btn.replaceWith(askAI(overallPrompt(m), t => { setAI(m, {overall:{text:t, at:new Date().toISOString(), drugs:m.drugs}}); paintDrugs(m); return ""; })));
+  return el("section", {class:"card"},
+    el("div", {class:"card-head"}, el("h2", {text:"AI 종합 정리"}), el("div", {class:"tags"},
+      ov ? el("span", {class:"tag low", text:"참고 · " + aiDate(ov.at)}) : null, stale ? el("span", {class:"tag mid", text:"약이 바뀜 · 다시 정리 필요"}) : null)),
+    ov ? el("p", {class:"ai-text", text:ov.text}) : null, el("div", null, btn));
+}
+/* 한 달 일지 요약 */
+function monthKeys(m, ym){ return Object.keys(db.logs[m.id] || {}).filter(k => k.startsWith(ym + "-")).sort(); }
+function monthPrompt(m, ym){
+  const [y, mo] = ym.split("-").map(Number), keys = monthKeys(m, ym);
+  const lines = keys.map(k => { const e = logOf(m.id, k), md = medOf(e.med);
+    return "- " + korDate(k) + ": 복약 " + (md ? md.label : "기록 없음") + (arr(e.signs).length ? " / 변화: " + e.signs.map(signLabel).join(", ") : "") + (str(e.note).trim() ? " / 메모: " + str(e.note).trim() : ""); });
+  return AI_RULES + "\n\n아래는 한 달 동안의 복약·관찰 일지다. 주치의·약사에게 전할 관찰 요약을 다음 소제목 순서로 500~700자로 써라. 소제목은 대괄호로 쓴다.\n"
+    + "[복약] 거른 날(일부만 먹음·못 먹음·거부)의 날짜와 횟수, 흐름\n[관찰된 변화] 어떤 변화가 언제부터 며칠 있었는지\n[메모에서 눈여겨볼 점]\n"
+    + "[주치의·약사에게 전할 말] 2~4개. 약을 바꾸라는 말은 쓰지 않는다\n\n"
+    + whoText(m) + "\n먹는 약: " + (linesOf(m).join(" / ") || "적힌 약 없음") + "\n기간: " + y + "년 " + mo + "월 (기록한 날 " + keys.length + "일)\n일지:\n" + lines.join("\n");
+}
+function monthAICard(m, ym, mo){
+  const sm = ((m.ai && m.ai.month) || {})[ym], more = sm && monthKeys(m, ym).length > (sm.days || 0);
+  const btn = el("button", {type:"button", class:sm ? "mini" : "", text:sm ? "다시 요약" : "AI로 한 달 요약 만들기"});
+  btn.addEventListener("click", () => btn.replaceWith(askAI(monthPrompt(m, ym), t => {
+    setAI(m, {month:Object.assign({}, (m.ai || {}).month, {[ym]:{text:t, at:new Date().toISOString(), days:monthKeys(m, ym).length}})}); paintLog(m); return ""; })));
+  return el("section", {class:"card"},
+    el("div", {class:"card-head"}, el("h2", {text:mo + "월 AI 요약"}), el("div", {class:"tags"},
+      sm ? el("span", {class:"tag low", text:"참고 · " + aiDate(sm.at)}) : null, more ? el("span", {class:"tag mid", text:"그 뒤 기록이 늘어남"}) : null)),
+    sm ? el("p", {class:"ai-text", text:sm.text}) : null, el("div", null, btn));
+}
+/* 쉬운 안내문 다듬기 */
+let guideNote = "";
+function guideItems(m){ return linesOf(m).map(line => { const g = guideOf(m, line); return {key:g.key, name:drugName(line) || line, when:g.when, use:g.use, tell:g.tell}; }); }
+function guidePrompt(m){
+  return "너는 정신재활시설 회원에게 줄 약 안내문을 다듬는 도우미다. 아래 JSON 목록의 use(무엇을 돕나요)와 tell(이럴 땐 말해 주세요)을 회원이 읽기 쉬운 아주 쉬운 우리말(해요체)로 다듬어라.\n"
+    + "지킬 것: 뜻을 바꾸지 않는다. 새로운 의학 내용을 더하지 않는다. 약을 끊거나 줄이라는 말을 쓰지 않는다. use는 한두 문장, tell은 짧은 문장 2~4개를 ' / '로 이어 쓴다. "
+    + "비어 있는 use는 약 이름으로 확실히 아는 경우에만 채우고, 모르면 빈 문자열로 둔다.\n"
+    + '답은 같은 순서의 JSON 배열 [{"name":"...","use":"...","tell":"..."}]만 쓴다.\n\n'
+    + JSON.stringify(guideItems(m).map(({name, when, use, tell}) => ({name, when, use, tell})));
+}
+/* 답 속의 JSON 목록 찾기: ```json 칸을 먼저 보고, 앞뒤 설명글 속 대괄호는 건너뜀 */
+function jsonList(t){
+  const fence = t.match(/```(?:json)?\s*([\s\S]*?)```/), srcs = fence ? [fence[1], t] : [t];
+  for (const s of srcs){
+    const end = s.lastIndexOf("]");
+    for (let i = s.indexOf("["); i >= 0 && i < end; i = s.indexOf("[", i + 1)){
+      try { const v = JSON.parse(s.slice(i, end + 1)); if (Array.isArray(v) && v.some(x => x && typeof x === "object")) return v; } catch (e) {}
+    }
+  }
+  return null;
+}
+function applyGuideAI(m, t){
+  const list = jsonList(t);
+  if (!list) return "답에서 문장 목록을 읽지 못했습니다. ChatGPT 답 전체를 복사해 붙여 넣어 주세요.";
+  let n = 0;
+  guideItems(m).forEach((it, i) => {
+    const x = list.find(v => v && str(v.name) === it.name) || list[i];
+    if (!x) return;
+    const use = str(x.use).trim(), tell = Array.isArray(x.tell) ? x.tell.map(str).join(" / ") : str(x.tell).trim();
+    if (!use && !tell) return;
+    m.guide = m.guide || {};
+    const g = m.guide[it.key] = Object.assign({}, m.guide[it.key]);
+    if (use) g.use = use;
+    if (tell) g.tell = tell;
+    n++;
+  });
+  if (!n) return "답에서 바꿀 문장을 찾지 못했습니다.";
+  touch(m); saveNow();
+  guideNote = "AI가 다듬은 문장을 " + n + "가지 약에 넣었습니다.";
+  paintGuide(m);
+  return "";
+}
+
 /* 약 정리 */
 function paintDrugs(m){
   const body = $("tabBody"); body.textContent = "";
@@ -1148,6 +1265,7 @@ function drugResult(m, out){
   paintAreas(m);
   const a = analyze(m), drugs = a.drugs;
   if (!drugs.length) return;
+  out.append(overallCard(m));
   const cm = boardCommon();
   const flagged = new Set();
   a.lc.pairs.forEach(p => p.names.forEach(n => flagged.add(n))); a.lc.burdens.forEach(b => b.names.forEach(n => flagged.add(n))); a.cc.forEach(c => c.names.forEach(n => flagged.add(n)));
@@ -1237,6 +1355,7 @@ function paintLog(m){
       el("div", {class:"tags"}, el("span", {class:"tag low", text:"기록한 날 " + monthEntries.length + "일"}),
         ...MED.map(x => count(x.id) ? el("span", {class:"tag " + x.lv, text:x.short + " " + count(x.id) + "일"}) : null)),
       signCount.length ? el("div", {class:"tags"}, ...signCount.map(([l, n]) => el("span", {class:"tag common", text:l + " " + n + "일"}))) : null));
+  if (monthEntries.length) body.append(monthAICard(m, calYM, mo));
 }
 function dayEditor(m){
   const d = selDate, e = logOf(m.id, d) || {med:"", signs:[], note:""};
@@ -1338,9 +1457,13 @@ function paintGuide(m){
     return el("div", {class:"gitem"}, el("div", {class:"drug-head"}, el("h3", {text:drugName(line) || line}), el("span", {class:"muted", text:line}), g.edited ? el("span", {class:"tag low", text:"고쳐 씀"}) : null),
       el("label", null, "언제 먹나요", when), el("label", null, "무엇을 돕나요", use), el("label", null, "이럴 땐 말해 주세요", tell), g.edited ? el("div", null, reset) : null);
   });
+  const aiSlot = el("div", {class:"wrapcol"});
+  const aiBtn = el("button", {type:"button", text:"AI로 문장 다듬기", on:{click:() => { aiSlot.textContent = ""; aiSlot.append(askAI(guidePrompt(m), t => applyGuideAI(m, t))); }}});
+  const note = guideNote; guideNote = "";
   body.append(el("section", {class:"card"},
     el("div", {class:"card-head"}, el("h2", {text:"쉬운 안내문"}),
-      el("div", {class:"tags"}, el("label", {class:"muted", for:"gWeek"}, week, " 일주일 복약 체크표 함께 인쇄"), el("button", {type:"button", class:"primary", text:"안내문 인쇄", on:{click:() => printGuide(m)}}))),
+      el("div", {class:"tags"}, el("label", {class:"muted", for:"gWeek"}, week, " 일주일 복약 체크표 함께 인쇄"), aiBtn, el("button", {type:"button", class:"primary", text:"안내문 인쇄", on:{click:() => printGuide(m)}}))),
+    note ? el("p", {class:"status", role:"status", text:note}) : null, aiSlot,
     ...items));
 }
 
@@ -1358,7 +1481,7 @@ function printLog(m, ym){
     const iso = ym + "-" + pad(d), e = logOf(m.id, iso), md = e && medOf(e.med);
     rows.push(el("tr", null, el("td", {text:korDate(iso)}), el("td", {text:md ? md.label : ""}), el("td", {text:e ? arr(e.signs).map(signLabel).join(", ") : ""}), el("td", {text:e ? str(e.note) : ""})));
   }
-  const es = Object.keys(db.logs[m.id] || {}).filter(k => k.startsWith(ym + "-")).map(k => logOf(m.id, k));
+  const es = Object.keys(db.logs[m.id] || {}).filter(k => k.startsWith(ym + "-")).map(k => logOf(m.id, k)), aiSum = ((m.ai && m.ai.month) || {})[ym];
   const sum = MED.map(x => [x.short, es.filter(e => e.med === x.id).length]).filter(x => x[1]).map(x => x[0] + " " + x[1] + "일")
     .concat(SIGNS.map(s => [s.label, es.filter(e => arr(e.signs).includes(s.id)).length]).filter(x => x[1]).map(x => x[0] + " " + x[1] + "일"));
   doPrint([el("div", {class:"p-page p-log"},
@@ -1366,7 +1489,8 @@ function printLog(m, ym){
     el("p", {class:"p-meta", text:"회원: " + str(m.label) + " · " + y + "년 " + mo + "월 · 출력 " + today() + " · 관찰 기록 (진단 아님)"}),
     el("p", {class:"p-meta", text:"먹는 약: " + (linesOf(m).join(" / ") || "적힌 약 없음")}),
     el("table", null, el("thead", null, el("tr", null, el("th", {text:"날짜"}), el("th", {text:"복약"}), el("th", {text:"관찰된 변화"}), el("th", {text:"메모"}))), el("tbody", null, ...rows)),
-    el("p", {class:"p-meta", style:"margin-top:8pt", text:"요약: 기록한 날 " + es.length + "일" + (sum.length ? " · " + sum.join(" · ") : "")}))]);
+    el("p", {class:"p-meta", style:"margin-top:8pt", text:"요약: 기록한 날 " + es.length + "일" + (sum.length ? " · " + sum.join(" · ") : "")}),
+    aiSum ? el("h2", {text:"AI 요약 (참고자료, 진단 아님)"}) : null, aiSum ? el("p", {class:"p-ai", text:aiSum.text}) : null)]);
 }
 function printGuide(m){
   saveNow();
