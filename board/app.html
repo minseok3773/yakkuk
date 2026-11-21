@@ -544,7 +544,7 @@ function drugResult(m, out){
   out.append(el("section", {class:"card"},
     el("div", {class:"card-head"}, el("h2", {text:"약별 정리"}), el("div", {class:"sum"},
       el("span", {class:"tag hi", text:"높음 " + a.hi}), el("span", {class:"tag mid", text:"보통 " + a.mid}), el("span", {class:"tag mid", text:"누적 부담 " + a.lc.burdens.length}),
-      el("span", {class:"tag off", text:"FDA 허가사항 요약 " + a.known + "/" + drugs.length}))),
+      el("span", {class:"tag off", text:"허가사항 요약 " + a.known + "/" + drugs.length}))),
     el("div", {class:"drugs"}, ...drugs.map(x => drugCard(m, x, cm.byLine.get(m.id + "\u0001" + str(x.input)) || [], flagged)))));
   const cls = lv => lv === "높음" ? "hi" : lv === "보통" ? "mid" : "";
   out.append(el("section", {class:"card"}, el("h2", {text:"함께 먹을 때 확인할 조합 (내장 규칙)"}),
@@ -575,7 +575,7 @@ function drugCard(m, x, ids, flagged){
     row("흔한 부작용", ...each(o => o.se.join(", ")));
     row("경고·주의", ...each(o => o.warn));
     row("관찰·생활", ...each(o => o.care));
-    row("출처", ...off.map(o => el("div", null, multi ? o.ko[0] + ": " : "", el("a", {href:DAILYMED + o.id, target:"_blank", rel:"noopener", text:"미국 FDA 허가사항 원문(영문)"}),
+    row("출처", ...off.map(o => el("div", null, multi ? o.ko[0] + ": " : "", el("a", {href:srcHref(o), target:"_blank", rel:"noopener", text:srcOf(o)[1]}),
       el("span", {class:"muted", text:" 개정 " + ymd(o.dt)}))), el("div", null, nedrug));
   } else {
     const ask = "너는 정신재활시설 실무자에게 약을 설명하는 도우미다. 아래 약의 성분, 쓰임, 흔한 부작용, 실무자가 관찰할 점을 쉬운 말로 짧게 정리하라. "
@@ -588,7 +588,7 @@ function drugCard(m, x, ids, flagged){
   return el("article", {class:"drug" + (others.length ? " common" : "")},
     el("div", {class:"drug-head"}, el("b", {text:str(x.input)}),
       others.length ? el("span", {class:"tag common", text:"공통 약 · 회원 " + ids.length + "명"}) : null,
-      off.length ? el("span", {class:"tag off", text:"FDA 허가사항 요약"}) : el("span", {class:"tag low", text:"내장 자료 없음"}),
+      off.length ? el("span", {class:"tag off", text:srcTag(off)}) : el("span", {class:"tag low", text:"내장 자료 없음"}),
       flagged.has(str(x.input)) ? el("span", {class:"tag mid", text:"확인할 점 있음"}) : null),
     kv);
 }
@@ -651,7 +651,12 @@ function dayEditor(m){
 const EASY_ING = {
   propranolol:["가슴 두근거림이나 손 떨림을 줄여 주는 약이에요. 혈압약으로도 써요.", "어지럽거나 맥박이 느려요 / 숨이 차요"],
   trazodone:["잠을 돕고 기분을 편안하게 도와주는 약이에요.", "아침까지 졸리거나 어지러워요"],
-  mirtazapine:["기분을 돕고 잠과 입맛을 돕는 약이에요.", "낮에도 많이 졸려요 / 몸무게가 많이 늘어요"]
+  mirtazapine:["기분을 돕고 잠과 입맛을 돕는 약이에요.", "낮에도 많이 졸려요 / 몸무게가 많이 늘어요"],
+  sulpiride:["마음을 편안하게 하거나 위를 편하게 하는 데 쓰는 약이에요.", "몸이 뻣뻣하거나 떨려요 / 생리가 달라지거나 가슴에서 젖이 나와요"],
+  agomelatine:["마음이 가라앉은 것을 도와주는 약이에요. 효과가 나타나기까지 몇 주 걸려요.", "소변 색이 진해지거나 눈이 노래져요 / 이유 없이 많이 피곤해요 / 마음이 더 힘들어지면 바로 말해 주세요"],
+  domperidone:["구역과 구토를 줄여 주는 약이에요.", "가슴이 두근거리거나 어지러워요 / 몸이 떨리거나 뻣뻣해요"],
+  mosapride:["음식이 잘 내려가도록 소화를 도와주는 약이에요.", "많이 피곤하거나 소변 색이 진해져요 / 눈이 노래져요"],
+  trimebutine:["장의 움직임을 고르게 해 배 아픔과 설사·변비를 줄여 주는 약이에요.", "몸에 발진이 생기거나 가려워요"]
 };
 const EASY = [
   [/항정신병약/, "생각과 마음을 편안하게 해 주는 약이에요.", "몸이 뻣뻣하거나 떨려요 / 가만히 있기 힘들어요 / 많이 졸리거나 어지러워요"],
@@ -676,6 +681,8 @@ const EASY = [
   [/갑상선/, "부족한 갑상선 호르몬을 채워 주는 약이에요.", "가슴이 두근거리거나 땀이 많이 나요 / 많이 피곤해요"],
   [/위산/, "속쓰림을 줄이고 위를 보호해 주는 약이에요.", "배가 계속 아파요 / 검은 변을 봐요"],
   [/위장운동/, "음식이 잘 내려가도록 소화를 도와주는 약이에요.", "몸이 떨리거나 뻣뻣해요"],
+  [/위점막/, "위 점막을 보호해 속쓰림과 위염이 낫도록 돕는 약이에요.", "몸에 발진이 생기거나 가려워요"],
+  [/자율신경/, "두근거림·땀·두통 같은 몸의 긴장 증상을 줄여 주는 약이에요.", "낮에 많이 졸리거나 어지러워요"],
   [/변비약/, "변을 잘 보도록 도와주는 약이에요.", "배가 많이 아프거나 설사를 해요"],
   [/마약성 진통제/, "심한 통증을 줄여 주는 약이에요.", "많이 졸리거나 숨이 느려져요 / 변이 잘 안 나와요"],
   [/소염진통제/, "통증과 염증을 줄여 주는 약이에요.", "속이 쓰리거나 검은 변을 봐요"],
