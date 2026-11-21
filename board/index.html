@@ -1015,7 +1015,7 @@ function paintBoard(){
   const v = $("view"); v.textContent = "";
   const t = today(), cm = boardCommon();
   if (!db.members.length){
-    const old = importable();
+    const old = oldPlan().add;
     v.append(el("section", {class:"card empty"},
       el("h2", {text:"회원이 아직 없습니다"}),
       el("div", {class:"btns"},
@@ -1393,23 +1393,53 @@ function oldList(){
   try { const v = JSON.parse(localStorage.getItem(OLD) || "null"); return v && Array.isArray(v.list) ? v.list.filter(m => m && typeof m.id === "string") : []; }
   catch (e) { return []; }
 }
-const importable = () => oldList().filter(o => !db.members.some(m => m.from === o.id || m.id === o.id));
-function refreshImport(){ const n = importable().length; $("importOld").hidden = !n; $("importOld").textContent = "기존 약국이 회원 가져오기 (" + n + "명)"; }
-function takeMembers(list){
-  let n = 0;
-  list.forEach(o => {
-    if (!o || typeof o.id !== "string" || db.members.some(m => m.from === o.id || m.id === o.id)) return;
-    const i = o.input || {}, now = new Date().toISOString();
-    db.members.push({id:newId(), from:o.id, label:str(o.label).slice(0, 20) || nextLabel(), age:str(i.age), sex:str(i.sex), conds:arr(i.conds).map(str),
-      drugs:str(i.drugs), guide:{}, created:now, updated:now});
-    n++;
+/* 약국이 기록을 현황판으로 옮김. 새 회원은 더하고, 이미 가져온 회원은 약국이 쪽이 더 새로 바뀌었으면 약·정보를 맞춤.
+   현황판에서도 약을 고친 회원은 덮어쓰지 않고 알려 줌. fromUpdated = 마지막으로 맞춘 약국이 기록 시각, importedDrugs = 그때 가져온 약 */
+function syncPlan(list){
+  const plan = {add:[], upd:[], kept:[]};
+  arr(list).forEach(o => {
+    if (!o || typeof o.id !== "string") return;
+    const m = db.members.find(x => x.from === o.id || x.id === o.id);
+    if (!m){ plan.add.push(o); return; }
+    if (!m.from || str(o.updated) <= str(m.fromUpdated)) return;
+    const drugs = str((o.input || {}).drugs);
+    if (drugs === str(m.drugs) || (m.importedDrugs != null && str(m.drugs) === str(m.importedDrugs))) plan.upd.push([m, o]);
+    else plan.kept.push([m, o]);
   });
-  return n;
+  return plan;
+}
+function applyPlan(plan){
+  const now = new Date().toISOString();
+  plan.add.forEach(o => {
+    const i = o.input || {};
+    db.members.push({id:newId(), from:o.id, fromUpdated:str(o.updated), importedDrugs:str(i.drugs), label:str(o.label).slice(0, 20) || nextLabel(),
+      age:str(i.age), sex:str(i.sex), conds:arr(i.conds).map(str), drugs:str(i.drugs), guide:{}, created:now, updated:now});
+  });
+  plan.upd.forEach(([m, o]) => {
+    const i = o.input || {};
+    Object.assign(m, {drugs:str(i.drugs), importedDrugs:str(i.drugs), age:str(i.age), sex:str(i.sex), conds:arr(i.conds).map(str), fromUpdated:str(o.updated)});
+    touch(m);
+  });
+  saveNow();
+}
+function planText(plan, where){
+  const names = list => list.map(([m]) => str(m.label)).join(", "), parts = [];
+  if (plan.add.length) parts.push("새 회원 " + plan.add.length + "명을 가져왔습니다");
+  if (plan.upd.length) parts.push("약이 바뀐 회원 " + plan.upd.length + "명(" + names(plan.upd) + ")의 약을 새로 맞췄습니다");
+  let t = where + (parts.length ? "에서 " + parts.join(", ") + "." : "에서 새로 가져오거나 바꿀 회원이 없습니다.");
+  if (plan.kept.length) t += " 새 약국이에서도 약을 고친 회원(" + names(plan.kept) + ")은 그대로 두었습니다. 두 쪽의 약을 비교해 맞춰 주세요.";
+  return t;
+}
+const oldPlan = () => syncPlan(oldList());
+function refreshImport(){
+  const pl = oldPlan(), n = pl.add.length + pl.upd.length;
+  $("importOld").hidden = !n;
+  $("importOld").textContent = "기존 약국이 회원 가져오기 (" + [pl.add.length ? "새 " + pl.add.length + "명" : "", pl.upd.length ? "바뀜 " + pl.upd.length + "명" : ""].filter(Boolean).join(" · ") + ")";
 }
 function dataMsg(t, err){ const m = $("dataMsg"); m.textContent = t; m.className = "status" + (err ? " err" : ""); }
 function importOld(){
-  const n = takeMembers(importable()); saveNow();
-  dataMsg(n ? "기존 약국이 회원 " + n + "명을 가져왔습니다. 일지는 새로 씁니다." : "가져올 회원이 없습니다.");
+  const pl = oldPlan(); applyPlan(pl);
+  dataMsg(planText(pl, "기존 약국이"));
   $("dataMenu").open = true; paint();
 }
 $("importOld").addEventListener("click", importOld);
@@ -1443,8 +1473,8 @@ $("backupLoad").addEventListener("change", e => {
         anaCache.clear(); saveNow();
         dataMsg("불러왔습니다. 새 회원 " + add + "명, 더 새 기록으로 바뀐 회원 " + upd + "명, 일지 " + days + "일.");
       } else if (v && Array.isArray(v.list)){
-        const n = takeMembers(v.list); saveNow();
-        dataMsg("약국이 백업 파일에서 회원 " + n + "명을 가져왔습니다.");
+        const pl = syncPlan(v.list); applyPlan(pl);
+        dataMsg(planText(pl, "약국이 백업 파일"));
       } else throw new Error("shape");
       paint();
     } catch (x) { dataMsg("백업 파일을 읽지 못했습니다. 약국이나 약국이 현황판에서 내려받은 .json 파일인지 확인해 주세요.", true); }
