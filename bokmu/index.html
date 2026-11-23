@@ -114,6 +114,8 @@ table.t td.adj input{border-color:var(--accent)}
 .counts{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:6px}
 .counts label{display:flex;flex-direction:column;gap:3px;font-size:11px;color:var(--muted);text-align:center;min-width:0}
 .counts input{text-align:center;font-weight:600;font-size:15px;padding:6px 2px}
+.fare{font-size:15px}
+.fare strong{font-size:17px}
 .counts label.adj input{border-color:var(--accent);border-width:2px}
 .preview{border:1px solid var(--accent);border-radius:8px;padding:12px;display:flex;flex-direction:column;gap:8px}
 details > summary{cursor:pointer;font-weight:600;font-size:14px}
@@ -237,7 +239,11 @@ function norm(d){
 let db = blank();
 try { const raw = localStorage.getItem(KEY); if (raw) db = norm(JSON.parse(raw)); } catch (e) {}
 let saveT = 0;
-function save(){ clearTimeout(saveT); saveT = setTimeout(() => { try { localStorage.setItem(KEY, JSON.stringify(db)); } catch (e) {} }, 200); }
+function saveNow(){ clearTimeout(saveT); saveT = 0; try { localStorage.setItem(KEY, JSON.stringify(db)); } catch (e) {} }
+function save(){ clearTimeout(saveT); saveT = setTimeout(saveNow, 200); }
+/* 창을 닫거나 다른 창으로 갈 때 남은 저장을 바로 함 */
+addEventListener("pagehide", () => { if (saveT) saveNow(); });
+document.addEventListener("visibilitychange", () => { if (document.visibilityState === "hidden" && saveT) saveNow(); });
 
 const now = new Date();
 let cur = { ym: db.ui.ym || (now.getFullYear()+"-"+pad(now.getMonth()+1)), pid: db.ui.pid || "" };
@@ -274,6 +280,13 @@ function counts(ym, pid){
   const a = autoCounts(daysOf(ym, pid), ym), r = rec(ym, pid), out = {};
   COLS.forEach(([k]) => out[k] = (r && r.adj && r.adj[k] != null && r.adj[k] !== "") ? Number(r.adj[k]) : a[k]);
   return {auto:a, val:out};
+}
+/* 교통비: 요원별 1일 교통비 × 출근일수(보수명세서와 같은 계산: 교통비 = 1일 교통비 × 출근일수) */
+const won = n => Number(n || 0).toLocaleString("ko-KR");
+const fareOf = p => { const n = Number(p && p.fare); return isFinite(n) && n > 0 ? Math.round(n) : 0; };
+function fareLine(p, ym){
+  const f = fareOf(p), out = counts(ym, p.id).val.out;
+  return f ? "교통비 " + won(f) + "원 × 출근 " + out + "일 = <strong>" + won(f * out) + "원</strong>" : '<span class="muted">1일 교통비를 넣으면 이번 달 교통비가 나옵니다</span>';
 }
 /* 근무상황 표 줄: 교육·공무상병가는 이어진 날(사이 휴일 포함)을 한 줄로, 연가·병가 등은 하루씩 */
 function rowsOf(ym, pid){
@@ -353,6 +366,7 @@ function paintPerson(){
       '<label class="f">복무분야<input type="text" id="p_field" value="' + esc(p.field || "") + '" placeholder="' + esc(db.set.field) + '"></label>' +
       '<label class="f">복무형태<input type="text" id="p_type" value="' + esc(p.type || "") + '" placeholder="' + esc(db.set.type) + '"></label>' +
       '<label class="f">근무지<input type="text" id="p_place" value="' + esc(p.place || "") + '" placeholder="' + esc(db.set.place) + '"></label>' +
+      '<label class="f" style="flex:0 1 180px">1일 교통비(원)<input type="number" id="p_fare" min="0" step="100" inputmode="numeric" value="' + (fareOf(p) || "") + '" placeholder="예: 3300"></label>' +
     '</div>' +
     '<div class="row" style="justify-content:space-between"><h3>날짜별 근무</h3><button type="button" class="sm" id="resetDays">달력 기본값으로</button></div>' +
     chkHtml +
@@ -361,19 +375,24 @@ function paintPerson(){
     '<div class="scroll"><table class="t" id="rows"><thead><tr><th>종별</th><th>기간 또는 일시</th><th>사유 또는 용무</th><th>직무수행 태도</th></tr></thead><tbody>' + rowsHtml + '</tbody></table></div>' +
     '<div class="row" style="justify-content:space-between"><h3>보수명세서 근무상황</h3><div class="row">' + (anyAdj ? '<span class="tag">직접 고친 칸 있음</span><button type="button" class="sm" id="adjReset">자동 계산으로</button>' : "") + '<button type="button" class="sm" id="copyOne">숫자 복사</button></div></div>' +
     '<div class="counts" id="counts">' + cnt + '</div>' +
+    '<div class="fare" id="fareLine">' + fareLine(p, ym) + '</div>' +
     '<div class="status" id="pStatus"></div>';
 }
 function paintAll(){
   const ym = cur.ym, [y, m] = ymParts(ym);
   $("allTitle").textContent = m + "월 보수명세서 근무상황";
   if (!db.people.length) { $("allTable").innerHTML = '<tbody><tr><td class="muted">요원이 없습니다.</td></tr></tbody>'; return; }
-  let h = '<thead><tr><th>순서</th><th>성명</th>' + COLS.map(([, n]) => '<th class="num">' + n.replace("30일 이내 ", "").replace("30일초과 ", "30일초과<br>") + '</th>').join("") + '<th>포털</th></tr></thead><tbody>';
+  let h = '<thead><tr><th>순서</th><th>성명</th>' + COLS.map(([, n]) => '<th class="num">' + n.replace("30일 이내 ", "").replace("30일초과 ", "30일초과<br>") + '</th>').join("") + '<th class="num">1일<br>교통비</th><th class="num">교통비</th><th>포털</th></tr></thead><tbody>';
+  let fareSum = 0;
   db.people.forEach((p, i) => {
     const cn = counts(ym, p.id).val, chk = portalCheck(ym, p.id), r = rec(ym, p.id);
     const st = !(r && r.days) ? '<span class="tag">기본값</span>' : (chk ? (chk.diffs.length ? '<span class="tag warn">다름</span>' : '<span class="tag ok">같음</span>') : "");
     h += '<tr><td style="white-space:nowrap"><button type="button" class="sm" data-up="' + p.id + '" aria-label="위로"' + (i===0 ? " disabled" : "") + '>▲</button> <button type="button" class="sm" data-down="' + p.id + '" aria-label="아래로"' + (i===db.people.length-1 ? " disabled" : "") + '>▼</button></td><td>' + esc(p.name) + '</td>' +
-      COLS.map(([k]) => '<td class="num">' + cn[k] + '</td>').join("") + '<td>' + st + '</td></tr>';
+      COLS.map(([k]) => '<td class="num">' + cn[k] + '</td>').join("") +
+      '<td class="num">' + (fareOf(p) ? won(fareOf(p)) : '<span class="muted">-</span>') + '</td><td class="num">' + (fareOf(p) ? won(fareOf(p) * cn.out) : '<span class="muted">-</span>') + '</td><td>' + st + '</td></tr>';
+    fareSum += fareOf(p) * cn.out;
   });
+  h += '<tr><td></td><td><strong>합계</strong></td>' + COLS.map(() => '<td></td>').join("") + '<td></td><td class="num"><strong>' + won(fareSum) + '</strong></td><td></td></tr>';
   $("allTable").innerHTML = h + '</tbody>';
 }
 function paintSet(){
@@ -415,6 +434,7 @@ $("person").addEventListener("input", e => {
   const t = e.target, p = person(cur.pid); if (!p) return;
   const map = {p_name:"name", p_phone:"phone", p_org:"org", p_field:"field", p_type:"type", p_place:"place"};
   if (map[t.id]) { p[map[t.id]] = t.value; save(); if (t.id === "p_name") { paintChips(); paintAll(); } return; }
+  if (t.id === "p_fare") { p.fare = t.value === "" ? "" : Math.max(0, Math.round(Number(t.value) || 0)); save(); $("fareLine").innerHTML = fareLine(p, cur.ym); paintAll(); return; }
   if (t.dataset.f) {
     const tr = t.closest("tr"), r = rec(cur.ym, p.id, true), key = tr.dataset.key;
     r.notes[key] = r.notes[key] || {}; r.notes[key][t.dataset.f] = t.value; save();
