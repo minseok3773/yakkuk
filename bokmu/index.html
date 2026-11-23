@@ -142,10 +142,10 @@ details[open] > summary{margin-bottom:10px}
   <section class="panel" id="upPanel">
     <div class="band"><h2>근태현황 넣기</h2><span class="tag" id="aiTag" hidden>사진도 읽음</span></div>
     <textarea id="pasteBox" rows="2" placeholder="포털 근태현황 표를 마우스로 끌어 선택 → Ctrl+C → 여기를 누르고 Ctrl+V" aria-label="근태현황 표 붙여 넣기"></textarea>
-    <div id="drop" tabindex="0" role="button" aria-label="근태현황 엑셀 파일 올리기">
-      <strong id="dropMain">엑셀 파일을 끌어 놓거나 눌러서 고르기</strong>
+    <div id="drop" tabindex="0" role="button" aria-label="근태현황 그림이나 엑셀 파일 올리기">
+      <strong id="dropMain">근태현황 그림(PNG)이나 엑셀 파일을 끌어 놓거나 눌러서 고르기</strong>
       <span class="muted" id="dropSub">엑셀이 없으면 아래 요원 달력에서 연가·병가 날만 눌러 바꾸면 됩니다</span>
-      <input type="file" id="file" accept=".xlsx,.xls,.csv" multiple hidden>
+      <input type="file" id="file" accept=".xlsx,.xls,.csv,image/*" multiple hidden>
     </div>
     <div class="status" id="upStatus"></div>
     <div id="preview" hidden></div>
@@ -593,9 +593,9 @@ function setUp(msg, err){ $("upStatus").textContent = msg; $("upStatus").classNa
 function paintAIMode(){
   const ai = !!(sample && imgOK);
   $("aiTag").hidden = !ai;
-  $("file").accept = ".xlsx,.xls,.csv" + (ai ? ",image/*" : "");
-  $("dropMain").textContent = ai ? "엑셀 파일이나 근태현황 사진을 끌어 놓거나 눌러서 고르기" : "엑셀 파일을 끌어 놓거나 눌러서 고르기";
-  $("dropSub").textContent = ai ? "사진은 화면 캡처 뒤 Ctrl+V · 표 복사·붙여넣기가 가장 정확합니다" : "복사가 안 되면 아래 요원 달력에서 연가·병가 날만 눌러 바꾸면 됩니다";
+  $("file").accept = ".xlsx,.xls,.csv,image/*";
+  $("dropMain").textContent = "근태현황 그림(PNG)이나 엑셀 파일을 끌어 놓거나 눌러서 고르기";
+  $("dropSub").textContent = ai ? "화면 캡처 뒤 Ctrl+V로 붙여 넣어도 됩니다 · Claude가 그림을 읽습니다" : "화면 캡처 뒤 Ctrl+V로 붙여 넣어도 됩니다 · 그림 글자는 이 컴퓨터 안에서 읽습니다";
 }
 (async () => {
   if (window.claude) {
@@ -662,11 +662,13 @@ function paintPreview(){
   if (!results.length) { box.hidden = true; box.innerHTML = ""; return; }
   box.hidden = false;
   box.innerHTML = results.map((r, i) => {
-    let h = '<div class="preview" data-i="' + i + '"><div class="row" style="justify-content:space-between"><strong>읽은 결과 ' + (results.length > 1 ? (i + 1) : "") + '</strong>' + (r.ym ? '<span class="tag">' + r.ym.replace("-", "년 ") + '월</span>' : "") + '</div>';
-    if (r.summary.length) h += '<div class="muted">합계표: ' + r.summary.map(s => esc(s.name) + ' (출근일수 ' + s.workdays + ', 연가 ' + s.annual + ', 병가 ' + s.sick + (s.special ? ', 특휴 ' + s.special : "") + ')').join(" · ") + '</div>';
+    let h = '<div class="preview" data-i="' + i + '"><div class="row" style="justify-content:space-between"><strong>읽은 결과 ' + (results.length > 1 ? (i + 1) : "") + '</strong>' + (r.ocr ? '<span class="tag warn">그림 글자 인식 · 숫자 확인</span> ' : "") + (r.ym ? '<span class="tag">' + r.ym.replace("-", "년 ") + '월</span>' : "") + '</div>';
+    if (r.summary.length && r.ocr) h += '<div class="row muted">합계표 (이름이 틀렸으면 고쳐 주세요):</div><div class="row">' + r.summary.map((s, j) => '<label class="row muted" style="gap:4px"><input type="text" data-sn="' + i + ':' + j + '" value="' + esc(s.name) + '" style="width:84px" aria-label="성명"> 출근일수 ' + s.workdays + ' · 연가 ' + s.annual + ' · 병가 ' + s.sick + (s.special ? ' · 특휴 ' + s.special : "") + '</label>').join("") + '</div>';
+    else if (r.summary.length) h += '<div class="muted">합계표: ' + r.summary.map(s => esc(s.name) + ' (출근일수 ' + s.workdays + ', 연가 ' + s.annual + ', 병가 ' + s.sick + (s.special ? ', 특휴 ' + s.special : "") + ')').join(" · ") + '</div>';
     if (r.days.length) {
       const c = {}; r.days.forEach(x => { const k = mapKind(x.kind); c[k] = (c[k] || 0) + 1; });
       const odd = r.days.filter(x => mapKind(x.kind) === "확인").map(x => x.date.slice(5) + " " + x.kind);
+      if (r.ocr && r.ym) { const seen = new Set(r.days.map(x => x.date)); for (let d = 1; d <= dim(r.ym); d++) if (!isHoli(r.ym, d) && !seen.has(r.ym + "-" + pad(d))) odd.push(pad(+r.ym.slice(5)) + "-" + pad(d) + " 못 읽음"); }
       h += '<div class="row"><span class="muted">날짜별 목록 ' + r.days.length + '일 (' + Object.entries(c).map(([k, n]) => (CODES.find(z => z[0] === k) || [k, k])[1] + ' ' + n).join(", ") + ') →</span>' +
         '<select data-target="' + i + '" style="width:auto">' +
           db.people.map(p => '<option value="' + p.id + '"' + (r.target === p.id ? " selected" : "") + '>' + esc(p.name) + '</option>').join("") +
@@ -677,13 +679,30 @@ function paintPreview(){
     return h + '</div>';
   }).join("") + '<div class="row"><button type="button" class="pri" id="applyAll">달력에 채우기</button><button type="button" id="cancelAll">취소</button></div>';
 }
-$("preview").addEventListener("change", e => { const s = e.target.closest("[data-target]"); if (s) results[+s.dataset.target].target = s.value; });
+$("preview").addEventListener("change", e => {
+  const s = e.target.closest("[data-target]"); if (s) { results[+s.dataset.target].target = s.value; return; }
+  const n = e.target.closest("[data-sn]");
+  if (n) {
+    const [i, j] = n.dataset.sn.split(":").map(Number), sm = results[i].summary[j], old = sm.name, nw = n.value.trim();
+    if (!nw || nw === old) { n.value = old; return; }
+    sm.name = nw;
+    results.forEach(r => { if (r.target === "new:" + old) r.target = "new:" + nw; });
+    results.forEach(r => { if (r.days.length && r.target.startsWith("new:")) r.target = matchTarget(r); });
+    paintPreview();
+  }
+});
 $("preview").addEventListener("click", e => {
   if (e.target.id === "cancelAll") { results = []; paintPreview(); setUp(""); }
   if (e.target.id === "applyAll") applyResults();
 });
-function findOrAdd(name){
-  let p = db.people.find(x => x.name === name);
+/* 글자 인식은 이름 한 글자를 틀릴 수 있어, 글자 수가 같고 한 글자만 다른 기존 요원이 한 명이면 그 요원으로 봄 */
+function nearName(name){
+  if (!name || name.length < 3) return null;
+  const c = db.people.filter(x => x.name && x.name.length === name.length && [...x.name].filter((ch, i) => ch !== name[i]).length === 1);
+  return c.length === 1 ? c[0] : null;
+}
+function findOrAdd(name, fuzzy){
+  let p = db.people.find(x => x.name === name) || (fuzzy ? nearName(name) : null);
   if (!p) { p = {id:uid(), name: name || "새 요원", phone:"", org:"", field:"", type:"", place:""}; db.people.push(p); }
   return p;
 }
@@ -691,11 +710,12 @@ function applyResults(){
   let lastYm = cur.ym, lastPid = cur.pid, filled = 0, added = db.people.length;
   results.forEach(r => {
     const ym = r.ym || cur.ym;
-    r.summary.forEach(s => { const p = findOrAdd(s.name); const R = rec(ym, p.id, true); const {name, ...rest} = s; R.portal = rest; });
+    r.summary.forEach(s => { const p = findOrAdd(s.name, r.ocr); const R = rec(ym, p.id, true); const {name, ...rest} = s; R.portal = rest; });
     if (r.days.length) {
-      const p = r.target && !r.target.startsWith("new:") && person(r.target) ? person(r.target) : findOrAdd(r.target ? r.target.slice(4) : "");
+      const p = r.target && !r.target.startsWith("new:") && person(r.target) ? person(r.target) : findOrAdd(r.target ? r.target.slice(4) : "", r.ocr);
       const R = rec(ym, p.id, true), days = {};
-      for (let d = 1; d <= dim(ym); d++) days[d] = "휴일";
+      /* 글자 인식으로 읽은 목록에서 빠진 평일은 휴일이 아니라 '확인 필요'로 둠 */
+      for (let d = 1; d <= dim(ym); d++) days[d] = r.ocr && !isHoli(ym, d) ? "확인" : "휴일";
       r.days.forEach(x => { const [y, m, d] = x.date.split("-").map(Number); if (y + "-" + pad(m) === ym && d >= 1 && d <= dim(ym)) days[d] = mapKind(x.kind); });
       R.days = days; R.src = "사진"; filled++;
       lastPid = p.id;
@@ -722,10 +742,10 @@ async function readFiles(files){
   const sheets = files.filter(isSheet), imgs = files.filter(f => !isSheet(f) && /^image\//.test(f.type));
   if (sheets.length) return readSheets(sheets);
   if (imgs.length) return readImages(imgs);
-  setUp("엑셀 파일(.xlsx, .xls, .csv)만 올릴 수 있습니다.", true);
+  setUp("그림(PNG, JPG)이나 엑셀 파일(.xlsx, .xls, .csv)만 올릴 수 있습니다.", true);
 }
 async function readImages(files){
-  if (!(sample && imgOK)) { setUp("사진 읽기는 Claude판에서만 됩니다. 포털에서 엑셀로 받아 올리거나, 달력에서 직접 고쳐 주세요.", true); return; }
+  if (!(sample && imgOK)) return readImagesOCR(files);
   if (reading) return;
   reading = true; results = []; paintPreview();
   const errs = [];
@@ -741,6 +761,93 @@ async function readImages(files){
   if (results.length) setUp(errs.length ? errs.length + "장은 읽지 못했습니다. " + errs[0] : "다 읽었습니다. 맞는지 보고 ‘달력에 채우기’를 누르세요.", !!errs.length);
   else setUp(errs[0] || "읽지 못했습니다.", true);
 }
+/* ---------- 그림(PNG 등) 글자 인식: AI 없이 이 컴퓨터 안에서 읽음 (tesseract.js, 한국어 자료는 처음 한 번 내려받음) ---------- */
+const OCR_V = {js:"https://cdn.jsdelivr.net/npm/tesseract.js@5.1.1/dist/tesseract.min.js", worker:"https://cdn.jsdelivr.net/npm/tesseract.js@5.1.1/dist/worker.min.js", core:"https://cdn.jsdelivr.net/npm/tesseract.js-core@5.1.1", lang:"https://cdn.jsdelivr.net/npm/@tesseract.js-data/kor@1.0.0/4.0.0_best_int"};
+let ocrWorkerP = null, ocrPct = null;
+function loadOCR(){
+  if (ocrWorkerP) return ocrWorkerP;
+  ocrWorkerP = new Promise((ok, no) => {
+    const go = () => window.Tesseract.createWorker("kor", 1, {workerPath:OCR_V.worker, corePath:OCR_V.core, langPath:OCR_V.lang,
+      logger: m => { if (ocrPct && m && typeof m.progress === "number") ocrPct(m.status, m.progress); }})
+      .then(async w => { await w.setParameters({tessedit_pageseg_mode:"6", preserve_interword_spaces:"1"}); ok(w); }, no);
+    if (window.Tesseract) return go();
+    const sc = document.createElement("script"); sc.src = OCR_V.js; sc.onload = go; sc.onerror = () => no(new Error("load")); document.head.append(sc);
+  }).catch(e => { ocrWorkerP = null; throw e; });
+  return ocrWorkerP;
+}
+/* 글자가 또렷하도록 키우고(가로 약 5400점) 흑백으로 바꿈. 노란 강조 줄도 흰 바탕이 됨 */
+async function ocrCanvas(file){
+  const url = URL.createObjectURL(file);
+  try {
+    const im = new Image(); im.src = url; await im.decode();
+    const S = Math.max(1, Math.min(4, Math.round(5400 / im.naturalWidth)));
+    const c = document.createElement("canvas"); c.width = im.naturalWidth * S; c.height = im.naturalHeight * S;
+    const x = c.getContext("2d"); x.imageSmoothingQuality = "high"; x.drawImage(im, 0, 0, c.width, c.height);
+    const d = x.getImageData(0, 0, c.width, c.height), p = d.data;
+    for (let i = 0; i < p.length; i += 4) { const v = (0.299 * p[i] + 0.587 * p[i+1] + 0.114 * p[i+2]) < 200 ? 0 : 255; p[i] = p[i+1] = p[i+2] = v; }
+    x.putImageData(d, 0, 0);
+    return c;
+  } finally { URL.revokeObjectURL(url); }
+}
+/* 인식한 글을 줄마다 나눠 합계표 줄과 날짜별 목록 줄로 읽음 */
+function parseOCR(text){
+  const out = {summary:[], daily:{"":[]}};
+  const KEYS = ["workdays","normal","night","annual","sick","sickDuty","absent","special"];
+  const fixNum = t => t.replace(/^[ㅁoODQ]$/, "0").replace(/^[ㅣlI|\[\]!]$/, "1");
+  String(text || "").split(/\r?\n/).forEach(raw => {
+    let line = raw.replace(/[줄술풀]근/g, "출근").replace(/[점절정][삼상]/g, "정상").replace(/[면떤]가/g, "연가");
+    if (/성명|근무지|복무일자/.test(line) && !/\d{4}\s*-/.test(line.replace(/생년월.|출근.수/g, ""))) return;
+    const dm = line.match(/(\d{4})\s*[-.]\s*(\d{1,2})\s*[-.]\s*(\d{1,2})(?!\d)/);
+    let left = line;
+    if (dm) {
+      left = line.slice(0, dm.index);
+      const kind = line.slice(dm.index + dm[0].length).replace(/^\s*[월화수목금토일훨급복]\s/, " ").trim();
+      out.daily[""].push({date: dm[1] + "-" + pad(+dm[2]) + "-" + pad(+dm[3]), kind: kind || "?"});
+    }
+    const toks = left.split(/\s+/).map(t => t.replace(/[_.,'"」「]/g, "")).filter(Boolean).map(fixNum);
+    const fi = toks.findIndex(t => /^\d+$/.test(t));
+    if (fi < 1) return;
+    let ni = -1; for (let k = fi - 1; k >= 0; k--) if (/^[가-힣]{2,4}$/.test(toks[k])) { ni = k; break; }
+    if (ni < 0) return;
+    let nums = toks.slice(fi).filter(t => /^\d+$/.test(t));
+    if (nums[0] && nums[0].length >= 5) nums = nums.slice(1);
+    if (nums.length < 8) return;
+    const o = {name: toks[ni]}; KEYS.forEach((k, i) => o[k] = Number(nums[i])); out.summary.push(o);
+  });
+  /* 날짜 하나만 잘못 읽힌 경우(연도나 달 한쪽만 틀림) 목록 대부분의 달로 맞춤 */
+  const days = out.daily[""], cnt = {};
+  days.forEach(x => { const k = x.date.slice(0, 7); cnt[k] = (cnt[k] || 0) + 1; });
+  const top = Object.keys(cnt).sort((a, b) => cnt[b] - cnt[a])[0];
+  if (top) days.forEach(x => { const [y, m, d] = x.date.split("-"); const [ty, tm] = top.split("-"); if ((y === ty) !== (m === tm) && +d >= 1 && +d <= dim(top)) x.date = top + "-" + d; });
+  out.daily[""] = days.filter(x => x.date.slice(0, 7) === top && +x.date.slice(8) <= dim(top))
+    .filter((x, i, a) => a.findIndex(z => z.date === x.date) === i);
+  if (!out.daily[""].length) delete out.daily[""];
+  return out;
+}
+async function readImagesOCR(files){
+  if (reading) return;
+  reading = true; results = []; paintPreview();
+  const errs = [];
+  let w;
+  ocrPct = (st, pr) => { if (/load|init/i.test(st)) setUp("글자 인식 도구를 준비하는 중… " + Math.round(pr * 100) + "% (처음 한 번만 10~20초)"); };
+  try { setUp("글자 인식 도구를 준비하는 중… (처음 한 번만 10~20초)"); w = await loadOCR(); }
+  catch (e) { reading = false; ocrPct = null; setUp("글자 인식 도구를 불러오지 못했습니다. 인터넷 연결을 확인하고 다시 올려 주세요.", true); return; }
+  for (let i = 0; i < files.length; i++) {
+    const tag = files.length > 1 ? "(" + (i + 1) + "/" + files.length + ") " : "";
+    ocrPct = (st, pr) => { if (/recogn/i.test(st)) setUp("그림 글자를 읽는 중… " + tag + Math.round(pr * 100) + "%"); };
+    try {
+      setUp("그림 글자를 읽는 중… " + tag);
+      const r0 = await w.recognize(await ocrCanvas(files[i]));
+      const rs = sheetResults(parseOCR(r0.data.text));
+      if (!rs.length) throw new Error("empty");
+      rs.forEach(r => { r.ocr = true; r.target = matchTarget(r); results.push(r); });
+    } catch (e) { errs.push(files[i].name || "그림"); }
+  }
+  ocrPct = null; reading = false;
+  paintPreview();
+  if (results.length) setUp(errs.length ? errs.join(", ") + "에서 근태 표를 찾지 못했습니다." : "다 읽었습니다. 그림 글자 인식은 틀릴 수 있으니 포털 화면과 숫자를 맞춰 보고 ‘달력에 채우기’를 누르세요.", !!errs.length);
+  else setUp("그림에서 근태 표를 찾지 못했습니다. 근태현황 표가 잘리지 않게 캡처해서 다시 올려 주세요.", true);
+}
 const drop = $("drop");
 drop.addEventListener("click", () => $("file").click());
 drop.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); $("file").click(); } });
@@ -755,7 +862,7 @@ document.addEventListener("paste", e => {
   const items = [...(cd.items || [])].filter(it => it.kind === "file" && /^image\//.test(it.type));
   const html = cd.getData("text/html") || "", text = cd.getData("text/plain") || "";
   if (/<table/i.test(html) || /\t/.test(text) || (inBox && text.trim())) { e.preventDefault(); readPasted(html, text); return; }
-  if (items.length && sample && imgOK) { e.preventDefault(); readImages(items.map(it => it.getAsFile())); }
+  if (items.length) { e.preventDefault(); readImages(items.map(it => it.getAsFile())); }
 });
 $("pasteBox").addEventListener("input", e => { const v = e.target.value; if (v.trim()) { e.target.value = ""; readPasted("", v); } });
 
