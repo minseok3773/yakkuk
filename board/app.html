@@ -712,7 +712,8 @@ function drugCard(m, x, ids, flagged){
       + "확실하지 않으면 모른다고 답하라. 진단하지 말고, 약을 끊거나 바꾸라고 권하지 마라.\n\n약: " + str(x.input);
     const cb = el("button", {type:"button", class:"mini", text:"ChatGPT에 물어볼 요청문 복사"});
     cb.addEventListener("click", () => copyText(ask, cb));
-    row("성분·분류", el("div", {text:arr(x.ingredient_en).length ? str(x.ingredient) + " (" + arr(x.ingredient_en).join(", ") + ") · 규칙 점검만" : "내장 자료에서 찾지 못함"}));
+    row("성분·분류", el("div", {text:arr(x.ingredient_en).length ? str(x.ingredient) + " (" + arr(x.ingredient_en).join(", ") + ") · 규칙 점검만"
+      : str(x.ingredient) && str(x.ingredient) !== "확인 필요" ? str(x.ingredient) + " · " + str(x.class) : "내장 자료에서 찾지 못함"}));
     row("찾아보기", el("div", null, nedrug), el("div", {class:"chips"}, cb, el("a", {href:"https://chatgpt.com/", target:"_blank", rel:"noopener", text:"ChatGPT 열기"})));
   }
   return el("article", {class:"drug" + (others.length ? " common" : "")},
