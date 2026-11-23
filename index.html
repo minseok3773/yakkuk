@@ -804,15 +804,27 @@ function factsFor(list){
   list.forEach(x => offOf(x).forEach(o => { if (!off.includes(o)) off.push(o); }));
   return off.length ? "\n\n[공식 자료 요약 - 이 내용과 어긋나지 않게 설명하라]\n" + off.map(factLine).join("\n") : "";
 }
+/* 약 이름 뒤 괄호에 적힌 성분명. 예: 넥실렌에스정[애엽이소프로판올연조엑스(20→1)], 훼로바-유서방정(건조황산제일철).
+   진료과·복용 때·용량만 적힌 괄호는 성분으로 보지 않음 */
+const NOT_ING = /(과|병원|의원|약국|센터|하루|매일|아침|점심|저녁|취침|자기|식전|식후|필요|회|번|일분|주분|알|정씩)$|^(정신|내과|외과|비뇨|피부|이비인후|안과|치과|신경)/;
+function writtenIng(line){
+  const s = str(line), out = [];
+  const add = t => { t = t.replace(/\([^()]*\)/g, "").replace(/\s+/g, " ").trim(); if (/[가-힣a-z]{2,}/i.test(t) && !/^[\d\s.,~\-/→:]+/.test(t) && !NOT_ING.test(t) && !out.includes(t)) out.push(t); };
+  (s.match(/\[([^\]]*)\]/g) || []).forEach(b => add(b.slice(1, -1)));
+  if (!out.length) (s.match(/\(([^()]*)\)/g) || []).forEach(b => add(b.slice(1, -1)));
+  return out.join(" + ");
+}
 /* AI 없이 약 이름만으로 내장 자료를 찾아 결과 틀을 만듦 */
 function localData(lines){
   return {local:true, urgent:[], combos:[], checklist:[], observations:[], questions:[], plan:[], member_talk:[], care_focus:[],
     drugs: lines.map(line => {
       const {off:m, rule:r} = scanNames(line), name = (line.match(/^[^\d(]+/) || [line])[0].trim();
       return m.length || r.length
-        ? {input:line, search_name:name, ingredient:m.map(o => o.ko[0]).concat(r.map(k => RULE_KO[k])).join(" + "), ingredient_en:m.map(o => o.k[0]).concat(r),
+        ? {input:line, search_name:name, ingredient:(!m.length && writtenIng(line) ? [writtenIng(line)] : m.map(o => o.ko[0]).concat(r.map(k => RULE_KO[k]))).join(" + "), ingredient_en:m.map(o => o.k[0]).concat(r),
           class:m.map(o => o.cls).concat(r.length ? ["규칙 점검만"] : []).join(" / "), unsure:false}
-        : {input:line, search_name:name, ingredient:"확인 필요", ingredient_en:[], class:"", unsure:true};
+        : writtenIng(line)
+          ? {input:line, search_name:name, ingredient:writtenIng(line), ingredient_en:[], class:"약 이름에 적힌 성분", unsure:true}
+          : {input:line, search_name:name, ingredient:"확인 필요", ingredient_en:[], class:"", unsure:true};
     })};
 }
 
