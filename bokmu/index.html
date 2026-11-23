@@ -1,3 +1,8 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>복무요원 복무상황부</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <meta name="robots" content="noindex,nofollow">
@@ -38,7 +43,9 @@
   --s-bad:#d9534f; --s-bad-ink:#1a0b0b;
   --ok:#6fd49e; --warn:#ff8a80; color-scheme:dark}
 *{box-sizing:border-box}
-body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.5;font-variant-numeric:tabular-nums}
+[hidden]{display:none!important}
+html{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.5;font-variant-numeric:tabular-nums}
 .wrap{max-width:1040px;margin:0 auto;padding-block:20px 60px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:16px}
 header{display:flex;flex-wrap:wrap;align-items:center;gap:12px;justify-content:space-between}
 h1{font-size:22px;font-weight:700;margin:0;letter-spacing:-.01em}
@@ -65,6 +72,8 @@ button:disabled{opacity:.5;cursor:default}
 .status{font-size:13px;color:var(--muted);min-height:1.2em}
 .status.err{color:var(--warn)}
 
+#pasteBox{min-height:0;resize:none;text-align:center;border:2px dashed var(--accent);background:var(--s-leave);color:var(--ink)}
+#pasteBox::placeholder{color:var(--s-leave-ink);font-weight:600}
 #drop{border:2px dashed var(--line);border-radius:10px;padding:22px 16px;text-align:center;display:flex;flex-direction:column;gap:8px;align-items:center;cursor:pointer}
 #drop.over{border-color:var(--accent);background:var(--s-leave)}
 #drop strong{font-size:15px}
@@ -117,7 +126,8 @@ details[open] > summary{margin-bottom:10px}
 }
 @media (prefers-reduced-motion: reduce){*{transition:none!important}}
 </style>
-
+</head>
+<body>
 <div class="wrap">
   <header>
     <h1>복무요원 복무상황부</h1>
@@ -129,8 +139,9 @@ details[open] > summary{margin-bottom:10px}
 
   <section class="panel" id="upPanel">
     <div class="band"><h2>근태현황 넣기</h2><span class="tag" id="aiTag" hidden>사진도 읽음</span></div>
+    <textarea id="pasteBox" rows="2" placeholder="포털 근태현황 표를 마우스로 끌어 선택 → Ctrl+C → 여기를 누르고 Ctrl+V" aria-label="근태현황 표 붙여 넣기"></textarea>
     <div id="drop" tabindex="0" role="button" aria-label="근태현황 엑셀 파일 올리기">
-      <strong id="dropMain">포털에서 받은 엑셀 파일을 끌어 놓거나 눌러서 고르기</strong>
+      <strong id="dropMain">엑셀 파일을 끌어 놓거나 눌러서 고르기</strong>
       <span class="muted" id="dropSub">엑셀이 없으면 아래 요원 달력에서 연가·병가 날만 눌러 바꾸면 됩니다</span>
       <input type="file" id="file" accept=".xlsx,.xls,.csv" multiple hidden>
     </div>
@@ -309,7 +320,7 @@ function paintPerson(){
   const box = $("person"), p = person(cur.pid);
   if (!p) { box.innerHTML = ""; return; }
   const ym = cur.ym, r = rec(ym, p.id), days = daysOf(ym, p.id), N = dim(ym);
-  const src = r && r.days ? (r.src === "사진" ? '<span class="tag ok">사진에서 읽음</span>' : '<span class="tag">직접 고침</span>') : '<span class="tag">달력 기본값</span>';
+  const src = r && r.days ? (r.src === "사진" ? '<span class="tag ok">포털에서 가져옴</span>' : '<span class="tag">직접 고침</span>') : '<span class="tag">달력 기본값</span>';
   const chk = portalCheck(ym, p.id);
   let chkHtml = "";
   if (chk) {
@@ -563,8 +574,8 @@ function paintAIMode(){
   const ai = !!(sample && imgOK);
   $("aiTag").hidden = !ai;
   $("file").accept = ".xlsx,.xls,.csv" + (ai ? ",image/*" : "");
-  $("dropMain").textContent = ai ? "포털 엑셀 파일이나 근태현황 사진을 끌어 놓거나 눌러서 고르기" : "포털에서 받은 엑셀 파일을 끌어 놓거나 눌러서 고르기";
-  $("dropSub").textContent = ai ? "사진은 화면 캡처 뒤 Ctrl+V로 붙여 넣어도 됩니다 · 엑셀이 더 정확합니다" : "엑셀이 없으면 아래 요원 달력에서 연가·병가 날만 눌러 바꾸면 됩니다";
+  $("dropMain").textContent = ai ? "엑셀 파일이나 근태현황 사진을 끌어 놓거나 눌러서 고르기" : "엑셀 파일을 끌어 놓거나 눌러서 고르기";
+  $("dropSub").textContent = ai ? "사진은 화면 캡처 뒤 Ctrl+V · 표 복사·붙여넣기가 가장 정확합니다" : "복사가 안 되면 아래 요원 달력에서 연가·병가 날만 눌러 바꾸면 됩니다";
 }
 (async () => {
   if (window.claude) {
@@ -613,12 +624,15 @@ function parseReply(text){
 function matchTarget(r){
   if (!r.days.length) return "";
   let nm = r.selected || (r.summary.length === 1 ? r.summary[0].name : "");
-  if (!nm && r.summary.length) {
+  /* 같이 붙여 넣은 합계표, 이미 저장된 이번 달 포털 합계도 함께 봄 */
+  const pool = r.summary.length ? r.summary : results.flatMap(x => x.summary).concat(db.people.map(p => { const R = rec(r.ym || cur.ym, p.id); return R && R.portal ? Object.assign({name:p.name}, R.portal) : null; }).filter(Boolean));
+  if (!nm && pool.length) {
     /* 이름이 없는 날짜 목록: 연가·병가 등 날 수가 합계표와 꼭 맞는 요원이 한 명이면 그 요원 */
     const c = {}; r.days.forEach(x => { const k = mapKind(x.kind); c[k] = (c[k] || 0) + 1; });
     const work = r.days.filter(x => mapKind(x.kind) !== "휴일").length;
-    const fit = r.summary.filter(s => s.workdays === work && s.annual === (c.연가 || 0) && s.sick === (c.병가 || 0) && s.sickDuty === (c.공병 || 0) && s.special === (c.특휴 || 0) && s.absent === (c.결근 || 0));
-    if (fit.length === 1) nm = fit[0].name;
+    const fit = pool.filter(s => s.workdays === work && s.annual === (c.연가 || 0) && s.sick === (c.병가 || 0) && s.sickDuty === (c.공병 || 0) && s.special === (c.특휴 || 0) && s.absent === (c.결근 || 0));
+    const names = [...new Set(fit.map(s => s.name))];
+    if (names.length === 1) nm = names[0];
   }
   const hit = db.people.find(p => p.name === nm);
   return hit ? hit.id : (nm ? "new:" + nm : (person(cur.pid) ? cur.pid : "new:"));
@@ -715,11 +729,15 @@ $("file").addEventListener("change", e => { const fs = [...e.target.files]; e.ta
 ["dragleave","drop"].forEach(t => drop.addEventListener(t, e => { e.preventDefault(); drop.classList.remove("over"); }));
 drop.addEventListener("drop", e => readFiles([...(e.dataTransfer && e.dataTransfer.files || [])]));
 document.addEventListener("paste", e => {
-  const items = [...(e.clipboardData && e.clipboardData.items || [])].filter(it => it.kind === "file" && /^image\//.test(it.type));
-  if (!items.length) return;
-  if (!(sample && imgOK)) return;
-  e.preventDefault(); readImages(items.map(it => it.getAsFile()));
+  const t = e.target, inBox = t && t.id === "pasteBox";
+  if (!inBox && t && t.closest && t.closest("input,textarea,select,[contenteditable]")) return;
+  const cd = e.clipboardData; if (!cd) return;
+  const items = [...(cd.items || [])].filter(it => it.kind === "file" && /^image\//.test(it.type));
+  const html = cd.getData("text/html") || "", text = cd.getData("text/plain") || "";
+  if (/<table/i.test(html) || /\t/.test(text) || (inBox && text.trim())) { e.preventDefault(); readPasted(html, text); return; }
+  if (items.length && sample && imgOK) { e.preventDefault(); readImages(items.map(it => it.getAsFile())); }
 });
+$("pasteBox").addEventListener("input", e => { const v = e.target.value; if (v.trim()) { e.target.value = ""; readPasted("", v); } });
 
 /* ---------- 포털 엑셀 읽기 (AI 없이) ----------
    근태현황 화면과 같은 머리말을 찾음: 합계표(성명·출근일수·정상출근·연가·병가…)와 날짜별 목록(복무일자·근태구분, 성명 칸이 있으면 요원별로 나눔) */
@@ -782,6 +800,57 @@ function parseGrid(grid){
   }
   return out;
 }
+/* 머리말 없이 줄만 복사한 경우: 날짜+근태 글자가 있는 줄은 날짜별 목록, 성명+숫자 8칸 이상인 줄은 합계표(화면 순서: 출근일수·정상출근·야간출근·연가·병가·병가(공무)·무단결근·특별휴가) */
+function parseLoose(grid){
+  const out = {summary:[], daily:{"":[]}};
+  const KEYS = ["workdays","normal","night","annual","sick","sickDuty","absent","special"];
+  grid.forEach(row => {
+    const cells = (row || []).map(v => String(v == null ? "" : v).trim());
+    const di = cells.findIndex(c => toISO(c));
+    if (di >= 0) {
+      const k = cells.slice(di + 1).find(c => c && mapKind(c) !== "확인" && !/^[월화수목금토일]$/.test(c));
+      if (k) { out.daily[""].push({date: toISO(cells[di]), kind: k}); return; }
+    }
+    /* 성명 = 첫 숫자 칸 바로 앞쪽의 한글 칸 (그 앞의 근무지는 건너뜀) */
+    const fi = cells.findIndex(c => /^\d+$/.test(c));
+    let ni = -1; for (let k = (fi < 0 ? cells.length : fi) - 1; k >= 0; k--) if (/^[가-힣]{2,5}$/.test(cells[k]) && !/근무지|성명|합계/.test(cells[k])) { ni = k; break; }
+    if (ni < 0) return;
+    const nums = cells.slice(ni + 1).filter(c => /^\d+$/.test(c));
+    if (nums.length < 8) return;
+    const last = nums.slice(-8).map(Number), o = {name: cells[ni]};
+    KEYS.forEach((k, i) => o[k] = last[i]);
+    out.summary.push(o);
+  });
+  if (!out.daily[""].length) delete out.daily[""];
+  return out;
+}
+function gridsFrom(html, text){
+  const grids = [];
+  if (/<table/i.test(html)) {
+    try {
+      const doc = new DOMParser().parseFromString(html, "text/html");
+      doc.querySelectorAll("table").forEach(t => {
+        const g = [...t.querySelectorAll("tr")].filter(tr => tr.closest("table") === t)
+          .map(tr => [...tr.children].filter(c => /^T[DH]$/.test(c.tagName)).flatMap(c => [c.textContent.replace(/\s+/g, " ").trim()].concat(Array(Math.max(0, (+c.colSpan || 1) - 1)).fill(""))));
+        if (g.length) grids.push(g);
+      });
+    } catch (e) {}
+  }
+  if (!grids.length && text.trim()) grids.push(text.split(/\r?\n/).map(l => l.split(/\t| {2,}/)));
+  return grids;
+}
+function readPasted(html, text){
+  if (reading) return;
+  const merged = {summary:[], daily:{}};
+  const add = p => { merged.summary.push(...p.summary); Object.keys(p.daily).forEach(n => { (merged.daily[n] = merged.daily[n] || []).push(...p.daily[n]); }); };
+  gridsFrom(html, text).forEach(g => { const p = parseGrid(g); if (p.summary.length || Object.keys(p.daily).length) add(p); else add(parseLoose(g)); });
+  const rs = sheetResults(merged);
+  if (!rs.length) { setUp("붙여 넣은 내용에서 근태 표를 찾지 못했습니다. 포털 근태현황의 표 부분을 끌어 선택해 다시 복사해 주세요.", true); return; }
+  rs.forEach(r => { r.target = matchTarget(r); results.push(r); });
+  results.forEach(r => { if (r.days.length && r.target.startsWith("new:") && r.target.length <= 4) r.target = matchTarget(r); });
+  paintPreview();
+  setUp("읽었습니다. 다른 요원 표도 이어서 붙여 넣을 수 있습니다. 다 넣었으면 ‘달력에 채우기’를 누르세요.");
+}
 function sheetResults(parsed){
   const list = [], ymOf = days => { const c = {}; days.forEach(x => { const k = x.date.slice(0, 7); c[k] = (c[k] || 0) + 1; }); return Object.keys(c).sort((a, b) => c[b] - c[a])[0] || ""; };
   const names = Object.keys(parsed.daily);
@@ -826,3 +895,5 @@ async function readSheets(files){
 paintSet();
 paint();
 </script>
+</body>
+</html>
