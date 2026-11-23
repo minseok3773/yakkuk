@@ -128,21 +128,13 @@ details[open] > summary{margin-bottom:10px}
   </header>
 
   <section class="panel" id="upPanel">
-    <div class="band"><h2>근태현황 사진으로 채우기</h2><span class="tag" id="aiTag"></span></div>
-    <div id="drop" tabindex="0" role="button" aria-label="근태현황 사진 올리기">
-      <strong>사진을 여기로 끌어 놓거나 눌러서 고르기</strong>
-      <span class="muted">화면 캡처 뒤 Ctrl+V로 붙여 넣어도 됩니다 · 여러 장 가능</span>
-      <input type="file" id="file" accept="image/*" multiple hidden>
+    <div class="band"><h2>근태현황 넣기</h2><span class="tag" id="aiTag" hidden>사진도 읽음</span></div>
+    <div id="drop" tabindex="0" role="button" aria-label="근태현황 엑셀 파일 올리기">
+      <strong id="dropMain">포털에서 받은 엑셀 파일을 끌어 놓거나 눌러서 고르기</strong>
+      <span class="muted" id="dropSub">엑셀이 없으면 아래 요원 달력에서 연가·병가 날만 눌러 바꾸면 됩니다</span>
+      <input type="file" id="file" accept=".xlsx,.xls,.csv" multiple hidden>
     </div>
     <div class="status" id="upStatus"></div>
-    <details id="gptBox" hidden>
-      <summary>ChatGPT로 읽기</summary>
-      <div class="row" style="flex-direction:column;align-items:stretch;gap:8px">
-        <div class="row"><button id="gptCopy" type="button">요청문 복사</button><span class="muted">ChatGPT에 근태현황 사진과 함께 붙여 넣고, 받은 답을 아래에 붙여 넣기</span></div>
-        <textarea id="gptReply" placeholder="ChatGPT 답 붙여 넣기"></textarea>
-        <div class="row"><button id="gptRead" type="button" class="pri">답 읽기</button></div>
-      </div>
-    </details>
     <div id="preview" hidden></div>
   </section>
 
@@ -568,10 +560,11 @@ const PROMPT = [
 let sample = null, imgOK = false, results = [];
 function setUp(msg, err){ $("upStatus").textContent = msg; $("upStatus").className = "status" + (err ? " err" : ""); }
 function paintAIMode(){
-  const ai = sample && imgOK;
-  $("aiTag").textContent = ai ? "Claude가 읽음" : "ChatGPT로 읽기";
-  $("aiTag").className = "tag" + (ai ? " ok" : "");
-  $("gptBox").hidden = ai;
+  const ai = !!(sample && imgOK);
+  $("aiTag").hidden = !ai;
+  $("file").accept = ".xlsx,.xls,.csv" + (ai ? ",image/*" : "");
+  $("dropMain").textContent = ai ? "포털 엑셀 파일이나 근태현황 사진을 끌어 놓거나 눌러서 고르기" : "포털에서 받은 엑셀 파일을 끌어 놓거나 눌러서 고르기";
+  $("dropSub").textContent = ai ? "사진은 화면 캡처 뒤 Ctrl+V로 붙여 넣어도 됩니다 · 엑셀이 더 정확합니다" : "엑셀이 없으면 아래 요원 달력에서 연가·병가 날만 눌러 바꾸면 됩니다";
 }
 (async () => {
   if (window.claude) {
@@ -619,7 +612,14 @@ function parseReply(text){
 }
 function matchTarget(r){
   if (!r.days.length) return "";
-  const nm = r.selected || (r.summary.length === 1 ? r.summary[0].name : "");
+  let nm = r.selected || (r.summary.length === 1 ? r.summary[0].name : "");
+  if (!nm && r.summary.length) {
+    /* 이름이 없는 날짜 목록: 연가·병가 등 날 수가 합계표와 꼭 맞는 요원이 한 명이면 그 요원 */
+    const c = {}; r.days.forEach(x => { const k = mapKind(x.kind); c[k] = (c[k] || 0) + 1; });
+    const work = r.days.filter(x => mapKind(x.kind) !== "휴일").length;
+    const fit = r.summary.filter(s => s.workdays === work && s.annual === (c.연가 || 0) && s.sick === (c.병가 || 0) && s.sickDuty === (c.공병 || 0) && s.special === (c.특휴 || 0) && s.absent === (c.결근 || 0));
+    if (fit.length === 1) nm = fit[0].name;
+  }
   const hit = db.people.find(p => p.name === nm);
   return hit ? hit.id : (nm ? "new:" + nm : (person(cur.pid) ? cur.pid : "new:"));
 }
@@ -675,21 +675,23 @@ function applyResults(){
 }
 function errMsg(e){
   const c = e && e.code;
-  if (c === "not_granted") return "AI 사용을 허락하지 않아 읽지 못했습니다. ChatGPT로 읽기를 쓰거나 달력을 직접 고치세요.";
+  if (c === "not_granted") return "AI 사용을 허락하지 않아 읽지 못했습니다. 포털 엑셀 파일을 올리거나 달력을 직접 고치세요.";
   if (c === "rate_limited") return "요청이 많아 잠시 막혔습니다. 1분쯤 뒤에 다시 올려 주세요.";
-  if (c === "images_unavailable") return "이 화면에서는 사진을 AI에 보낼 수 없습니다. ChatGPT로 읽기를 쓰세요.";
+  if (c === "images_unavailable") return "이 화면에서는 사진을 읽을 수 없습니다. 포털 엑셀 파일을 올리거나 달력을 직접 고치세요.";
   if (e && (e.message === "bad" || e.message === "empty" || e instanceof SyntaxError)) return "사진에서 근태 표를 찾지 못했습니다. 표가 잘 보이게 다시 찍어 올려 주세요.";
   return "사진을 읽지 못했습니다. 다시 올리거나 달력을 직접 고치세요.";
 }
 let reading = false;
+const isSheet = f => /\.(xlsx|xls|csv)$/i.test(f.name || "") || /spreadsheet|excel|csv/.test(f.type || "");
+async function readFiles(files){
+  files = files.filter(Boolean);
+  const sheets = files.filter(isSheet), imgs = files.filter(f => !isSheet(f) && /^image\//.test(f.type));
+  if (sheets.length) return readSheets(sheets);
+  if (imgs.length) return readImages(imgs);
+  setUp("엑셀 파일(.xlsx, .xls, .csv)만 올릴 수 있습니다.", true);
+}
 async function readImages(files){
-  files = files.filter(f => f && /^image\//.test(f.type));
-  if (!files.length) { setUp("사진 파일만 올릴 수 있습니다.", true); return; }
-  if (!(sample && imgOK)) {
-    $("gptBox").hidden = false; $("gptBox").open = true;
-    setUp("이 화면에서는 AI가 사진을 직접 읽을 수 없습니다. ‘요청문 복사’를 눌러 ChatGPT에 사진과 함께 물어보세요.", true);
-    return;
-  }
+  if (!(sample && imgOK)) { setUp("사진 읽기는 Claude판에서만 됩니다. 포털에서 엑셀로 받아 올리거나, 달력에서 직접 고쳐 주세요.", true); return; }
   if (reading) return;
   reading = true; results = []; paintPreview();
   const errs = [];
@@ -708,20 +710,118 @@ async function readImages(files){
 const drop = $("drop");
 drop.addEventListener("click", () => $("file").click());
 drop.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); $("file").click(); } });
-$("file").addEventListener("change", e => { const fs = [...e.target.files]; e.target.value = ""; readImages(fs); });
+$("file").addEventListener("change", e => { const fs = [...e.target.files]; e.target.value = ""; readFiles(fs); });
 ["dragenter","dragover"].forEach(t => drop.addEventListener(t, e => { e.preventDefault(); drop.classList.add("over"); }));
 ["dragleave","drop"].forEach(t => drop.addEventListener(t, e => { e.preventDefault(); drop.classList.remove("over"); }));
-drop.addEventListener("drop", e => readImages([...(e.dataTransfer && e.dataTransfer.files || [])]));
+drop.addEventListener("drop", e => readFiles([...(e.dataTransfer && e.dataTransfer.files || [])]));
 document.addEventListener("paste", e => {
   const items = [...(e.clipboardData && e.clipboardData.items || [])].filter(it => it.kind === "file" && /^image\//.test(it.type));
   if (!items.length) return;
+  if (!(sample && imgOK)) return;
   e.preventDefault(); readImages(items.map(it => it.getAsFile()));
 });
-$("gptCopy").addEventListener("click", () => copyText(PROMPT, $("upStatus"), "요청문을 복사했습니다. ChatGPT에 근태현황 사진을 올리고 이 글을 붙여 넣으세요."));
-$("gptRead").addEventListener("click", () => {
-  try { const r = parseReply($("gptReply").value); r.target = matchTarget(r); results = [r]; paintPreview(); setUp("읽었습니다. 맞는지 보고 ‘달력에 채우기’를 누르세요."); $("gptReply").value = ""; }
-  catch (e) { setUp("답에서 근태 내용을 찾지 못했습니다. ChatGPT 답 전체를 그대로 붙여 넣어 주세요.", true); }
-});
+
+/* ---------- 포털 엑셀 읽기 (AI 없이) ----------
+   근태현황 화면과 같은 머리말을 찾음: 합계표(성명·출근일수·정상출근·연가·병가…)와 날짜별 목록(복무일자·근태구분, 성명 칸이 있으면 요원별로 나눔) */
+const XLSX_URL = "https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js";
+let xlsxP = null;
+function loadXLSX(){
+  if (window.XLSX) return Promise.resolve(window.XLSX);
+  if (!xlsxP) xlsxP = new Promise((ok, no) => {
+    const sc = document.createElement("script"); sc.src = XLSX_URL;
+    sc.onload = () => window.XLSX ? ok(window.XLSX) : no(new Error("load"));
+    sc.onerror = () => { xlsxP = null; no(new Error("load")); };
+    document.head.append(sc);
+  });
+  return xlsxP;
+}
+const hnorm = v => String(v == null ? "" : v).replace(/\s/g, "");
+const SUM_COLS = {"출근일수":"workdays","정상출근":"normal","야간출근":"night","연가":"annual","병가":"sick","병가(공무)":"sickDuty","공무상병가":"sickDuty","무단결근":"absent","특별휴가":"special"};
+function toISO(v){
+  if (v instanceof Date && !isNaN(v)) return v.getFullYear() + "-" + pad(v.getMonth()+1) + "-" + pad(v.getDate());
+  if (typeof v === "number" && v > 20000 && v < 80000) { const d = new Date(Math.round((v - 25569) * 864e5)); return d.getUTCFullYear() + "-" + pad(d.getUTCMonth()+1) + "-" + pad(d.getUTCDate()); }
+  const s = String(v == null ? "" : v).trim();
+  let m = s.match(/(\d{4})\s*[-./년]\s*(\d{1,2})\s*[-./월]\s*(\d{1,2})/);
+  if (m) return m[1] + "-" + pad(+m[2]) + "-" + pad(+m[3]);
+  m = s.match(/^(\d{4})(\d{2})(\d{2})$/);
+  if (m) return m[1] + "-" + m[2] + "-" + m[3];
+  return "";
+}
+function parseGrid(grid){
+  const out = {summary:[], daily:{}};
+  for (let i = 0; i < grid.length; i++) {
+    const hdr = (grid[i] || []).map(hnorm);
+    const dateC = hdr.findIndex(h => h === "복무일자" || h === "일자" || h === "근무일자" || h === "날짜");
+    const kindC = hdr.findIndex(h => h === "근태구분" || h === "근태" || h === "구분" || h === "근무상황");
+    const nameCs = hdr.map((h, k) => h === "성명" || h === "이름" ? k : -1).filter(k => k >= 0);
+    const sumCs = {}; hdr.forEach((h, k) => { if (SUM_COLS[h] && !(SUM_COLS[h] in sumCs)) sumCs[SUM_COLS[h]] = k; });
+    const isSum = nameCs.length && Object.keys(sumCs).length >= 3;
+    const isDay = dateC >= 0 && kindC >= 0;
+    if (!isSum && !isDay) continue;
+    if (isSum) {
+      const nc = nameCs.find(k => k < Math.min(...Object.values(sumCs))) ?? nameCs[0];
+      for (let j = i + 1; j < grid.length; j++) {
+        const row = grid[j] || [], nm = String(row[nc] == null ? "" : row[nc]).trim();
+        if (!nm) break;
+        if (/합계|소계|계$/.test(nm)) continue;
+        const o = {name:nm}; Object.keys(SUM_COLS).forEach(h => { const k = SUM_COLS[h]; if (!(k in o)) o[k] = k in sumCs ? numOr(row[sumCs[k]]) : 0; });
+        out.summary.push(o);
+      }
+    }
+    if (isDay) {
+      /* 날짜 칸 가까이(3칸 안)에 있는 성명 칸만 날짜별 목록의 주인으로 봄. 옆에 붙은 합계표의 성명 칸은 쓰지 않음 */
+      const near = nameCs.filter(k => Math.abs(k - dateC) <= 3);
+      const ncDay = near.length ? near.reduce((b, k) => Math.abs(k - dateC) < Math.abs(b - dateC) ? k : b) : -1;
+      for (let j = i + 1; j < grid.length; j++) {
+        const row = grid[j] || [], iso = toISO(row[dateC]);
+        if (!iso) { if (String(row[dateC] == null ? "" : row[dateC]).trim() === "") { if (j + 1 < grid.length && toISO((grid[j+1] || [])[dateC])) continue; break; } continue; }
+        const nm = ncDay >= 0 ? String(row[ncDay] == null ? "" : row[ncDay]).trim() : "";
+        (out.daily[nm] = out.daily[nm] || []).push({date:iso, kind:String(row[kindC] == null ? "" : row[kindC]).trim()});
+      }
+    }
+  }
+  return out;
+}
+function sheetResults(parsed){
+  const list = [], ymOf = days => { const c = {}; days.forEach(x => { const k = x.date.slice(0, 7); c[k] = (c[k] || 0) + 1; }); return Object.keys(c).sort((a, b) => c[b] - c[a])[0] || ""; };
+  const names = Object.keys(parsed.daily);
+  const sumYm = names.length ? ymOf([].concat(...names.map(n => parsed.daily[n]))) : "";
+  if (!names.length && parsed.summary.length) list.push({summary:parsed.summary, days:[], ym:"", selected:""});
+  names.forEach((n, i) => {
+    const days = parsed.daily[n];
+    list.push({summary: i === 0 ? parsed.summary : [], days, ym: ymOf(days) || sumYm, selected: n});
+  });
+  if (list.length && !list[0].ym && sumYm) list[0].ym = sumYm;
+  return list;
+}
+async function readSheets(files){
+  if (reading) return;
+  reading = true; results = []; paintPreview();
+  setUp("엑셀 파일을 읽는 중…");
+  const errs = [];
+  let X;
+  try { X = await loadXLSX(); }
+  catch (e) { reading = false; setUp("엑셀을 읽는 도구를 불러오지 못했습니다. 인터넷 연결을 확인하고 다시 올려 주세요.", true); return; }
+  for (const f of files) {
+    try {
+      const wb = X.read(new Uint8Array(await f.arrayBuffer()), {type:"array", cellDates:true});
+      const merged = {summary:[], daily:{}};
+      wb.SheetNames.forEach(sn => {
+        const g = X.utils.sheet_to_json(wb.Sheets[sn], {header:1, raw:true, defval:""});
+        const p = parseGrid(g);
+        merged.summary.push(...p.summary);
+        Object.keys(p.daily).forEach(n => { (merged.daily[n] = merged.daily[n] || []).push(...p.daily[n]); });
+      });
+      const rs = sheetResults(merged);
+      if (!rs.length) throw new Error("empty");
+      rs.forEach(r => { r.target = matchTarget(r); results.push(r); });
+    } catch (e) { errs.push(f.name); }
+  }
+  reading = false;
+  paintPreview();
+  if (results.length) setUp(errs.length ? errs.join(", ") + "에서 근태 표를 찾지 못했습니다." : "다 읽었습니다. 맞는지 보고 ‘달력에 채우기’를 누르세요.", !!errs.length);
+  else setUp("파일에서 근태 표를 찾지 못했습니다. 포털 근태현황에서 받은 엑셀인지 확인해 주세요. 맞는데도 안 되면 그 파일을 알려 주세요.", true);
+}
 
 paintSet();
 paint();
