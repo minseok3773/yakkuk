@@ -66,6 +66,7 @@ input[type=checkbox]{width:auto}
 .muted{color:var(--muted);font-size:13.5px}
 .tag{display:inline-block;font-size:12px;font-weight:600;padding:1px 8px;border-radius:999px;border:1px solid currentColor;white-space:nowrap}
 .tag.hi{color:var(--crit);background:var(--crit-bg)}
+.tag.crit{color:var(--crit-bg);background:var(--crit);font-weight:700}
 .tag.mid{color:var(--warn);background:var(--warn-bg)}
 .tag.ok{color:var(--ok);background:var(--ok-bg)}
 .tag.low{color:var(--muted)}
@@ -579,21 +580,56 @@ function officialFor(d){
 }
 /* 입력한 줄에 적힌 우리말 성분명·제품명·영문 성분명으로 찾기. 긴 이름부터 맞춰 '에스시탈로프람'이 '시탈로프람'으로 읽히지 않게 함.
    제품명은 낱말의 첫머리에 있을 때만 인정해 다른 이름 속에 우연히 들어 있는 경우를 걸러 냄. */
+/* 내장 규칙(RULES·G·CONDS 등)에는 있지만 내장 약 정보(OFFICIAL)가 없는 성분의 이름표. 허가사항 요약이 아니라 규칙 점검에 쓸 성분만 알아봄.
+   [영문 성분명, 우리말 성분명들, 제품명들]. 우리말 이름 앞에 ^를 붙이면 낱말 첫머리에서만 인정(칼슘·철분처럼 다른 약 이름 속에 흔히 들어 있는 것) */
+const RULE_NAMES = [
+  ["alfuzosin",["알푸조신"],["자트랄"]], ["amiodarone",["아미오다론"],["코다론"]], ["atazanavir",["아타자나비르"],["레야타즈"]],
+  ["azilsartan",["아질사르탄"],["이달비"]], ["azithromycin",["아지트로마이신"],["지스로맥스"]], ["biperiden",["비페리덴"],["아키네톤"]],
+  ["buprenorphine",["부프레노르핀"],["노스판"]], ["calcium",["^칼슘"],[]], ["calcium carbonate",["탄산칼슘"],[]], ["captopril",["캅토프릴"],[]],
+  ["chlorthalidone",["클로르탈리돈"],[]], ["ciprofloxacin",["시프로플록사신"],["씨프로"]], ["clarithromycin",["클래리트로마이신","클라리트로마이신"],["클래리시드"]],
+  ["cobicistat",["코비시스타트"],[]], ["codeine",["코데인"],[]], ["cyproheptadine",["시프로헵타딘"],["페리액틴"]], ["dabigatran",["다비가트란"],["프라닥사"]],
+  ["darunavir",["다루나비르"],["프레지스타"]], ["dexibuprofen",["덱시부프로펜"],[]], ["diclofenac",["디클로페낙"],["볼타렌"]], ["digoxin",["디곡신","디고신"],["라녹신"]],
+  ["doripenem",["도리페넴"],[]], ["doxylamine",["독실아민"],[]], ["edoxaban",["에독사반"],["릭시아나"]], ["ertapenem",["에르타페넴"],["인반즈"]],
+  ["erythromycin",["에리스로마이신"],[]], ["fentanyl",["펜타닐"],["듀로제식"]], ["ferrous",["제일철"],[]], ["fesoterodine",["페소테로딘"],["토비애즈"]],
+  ["fimasartan",["피마사르탄"],["카나브"]], ["fluconazole",["플루코나졸"],["디플루칸"]], ["flunitrazepam",["플루니트라제팜"],[]], ["gemigliptin",["제미글립틴"],["제미글로"]],
+  ["glibenclamide",["글리벤클라미드"],["다오닐"]], ["gliclazide",["글리클라지드"],["디아미크롱"]], ["hydrocodone",["히드로코돈","하이드로코돈"],[]],
+  ["imipenem",["이미페넴"],[]], ["indapamide",["인다파미드"],["후루덱스"]], ["insulin",["인슐린"],[]], ["iron",["^철분"],[]], ["isosorbide",["이소소르비드"],[]],
+  ["itraconazole",["이트라코나졸"],["스포라녹스"]], ["ketoconazole",["케토코나졸"],[]], ["ketorolac",["케토롤락"],[]], ["levofloxacin",["레보플록사신"],["크라비트"]],
+  ["linezolid",["리네졸리드"],["자이복스"]], ["meropenem",["메로페넴"],["메로펜"]], ["methadone",["메타돈"],[]], ["methotrexate",["메토트렉세이트"],[]],
+  ["metronidazole",["메트로니다졸"],["후라시닐"]], ["miconazole",["미코나졸"],[]], ["moclobemide",["모클로베미드"],["오로릭스"]], ["morphine",["모르핀"],[]],
+  ["moxifloxacin",["목시플록사신"],["아벨록스"]], ["naftopidil",["나프토피딜"],["플리바스"]], ["nitroglycerin",["니트로글리세린"],[]], ["ondansetron",["온단세트론"],["조프란"]],
+  ["oxycodone",["옥시코돈"],["옥시콘틴"]], ["perindopril",["페린도프릴"],["아서틸"]], ["phenytoin",["페니토인"],["히단토인"]], ["pimozide",["피모지드"],["오랍"]],
+  ["posaconazole",["포사코나졸"],["녹사필"]], ["procyclidine",["프로사이클리딘","프로시클리딘"],[]], ["propiverine",["프로피베린"],[]], ["rasagiline",["라사길린"],["아질렉트"]],
+  ["ritonavir",["리토나비르"],["노비르"]], ["scopolamine",["^스코폴라민"],[]], ["selegiline",["셀레길린"],[]], ["sildenafil",["실데나필"],["비아그라"]],
+  ["silodosin",["실로도신"],["트루패스"]], ["sulfamethoxazole",["설파메톡사졸"],[]], ["tadalafil",["타다라필"],["시알리스"]], ["tapentadol",["타펜타돌"],["뉴신타"]],
+  ["terazosin",["테라조신"],["하이트린"]], ["torsemide",["토르세미드"],[]], ["trimethoprim",["트리메토프림"],[]], ["trospium",["트로스퓸"],["스파스몰리트"]],
+  ["verapamil",["베라파밀"],["이솝틴"]], ["vildagliptin",["빌다글립틴"],["가브스"]], ["voriconazole",["보리코나졸"],["브이펜드"]], ["zaltoprofen",["잘토프로펜"],[]]
+];
+const RULE_KO = {};
 const NAMES = [];
 OFFICIAL.forEach(o => { o.ko.forEach(n => NAMES.push([n, o, false])); arr(o.br).forEach(n => NAMES.push([n, o, true])); o.k.forEach(n => NAMES.push([n, o, true])); });
+RULE_NAMES.forEach(([k, ko, br]) => {
+  RULE_KO[k] = ko[0].replace(/^\^/, "");
+  ko.forEach(n => NAMES.push([n.replace(/^\^/, ""), k, n[0] === "^"])); br.forEach(n => NAMES.push([n, k, true])); NAMES.push([k, k, true]);
+});
 NAMES.sort((a, b) => b[0].length - a[0].length);
-function localMatch(line){
+/* 줄에 적힌 이름을 긴 것부터 맞춤. off = 내장 약 정보, rule = 이름표로만 알아본 성분(영문). 이름표의 이름도 같이 맞춰 '덱시부프로펜'이 '이부프로펜'으로 읽히지 않게 함 */
+function scanNames(line){
   let s = " " + str(line).toLowerCase() + " ";
-  const out = [];
+  const off = [], rule = [];
   for (const [n, o, headOnly] of NAMES){
     let i = s.indexOf(n);
     while (i >= 0 && headOnly && /[a-z가-힣]/.test(s[i - 1])) i = s.indexOf(n, i + 1);
     if (i < 0) continue;
     s = s.slice(0, i) + " ".repeat(n.length) + s.slice(i + n.length);
-    if (!out.includes(o)) out.push(o);
+    const to = typeof o === "string" ? rule : off;
+    if (!to.includes(o)) to.push(o);
   }
-  return out;
+  return {off, rule};
 }
+/* 입력한 줄에 적힌 우리말 성분명·제품명·영문 성분명으로 내장 약 정보 찾기. 긴 이름부터 맞춰 '에스시탈로프람'이 '시탈로프람'으로 읽히지 않게 함.
+   제품명은 낱말의 첫머리에 있을 때만 인정해 다른 이름 속에 우연히 들어 있는 경우를 걸러 냄. */
+const localMatch = line => scanNames(line).off;
 function factLine(o){ return "- " + o.ko[0] + " (" + o.cls + "): 쓰임 " + o.use + " / 흔한 부작용 " + o.se.join(", ") + " / 경고·주의 " + o.warn; }
 function factsFor(list){
   const off = [];
@@ -604,9 +640,10 @@ function factsFor(list){
 function localData(lines){
   return {local:true, urgent:[], combos:[], checklist:[], observations:[], questions:[], plan:[], member_talk:[], care_focus:[],
     drugs: lines.map(line => {
-      const m = localMatch(line), name = (line.match(/^[^\d(]+/) || [line])[0].trim();
-      return m.length
-        ? {input:line, search_name:name, ingredient:m.map(o => o.ko[0]).join(" + "), ingredient_en:m.map(o => o.k[0]), class:m.map(o => o.cls).join(" / "), unsure:false}
+      const {off:m, rule:r} = scanNames(line), name = (line.match(/^[^\d(]+/) || [line])[0].trim();
+      return m.length || r.length
+        ? {input:line, search_name:name, ingredient:m.map(o => o.ko[0]).concat(r.map(k => RULE_KO[k])).join(" + "), ingredient_en:m.map(o => o.k[0]).concat(r),
+          class:m.map(o => o.cls).concat(r.length ? ["규칙 점검만"] : []).join(" / "), unsure:false}
         : {input:line, search_name:name, ingredient:"확인 필요", ingredient_en:[], class:"", unsure:true};
     })};
 }
@@ -645,7 +682,7 @@ const numOf = v => { const n = parseFloat(str(v).trim().replace(",", ".")); retu
 function bpLevel(s, d){
   s = numOf(s); d = numOf(d);
   if (s == null || d == null || s < 50 || s > 260 || d < 30 || d > 160 || d >= s) return null;
-  if (s >= 180 || d >= 110) return {lv:"hi", label:"매우 높음", rank:4};
+  if (s >= 180 || d >= 110) return {lv:"crit", label:"매우 높음", rank:4};
   if (s >= 140 || d >= 90) return {lv:"hi", label:"높음", rank:3};
   if (s >= 120 || d >= 80) return {lv:"mid", label:"조금 높음", rank:2};
   if (s < 90 || d < 60) return {lv:"mid", label:"낮음", rank:1};
@@ -671,7 +708,7 @@ function vitalsSum(list, cm){
   const lastBp = bp[bp.length - 1] || null, firstWt = wt[0] || null, lastWt = wt[wt.length - 1] || null;
   const change = wt.length > 1 ? {kg:Math.round((lastWt.wt - firstWt.wt) * 10) / 10, pct:Math.round((lastWt.wt - firstWt.wt) / firstWt.wt * 1000) / 10, from:firstWt, to:lastWt} : null;
   const bmi = lastWt ? bmiOf(lastWt.wt, cm) : null, flags = [];
-  if (lastBp && lastBp.lvl.rank >= 3) flags.push({lv:"hi", text:"혈압 " + lastBp.lvl.label + " " + bpText(lastBp)});
+  if (lastBp && lastBp.lvl.rank >= 3) flags.push({lv:lastBp.lvl.lv, text:"혈압 " + lastBp.lvl.label + " " + bpText(lastBp)});
   else if (lastBp && lastBp.lvl.rank === 1) flags.push({lv:"mid", text:"혈압 낮음 " + bpText(lastBp)});
   if (change && change.pct >= 7) flags.push({lv:"hi", text:"체중 첫 기록보다 " + change.pct + "% 늘어남"});
   if (change && change.pct <= -5) flags.push({lv:"mid", text:"체중 첫 기록보다 " + Math.abs(change.pct) + "% 줄어듦"});
@@ -949,6 +986,8 @@ const linesOf = m => str(m.drugs).split("\n").map(v => v.trim()).filter(Boolean)
 const orderOf = id => { const i = db.members.findIndex(m => m.id === id); return i < 0 ? db.members.length : i; };
 const newId = () => "b" + Date.now().toString(36) + Math.random().toString(36).slice(2, 6);
 const touch = m => { m.updated = new Date().toISOString(); };
+/* 다른 창이 저장해 기록을 다시 읽었어도, 입력 칸이 쥔 회원 대신 지금 기록의 같은 회원에 씀 */
+const live = m => db.members.find(x => x.id === m.id) || m;
 function nextLabel(){
   const n = db.members.reduce((mx, m) => { const k = /^회원 (\d+)$/.exec(str(m.label)); return k ? Math.max(mx, +k[1]) : mx; }, 0) + 1;
   return "회원 " + n;
@@ -980,7 +1019,7 @@ const hasBgRaw = e => !!(e && str(e.bg).trim());
 function bgLevel(v, when){
   v = numOf(v);
   if (v == null || v < 20 || v > 700) return null;
-  if (v < 70) return {lv:"hi", label:v < 54 ? "매우 낮음" : "낮음", low:true, high:false};
+  if (v < 70) return v < 54 ? {lv:"crit", label:"매우 낮음", low:true, high:false} : {lv:"hi", label:"낮음", low:true, high:false};
   const cut = when === "fast" ? [100, 126] : when === "post" ? [140, 200] : null;
   if (!cut) return {lv:v >= 200 ? "hi" : "", label:v >= 200 ? "높음" : "", low:false, high:v >= 200};
   if (v >= cut[1]) return {lv:"hi", label:"높음", low:false, high:true};
@@ -1049,15 +1088,17 @@ function boardCommon(){
   return {rows, byLine};
 }
 
+const LV_ORDER = ["crit", "hi", "mid"];
 /* 살펴볼 점: 최근에 잰 혈압·체중·혈당 (잰 값의 범위일 뿐 진단 아님). last = 마지막 측정 자체를 알리는 것(회원 줄에는 값으로 이미 보임) */
 function alertsOf(m){
   const out = [], since = lastDays(30)[0];
   const vs = vitalsSum(vitalsOf(m), m.height), b = vs.lastBp, c = vs.change;
-  if (b && b.date >= since && (b.lvl.rank >= 3 || b.lvl.rank === 1)) out.push({lv:b.lvl.rank >= 3 ? "hi" : "mid", last:true, text:"혈압 " + b.lvl.label + " · " + bpText(b) + " (" + mdOf(b.date) + ")"});
+  if (b && b.date >= since && (b.lvl.rank >= 3 || b.lvl.rank === 1)) out.push({lv:b.lvl.rank >= 3 ? b.lvl.lv : "mid", last:true, text:"혈압 " + b.lvl.label + " · " + bpText(b) + " (" + mdOf(b.date) + ")"});
   if (c && c.to.date >= since && (c.pct >= 7 || c.pct <= -5)) out.push({lv:c.pct >= 7 ? "hi" : "mid", text:"체중 " + signed(c.pct) + "% · " + mdOf(c.from.date) + "부터"});
   const g = bgOf(m), lg = g[g.length - 1], gLast = lg && lg.date >= since && (lg.lvl.low || lg.lvl.high), low7 = g.filter(x => x.lvl.low && x.date >= lastDays(7)[0]);
-  if (gLast) out.push({lv:"hi", last:true, text:"혈당 " + lg.lvl.label + " · " + bgShort(lg) + " (" + mdOf(lg.date) + ")"});
-  if (low7.length && !(gLast && lg.lvl.low)) out.push({lv:"hi", text:"혈당 70 미만 · 7일 중 " + low7.length + "번"});
+  if (gLast) out.push({lv:lg.lvl.lv === "crit" ? "crit" : "hi", last:true, text:"혈당 " + lg.lvl.label + " · " + bgShort(lg) + " (" + mdOf(lg.date) + ")"});
+  if (low7.length && !(gLast && lg.lvl.low)) out.push({lv:low7.some(x => x.lvl.lv === "crit") ? "crit" : "hi", text:"혈당 70 미만 · 7일 중 " + low7.length + "번"});
+  out.sort((x, y) => LV_ORDER.indexOf(x.lv) - LV_ORDER.indexOf(y.lv));
   return out;
 }
 
@@ -1095,7 +1136,8 @@ function paintBoard(){
         old.length ? el("button", {type:"button", text:"기존 약국이 회원 가져오기 (" + old.length + "명)", on:{click:importOld}}) : null)));
     return;
   }
-  const watch = db.members.map(m => ({m, a:alertsOf(m)})).filter(x => x.a.length);
+  const watch = db.members.map(m => ({m, a:alertsOf(m)})).filter(x => x.a.length)
+    .sort((x, y) => LV_ORDER.indexOf(x.a[0].lv) - LV_ORDER.indexOf(y.a[0].lv) || y.a.length - x.a.length);
   v.append(el("section", {class:"tiles", "aria-label":"요약"},
     el("div", {class:"tile"}, el("b", {text:String(db.members.length)}, el("small", {text:"명"})), el("span", {text:"회원"})),
     el("div", {class:"tile" + (watch.length ? " warn" : "")}, el("b", {text:String(watch.length)}, el("small", {text:"명"})), el("span", {text:"살펴볼 회원"})),
@@ -1131,6 +1173,7 @@ function memberRow(m){
   const flags = el("div", {class:"tags"},
     a.hi ? el("span", {class:"tag hi", text:"조합 높음 " + a.hi}) : null,
     a.lc.burdens.length ? el("span", {class:"tag mid", text:"누적 부담 " + a.lc.burdens.length}) : null,
+    a.lc.skipped.length ? el("span", {class:"tag mid", text:"점검에서 빠진 약 " + a.lc.skipped.length}) : null,
     ...alerts.map(x => el("span", {class:"tag " + x.lv, text:x.text})),
     !n ? el("span", {class:"tag low", text:"약 없음"}) : null);
   return el("div", {class:"row", role:"listitem"},
@@ -1152,9 +1195,9 @@ function measLine(m){
 
 /* ---------- 회원 화면 ---------- */
 function paintMember(){
-  const m = memberById(route.id), v = $("view"); v.textContent = "";
+  let m = memberById(route.id); const v = $("view"); v.textContent = "";
   const label = el("input", {class:"mlabel", value:str(m.label), maxlength:"20", "aria-label":"표시 이름 (번호나 별칭)"});
-  label.addEventListener("change", () => { const x = label.value.trim().slice(0, 20); if (!x){ label.value = str(m.label); return; } m.label = x; touch(m); saveNow(); });
+  label.addEventListener("change", () => { const x = label.value.trim().slice(0, 20); if (!x){ label.value = str(m.label); return; } m = live(m); m.label = x; touch(m); saveNow(); });
   const del = el("button", {type:"button", class:"mini", text:"이 회원 삭제"});
   twoStep(del, "한 번 더 누르면 삭제 (측정 기록 포함, 되돌릴 수 없음)", () => {
     db.members = db.members.filter(x => x.id !== m.id); delete db.logs[m.id]; anaCache.delete(m.id); saveNow(); go("#/");
@@ -1163,8 +1206,8 @@ function paintMember(){
   const sexSel = el("select", {"aria-label":"성별"}, ...["", "남성", "여성"].map(x => el("option", {value:x, text:x || "선택 안 함"})));
   ageSel.value = str(m.age); sexSel.value = str(m.sex);
   const hIn = el("input", {type:"number", inputmode:"decimal", min:"100", max:"230", step:"0.1", value:str(m.height), "aria-label":"키(cm)"});
-  hIn.addEventListener("change", () => { m.height = hIn.value.trim(); touch(m); saveNow(); paintVitals(m); });
-  const onInfo = () => { m.age = ageSel.value; m.sex = sexSel.value; m.conds = Array.from(conds.querySelectorAll("input:checked")).map(c => c.value); touch(m); saveNow(); paintDrugViews(m); };
+  hIn.addEventListener("change", () => { m = live(m); m.height = hIn.value.trim(); touch(m); saveNow(); paintVitals(m); });
+  const onInfo = () => { m = live(m); m.age = ageSel.value; m.sex = sexSel.value; m.conds = Array.from(conds.querySelectorAll("input:checked")).map(c => c.value); touch(m); saveNow(); paintDrugViews(m); };
   ageSel.addEventListener("change", onInfo); sexSel.addEventListener("change", onInfo);
   const conds = el("div", {class:"conds", role:"group", "aria-label":"회원 상태"}, ...CONDS.map(c => el("label", null,
     el("input", {type:"checkbox", value:c.id, checked:arr(m.conds).includes(c.id), on:{change:onInfo}}), el("span", {text:c.label}))));
@@ -1225,7 +1268,7 @@ function askAI(prompt, onAnswer){
   box.append(el("div", {class:"tags"}, copy, el("a", {href:"https://chatgpt.com/", target:"_blank", rel:"noopener", text:"ChatGPT 열기"})), raw, ta, el("div", {class:"tags"}, ok, msg));
   return box;
 }
-const aiDate = iso => iso ? korDate(str(iso).slice(0, 10)) : "";
+const aiDate = iso => { const d = iso ? new Date(iso) : null; return d && !isNaN(d) ? korDate(isoOf(d)) : ""; };
 const whoText = m => "회원: " + str(m.label) + ([m.age, m.sex].filter(Boolean).length ? " (" + [m.age, m.sex].filter(Boolean).join(", ") + ")" : "")
   + (arr(m.conds).length ? "\n회원 상태: " + arr(m.conds).map(id => (CONDS.find(c => c.id === id) || {label:id}).label).join(", ") : "");
 function setAI(m, patch){ m.ai = Object.assign({}, m.ai, patch); touch(m); saveNow(); }
@@ -1246,10 +1289,16 @@ function overallPrompt(m){
     + "\n내장 규칙 점검 결과:\n" + (checks.join("\n") || "- 걸린 규칙 없음")
     + (vt ? "\n\n" + vt : "") + (gt ? "\n\n" + gt : "") + factsFor(a.drugs);
 }
+/* 붙여 넣은 종합 정리 확인: 요청문을 그대로 붙였거나 너무 짧으면 넣지 않음 */
+function overallBad(t){
+  if (t.includes(AI_RULES.slice(0, 30)) || t.includes("내장 규칙 점검 결과:")) return "요청문이 붙여 넣어졌습니다. ChatGPT의 답을 복사해 붙여 넣어 주세요.";
+  if (t.length < 80 || !/[가-힣]/.test(t)) return "답이 너무 짧거나 우리말이 아닙니다. ChatGPT 답 전체를 붙여 넣어 주세요.";
+  return "";
+}
 function overallCard(m){
   const ov = m.ai && m.ai.overall, stale = ov && ov.drugs !== m.drugs, vn = vitalsSum(vitalsOf(m), m.height).list.length + bgOf(m).length, newV = ov && !stale && vn > (ov.vit || 0);
   const btn = el("button", {type:"button", class:ov ? "mini" : "", text:ov ? "다시 정리" : "AI 종합 정리 만들기 (건강 상태 추정·문의사항·재활계획)"});
-  btn.addEventListener("click", () => btn.replaceWith(askAI(overallPrompt(m), t => { setAI(m, {overall:{text:t, at:new Date().toISOString(), drugs:m.drugs, vit:vn}}); paintOverall(m); return ""; })));
+  btn.addEventListener("click", () => btn.replaceWith(askAI(overallPrompt(m), t => { const bad = overallBad(t); if (bad) return bad; setAI(m, {overall:{text:t, at:new Date().toISOString(), drugs:m.drugs, vit:vn}}); paintOverall(m); return ""; })));
   return el("section", {class:"card"},
     el("div", {class:"card-head"}, el("h2", {text:"AI 종합 정리"}), el("div", {class:"tags"},
       ov ? el("span", {class:"tag low", text:"참고 · " + aiDate(ov.at)}) : null, stale ? el("span", {class:"tag mid", text:"약이 바뀜 · 다시 정리 필요"}) : null,
@@ -1261,7 +1310,7 @@ function paintOverall(m){ const box = $("aiBox"); if (!box) return; box.textCont
 let guideNote = "";
 function guideItems(m){ return linesOf(m).map(line => { const g = guideOf(m, line); return {key:g.key, name:drugName(line) || line, when:g.when, use:g.use, tell:g.tell}; }); }
 function guidePrompt(m){
-  return "너는 정신재활시설 회원에게 줄 약 안내문을 다듬는 도우미다. 아래 JSON 목록의 use(무엇을 돕나요)와 tell(이럴 땐 말해 주세요)을 회원이 읽기 쉬운 아주 쉬운 우리말(해요체)로 다듬어라.\n"
+  return AI_RULES + "\n\n이번 일: 정신재활시설 회원에게 줄 약 안내문을 다듬는다. 아래 JSON 목록의 use(무엇을 돕나요)와 tell(이럴 땐 말해 주세요)을 회원이 읽기 쉬운 아주 쉬운 우리말(해요체)로 다듬어라.\n"
     + "지킬 것: 뜻을 바꾸지 않는다. 새로운 의학 내용을 더하지 않는다. 약을 끊거나 줄이라는 말을 쓰지 않는다. use는 한두 문장, tell은 짧은 문장 2~4개를 ' / '로 이어 쓴다. "
     + "비어 있는 use는 약 이름으로 확실히 아는 경우에만 채우고, 모르면 빈 문자열로 둔다.\n"
     + '답은 같은 순서의 JSON 배열 [{"name":"...","use":"...","tell":"..."}]만 쓴다.\n\n'
@@ -1281,10 +1330,14 @@ function jsonList(t){
 function applyGuideAI(m, t){
   const list = jsonList(t);
   if (!list) return "답에서 문장 목록을 읽지 못했습니다. ChatGPT 답 전체를 복사해 붙여 넣어 주세요.";
+  const items = guideItems(m), byName = it => list.find(v => v && str(v.name).trim() === it.name);
+  /* 이름으로 맞춤. 이름이 하나도 맞지 않고 개수가 같을 때만 순서로 맞춤(약을 빼먹거나 이름을 바꾼 답이 다른 약 칸에 들어가지 않게) */
+  const byPos = list.length === items.length && !items.some(byName);
   let n = 0;
-  guideItems(m).forEach((it, i) => {
-    const x = list.find(v => v && str(v.name) === it.name) || list[i];
-    if (!x) return;
+  const missed = [];
+  items.forEach((it, i) => {
+    const x = byPos ? list[i] : byName(it);
+    if (!x || typeof x !== "object"){ missed.push(it.name); return; }
     const use = str(x.use).trim(), tell = Array.isArray(x.tell) ? x.tell.map(str).join(" / ") : str(x.tell).trim();
     if (!use && !tell) return;
     m.guide = m.guide || {};
@@ -1293,9 +1346,9 @@ function applyGuideAI(m, t){
     if (tell) g.tell = tell;
     n++;
   });
-  if (!n) return "답에서 바꿀 문장을 찾지 못했습니다.";
+  if (!n) return "답에서 바꿀 문장을 찾지 못했습니다." + (missed.length ? " 답의 약 이름이 목록과 맞지 않습니다." : "");
   touch(m); saveNow();
-  guideNote = "AI가 다듬은 문장을 " + n + "가지 약에 넣었습니다.";
+  guideNote = "AI가 다듬은 문장을 " + n + "가지 약에 넣었습니다." + (missed.length ? " 답에서 찾지 못해 그대로 둔 약: " + missed.join(", ") : "");
   paintGuide(m);
   return "";
 }
@@ -1306,7 +1359,7 @@ function paintDrugs(m){
   const ta = el("textarea", {id:"drugsIn", rows:"6", placeholder:"한 줄에 하나씩. 예: 리스페리돈 2mg 하루 2회 (정신과)", "aria-label":"복용 중인 약"});
   ta.value = str(m.drugs);
   let t = null;
-  ta.addEventListener("input", () => { m.drugs = ta.value; touch(m); saveSoon(); clearTimeout(t); t = setTimeout(() => paintDrugViews(m), 350); });
+  ta.addEventListener("input", () => { m = live(m); m.drugs = ta.value; touch(m); saveSoon(); clearTimeout(t); t = setTimeout(() => paintDrugViews(m), 350); });
   box.append(el("section", {class:"card"}, el("h2", {text:"복용 중인 약"}), ta));
   if (focusDrugs){ focusDrugs = false; ta.focus(); }
 }
@@ -1328,7 +1381,7 @@ function drugResult(m){
   out.append(el("section", {class:"card"}, el("h2", {text:"함께 먹을 때 확인할 조합 (내장 규칙)"}),
     a.lc.skipped.length ? el("div", {class:"combo hi"}, el("div", {class:"combo-top"}, el("span", {class:"tag hi", text:"점검에서 빠짐"}), el("span", {text:a.lc.skipped.join(", ")})),
       el("p", {text:"내장 자료에서 성분을 찾지 못해 규칙 점검을 하지 못한 약. 약사에게 따로 확인."})) : null,
-    !a.lc.pairs.length && !a.lc.burdens.length && !a.cc.length && !a.lc.labs.length ? el("p", {class:"muted", text:"내장 규칙에 걸린 조합이 없습니다."}) : null,
+    !a.lc.skipped.length && !a.lc.pairs.length && !a.lc.burdens.length && !a.cc.length && !a.lc.labs.length ? el("p", {class:"muted", text:"내장 규칙에 걸린 조합이 없습니다."}) : null,
     ...a.lc.pairs.map(p => el("div", {class:"combo " + cls(p.lv)}, el("div", {class:"combo-top"}, el("span", {class:"tag " + cls(p.lv), text:p.lv}), el("span", {text:p.names.join(" + ")})), el("p", {text:p.msg}))),
     ...a.lc.burdens.map(b => el("div", {class:"combo mid"}, el("div", {class:"combo-top"}, el("span", {class:"tag mid", text:"누적 부담"}), el("span", {text:b.title})), el("p", {class:"muted", text:b.names.join(", ")}), el("p", {text:b.msg}))),
     ...a.cc.map(c => el("div", {class:"combo " + cls(c.lv)}, el("div", {class:"combo-top"}, el("span", {class:"tag " + cls(c.lv), text:c.cond}), el("span", {text:c.names.join(", ")})), el("p", {text:c.msg}))),
@@ -1356,11 +1409,11 @@ function drugCard(m, x, ids, flagged){
     row("출처", ...off.map(o => el("div", null, multi ? o.ko[0] + ": " : "", el("a", {href:srcHref(o), target:"_blank", rel:"noopener", text:srcOf(o)[1]}),
       el("span", {class:"muted", text:" 개정 " + ymd(o.dt)}))), el("div", null, nedrug));
   } else {
-    const ask = "너는 정신재활시설 실무자에게 약을 설명하는 도우미다. 아래 약의 성분, 쓰임, 흔한 부작용, 실무자가 관찰할 점을 쉬운 말로 짧게 정리하라. "
+    const ask = AI_RULES + "\n\n이번 일: 실무자에게 약을 설명한다. 아래 약의 성분, 쓰임, 흔한 부작용, 실무자가 관찰할 점을 쉬운 말로 짧게 정리하라. "
       + "확실하지 않으면 모른다고 답하라. 진단하지 말고, 약을 끊거나 바꾸라고 권하지 마라.\n\n약: " + str(x.input);
     const cb = el("button", {type:"button", class:"mini", text:"ChatGPT에 물어볼 요청문 복사"});
     cb.addEventListener("click", () => copyText(ask, cb));
-    row("성분·분류", el("div", {text:"내장 자료에서 찾지 못함"}));
+    row("성분·분류", el("div", {text:arr(x.ingredient_en).length ? str(x.ingredient) + " (" + arr(x.ingredient_en).join(", ") + ") · 규칙 점검만" : "내장 자료에서 찾지 못함"}));
     row("찾아보기", el("div", null, nedrug), el("div", {class:"chips"}, cb, el("a", {href:"https://chatgpt.com/", target:"_blank", rel:"noopener", text:"ChatGPT 열기"})));
   }
   return el("article", {class:"drug" + (others.length ? " common" : "")},
@@ -1502,11 +1555,11 @@ function paintGuide(m){
   week.addEventListener("change", () => { guideWeek = week.checked; });
   const items = ls.map(line => {
     const g = guideOf(m, line);
-    const put = (field, val) => { m.guide = m.guide || {}; const s = m.guide[g.key] = Object.assign({}, m.guide[g.key]); s[field] = val; touch(m); saveSoon(); };
+    const put = (field, val) => { m = live(m); m.guide = m.guide || {}; const s = m.guide[g.key] = Object.assign({}, m.guide[g.key]); s[field] = val; touch(m); saveSoon(); };
     const when = el("input", {value:g.when, "aria-label":"언제 먹나요"}), use = el("textarea", {rows:"2", "aria-label":"무엇을 돕나요"}), tell = el("textarea", {rows:"2", "aria-label":"이럴 땐 말해 주세요"});
     use.value = g.use; tell.value = g.tell;
     when.addEventListener("input", () => put("when", when.value)); use.addEventListener("input", () => put("use", use.value)); tell.addEventListener("input", () => put("tell", tell.value));
-    const reset = el("button", {type:"button", class:"mini", text:"기본 문장으로 되돌리기", on:{click:() => { if (m.guide) delete m.guide[g.key]; touch(m); saveNow(); paintGuide(m); }}});
+    const reset = el("button", {type:"button", class:"mini", text:"기본 문장으로 되돌리기", on:{click:() => { m = live(m); if (m.guide) delete m.guide[g.key]; touch(m); saveNow(); paintGuide(m); }}});
     return el("div", {class:"gitem"}, el("div", {class:"drug-head"}, el("h3", {text:drugName(line) || line}), el("span", {class:"muted", text:line}), g.edited ? el("span", {class:"tag low", text:"고쳐 씀"}) : null),
       el("label", null, "언제 먹나요", when), el("label", null, "무엇을 돕나요", use), el("label", null, "이럴 땐 말해 주세요", tell), g.edited ? el("div", null, reset) : null);
   });
@@ -1575,7 +1628,7 @@ function oldList(){
 /* 약국이 기록을 현황판으로 옮김. 새 회원은 더하고, 이미 가져온 회원은 약국이 쪽이 더 새로 바뀌었으면 약·정보를 맞춤.
    현황판에서도 약을 고친 회원은 덮어쓰지 않고 알려 줌. fromUpdated = 마지막으로 맞춘 약국이 기록 시각, importedDrugs = 그때 가져온 약 */
 function syncPlan(list){
-  const plan = {add:[], upd:[], kept:[]};
+  const plan = {add:[], upd:[], kept:[], infoKept:[]};
   arr(list).forEach(o => {
     if (!o || typeof o.id !== "string") return;
     const m = db.members.find(x => x.from === o.id || x.id === o.id);
@@ -1602,18 +1655,37 @@ function takeVitals(m, i){
   if (!Object.keys(L).length) delete db.logs[m.id];
   return n;
 }
+/* 나이·성별·회원 상태: 약국이에서 가져온 값(importedInfo)을 현황판에서 고치지 않았을 때만 새 값으로 바꿈.
+   예전에 가져와 importedInfo가 없는 회원은 비어 있는 칸만 채우고, 회원 상태는 지우지 않고 더하기만 함. 현황판 값을 남겼으면 true */
+const infoOf = i => ({age:str(i.age), sex:str(i.sex), conds:arr(i.conds).map(str)});
+const sameConds = (a, b) => arr(a).slice().sort().join(",") === arr(b).slice().sort().join(",");
+function mergeInfo(m, i){
+  const was = m.importedInfo, now = infoOf(i);
+  let kept = false;
+  ["age", "sex"].forEach(f => {
+    const cur = str(m[f]);
+    if (!cur || (was && cur === str(was[f]))) m[f] = now[f];
+    else if (cur !== now[f]) kept = true;
+  });
+  const cur = arr(m.conds).map(str);
+  if (was && sameConds(cur, was.conds)) m.conds = now.conds;
+  else { const u = Array.from(new Set(cur.concat(now.conds))); if (!sameConds(u, now.conds)) kept = true; m.conds = u; }
+  m.importedInfo = now;
+  return kept;
+}
 function applyPlan(plan){
   const now = new Date().toISOString();
   let vit = 0;
   plan.add.forEach(o => {
     const i = o.input || {}, m = {id:newId(), from:o.id, fromUpdated:str(o.updated), importedDrugs:str(i.drugs), label:str(o.label).slice(0, 20) || nextLabel(),
-      age:str(i.age), sex:str(i.sex), height:str(i.height).trim(), conds:arr(i.conds).map(str), drugs:str(i.drugs), guide:{}, created:now, updated:now};
+      age:str(i.age), sex:str(i.sex), height:str(i.height).trim(), conds:arr(i.conds).map(str), drugs:str(i.drugs), guide:{}, created:now, updated:now, importedInfo:infoOf(i)};
     db.members.push(m);
     vit += takeVitals(m, i);
   });
   plan.upd.forEach(([m, o]) => {
     const i = o.input || {};
-    Object.assign(m, {drugs:str(i.drugs), importedDrugs:str(i.drugs), age:str(i.age), sex:str(i.sex), height:str(i.height).trim() || str(m.height), conds:arr(i.conds).map(str), fromUpdated:str(o.updated)});
+    if (mergeInfo(m, i)) plan.infoKept.push([m, o]);
+    Object.assign(m, {drugs:str(i.drugs), importedDrugs:str(i.drugs), height:str(i.height).trim() || str(m.height), fromUpdated:str(o.updated)});
     vit += takeVitals(m, i);
     touch(m);
   });
@@ -1633,6 +1705,7 @@ function planText(plan, where){
   if (info.length) parts.push("기록이 바뀐 회원 " + info.length + "명(" + names(info) + ")의 정보를 맞췄습니다");
   if (plan.vit) parts.push("혈압·체중 " + plan.vit + "건을 측정 기록에 넣었습니다");
   let t = where + (parts.length ? "에서 " + parts.join(", ") + "." : "에서 새로 가져오거나 바꿀 회원이 없습니다.");
+  if (plan.infoKept && plan.infoKept.length) t += " 새 약국이에서 고친 나이·성별·회원 상태(" + names(plan.infoKept) + ")는 그대로 두었습니다.";
   if (plan.kept.length) t += " 새 약국이에서도 약을 고친 회원(" + names(plan.kept) + ")은 그대로 두었습니다. 두 쪽의 약을 비교해 맞춰 주세요.";
   return t;
 }
