@@ -88,6 +88,7 @@ button:disabled{opacity:.55;cursor:not-allowed}
 .tag{display:inline-block;font-size:12px;font-weight:600;padding:1px 8px;border-radius:999px;border:1px solid currentColor;white-space:nowrap}
 .tag.ex{color:var(--warn)}
 .tag.hi{color:var(--crit);background:var(--crit-bg)}
+.tag.crit{color:var(--crit-bg);background:var(--crit);font-weight:700}
 .tag.mid{color:var(--warn);background:var(--warn-bg)}
 .tag.low{color:var(--muted)}
 .result{display:flex;flex-direction:column;gap:14px;min-width:0}
@@ -334,7 +335,7 @@ let isExample = true;
 const z2 = n => String(n).padStart(2, "0");
 const todayIso = () => { const d = new Date(); return d.getFullYear() + "-" + z2(d.getMonth() + 1) + "-" + z2(d.getDate()); };
 const monthDay = iso => { const [y, m, d] = str(iso).split("-").map(Number); return (y !== new Date().getFullYear() ? y + "년 " : "") + m + "월 " + d + "일"; };
-const vtag = (lv, text) => el("span", {class:"tag " + (lv === "hi" ? "hi" : lv === "mid" ? "mid" : "low"), text});
+const vtag = (lv, text) => el("span", {class:"tag " + (lv === "crit" || lv === "hi" || lv === "mid" ? lv : "low"), text});
 /* 저장된 측정 기록 정리 (모양이 틀린 것은 버림) */
 function cleanVitals(list){
   const out = [];
@@ -747,21 +748,56 @@ function officialFor(d){
 }
 /* 입력한 줄에 적힌 우리말 성분명·제품명·영문 성분명으로 찾기. 긴 이름부터 맞춰 '에스시탈로프람'이 '시탈로프람'으로 읽히지 않게 함.
    제품명은 낱말의 첫머리에 있을 때만 인정해 다른 이름 속에 우연히 들어 있는 경우를 걸러 냄. */
+/* 내장 규칙(RULES·G·CONDS 등)에는 있지만 내장 약 정보(OFFICIAL)가 없는 성분의 이름표. 허가사항 요약이 아니라 규칙 점검에 쓸 성분만 알아봄.
+   [영문 성분명, 우리말 성분명들, 제품명들]. 우리말 이름 앞에 ^를 붙이면 낱말 첫머리에서만 인정(칼슘·철분처럼 다른 약 이름 속에 흔히 들어 있는 것) */
+const RULE_NAMES = [
+  ["alfuzosin",["알푸조신"],["자트랄"]], ["amiodarone",["아미오다론"],["코다론"]], ["atazanavir",["아타자나비르"],["레야타즈"]],
+  ["azilsartan",["아질사르탄"],["이달비"]], ["azithromycin",["아지트로마이신"],["지스로맥스"]], ["biperiden",["비페리덴"],["아키네톤"]],
+  ["buprenorphine",["부프레노르핀"],["노스판"]], ["calcium",["^칼슘"],[]], ["calcium carbonate",["탄산칼슘"],[]], ["captopril",["캅토프릴"],[]],
+  ["chlorthalidone",["클로르탈리돈"],[]], ["ciprofloxacin",["시프로플록사신"],["씨프로"]], ["clarithromycin",["클래리트로마이신","클라리트로마이신"],["클래리시드"]],
+  ["cobicistat",["코비시스타트"],[]], ["codeine",["코데인"],[]], ["cyproheptadine",["시프로헵타딘"],["페리액틴"]], ["dabigatran",["다비가트란"],["프라닥사"]],
+  ["darunavir",["다루나비르"],["프레지스타"]], ["dexibuprofen",["덱시부프로펜"],[]], ["diclofenac",["디클로페낙"],["볼타렌"]], ["digoxin",["디곡신","디고신"],["라녹신"]],
+  ["doripenem",["도리페넴"],[]], ["doxylamine",["독실아민"],[]], ["edoxaban",["에독사반"],["릭시아나"]], ["ertapenem",["에르타페넴"],["인반즈"]],
+  ["erythromycin",["에리스로마이신"],[]], ["fentanyl",["펜타닐"],["듀로제식"]], ["ferrous",["제일철"],[]], ["fesoterodine",["페소테로딘"],["토비애즈"]],
+  ["fimasartan",["피마사르탄"],["카나브"]], ["fluconazole",["플루코나졸"],["디플루칸"]], ["flunitrazepam",["플루니트라제팜"],[]], ["gemigliptin",["제미글립틴"],["제미글로"]],
+  ["glibenclamide",["글리벤클라미드"],["다오닐"]], ["gliclazide",["글리클라지드"],["디아미크롱"]], ["hydrocodone",["히드로코돈","하이드로코돈"],[]],
+  ["imipenem",["이미페넴"],[]], ["indapamide",["인다파미드"],["후루덱스"]], ["insulin",["인슐린"],[]], ["iron",["^철분"],[]], ["isosorbide",["이소소르비드"],[]],
+  ["itraconazole",["이트라코나졸"],["스포라녹스"]], ["ketoconazole",["케토코나졸"],[]], ["ketorolac",["케토롤락"],[]], ["levofloxacin",["레보플록사신"],["크라비트"]],
+  ["linezolid",["리네졸리드"],["자이복스"]], ["meropenem",["메로페넴"],["메로펜"]], ["methadone",["메타돈"],[]], ["methotrexate",["메토트렉세이트"],[]],
+  ["metronidazole",["메트로니다졸"],["후라시닐"]], ["miconazole",["미코나졸"],[]], ["moclobemide",["모클로베미드"],["오로릭스"]], ["morphine",["모르핀"],[]],
+  ["moxifloxacin",["목시플록사신"],["아벨록스"]], ["naftopidil",["나프토피딜"],["플리바스"]], ["nitroglycerin",["니트로글리세린"],[]], ["ondansetron",["온단세트론"],["조프란"]],
+  ["oxycodone",["옥시코돈"],["옥시콘틴"]], ["perindopril",["페린도프릴"],["아서틸"]], ["phenytoin",["페니토인"],["히단토인"]], ["pimozide",["피모지드"],["오랍"]],
+  ["posaconazole",["포사코나졸"],["녹사필"]], ["procyclidine",["프로사이클리딘","프로시클리딘"],[]], ["propiverine",["프로피베린"],[]], ["rasagiline",["라사길린"],["아질렉트"]],
+  ["ritonavir",["리토나비르"],["노비르"]], ["scopolamine",["^스코폴라민"],[]], ["selegiline",["셀레길린"],[]], ["sildenafil",["실데나필"],["비아그라"]],
+  ["silodosin",["실로도신"],["트루패스"]], ["sulfamethoxazole",["설파메톡사졸"],[]], ["tadalafil",["타다라필"],["시알리스"]], ["tapentadol",["타펜타돌"],["뉴신타"]],
+  ["terazosin",["테라조신"],["하이트린"]], ["torsemide",["토르세미드"],[]], ["trimethoprim",["트리메토프림"],[]], ["trospium",["트로스퓸"],["스파스몰리트"]],
+  ["verapamil",["베라파밀"],["이솝틴"]], ["vildagliptin",["빌다글립틴"],["가브스"]], ["voriconazole",["보리코나졸"],["브이펜드"]], ["zaltoprofen",["잘토프로펜"],[]]
+];
+const RULE_KO = {};
 const NAMES = [];
 OFFICIAL.forEach(o => { o.ko.forEach(n => NAMES.push([n, o, false])); arr(o.br).forEach(n => NAMES.push([n, o, true])); o.k.forEach(n => NAMES.push([n, o, true])); });
+RULE_NAMES.forEach(([k, ko, br]) => {
+  RULE_KO[k] = ko[0].replace(/^\^/, "");
+  ko.forEach(n => NAMES.push([n.replace(/^\^/, ""), k, n[0] === "^"])); br.forEach(n => NAMES.push([n, k, true])); NAMES.push([k, k, true]);
+});
 NAMES.sort((a, b) => b[0].length - a[0].length);
-function localMatch(line){
+/* 줄에 적힌 이름을 긴 것부터 맞춤. off = 내장 약 정보, rule = 이름표로만 알아본 성분(영문). 이름표의 이름도 같이 맞춰 '덱시부프로펜'이 '이부프로펜'으로 읽히지 않게 함 */
+function scanNames(line){
   let s = " " + str(line).toLowerCase() + " ";
-  const out = [];
+  const off = [], rule = [];
   for (const [n, o, headOnly] of NAMES){
     let i = s.indexOf(n);
     while (i >= 0 && headOnly && /[a-z가-힣]/.test(s[i - 1])) i = s.indexOf(n, i + 1);
     if (i < 0) continue;
     s = s.slice(0, i) + " ".repeat(n.length) + s.slice(i + n.length);
-    if (!out.includes(o)) out.push(o);
+    const to = typeof o === "string" ? rule : off;
+    if (!to.includes(o)) to.push(o);
   }
-  return out;
+  return {off, rule};
 }
+/* 입력한 줄에 적힌 우리말 성분명·제품명·영문 성분명으로 내장 약 정보 찾기. 긴 이름부터 맞춰 '에스시탈로프람'이 '시탈로프람'으로 읽히지 않게 함.
+   제품명은 낱말의 첫머리에 있을 때만 인정해 다른 이름 속에 우연히 들어 있는 경우를 걸러 냄. */
+const localMatch = line => scanNames(line).off;
 function factLine(o){ return "- " + o.ko[0] + " (" + o.cls + "): 쓰임 " + o.use + " / 흔한 부작용 " + o.se.join(", ") + " / 경고·주의 " + o.warn; }
 function factsFor(list){
   const off = [];
@@ -772,9 +808,10 @@ function factsFor(list){
 function localData(lines){
   return {local:true, urgent:[], combos:[], checklist:[], observations:[], questions:[], plan:[], member_talk:[], care_focus:[],
     drugs: lines.map(line => {
-      const m = localMatch(line), name = (line.match(/^[^\d(]+/) || [line])[0].trim();
-      return m.length
-        ? {input:line, search_name:name, ingredient:m.map(o => o.ko[0]).join(" + "), ingredient_en:m.map(o => o.k[0]), class:m.map(o => o.cls).join(" / "), unsure:false}
+      const {off:m, rule:r} = scanNames(line), name = (line.match(/^[^\d(]+/) || [line])[0].trim();
+      return m.length || r.length
+        ? {input:line, search_name:name, ingredient:m.map(o => o.ko[0]).concat(r.map(k => RULE_KO[k])).join(" + "), ingredient_en:m.map(o => o.k[0]).concat(r),
+          class:m.map(o => o.cls).concat(r.length ? ["규칙 점검만"] : []).join(" / "), unsure:false}
         : {input:line, search_name:name, ingredient:"확인 필요", ingredient_en:[], class:"", unsure:true};
     })};
 }
@@ -813,7 +850,7 @@ const numOf = v => { const n = parseFloat(str(v).trim().replace(",", ".")); retu
 function bpLevel(s, d){
   s = numOf(s); d = numOf(d);
   if (s == null || d == null || s < 50 || s > 260 || d < 30 || d > 160 || d >= s) return null;
-  if (s >= 180 || d >= 110) return {lv:"hi", label:"매우 높음", rank:4};
+  if (s >= 180 || d >= 110) return {lv:"crit", label:"매우 높음", rank:4};
   if (s >= 140 || d >= 90) return {lv:"hi", label:"높음", rank:3};
   if (s >= 120 || d >= 80) return {lv:"mid", label:"조금 높음", rank:2};
   if (s < 90 || d < 60) return {lv:"mid", label:"낮음", rank:1};
@@ -839,7 +876,7 @@ function vitalsSum(list, cm){
   const lastBp = bp[bp.length - 1] || null, firstWt = wt[0] || null, lastWt = wt[wt.length - 1] || null;
   const change = wt.length > 1 ? {kg:Math.round((lastWt.wt - firstWt.wt) * 10) / 10, pct:Math.round((lastWt.wt - firstWt.wt) / firstWt.wt * 1000) / 10, from:firstWt, to:lastWt} : null;
   const bmi = lastWt ? bmiOf(lastWt.wt, cm) : null, flags = [];
-  if (lastBp && lastBp.lvl.rank >= 3) flags.push({lv:"hi", text:"혈압 " + lastBp.lvl.label + " " + bpText(lastBp)});
+  if (lastBp && lastBp.lvl.rank >= 3) flags.push({lv:lastBp.lvl.lv, text:"혈압 " + lastBp.lvl.label + " " + bpText(lastBp)});
   else if (lastBp && lastBp.lvl.rank === 1) flags.push({lv:"mid", text:"혈압 낮음 " + bpText(lastBp)});
   if (change && change.pct >= 7) flags.push({lv:"hi", text:"체중 첫 기록보다 " + change.pct + "% 늘어남"});
   if (change && change.pct <= -5) flags.push({lv:"mid", text:"체중 첫 기록보다 " + Math.abs(change.pct) + "% 줄어듦"});
@@ -1831,7 +1868,7 @@ function studySection(d){
   const quizBtn = el("button", {type:"button", class:"primary", text:"종합 퀴즈 10문제 풀기"});
   quizBtn.addEventListener("click", async () => {
     const wait = el("p", {class:"what"}); quizBox.textContent = ""; quizBox.append(wait);
-    const t = await ask("약을 공부하는 정신건강사회복지사를 위한 객관식 퀴즈 10문제를 만들어라. 아래 약 목록 전체를 종합해서 낸다. 약마다 적어도 한 문제씩 다루고(약이 10개보다 많으면 정신과 약과 주의가 큰 약을 먼저), 남는 문제는 약을 함께 먹을 때의 주의점과 현장 관찰 요령에서 낸다. 약의 쓰임, 흔한 부작용, 바로 알려야 할 위험 신호, 생활에서 챙길 점을 묻는다. 널리 확립된 사실만 묻고 정답은 하나만 있게 한다. 보기는 4개이고 정답 위치를 고르게 섞는다. 약의 중단·감량·변경이 정답인 문제는 내지 않는다. JSON 배열만 출력한다. 형식: [{\"q\":\"문제\",\"options\":[\"보기 4개\"],\"answer\":정답 번호(0부터),\"explain\":\"해설 한두 문장\",\"drug\":\"관련 약 이름\"}]\n\n약 목록: " + drugList(d) + factsFor(drugs), wait, true);
+    const t = await ask("약을 공부하는 정신건강사회복지사를 위한 객관식 퀴즈 10문제를 만들어라. 아래 약 목록 전체를 종합해서 낸다. 약마다 적어도 한 문제씩 다루고(약이 10개보다 많으면 정신과 약과 주의가 큰 약을 먼저), 남는 문제는 약을 함께 먹을 때의 주의점과 현장 관찰 요령에서 낸다. 약의 쓰임, 흔한 부작용, 바로 알려야 할 위험 신호, 생활에서 챙길 점을 묻는다. 널리 확립된 사실만 묻고 정답은 하나만 있게 한다. 보기는 4개이고 정답 위치를 고르게 섞는다. 약의 중단·감량·변경이 정답인 문제와 진단을 묻는 문제는 내지 않는다. JSON 배열만 출력한다. 형식: [{\"q\":\"문제\",\"options\":[\"보기 4개\"],\"answer\":정답 번호(0부터),\"explain\":\"해설 한두 문장\",\"drug\":\"관련 약 이름\"}]\n\n약 목록: " + drugList(d) + factsFor(drugs), wait, true);
     if (t == null) return;
     let items = [];
     try {
@@ -1935,7 +1972,7 @@ function pasteBox(x){
     const t = ta.value.trim();
     if (t.length < 50){ ta.focus(); return; }
     out.hidden = false;
-    ask("너는 약 설명서를 간추리는 도우미다. 아래 [자료]는 실무자가 공식 사이트에서 복사해 붙여 넣은 약 설명서다. [자료]에 적힌 내용만 써서 다음 소제목 순서로 간추려라. 소제목은 대괄호로 쓴다. [자료]에 없는 내용은 지어내지 말고 '자료에 없음'이라고 쓴다. 약의 중단·감량·변경을 권하지 않는다. 쉬운 한국어, '~함/~임' 개조식, 마크다운 기호 없이, 500자 안팎.\n[쓰임]\n[흔한 부작용]\n[경고·주의]\n[실무자가 살필 점]\n\n약: " + str(x.input) + "\n\n[자료]\n" + t.slice(0, 12000), out, false, "붙여 넣은 공식 자료 요약: " + str(x.input));
+    ask("너는 약 설명서를 간추리는 도우미다. 아래 [자료]는 실무자가 공식 사이트에서 복사해 붙여 넣은 약 설명서다. [자료]에 적힌 내용만 써서 다음 소제목 순서로 간추려라. 소제목은 대괄호로 쓴다. [자료]에 없는 내용은 지어내지 말고 '자료에 없음'이라고 쓴다. 진단하지 않는다. 약의 중단·감량·변경을 권하지 않는다. 쉬운 한국어, '~함/~임' 개조식, 마크다운 기호 없이, 500자 안팎.\n[쓰임]\n[흔한 부작용]\n[경고·주의]\n[실무자가 살필 점]\n\n약: " + str(x.input) + "\n\n[자료]\n" + t.slice(0, 12000), out, false, "붙여 넣은 공식 자료 요약: " + str(x.input));
   });
   return el("details", {class:"paste"},
     el("summary", {text:"공식 자료를 붙여 넣어 간추리기"}),
@@ -2004,7 +2041,7 @@ function render(d){
     lc.skipped.length ? el("div", {class:"combo hi"},
       el("div", {class:"combo-top"}, el("span", {class:"tag hi", text:"점검에서 빠짐"}), el("span", {text:lc.skipped.join(", ")})),
       el("p", {text:"성분을 확인하지 못해 규칙 점검을 하지 못한 약. 약 이름을 다시 확인하거나 약사에게 따로 물어볼 것."})) : null,
-    lc.pairs.length || lc.burdens.length ? null : el("p", {class:"what", text:"내장 규칙에 걸린 조합이 없습니다. 규칙에 없는 조합도 있으니 안전하다는 뜻은 아닙니다."}),
+    lc.pairs.length || lc.burdens.length || lc.skipped.length ? null : el("p", {class:"what", text:"내장 규칙에 걸린 조합이 없습니다. 규칙에 없는 조합도 있으니 안전하다는 뜻은 아닙니다."}),
     ...lc.pairs.map(c => el("div", {class:"combo " + cls(c.lv)},
       el("div", {class:"combo-top"}, el("span", {class:"tag " + cls(c.lv), text:c.lv}), el("span", {text:c.names.join(" + ")})),
       el("p", {text:c.msg}), ...why(c.names, c.msg))),
