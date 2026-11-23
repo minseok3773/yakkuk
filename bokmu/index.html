@@ -148,6 +148,10 @@ details[open] > summary{margin-bottom:10px}
       <input type="file" id="file" accept=".xlsx,.xls,.csv,image/*" multiple hidden>
     </div>
     <div class="status" id="upStatus"></div>
+    <div class="row" id="scanRow" hidden>
+      <button type="button" id="scanBtn">종이 복무상황부 스캔 올리기 (PDF·그림)</button>
+      <input type="file" id="scanFile" accept=".pdf,application/pdf,image/*" multiple hidden>
+    </div>
     <div id="preview" hidden></div>
   </section>
 
@@ -333,7 +337,7 @@ function paintPerson(){
   const box = $("person"), p = person(cur.pid);
   if (!p) { box.innerHTML = ""; return; }
   const ym = cur.ym, r = rec(ym, p.id), days = daysOf(ym, p.id), N = dim(ym);
-  const src = r && r.days ? (r.src === "사진" ? '<span class="tag ok">포털에서 가져옴</span>' : '<span class="tag">직접 고침</span>') : '<span class="tag">달력 기본값</span>';
+  const src = r && r.days ? (r.src === "사진" ? '<span class="tag ok">포털에서 가져옴</span>' : r.src === "스캔" ? '<span class="tag ok">종이 스캔에서 가져옴</span>' : '<span class="tag">직접 고침</span>') : '<span class="tag">달력 기본값</span>';
   const chk = portalCheck(ym, p.id);
   let chkHtml = "";
   if (chk) {
@@ -593,6 +597,7 @@ function setUp(msg, err){ $("upStatus").textContent = msg; $("upStatus").classNa
 function paintAIMode(){
   const ai = !!(sample && imgOK);
   $("aiTag").hidden = !ai;
+  $("scanRow").hidden = !ai;
   $("file").accept = ".xlsx,.xls,.csv,image/*";
   $("dropMain").textContent = "근태현황 그림(PNG)이나 엑셀 파일을 끌어 놓거나 눌러서 고르기";
   $("dropSub").textContent = ai ? "화면 캡처 뒤 Ctrl+V로 붙여 넣어도 됩니다 · Claude가 그림을 읽습니다" : "화면 캡처 뒤 Ctrl+V로 붙여 넣어도 됩니다 · 그림 글자는 이 컴퓨터 안에서 읽습니다";
@@ -662,6 +667,7 @@ function paintPreview(){
   if (!results.length) { box.hidden = true; box.innerHTML = ""; return; }
   box.hidden = false;
   box.innerHTML = results.map((r, i) => {
+    if (r.scan) return scanBlock(r, i);
     let h = '<div class="preview" data-i="' + i + '"><div class="row" style="justify-content:space-between"><strong>읽은 결과 ' + (results.length > 1 ? (i + 1) : "") + '</strong>' + (r.ocr ? '<span class="tag warn">그림 글자 인식 · 숫자 확인</span> ' : "") + (r.ym ? '<span class="tag">' + r.ym.replace("-", "년 ") + '월</span>' : "") + '</div>';
     if (r.summary.length && r.ocr) h += '<div class="row muted">합계표 (이름이 틀렸으면 고쳐 주세요):</div><div class="row">' + r.summary.map((s, j) => '<label class="row muted" style="gap:4px"><input type="text" data-sn="' + i + ':' + j + '" value="' + esc(s.name) + '" style="width:84px" aria-label="성명"> 출근일수 ' + s.workdays + ' · 연가 ' + s.annual + ' · 병가 ' + s.sick + (s.special ? ' · 특휴 ' + s.special : "") + '</label>').join("") + '</div>';
     else if (r.summary.length) h += '<div class="muted">합계표: ' + r.summary.map(s => esc(s.name) + ' (출근일수 ' + s.workdays + ', 연가 ' + s.annual + ', 병가 ' + s.sick + (s.special ? ', 특휴 ' + s.special : "") + ')').join(" · ") + '</div>';
@@ -681,6 +687,8 @@ function paintPreview(){
 }
 $("preview").addEventListener("change", e => {
   const s = e.target.closest("[data-target]"); if (s) { results[+s.dataset.target].target = s.value; return; }
+  const sc = e.target.closest("[data-scn]");
+  if (sc) { const r = results[+sc.dataset.scn], nw = sc.value.trim(); if (!nw) { sc.value = r.scan.header.name; return; } r.scan.header.name = nw; r.target = scanTarget(nw); paintPreview(); return; }
   const n = e.target.closest("[data-sn]");
   if (n) {
     const [i, j] = n.dataset.sn.split(":").map(Number), sm = results[i].summary[j], old = sm.name, nw = n.value.trim();
@@ -709,6 +717,7 @@ function findOrAdd(name, fuzzy){
 function applyResults(){
   let lastYm = cur.ym, lastPid = cur.pid, filled = 0, added = db.people.length;
   results.forEach(r => {
+    if (r.scan) { const pid = applyScan(r); if (pid) { lastPid = pid; filled++; lastYm = r.ym; } return; }
     const ym = r.ym || cur.ym;
     r.summary.forEach(s => { const p = findOrAdd(s.name, r.ocr); const R = rec(ym, p.id, true); const {name, ...rest} = s; R.portal = rest; });
     if (r.days.length) {
@@ -725,14 +734,14 @@ function applyResults(){
   added = db.people.length - added;
   cur.ym = lastYm; cur.pid = lastPid || cur.pid;
   results = []; paintPreview(); paint();
-  setUp("채웠습니다." + (filled ? " 날짜별 목록 " + filled + "명." : "") + (added ? " 새 요원 " + added + "명 추가." : "") + " 아래 달력을 확인해 주세요.");
+  setUp("채웠습니다." + (filled ? " 요원 달력 " + filled + "개." : "") + (added ? " 새 요원 " + added + "명 추가." : "") + " 아래 달력을 확인해 주세요.");
 }
 function errMsg(e){
   const c = e && e.code;
   if (c === "not_granted") return "AI 사용을 허락하지 않아 읽지 못했습니다. 포털 엑셀 파일을 올리거나 달력을 직접 고치세요.";
   if (c === "rate_limited") return "요청이 많아 잠시 막혔습니다. 1분쯤 뒤에 다시 올려 주세요.";
   if (c === "images_unavailable") return "이 화면에서는 사진을 읽을 수 없습니다. 포털 엑셀 파일을 올리거나 달력을 직접 고치세요.";
-  if (e && (e.message === "bad" || e.message === "empty" || e instanceof SyntaxError)) return "사진에서 근태 표를 찾지 못했습니다. 표가 잘 보이게 다시 찍어 올려 주세요.";
+  if (e && (e.message === "bad" || e.message === "empty" || e instanceof SyntaxError)) return "그림에서 내용을 찾지 못했습니다. 잘 보이게 다시 찍거나 스캔해서 올려 주세요.";
   return "사진을 읽지 못했습니다. 다시 올리거나 달력을 직접 고치세요.";
 }
 let reading = false;
@@ -848,6 +857,152 @@ async function readImagesOCR(files){
   if (results.length) setUp(errs.length ? errs.join(", ") + "에서 근태 표를 찾지 못했습니다." : "다 읽었습니다. 그림 글자 인식은 틀릴 수 있으니 포털 화면과 숫자를 맞춰 보고 ‘달력에 채우기’를 누르세요.", !!errs.length);
   else setUp("그림에서 근태 표를 찾지 못했습니다. 근태현황 표가 잘리지 않게 캡처해서 다시 올려 주세요.", true);
 }
+/* ---------- 종이 일일 복무 상황부 스캔 읽기 (Claude판, AI) ----------
+   PDF는 pdf.js로 쪽마다 그림으로 바꾸고, 옆으로 누운 쪽은 세운 뒤, 위(날짜 칸)·아래(근무상황 표) 두 장으로 나눠 보냄 */
+const PDFJS = {js:"https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js", worker:"https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js"};
+let pdfP = null;
+function loadPDF(){
+  if (pdfP) return pdfP;
+  pdfP = new Promise((ok, no) => {
+    const go = () => {
+      const lib = window.pdfjsLib; if (!lib) return no(new Error("load"));
+      try { lib.GlobalWorkerOptions.workerPort = new Worker(URL.createObjectURL(new Blob(['importScripts("' + PDFJS.worker + '")'], {type:"text/javascript"}))); }
+      catch (e) { lib.GlobalWorkerOptions.workerSrc = PDFJS.worker; }
+      ok(lib);
+    };
+    if (window.pdfjsLib) return go();
+    const sc = document.createElement("script"); sc.src = PDFJS.js; sc.onload = go; sc.onerror = () => no(new Error("load")); document.head.append(sc);
+  }).catch(e => { pdfP = null; throw e; });
+  return pdfP;
+}
+function upright(c){
+  if (c.width >= c.height) return c;
+  const r = document.createElement("canvas"); r.width = c.height; r.height = c.width;
+  const x = r.getContext("2d"); x.translate(0, r.height); x.rotate(-Math.PI / 2); x.drawImage(c, 0, 0);
+  return r;
+}
+async function scanPages(file){
+  const out = [];
+  if (/pdf/i.test(file.type) || /\.pdf$/i.test(file.name || "")) {
+    const lib = await loadPDF();
+    const doc = await lib.getDocument({data: new Uint8Array(await file.arrayBuffer())}).promise;
+    for (let i = 1; i <= doc.numPages; i++) {
+      const pg = await doc.getPage(i), v0 = pg.getViewport({scale:1});
+      const vp = pg.getViewport({scale: 2600 / Math.max(v0.width, v0.height)});
+      const c = document.createElement("canvas"); c.width = Math.round(vp.width); c.height = Math.round(vp.height);
+      const x = c.getContext("2d"); x.fillStyle = "#fff"; x.fillRect(0, 0, c.width, c.height);
+      await pg.render({canvasContext: x, viewport: vp}).promise;
+      out.push(upright(c));
+    }
+  } else {
+    const url = URL.createObjectURL(file);
+    try {
+      const im = new Image(); im.src = url; await im.decode();
+      const k = Math.min(1, 2600 / Math.max(im.naturalWidth, im.naturalHeight));
+      const c = document.createElement("canvas"); c.width = Math.round(im.naturalWidth * k); c.height = Math.round(im.naturalHeight * k);
+      const x = c.getContext("2d"); x.fillStyle = "#fff"; x.fillRect(0, 0, c.width, c.height); x.drawImage(im, 0, 0, c.width, c.height);
+      out.push(upright(c));
+    } finally { URL.revokeObjectURL(url); }
+  }
+  return out;
+}
+const toBlob = c => new Promise((ok, no) => c.toBlob(b => b ? ok(b) : no(new Error("blob")), "image/jpeg", 0.9));
+async function scanImages(c, maxCount){
+  if (maxCount < 2) return [await toBlob(c)];
+  const part = (y0, y1) => { const h = Math.round(c.height * (y1 - y0)), r = document.createElement("canvas"); r.width = c.width; r.height = h; r.getContext("2d").drawImage(c, 0, Math.round(c.height * y0), c.width, h, 0, 0, c.width, h); return toBlob(r); };
+  return [await part(0, 0.62), await part(0.5, 1)];
+}
+const SCAN_PROMPT = [
+  "이 그림은 사회복무요원 '일일 복무 상황부' 종이 한 장을 스캔한 것이다. 두 장이면 첫 장은 위쪽(연월, 복무기관·복무분야·복무형태·근무지·성명·연락처, 날짜 1~31의 본인 칸과 확인자 칸), 둘째 장은 아래쪽(근무상황 표: 종별, 기간 또는 일시, 사유 또는 용무, 결재, 직무수행 태도)이다. 손글씨도 읽어라. 읽을 수 없으면 추측하지 말고 \"모름\"이나 빈 문자열로 둬라.",
+  "아래 형식의 JSON 하나만 답하라. 설명이나 ``` 표시는 쓰지 마라.",
+  '{"year":2026,"month":10,"name":"성명","phone":"연락처","org":"복무기관","field":"복무분야","type":"복무형태","place":"근무지","days":[{"day":1,"self":"서명","raw":"본인 칸 글자 그대로"}],"rows":[{"kind":"종별","period":"기간 또는 일시","reason":"사유 또는 용무","attitude":"직무수행 태도"}]}',
+  "self는 본인 칸을 보고 다음 중 하나로 적어라: 서명, 휴일, 연가, 병가, 특휴, 교육, 지각, 조퇴, 외출, 결근, 빈칸, 모름. 이름(서명)이나 도장만 있으면 서명. 연가·병가 같은 글자와 서명이 함께 있으면 그 글자(연가 등). 줄을 그어 지운 글자는 무시하고 고쳐 쓴 글자를 따른다. 확실하지 않으면 모름.",
+  "days는 그 달 1일부터 마지막 날까지 빠짐없이 적어라. rows는 글이 적힌 줄만 적어라. 결재란 서명과 주민번호는 적지 마라."
+].join("\n");
+const SELF_CODE = {서명:"출근", 휴일:"휴일", 연가:"연가", 병가:"병가", 특휴:"특휴", 특별휴가:"특휴", 교육:"교육", 지각:"지각", 조퇴:"조퇴", 외출:"외출", 결근:"결근"};
+function periodDays(text, m){
+  const re = /(?:(\d{4})\s*[.\-\/년]\s*)?(\d{1,2})\s*[.\-\/월]\s*(\d{1,2})/g, ds = []; let x;
+  while ((x = re.exec(String(text || "")))) if (+x[2] === m) ds.push(+x[3]);
+  return ds.length ? [ds[0], ds[ds.length - 1]] : null;
+}
+function scanTarget(name){
+  const hit = db.people.find(p => p.name === name) || nearName(name);
+  return hit ? hit.id : "new:" + (name || "");
+}
+function parseScan(text){
+  const s = String(text || ""), a = s.indexOf("{"), b = s.lastIndexOf("}");
+  if (a < 0 || b <= a) throw new Error("bad");
+  const o = JSON.parse(s.slice(a, b + 1));
+  const y = numOr(o.year), m = numOr(o.month);
+  if (!(y > 2000 && m >= 1 && m <= 12)) throw new Error("empty");
+  const ym = y + "-" + pad(m), N = dim(ym);
+  const rows = (Array.isArray(o.rows) ? o.rows : []).map(x => ({kind: String(x && x.kind || "").trim(), period: String(x && x.period || "").trim(), reason: String(x && x.reason || "").trim(), att: String(x && x.attitude || "").trim()}))
+    .filter(x => x.kind || x.period).map(x => { const code = mapKind(x.kind); const r = periodDays(x.period, m); return Object.assign(x, {code, s: r ? r[0] : 0, e: r ? r[1] : 0}); });
+  const days = {}, unclear = [];
+  const list = Array.isArray(o.days) ? o.days : [];
+  for (let d = 1; d <= N; d++) {
+    const it = list.find(z => z && numOr(z.day) === d), self = it ? String(it.self || "").replace(/\s/g, "") : "";
+    let c = SELF_CODE[self] || (self === "빈칸" && isHoli(ym, d) ? "휴일" : "확인");
+    if (c === "병가" && rows.some(r => r.code === "공병" && r.s && d >= r.s && d <= r.e)) c = "공병";
+    if (c === "확인") unclear.push(d);
+    days[d] = c;
+  }
+  const header = {name: String(o.name || "").trim(), phone: String(o.phone || "").trim(), org: String(o.org || "").trim(), field: String(o.field || "").trim(), type: String(o.type || "").trim(), place: String(o.place || "").trim()};
+  return {scan: {header, days, rows, unclear}, summary: [], days: [], ym, target: scanTarget(header.name)};
+}
+function scanBlock(r, i){
+  const sc = r.scan, c = {};
+  Object.values(sc.days).forEach(k => c[k] = (c[k] || 0) + 1);
+  const cnt = CODES.filter(([k]) => c[k]).map(([k, n]) => n + " " + c[k]).join(", ");
+  let h = '<div class="preview"><div class="row" style="justify-content:space-between"><strong>종이 스캔 ' + (results.length > 1 ? (i + 1) : "") + '</strong><span class="row"><span class="tag warn">손글씨 · 꼭 확인</span><span class="tag">' + r.ym.replace("-", "년 ") + '월</span></span></div>';
+  h += '<div class="row"><label class="row muted" style="gap:4px">성명 <input type="text" data-scn="' + i + '" value="' + esc(sc.header.name) + '" style="width:90px"></label><span class="muted">→</span><select data-target="' + i + '" style="width:auto">' +
+    db.people.map(p => '<option value="' + p.id + '"' + (r.target === p.id ? " selected" : "") + '>' + esc(p.name) + '</option>').join("") +
+    (r.target.startsWith("new:") ? '<option value="' + esc(r.target) + '" selected>새 요원' + (r.target.length > 4 ? ": " + esc(r.target.slice(4)) : "") + '</option>' : '<option value="new:' + esc(sc.header.name) + '">새 요원</option>') + '</select>' +
+    (sc.header.phone ? '<span class="muted">연락처 ' + esc(sc.header.phone) + '</span>' : "") + '</div>';
+  h += '<div class="muted">날짜: ' + esc(cnt) + '</div>';
+  if (sc.unclear.length) h += '<div><span class="tag warn">확인 필요</span> <span class="muted">' + sc.unclear.map(d => d + "일").join(", ") + ' (달력에 빨간 테두리로 표시)</span></div>';
+  if (sc.rows.length) h += '<div class="muted">근무상황: ' + sc.rows.map(x => esc([x.kind, x.period, x.reason, x.att].filter(Boolean).join(" "))).join(" / ") + '</div>';
+  return h + '</div>';
+}
+function applyScan(r){
+  const sc = r.scan, h = sc.header;
+  const p = r.target && !r.target.startsWith("new:") && person(r.target) ? person(r.target) : findOrAdd(r.target ? r.target.slice(4) : h.name, true);
+  if (!p.phone && h.phone) p.phone = h.phone;
+  ["org","field","type","place"].forEach(k => { if (!p[k] && h[k] && h[k] !== db.set[k]) p[k] = h[k]; });
+  const R = rec(r.ym, p.id, true);
+  R.days = Object.assign({}, sc.days); R.src = "스캔";
+  /* 근무상황 표의 사유·태도를 같은 종별·같은 시작일 줄에 옮김 */
+  rowsOf(r.ym, p.id).forEach(row => {
+    const hit = sc.rows.find(x => x.code === row.code && x.s && x.s <= row.e && (x.e || x.s) >= row.s);
+    if (hit) R.notes[row.key] = Object.assign(R.notes[row.key] || {}, hit.reason ? {r: hit.reason} : {}, hit.att ? {a: hit.att} : {});
+  });
+  return p.id;
+}
+async function readScans(files){
+  if (!(sample && imgOK)) { setUp("종이 스캔 읽기는 Claude판에서만 됩니다.", true); return; }
+  if (reading) return;
+  reading = true; results = []; paintPreview();
+  let maxCount = 1; try { const l = await sample.limits(); maxCount = (l && l.images && l.images.maxCount) || 1; } catch (e) {}
+  const errs = [];
+  for (const f of files) {
+    let pages = [];
+    try { setUp("스캔 파일을 여는 중… " + (f.name || "")); pages = await scanPages(f); }
+    catch (e) { errs.push((f.name || "파일") + "을 열지 못했습니다"); continue; }
+    for (let i = 0; i < pages.length; i++) {
+      setUp("손글씨를 읽는 중… " + (pages.length > 1 ? (i + 1) + "/" + pages.length + "쪽 " : "") + "한 쪽에 30초~1분쯤 걸립니다.");
+      try {
+        const out = await sample(SCAN_PROMPT, {images: await scanImages(pages[i], maxCount), cache:false});
+        results.push(parseScan(out.text));
+      } catch (e) { errs.push((pages.length > 1 ? (i + 1) + "쪽: " : "") + errMsg(e)); if (e && (e.code === "not_granted" || e.code === "rate_limited")) break; }
+    }
+  }
+  reading = false;
+  paintPreview();
+  if (results.length) setUp(errs.length ? "일부를 읽지 못했습니다. " + errs[0] : "다 읽었습니다. 손글씨는 틀릴 수 있으니 종이와 맞춰 보고 ‘달력에 채우기’를 누르세요.", !!errs.length);
+  else setUp(errs[0] || "읽지 못했습니다.", true);
+}
+$("scanBtn").addEventListener("click", () => $("scanFile").click());
+$("scanFile").addEventListener("change", e => { const fs = [...e.target.files]; e.target.value = ""; if (fs.length) readScans(fs); });
 const drop = $("drop");
 drop.addEventListener("click", () => $("file").click());
 drop.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); $("file").click(); } });
