@@ -172,6 +172,8 @@ details.care summary > * + *{margin-left:8px}
 .ai-text{white-space:pre-wrap;background:var(--note-bg);border-radius:8px;padding:10px 12px;font-size:14.5px;line-height:1.65}
 .ask-paste{display:flex;flex-direction:column;gap:8px;border:1px dashed var(--line);border-radius:8px;padding:10px}
 .ask-paste textarea{min-height:80px;font-size:13.5px}
+.ask-paste details.alt summary{cursor:pointer;font-size:13px;font-weight:500;color:var(--accent)}
+.ask-paste details.alt[open] summary{margin-bottom:8px}
 .vrow{display:flex;gap:8px 14px;flex-wrap:wrap;align-items:center}
 .vrow input{width:86px}
 .vrow select{width:auto}
@@ -207,7 +209,7 @@ details.care summary > * + *{margin-left:8px}
 <body>
 <div class="wrap">
   <header class="top">
-    <div class="brand"><h1>약국이 <span>현황판</span></h1><span class="today" id="today"></span></div>
+    <div class="brand"><h1>약국이 <span>현황판</span></h1><span class="tag low" id="modeTag" hidden>Claude판</span><span class="today" id="today"></span></div>
     <div class="top-actions">
       <button type="button" class="primary" id="addMember">+ 회원 추가</button>
       <details class="menu" id="dataMenu">
@@ -1117,9 +1119,10 @@ function alertsOf(m){
 /* ---------- 화면 이동 ---------- */
 let route = {view:"board"};
 function go(hash){ if (location.hash === hash) paint(); else location.hash = hash; }
+/* 주소: #m-회원 = 회원 화면, #board 또는 빈 것 = 현황판 (Claude 화면은 #뒤에 /가 든 주소를 받지 않음). 예전 주소(#/m/회원/log 등)도 읽음 */
 function readHash(){
-  const p = location.hash.replace(/^#\/?/, "").split("/");
-  if (p[0] === "m" && memberById(p[1])) return {view:"member", id:p[1]};   /* 예전 주소(#/m/회원/log 등)도 회원 화면으로 */
+  const h = location.hash.replace(/^#/, ""), id = h.startsWith("m-") ? h.slice(2) : (h.match(/^\/?m\/([^/]+)/) || [])[1];
+  if (id && memberById(id)) return {view:"member", id};
   return {view:"board"};
 }
 window.addEventListener("hashchange", () => { saveNow(); route = readHash(); paint(); window.scrollTo(0, 0); });
@@ -1131,7 +1134,7 @@ function paint(){
 function memberLink(id, tab, extra){
   const m = memberById(id);
   return el("button", Object.assign({type:"button", class:"mini chip" + (route.id === id && route.view === "member" ? " on" : ""), text:m ? str(m.label) : "회원",
-    on:{click:() => go("#/m/" + id)}}, extra || {}));
+    on:{click:() => go("#m-" + id)}}, extra || {}));
 }
 
 /* ---------- 현황판 ---------- */
@@ -1144,8 +1147,9 @@ function paintBoard(){
     v.append(el("section", {class:"card empty"},
       el("h2", {text:"회원이 아직 없습니다"}),
       el("div", {class:"btns"},
-        el("button", {type:"button", class:"primary", text:"+ 첫 회원 추가", on:{click:() => { const m = addMember(); focusDrugs = true; go("#/m/" + m.id); }}}),
-        old.length ? el("button", {type:"button", text:"기존 약국이 회원 가져오기 (" + old.length + "명)", on:{click:importOld}}) : null)));
+        el("button", {type:"button", class:"primary", text:"+ 첫 회원 추가", on:{click:() => { const m = addMember(); focusDrugs = true; go("#m-" + m.id); }}}),
+        old.length ? el("button", {type:"button", text:"기존 약국이 회원 가져오기 (" + old.length + "명)", on:{click:importOld}}) : null,
+        el("button", {type:"button", text:"백업 파일에서 불러오기", on:{click:() => { $("dataMenu").open = true; $("backupLoad").click(); }}}))));
     return;
   }
   const watch = db.members.map(m => ({m, a:alertsOf(m)})).filter(x => x.a.length)
@@ -1189,7 +1193,7 @@ function memberRow(m){
     ...alerts.map(x => el("span", {class:"tag " + x.lv, text:x.text})),
     !n ? el("span", {class:"tag low", text:"약 없음"}) : null);
   return el("div", {class:"row", role:"listitem"},
-    el("div", {class:"who"}, el("button", {type:"button", text:str(m.label), on:{click:() => go("#/m/" + m.id)}}),
+    el("div", {class:"who"}, el("button", {type:"button", text:str(m.label), on:{click:() => go("#m-" + m.id)}}),
       el("span", {class:"muted", text:"약 " + n + "개" + (m.age ? " · " + m.age : "") + (m.sex ? " · " + m.sex : "")})),
     measLine(m), flags);
 }
@@ -1212,7 +1216,7 @@ function paintMember(){
   label.addEventListener("change", () => { const x = label.value.trim().slice(0, 20); if (!x){ label.value = str(m.label); return; } m = live(m); m.label = x; touch(m); saveNow(); });
   const del = el("button", {type:"button", class:"mini", text:"이 회원 삭제"});
   twoStep(del, "한 번 더 누르면 삭제 (측정 기록 포함, 되돌릴 수 없음)", () => {
-    db.members = db.members.filter(x => x.id !== m.id); delete db.logs[m.id]; anaCache.delete(m.id); saveNow(); go("#/");
+    db.members = db.members.filter(x => x.id !== m.id); delete db.logs[m.id]; anaCache.delete(m.id); saveNow(); go("#board");
   });
   const ageSel = el("select", {"aria-label":"연령대"}, ...["", "20대", "30대", "40대", "50대", "60대", "70대 이상"].map(x => el("option", {value:x, text:x || "선택 안 함"})));
   const sexSel = el("select", {"aria-label":"성별"}, ...["", "남성", "여성"].map(x => el("option", {value:x, text:x || "선택 안 함"})));
@@ -1223,7 +1227,7 @@ function paintMember(){
   ageSel.addEventListener("change", onInfo); sexSel.addEventListener("change", onInfo);
   const conds = el("div", {class:"conds", role:"group", "aria-label":"회원 상태"}, ...CONDS.map(c => el("label", null,
     el("input", {type:"checkbox", value:c.id, checked:arr(m.conds).includes(c.id), on:{change:onInfo}}), el("span", {text:c.label}))));
-  v.append(el("p", {class:"crumb"}, el("a", {href:"#/", text:"← 현황판"})),
+  v.append(el("p", {class:"crumb"}, el("a", {href:"#board", text:"← 현황판"})),
     el("section", {class:"card"},
       el("div", {class:"mhead"}, label, el("span", {id:"areas", class:"tags"})),
       el("details", {class:"minfo"}, el("summary", {text:"회원 정보 (연령대·성별·키·상태)"}),
@@ -1260,10 +1264,67 @@ async function copyText(t, btn){
   catch (e) { btn.textContent = "복사하지 못했습니다"; setTimeout(() => { btn.textContent = old; }, 2000); return false; }
 }
 
-/* ---------- AI: 지금은 요청문을 복사해 ChatGPT에 묻고, 받은 답을 붙여 넣음. 다른 연결 방식이 정해지면 askAI만 바꿈 ---------- */
+/* ---------- Claude판(2026-11-23): 같은 파일이 Claude 안에서 열리면 AI에게 바로 묻고(sample), 백업·인쇄 파일은 downloads로 내려받음.
+   Claude 밖(웹사이트판)은 ChatGPT 복사·붙여넣기, 브라우저 내려받기·인쇄. 기록은 두 곳이 따로 가짐(백업 파일로 옮김) ---------- */
+const IN_CLAUDE = !!window.claude;
+let aiSample = null, dlCap = null;
+if (IN_CLAUDE){
+  window.claude.use("sample").then(x => { aiSample = x || null; if (aiSample) repaintSoft(); }).catch(() => {});
+  window.claude.use("downloads").then(x => { dlCap = x || null; }).catch(() => {});
+}
+/* 글을 쓰는 중이 아니면 다시 그림 (AI 연결이 늦게 확인되면 단추를 Claude판 것으로 바꿈) */
+function repaintSoft(){ const a = document.activeElement; if (a && (a.tagName === "TEXTAREA" || (a.tagName === "INPUT" && a.type !== "checkbox"))) return; paint(); }
+/* 파일 내려받기: Claude판은 downloads(보는 사람이 확인), 웹사이트판은 브라우저 내려받기 */
+async function saveFile(name, data, type){
+  if (IN_CLAUDE){
+    const d = dlCap || await window.claude.use("downloads").catch(() => null);
+    if (!d) throw {code:"unavailable"};
+    return d.save({filename:name, data});
+  }
+  const a = el("a", {href:URL.createObjectURL(new Blob([data], {type})), download:name});
+  document.body.append(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 30000);
+}
+const flash = (btn, text, old) => { btn.textContent = text; setTimeout(() => { btn.textContent = old; }, 3000); };
+function aiErr(e){
+  const c = e && e.code;
+  if (["not_granted", "sampling_disabled", "not_declared", "capability_disabled", "capability_removed"].includes(c)) return "이 화면에서는 AI를 쓸 수 없습니다. 아래 'ChatGPT로 묻기'를 써 주세요.";
+  if (c === "rate_limited") return "요청이 많아 잠시 막혔습니다. 1~2분 뒤 '다시 묻기'를 누르거나 아래 'ChatGPT로 묻기'를 써 주세요.";
+  if (c === "prompt_too_large") return "보낼 내용이 너무 깁니다. 약이나 측정 기록을 줄여 주세요.";
+  if (c === "refused") return "AI가 이 요청에 답하지 않았습니다. 아래 'ChatGPT로 묻기'를 써 주세요.";
+  return "답을 받지 못했습니다. '다시 묻기'를 누르거나, Claude 사용량이 다 떨어졌다면 아래 'ChatGPT로 묻기'를 써 주세요.";
+}
+/* AI에게 묻기: Claude판은 누르자마자 Claude가 답하고(실패하면 ChatGPT로 묻기를 펼침), 웹사이트판은 ChatGPT 복사·붙여넣기.
+   onAnswer(답)은 잘못이면 알림 글을, 괜찮으면 ""를 돌려줌. 늘 단추를 누를 때 부름(처음 한 번 허용을 물음) */
+function askAI(prompt, onAnswer){
+  if (!aiSample) return pasteBox(prompt, onAnswer);
+  const box = el("div", {class:"ask-paste"});
+  const msg = el("span", {class:"status", role:"status"});
+  const out = el("p", {class:"ai-text"}); out.hidden = true;
+  const again = el("button", {type:"button", class:"mini", text:"다시 묻기"}); again.hidden = true;
+  const alt = el("details", {class:"alt"}, el("summary", {text:"Claude 사용량이 다 떨어졌을 때 (ChatGPT로 묻기)"}), pasteBox(prompt, onAnswer));
+  const run = async () => {
+    again.hidden = true; msg.className = "status"; msg.textContent = "AI가 정리하는 중입니다.";
+    try {
+      const r = await aiSample(prompt, {cache:false, onText:({text}) => { out.hidden = false; out.textContent = text; msg.textContent = "AI가 정리하는 중입니다. (" + text.length + "자)"; }});
+      const err = onAnswer(str(r.text).trim());
+      if (err){ msg.className = "status err"; msg.textContent = err; again.hidden = false; }
+      else if (box.isConnected){ msg.textContent = r.truncated ? "답이 길어 끝까지 받지 못했습니다." : ""; }
+    } catch (e) {
+      msg.className = "status err"; msg.textContent = aiErr(e); again.hidden = false;
+      if (e && e.text){ out.hidden = false; out.textContent = e.text; } else out.hidden = true;
+      if (e && e.code !== "upstream_error") alt.open = true;
+    }
+  };
+  again.addEventListener("click", run);
+  box.append(el("div", {class:"tags"}, msg, again), out, alt);
+  run();
+  return box;
+}
+/* ChatGPT 복사·붙여넣기 (웹사이트판, Claude판의 대신 묻기) */
 const AI_RULES = "너는 한국 정신재활시설의 정신건강사회복지사를 돕는 도우미다. 지킬 것: 진단하지 않는다(건강 상태는 '~로 추정됨', '~일 가능성'으로만 쓴다). "
   + "약의 중단·감량·변경·추가를 권하지 않는다. 판단이 필요한 것은 '주치의·약사 확인'으로 넘긴다. 회원은 아래 별칭으로만 부른다. 기록에 없는 내용은 지어내지 않는다. 혈압·체중·혈당은 잰 값의 범위로만 말하고 진단명을 단정하지 않는다. 쉬운 우리말로 쓴다.";
-function askAI(prompt, onAnswer){
+function pasteBox(prompt, onAnswer){
   const box = el("div", {class:"ask-paste"});
   const raw = el("textarea", {readonly:true, rows:"4", "aria-label":"복사할 요청문"}); raw.hidden = true; raw.value = prompt;
   const copy = el("button", {type:"button", class:"mini", text:"ChatGPT에 물어볼 요청문 복사"});
@@ -1427,7 +1488,15 @@ function drugCard(m, x, ids, flagged){
     cb.addEventListener("click", () => copyText(ask, cb));
     row("성분·분류", el("div", {text:arr(x.ingredient_en).length ? str(x.ingredient) + " (" + arr(x.ingredient_en).join(", ") + ") · 규칙 점검만"
       : str(x.ingredient) && str(x.ingredient) !== "확인 필요" ? str(x.ingredient) + " · " + str(x.class) : "내장 자료에서 찾지 못함"}));
-    row("찾아보기", el("div", null, nedrug), el("div", {class:"chips"}, cb, el("a", {href:"https://chatgpt.com/", target:"_blank", rel:"noopener", text:"ChatGPT 열기"})));
+    const key = nameKey(x.input) || str(x.input), exp = ((m.ai || {}).explain || {})[key];
+    if (aiSample){
+      const slot = el("div", {class:"wrapcol"});
+      const ab = el("button", {type:"button", class:"mini", text:exp ? "AI에게 다시 묻기" : "AI에게 묻기"});
+      ab.addEventListener("click", () => { slot.textContent = ""; slot.append(askAI(ask, t => {
+        m = live(m); setAI(m, {explain:Object.assign({}, (m.ai || {}).explain, {[key]:{text:t, at:new Date().toISOString()}})}); drugResult(m); return ""; })); });
+      row("찾아보기", el("div", null, nedrug), el("div", {class:"chips"}, ab), slot);
+    } else row("찾아보기", el("div", null, nedrug), el("div", {class:"chips"}, cb, el("a", {href:"https://chatgpt.com/", target:"_blank", rel:"noopener", text:"ChatGPT 열기"})));
+    if (exp && str(exp.text).trim()) row("AI 설명", el("div", null, el("span", {class:"tag low", text:"AI 설명 · " + aiDate(exp.at)})), el("p", {class:"ai-text", text:str(exp.text)}));
   }
   return el("article", {class:"drug" + (others.length ? " common" : "")},
     el("div", {class:"drug-head"}, el("b", {text:str(x.input)}),
@@ -1488,7 +1557,7 @@ function paintVitals(m){
     vs.bp.length ? el("span", {class:"tag " + (vs.highN ? "mid" : "low"), text:"혈압 " + vs.bp.length + "번 · 140/90 이상 " + vs.highN + "번"}) : null,
     g.length ? el("span", {class:"tag " + (gl ? "hi" : gh ? "mid" : "low"), text:"혈당 " + g.length + "번 · 높음 " + gh + "번 · 70 미만 " + gl + "번"}) : null);
   box.append(el("section", {class:"card"},
-    el("div", {class:"card-head"}, el("h2", {text:"혈압·체중·혈당"}), rows.length ? el("button", {type:"button", text:"측정 기록 인쇄", on:{click:() => printVitals(m)}}) : null),
+    el("div", {class:"card-head"}, el("h2", {text:"혈압·체중·혈당"}), rows.length ? el("button", {type:"button", text:"측정 기록 " + PRINT_LABEL, on:{click:e => printVitals(m, e.currentTarget)}}) : null),
     el("div", {class:"vform"}, dIn, el("span", {class:"vbp"}, sys, "/", dia, el("span", {class:"muted", text:"mmHg"})), el("span", {class:"vwt"}, wt, el("span", {class:"muted", text:"kg"})),
       el("span", {class:"vwt"}, bg, el("span", {class:"muted", text:"mg/dL"})), bgw, add),
     msg, sum.children.length ? sum : null, rows.length ? list : null,
@@ -1581,18 +1650,35 @@ function paintGuide(m){
   const note = guideNote; guideNote = "";
   body.append(el("section", {class:"card"},
     el("div", {class:"card-head"}, el("h2", {text:"쉬운 안내문"}),
-      el("div", {class:"tags"}, el("label", {class:"muted", for:"gWeek"}, week, " 일주일 복약 체크표 함께 인쇄"), aiBtn, el("button", {type:"button", class:"primary", text:"안내문 인쇄", on:{click:() => printGuide(m)}}))),
+      el("div", {class:"tags"}, el("label", {class:"muted", for:"gWeek"}, week, " 일주일 복약 체크표 함께 인쇄"), aiBtn, el("button", {type:"button", class:"primary", text:"안내문 " + PRINT_LABEL, on:{click:e => printGuide(m, e.currentTarget)}}))),
     note ? el("p", {class:"status", role:"status", text:note}) : null, aiSlot,
     ...items));
 }
 
 /* ---------- 인쇄 ---------- */
-function doPrint(pages){
-  const p = $("print"); p.textContent = ""; p.append(...pages);
-  window.print();
+const PRINT_LABEL = IN_CLAUDE ? "인쇄용 파일 받기" : "인쇄";
+const escHtml = t => str(t).replace(/[&<>"]/g, c => ({"&":"&amp;", "<":"&lt;", ">":"&gt;", "\"":"&quot;"})[c]);
+const fileSafe = t => str(t).replace(/[\\/:*?"<>|]/g, "").trim();
+/* 이 쪽의 인쇄용 글꼴·모양(@media print 안의 규칙)을 그대로 꺼내 인쇄용 파일에 넣음 */
+function printCss(){
+  const rules = [];
+  for (const sh of Array.from(document.styleSheets)){
+    let list = null; try { list = sh.cssRules; } catch (e) { continue; }
+    Array.from(list || []).forEach(r => { if (r.media && /print/.test(r.media.mediaText)) Array.from(r.cssRules).forEach(x => rules.push(x.cssText)); });
+  }
+  return ":root{--body:" + getComputedStyle(document.documentElement).getPropertyValue("--body") + "}\nbody{margin:0;padding:12mm;background:#fff;color:#000;font-family:var(--body)}\n@media print{body{padding:0}}\n" + rules.join("\n");
+}
+async function doPrint(pages, name, btn){
+  if (!IN_CLAUDE){ const p = $("print"); p.textContent = ""; p.append(...pages); window.print(); return; }
+  /* Claude 화면에서는 인쇄 창이 열리지 않아, 인쇄용 .html 파일로 내려받고 그 파일을 열어 인쇄함 */
+  const html = "<!doctype html><html lang=\"ko\"><head><meta charset=\"utf-8\"><title>" + escHtml(name) + "</title><style>" + printCss() + "</style></head><body><div id=\"print\">"
+    + pages.map(x => x.outerHTML).join("") + "</div></body></html>";
+  const old = btn ? btn.textContent : "";
+  try { await saveFile(name + ".html", html, "text/html"); if (btn) flash(btn, "내려받았습니다. 파일을 열어 인쇄하세요", old); }
+  catch (e) { if (btn) flash(btn, e && e.code === "declined" ? "취소했습니다" : "내려받지 못했습니다", old); }
 }
 window.addEventListener("afterprint", () => { $("print").textContent = ""; });
-function printVitals(m){
+function printVitals(m, btn){
   saveNow();
   const vs = vitalsSum(vitalsOf(m), m.height), g = bgOf(m), ov = m.ai && m.ai.overall;
   const sum = [vs.bp.length ? "혈압 " + vs.bp.length + "번(140/90 이상 " + vs.highN + "번)" : "",
@@ -1611,9 +1697,9 @@ function printVitals(m){
     el("table", null, el("thead", null, el("tr", null, el("th", {text:"날짜"}), el("th", {text:"혈압"}), el("th", {text:"체중(kg)"}), el("th", {text:"혈당(mg/dL)"}))), el("tbody", null, ...rows)),
     el("p", {class:"p-meta", style:"margin-top:8pt", text:"요약: " + (sum.join(" · ") || "없음")}),
     ov ? el("h2", {text:"AI 종합 정리 (" + aiDate(ov.at) + (ov.drugs !== m.drugs ? ", 약이 바뀌기 전" : "") + ", 참고자료, 진단 아님)"}) : null,
-    ov ? el("p", {class:"p-ai", text:ov.text}) : null)]);
+    ov ? el("p", {class:"p-ai", text:ov.text}) : null)], "약국이_측정기록_" + fileSafe(m.label) + "_" + today(), btn);
 }
-function printGuide(m){
+function printGuide(m, btn){
   saveNow();
   const pages = [el("div", {class:"p-page p-guide"},
     el("h1", {text:str(m.label) + "의 약 안내"}),
@@ -1630,7 +1716,7 @@ function printGuide(m){
       el("table", null, el("thead", null, el("tr", null, el("th", {text:""}), ...slots.map(s => el("th", {text:s})))),
         el("tbody", null, ...["월","화","수","목","금","토","일"].map(d => el("tr", null, el("th", {text:d + "요일"}), ...slots.map(() => el("td"))))))));
   }
-  doPrint(pages);
+  doPrint(pages, "약국이_안내문_" + fileSafe(m.label) + "_" + today(), btn);
 }
 
 /* ---------- 가져오기·백업 ---------- */
@@ -1735,15 +1821,14 @@ function importOld(){
   $("dataMenu").open = true; paint();
 }
 $("importOld").addEventListener("click", importOld);
-$("addMember").addEventListener("click", () => { const m = addMember(); focusDrugs = true; go("#/m/" + m.id); });
+$("addMember").addEventListener("click", () => { const m = addMember(); focusDrugs = true; go("#m-" + m.id); });
 $("backupSave").addEventListener("click", () => {
   saveNow();
   const name = "약국이현황판_백업_" + today() + ".json";
   const text = JSON.stringify({app:"약국이 현황판", v:1, saved:new Date().toISOString(), members:db.members, logs:db.logs}, null, 1);
-  const a = el("a", {href:URL.createObjectURL(new Blob([text], {type:"application/json"})), download:name});
-  document.body.append(a); a.click(); a.remove();
-  setTimeout(() => URL.revokeObjectURL(a.href), 30000);
-  dataMsg("회원 " + db.members.length + "명의 기록을 백업 파일로 내려받았습니다.");
+  saveFile(name, text, "application/json")
+    .then(() => dataMsg("회원 " + db.members.length + "명의 기록을 백업 파일로 내려받았습니다."))
+    .catch(e => dataMsg(e && e.code === "declined" ? "내려받기를 취소했습니다." : "백업 파일을 내려받지 못했습니다.", true));
 });
 $("backupLoad").addEventListener("change", e => {
   const f = e.target.files && e.target.files[0];
@@ -1784,6 +1869,7 @@ window.addEventListener("storage", e => {
   paint();
 });
 document.addEventListener("click", e => { const m = $("dataMenu"); if (m.open && !m.contains(e.target)) m.open = false; });
+$("modeTag").hidden = !IN_CLAUDE;
 route = readHash();
 paint();
 </script>
