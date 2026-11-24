@@ -147,6 +147,9 @@ ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
 .vbp{display:flex;gap:4px;align-items:center;flex:2 1 150px;min-width:0}
 .vbp input{flex:1 1 60px}
 .vrow #vWt{flex:1 1 80px}
+.vbg{display:flex;gap:4px;align-items:center;flex:2 1 180px;min-width:0}
+.vbg input{flex:1 1 60px}
+.vbg select{width:auto;flex:1 1 100px;min-width:0}
 .vlist{display:flex;flex-direction:column;gap:4px;font-size:13.5px}
 .vitem{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
 .vitem button{margin-left:auto}
@@ -203,11 +206,12 @@ ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
         <div class="conds" id="conds" role="group" aria-labelledby="condsLabel"></div>
       </div>
       <div class="field">
-        <label id="vitalLabel">혈압·체중 (선택)</label>
+        <label id="vitalLabel">혈압·체중·혈당 (선택)</label>
         <div class="vrow" role="group" aria-labelledby="vitalLabel">
           <input type="date" id="vDate" aria-label="잰 날">
           <span class="vbp"><input type="number" id="vSys" inputmode="numeric" placeholder="수축기" aria-label="혈압 수축기(높은 값)"><span aria-hidden="true">/</span><input type="number" id="vDia" inputmode="numeric" placeholder="이완기" aria-label="혈압 이완기(낮은 값)"></span>
           <input type="number" id="vWt" inputmode="decimal" step="0.1" placeholder="체중 kg" aria-label="체중(kg)">
+          <span class="vbg"><input type="number" id="vBg" inputmode="numeric" placeholder="혈당" aria-label="혈당(mg/dL)"><select id="vBgWhen" aria-label="혈당 잰 때"></select></span>
           <button type="button" class="mini" id="vAdd">기록 넣기</button>
         </div>
         <p class="status" id="vMsg" role="status" hidden></p>
@@ -323,7 +327,7 @@ if (WEB) $("webTag").hidden = false;
 })();
 
 function clearInputs(){
-  $("drugs").value = ""; $("obs").value = ""; $("age").value = ""; $("sex").value = ""; $("height").value = ""; vitals = []; paintVitals();
+  $("drugs").value = ""; $("obs").value = ""; $("age").value = ""; $("sex").value = ""; $("height").value = ""; vitals = []; paintVitals(); setBgWhen();
   document.querySelectorAll("#conds input").forEach(c => c.checked = false);
   isExample = false; $("exTag").style.display = "none"; $("drugs").focus();
   saveSoon();
@@ -331,7 +335,8 @@ function clearInputs(){
 let isExample = true;
 ["drugs","obs"].forEach(id => $(id).addEventListener("input", () => { isExample = false; $("exTag").style.display = "none"; }));
 
-/* ---------- 혈압·체중: 회원 기록(input.vitals, input.height)에 날짜별로 둠. 범위 판정은 함께 쓰는 vitalsSum ---------- */
+/* ---------- 혈압·체중·혈당: 회원 기록(input.vitals, input.height)에 날짜별로 둠 {date, sys, dia, wt, bg, bgWhen}.
+   범위 판정은 함께 쓰는 vitalsSum(혈압·체중)과 bgLevel·bgFrom(혈당, 2026-11-24 추가) ---------- */
 const z2 = n => String(n).padStart(2, "0");
 const todayIso = () => { const d = new Date(); return d.getFullYear() + "-" + z2(d.getMonth() + 1) + "-" + z2(d.getDate()); };
 const monthDay = iso => { const [y, m, d] = str(iso).split("-").map(Number); return (y !== new Date().getFullYear() ? y + "년 " : "") + m + "월 " + d + "일"; };
@@ -344,26 +349,44 @@ function cleanVitals(list){
     const r = {date:str(v.date)};
     if (bpLevel(v.sys, v.dia)){ r.sys = numOf(v.sys); r.dia = numOf(v.dia); }
     if (wtOk(v.wt)) r.wt = wtOk(v.wt);
-    if (r.sys || r.wt) out.push(r);
+    if (str(v.bg).trim() && bgLevel(v.bg)){ r.bg = numOf(v.bg); r.bgWhen = BG_WHEN.some(p => p[0] && p[0] === str(v.bgWhen)) ? str(v.bgWhen) : ""; }
+    if (r.sys || r.wt || r.bg) out.push(r);
   });
   return out;
 }
 function vMsg(t, err){ const m = $("vMsg"); m.hidden = !t; m.textContent = t; m.className = "status" + (err ? " err" : ""); }
+/* 측정 한 건을 화면에 보일 조각으로: 혈압·체중·혈당 */
+function measBits(x, sep){
+  const bl = bpLevel(x.sys, x.dia), wv = wtOk(x.wt), gl = x.bg != null && str(x.bg) !== "" && bgLevel(x.bg, x.bgWhen);
+  return [bl ? sep + "혈압 " + bpText(x) + " " : null, bl ? vtag(bl.lv, bl.label) : null, wv ? sep + "체중 " + wv + "kg" : null,
+    gl ? sep + "혈당 " + bgShort({v:numOf(x.bg), when:str(x.bgWhen)}) + " " : null, gl && gl.label ? vtag(gl.lv, gl.label) : null].filter(Boolean);
+}
+const measDesc = () => cleanVitals(vitals).sort((a, b) => a.date < b.date ? 1 : a.date > b.date ? -1 : 0);
+/* 혈당 요약 딱지 */
+function bgSumTag(g){
+  const hi = g.filter(x => x.lvl.high).length, lo = g.filter(x => x.lvl.low).length;
+  return vtag(g.some(x => x.lvl.lv === "crit") ? "crit" : lo ? "hi" : hi ? "mid" : "low", "혈당 " + g.length + "번 · 높음 " + hi + "번 · 70 미만 " + lo + "번");
+}
 function paintVitals(){
   const box = $("vList"); box.textContent = "";
-  const sm = vitalsSum(vitals, $("height").value), rows = sm.list.slice().reverse();
+  const sm = vitalsSum(vitals, $("height").value), rows = measDesc(), g = bgFrom(vitals);
   rows.slice(0, 12).forEach(x => {
     const del = el("button", {type:"button", class:"mini", text:"지우기", "aria-label":monthDay(x.date) + " 기록 지우기"});
     del.addEventListener("click", () => { vitals = vitals.filter(v => v.date !== x.date); vMsg(""); paintVitals(); vitalsChanged(); });
-    box.append(el("div", {class:"vitem"}, el("span", {text:monthDay(x.date)}),
-      x.lvl ? el("span", {text:"혈압 " + bpText(x)}) : null, x.lvl ? vtag(x.lvl.lv, x.lvl.label) : null,
-      x.wt ? el("span", {text:"체중 " + x.wt + "kg"}) : null, del));
+    box.append(el("div", {class:"vitem"}, el("span", {text:monthDay(x.date)}), ...measBits(x, ""), del));
   });
   if (rows.length > 12) box.append(el("span", {class:"hint", text:"그 전 기록 " + (rows.length - 12) + "건"}));
   const tags = [];
   if (sm.bmi) tags.push(vtag(sm.bmiLv.lv, "BMI " + sm.bmi + " " + sm.bmiLv.label));
   if (sm.change) tags.push(vtag(sm.change.pct >= 7 ? "hi" : sm.change.pct <= -5 ? "mid" : "low", "체중 " + signed(sm.change.kg) + "kg (" + signed(sm.change.pct) + "%) · " + monthDay(sm.change.from.date) + "부터"));
+  if (g.length) tags.push(bgSumTag(g));
   if (tags.length) box.append(el("div", {class:"sum"}, ...tags));
+}
+/* 혈당 잰 때: 고를 것을 채우고, 지난번 고른 것을 미리 골라 둠 (BG_WHEN은 아래 함께 쓰는 부분에 있어 처음 그리기 때 부름) */
+function setBgWhen(){
+  const sel = $("vBgWhen");
+  if (!sel.options.length) BG_WHEN.forEach(([v, t]) => sel.append(el("option", {value:v, text:t})));
+  sel.value = (bgFrom(vitals).filter(x => x.when).pop() || {}).when || "";
 }
 function vitalsChanged(){
   isExample = false; $("exTag").style.display = "none";
@@ -374,20 +397,22 @@ function vitalsChanged(){
 $("vDate").value = todayIso();
 $("vDate").max = todayIso();
 $("vAdd").addEventListener("click", () => {
-  const date = $("vDate").value || todayIso(), sy = $("vSys").value.trim(), di = $("vDia").value.trim(), w = $("vWt").value.trim();
+  const date = $("vDate").value || todayIso(), sy = $("vSys").value.trim(), di = $("vDia").value.trim(), w = $("vWt").value.trim(), gv = $("vBg").value.trim();
   const lvl = bpLevel(sy, di), wt = wtOk(w);
-  if (!sy && !di && !w){ vMsg("혈압이나 체중을 적어 주세요.", true); $("vSys").focus(); return; }
+  if (!sy && !di && !w && !gv){ vMsg("혈압, 체중, 혈당 가운데 하나는 적어 주세요.", true); $("vSys").focus(); return; }
   if ((sy || di) && !lvl){ vMsg("혈압 두 값을 확인해 주세요. 예: 130 / 85", true); $("vSys").focus(); return; }
   if (w && !wt){ vMsg("체중을 kg으로 적어 주세요. 예: 72.5", true); $("vWt").focus(); return; }
+  if (gv && !bgLevel(gv)){ vMsg("혈당을 mg/dL로 적어 주세요. 예: 110", true); $("vBg").focus(); return; }
   if (date > todayIso()){ vMsg("앞으로의 날짜에는 넣을 수 없습니다.", true); $("vDate").focus(); return; }
-  const rec = Object.assign({}, vitals.find(v => v.date === date) || {date}, lvl ? {sys:numOf(sy), dia:numOf(di)} : {}, wt ? {wt} : {});
+  const rec = Object.assign({}, vitals.find(v => v.date === date) || {date}, lvl ? {sys:numOf(sy), dia:numOf(di)} : {}, wt ? {wt} : {},
+    gv ? {bg:numOf(gv), bgWhen:$("vBgWhen").value} : {});
   vitals = vitals.filter(v => v.date !== date).concat([rec]);
-  $("vSys").value = ""; $("vDia").value = ""; $("vWt").value = "";
+  $("vSys").value = ""; $("vDia").value = ""; $("vWt").value = ""; $("vBg").value = "";
   vMsg(monthDay(date) + " 기록을 넣었습니다.");
   paintVitals(); vitalsChanged();
 });
 /* 칸에서 Enter를 누르면 정리하기가 아니라 기록 넣기 */
-["vDate", "vSys", "vDia", "vWt"].forEach(id => $(id).addEventListener("keydown", e => { if (e.key === "Enter"){ e.preventDefault(); $("vAdd").click(); } }));
+["vDate", "vSys", "vDia", "vWt", "vBg"].forEach(id => $(id).addEventListener("keydown", e => { if (e.key === "Enter"){ e.preventDefault(); $("vAdd").click(); } }));
 $("height").addEventListener("keydown", e => { if (e.key === "Enter") e.preventDefault(); });
 $("height").addEventListener("input", () => { paintVitals(); vitalsChanged(); });
 
@@ -906,6 +931,38 @@ function vitalsText(list, cm, max){
   if (h) L.push("키 " + h + "cm" + (s.bmi ? ", 최근 BMI " + s.bmi + " (" + s.bmiLv.label + " 범위)" : ""));
   return L.join("\n");
 }
+/* 혈당(mg/dL): 대한당뇨병학회 당뇨병 진료지침(2023)의 기준값. 잰 때 when = fast 공복 · post 식후 2시간 · rand 식사와 무관 · "" 모름.
+   공복 100 미만 정상·100~125 조금 높음(공복혈당장애)·126 이상 높음, 식후 2시간 140 미만 정상·140~199 조금 높음(내당능장애)·200 이상 높음,
+   식사와 무관하거나 잰 때를 모르면 200 이상만 높음, 70 미만 낮음·54 미만 매우 낮음(저혈당 1·2단계). 잰 값의 범위일 뿐 진단 아님. 약사·의사 검토를 받지 않은 기준.
+   측정 기록 한 건 = {date, bg, bgWhen} (클로드 약국이는 input.vitals, 현황판은 날짜별 기록 db.logs) */
+const BG_WHEN = [["", "잰 때"], ["fast", "공복"], ["post", "식후 2시간"], ["rand", "식사와 무관"]];
+const bgWhenLabel = w => { const x = w && BG_WHEN.find(p => p[0] === w); return x ? x[1] : ""; };
+function bgLevel(v, when){
+  v = numOf(v);
+  if (v == null || v < 20 || v > 700) return null;
+  if (v < 70) return v < 54 ? {lv:"crit", label:"매우 낮음", low:true, high:false} : {lv:"hi", label:"낮음", low:true, high:false};
+  const cut = when === "fast" ? [100, 126] : when === "post" ? [140, 200] : null;
+  if (!cut) return {lv:v >= 200 ? "hi" : "", label:v >= 200 ? "높음" : "", low:false, high:v >= 200};
+  if (v >= cut[1]) return {lv:"hi", label:"높음", low:false, high:true};
+  return v >= cut[0] ? {lv:"mid", label:"조금 높음", low:false, high:false} : {lv:"ok", label:"정상", low:false, high:false};
+}
+const bgShort = x => (bgWhenLabel(x.when) ? bgWhenLabel(x.when) + " " : "") + x.v;
+/* 측정 기록에서 혈당만 날짜순으로: [{date, v, when, lvl}] */
+function bgFrom(list){
+  return arr(list).filter(x => x && /^\d{4}-\d{2}-\d{2}$/.test(str(x.date)) && str(x.bg).trim() && bgLevel(x.bg))
+    .map(x => ({date:str(x.date), v:numOf(x.bg), when:str(x.bgWhen), lvl:bgLevel(x.bg, x.bgWhen)}))
+    .sort((a, b) => a.date < b.date ? -1 : a.date > b.date ? 1 : 0);
+}
+/* AI 요청문에 넣을 혈당 기록 (bgFrom 결과, 최근 max건) */
+function bgText(list, max){
+  if (!list.length) return "";
+  const n = max || 20, L = ["[혈당 측정 기록 (mg/dL)] 범위 구분은 프로그램이 대한당뇨병학회 2023 기준(공복 100 미만 정상·100~125 조금 높음·126 이상 높음, 식후 2시간 140 미만 정상·140~199 조금 높음·200 이상 높음, "
+    + "식사와 무관하게 잰 값은 200 이상만 높음, 70 미만 낮음)으로 나눈 것이다. 당뇨약을 먹는 회원은 주치의가 정한 목표 혈당이 따로 있을 수 있으니 범위만으로 단정하지 않는다."];
+  list.slice(-n).forEach(x => L.push("- " + x.date + ": " + (bgWhenLabel(x.when) || "잰 때 모름") + " " + x.v + (x.lvl.label ? " (" + x.lvl.label + ")" : "")));
+  if (list.length > n) L.push("(그 전 기록 " + (list.length - n) + "건 생략)");
+  L.push("혈당 " + list.length + "번 잼: 높음 " + list.filter(x => x.lvl.high).length + "번, 70 미만 " + list.filter(x => x.lvl.low).length + "번");
+  return L.join("\n");
+}
 /* @@share-end */
 function healthGroups(drugs){
   const g = new Map();
@@ -916,17 +973,20 @@ function healthGroups(drugs){
   }));
   return g;
 }
-/* 잰 혈압·체중의 범위 (AI 판단 아님). 측정을 넣거나 지우면 이 칸만 다시 그림 */
+/* 잰 것의 이름: "혈압·체중", "혈당", "혈압·체중·혈당" (없으면 "") */
+function measKinds(){ return [vitalsSum(vitals, $("height").value).list.length ? "혈압·체중" : "", bgFrom(vitals).length ? "혈당" : ""].filter(Boolean).join("·"); }
+/* 마지막 혈당이 낮거나 높으면 딱지 */
+function bgFlag(g){ const l = g[g.length - 1]; return l && (l.lvl.low || l.lvl.high) ? vtag(l.lvl.lv === "crit" ? "crit" : "hi", "혈당 " + l.lvl.label + " " + bgShort(l)) : null; }
+/* 잰 혈압·체중·혈당의 범위 (AI 판단 아님). 측정을 넣거나 지우면 이 칸만 다시 그림 */
 function vitalBlock(){
-  const sm = vitalsSum(vitals, $("height").value);
-  if (!sm.list.length) return null;
+  const sm = vitalsSum(vitals, $("height").value), g = bgFrom(vitals), rows = measDesc(), kinds = measKinds();
+  if (!kinds) return null;
   return el("div", {class:"area", id:"vitalRes"},
-    el("h3", {text:"혈압·체중 (잰 값의 범위, AI 판단 아님)"}),
-    el("div", {class:"sum"}, ...sm.flags.map(f => vtag(f.lv, f.text)), sm.bmi ? vtag(sm.bmiLv.lv, "BMI " + sm.bmi + " " + sm.bmiLv.label) : null,
+    el("h3", {text:kinds + " (잰 값의 범위, AI 판단 아님)"}),
+    el("div", {class:"sum"}, ...sm.flags.map(f => vtag(f.lv, f.text)), bgFlag(g), sm.bmi ? vtag(sm.bmiLv.lv, "BMI " + sm.bmi + " " + sm.bmiLv.label) : null, g.length ? bgSumTag(g) : null,
       sm.change ? el("span", {class:"what", text:"체중 " + monthDay(sm.change.from.date) + " " + sm.change.from.wt + "kg → " + monthDay(sm.change.to.date) + " " + sm.change.to.wt + "kg (" + signed(sm.change.kg) + "kg)"}) : null,
       sm.bp.length ? el("span", {class:"what", text:"혈압 " + sm.bp.length + "번 중 140/90 이상 " + sm.highN + "번" + (sm.lowN ? ", 90/60 미만 " + sm.lowN + "번" : "")}) : null),
-    el("ul", null, ...sm.list.slice(-6).reverse().map(x => el("li", null, monthDay(x.date),
-      x.lvl ? " · 혈압 " + bpText(x) + " " : "", x.lvl ? vtag(x.lvl.lv, x.lvl.label) : null, x.wt ? " · 체중 " + x.wt + "kg" : ""))));
+    el("ul", null, ...rows.slice(0, 6).map(x => el("li", null, monthDay(x.date), ...measBits(x, " · ")))));
 }
 function healthSection(d, drugs){
   const g = healthGroups(drugs), h = d.health && typeof d.health === "object" ? d.health : {};
@@ -940,10 +1000,10 @@ function healthSection(d, drugs){
       el("ul", null, ...list.map(v => el("li", null, el("b", {text:v.input}), " — " + v.ko + " (" + v.cls + "): " + v.use))))),
     none.length ? el("p", {class:"what", text:"내장 자료에 없어 여기에 넣지 못한 약: " + none.join(", ")}) : null);
   return el("div", {class:"sec"},
-    el("h2", {text:vb || str(h.vitals) ? "2. 약과 혈압·체중으로 미루어 본 건강 상태 (추정)" : "2. 약으로 미루어 본 건강 상태 (추정)"}),
+    el("h2", {text:measKinds() ? "2. 약과 " + measKinds() + "으로 미루어 본 건강 상태 (추정)" : str(h.vitals) ? "2. 약과 측정값으로 미루어 본 건강 상태 (추정)" : "2. 약으로 미루어 본 건강 상태 (추정)"}),
     str(h.summary) ? el("h3", {text:"종합 추정 (AI)"}) : null,
     str(h.summary) ? el("div", {class:"obs"}, el("span", {text:str(h.summary)})) : null,
-    str(h.vitals) ? el("h3", {text:"혈압·체중으로 본 점 (AI)"}) : null,
+    str(h.vitals) ? el("h3", {text:(measKinds() || "측정값") + "으로 본 점 (AI)"}) : null,
     str(h.vitals) ? el("div", {class:"obs"}, el("span", {text:str(h.vitals)})) : null,
     vb,
     ...areas.map(a => el("div", {class:"combo"},
@@ -960,14 +1020,17 @@ function healthSection(d, drugs){
 }
 function healthText(d, drugs){
   const g = healthGroups(drugs), h = d.health && typeof d.health === "object" ? d.health : {}, L = [];
-  const sm = vitalsSum(vitals, $("height").value);
-  if (!g.size && !str(h.summary) && !arr(h.areas).length && !str(h.vitals) && !sm.list.length) return L;
-  L.push("", sm.list.length || str(h.vitals) ? "■ 약과 혈압·체중으로 미루어 본 건강 상태 (추정)" : "■ 약으로 미루어 본 건강 상태 (추정)");
+  const sm = vitalsSum(vitals, $("height").value), bg = bgFrom(vitals), kinds = measKinds();
+  if (!g.size && !str(h.summary) && !arr(h.areas).length && !str(h.vitals) && !kinds) return L;
+  L.push("", kinds ? "■ 약과 " + kinds + "으로 미루어 본 건강 상태 (추정)" : str(h.vitals) ? "■ 약과 측정값으로 미루어 본 건강 상태 (추정)" : "■ 약으로 미루어 본 건강 상태 (추정)");
   if (str(h.summary)) L.push("- [AI 종합 추정] " + str(h.summary));
-  if (str(h.vitals)) L.push("- [AI·혈압·체중] " + str(h.vitals));
-  if (sm.list.length){
-    L.push("· 혈압·체중 기록 (잰 값의 범위, 진단 아님)");
-    sm.list.forEach(x => L.push("    " + x.date + " " + [x.lvl ? "혈압 " + bpText(x) + " (" + x.lvl.label + ")" : "", x.wt ? "체중 " + x.wt + "kg" : ""].filter(Boolean).join(", ")));
+  if (str(h.vitals)) L.push("- [AI·" + (kinds || "측정값") + "] " + str(h.vitals));
+  if (kinds){
+    L.push("· " + kinds + " 기록 (잰 값의 범위, 진단 아님)");
+    measDesc().reverse().forEach(x => { const bl = bpLevel(x.sys, x.dia), gl = x.bg != null && bgLevel(x.bg, x.bgWhen);
+      L.push("    " + x.date + " " + [bl ? "혈압 " + bpText(x) + " (" + bl.label + ")" : "", wtOk(x.wt) ? "체중 " + wtOk(x.wt) + "kg" : "",
+        gl ? "혈당 " + bgShort({v:numOf(x.bg), when:str(x.bgWhen)}) + (gl.label ? " (" + gl.label + ")" : "") : ""].filter(Boolean).join(", ")); });
+    if (bg.length) L.push("    혈당 " + bg.length + "번: 높음 " + bg.filter(x => x.lvl.high).length + "번, 70 미만 " + bg.filter(x => x.lvl.low).length + "번");
     if (sm.bmi) L.push("    키 " + numOf($("height").value) + "cm, 최근 BMI " + sm.bmi + " (" + sm.bmiLv.label + " 범위)");
     if (sm.change) L.push("    체중 변화 " + signed(sm.change.kg) + "kg (" + signed(sm.change.pct) + "%), " + sm.change.from.date + "부터");
     sm.flags.forEach(f => L.push("    살펴볼 점: " + f.text));
@@ -1260,19 +1323,19 @@ ${offs.map(factLine).join("\n")}
 규칙:
 - 진단하지 않는다. 약의 중단·감량·변경·추가를 권하지 않는다. 판단이 필요한 내용은 "주치의 확인"으로 넘긴다.
 - 건강 개입은 약을 바꾸지 않고 실무자가 할 수 있는 일(측정·기록, 생활습관 지원, 환경 조정, 교육, 기관 연계)만 쓴다.
-- health는 진단이 아니라 약 목록과 혈압·체중 측정값으로 미루어 본 추정이다. "~로 추정됨", "~일 가능성이 있음"으로만 쓰고 단정하지 않는다. 같은 약이 다른 목적으로도 쓰이면 그 가능성을 함께 적는다.
-- [혈압·체중 측정 기록]이 있으면 health.summary, health.areas, care_focus, questions에 함께 반영하고, health.vitals에 측정값을 약과 함께 볼 때의 의미를 쓴다. 혈압약을 먹는데 혈압이 높게 나오면 "혈압 조절이 충분하지 않을 가능성, 주치의 확인"처럼 쓰고 약을 바꾸라고 하지 않는다. 측정 기록이 없으면 health.vitals는 빈 문자열.
+- health는 진단이 아니라 약 목록과 혈압·체중·혈당 측정값으로 미루어 본 추정이다. "~로 추정됨", "~일 가능성이 있음"으로만 쓰고 단정하지 않는다. 같은 약이 다른 목적으로도 쓰이면 그 가능성을 함께 적는다.
+- [혈압·체중 측정 기록]이나 [혈당 측정 기록]이 있으면 health.summary, health.areas, care_focus, questions에 함께 반영하고, health.vitals에 측정값을 약과 함께 볼 때의 의미를 쓴다. 혈압약·당뇨약을 먹는데 높게 나오면 "조절이 충분하지 않을 가능성, 주치의 확인"처럼 쓰고 약을 바꾸라고 하지 않는다. 70 미만 혈당은 저혈당 가능성으로 꼭 짚는다. 측정 기록이 없으면 health.vitals는 빈 문자열.
 - 확실히 아는 약만 설명한다. 이름이 불분명하거나 모르는 약은 추측하지 말고 unsure를 true로 하고 ingredient에 "확인 필요"라고 쓴다.
 - 관련성은 "관련될 수 있음" 수준으로만 표현한다. 단정하지 않는다.
 - 한국어로, 짧고 구체적으로 쓴다. 문체는 "~함/~임" 개조식.
-- 입력된 관찰 내용 중 즉시 의료기관 연락이 필요한 위험 신호(예: 고열과 근육 강직, 의식 변화, 심한 호흡곤란, 소변이 전혀 안 나옴, 며칠째 대변을 못 봄과 복통·구토, 가장 최근에 잰 혈압이 180/110 이상)가 실제로 있을 때만 urgent에 넣는다. 없으면 빈 배열.
+- 입력된 관찰 내용 중 즉시 의료기관 연락이 필요한 위험 신호(예: 고열과 근육 강직, 의식 변화, 심한 호흡곤란, 소변이 전혀 안 나옴, 며칠째 대변을 못 봄과 복통·구토, 가장 최근에 잰 혈압이 180/110 이상, 가장 최근에 잰 혈당이 54 미만)가 실제로 있을 때만 urgent에 넣는다. 없으면 빈 배열.
 - 아래 JSON 하나만 출력한다. 설명 문장, 코드 표시 없이.
 
 JSON 형식:
 {
  "urgent":[{"sign":"위험 신호","action":"해야 할 일"}],
  "drugs":[{"input":"입력된 그대로","search_name":"용량 뺀 제품명 또는 성분명","ingredient":"성분명","ingredient_en":["영문 일반명, 소문자, 염 이름 제외, 복합제는 성분마다 하나씩"],"class":"약효 분류","purpose":"주로 쓰는 목적 한 줄","side_effects":["흔하거나 중요한 부작용 최대 4개"],"watch":"실무자가 관찰할 점 한 줄","caution":"복용 시 주의 한 줄(음식, 음주, 운전, 복용 시간 등). 없으면 빈 문자열","unsure":false}],
- "health":{"summary":"약 목록으로 미루어 본 회원의 건강 상태를 두세 문장으로","areas":[{"area":"진료 영역(정신건강의학과, 내과-당뇨, 내과-심혈관, 비뇨의학과, 신경과, 소화기 등)","likely":"치료 중일 가능성이 있는 건강 문제","certainty":"높음 | 보통 | 낮음","drugs":["근거가 된 약"],"measure":"근거가 된 혈압·체중 측정값. 없으면 빈 문자열","why":"그렇게 본 까닭 한 문장. 같은 약의 다른 쓰임 가능성 포함","confirm":"확인할 것 한 문장"}],"vitals":"혈압·체중 측정값을 약과 함께 볼 때의 의미 두세 문장. 측정 기록이 없으면 빈 문자열","overall":["여러 건강 문제를 함께 볼 때 실무자가 챙길 점, 2~3개"]},
+ "health":{"summary":"약 목록으로 미루어 본 회원의 건강 상태를 두세 문장으로","areas":[{"area":"진료 영역(정신건강의학과, 내과-당뇨, 내과-심혈관, 비뇨의학과, 신경과, 소화기 등)","likely":"치료 중일 가능성이 있는 건강 문제","certainty":"높음 | 보통 | 낮음","drugs":["근거가 된 약"],"measure":"근거가 된 혈압·체중·혈당 측정값. 없으면 빈 문자열","why":"그렇게 본 까닭 한 문장. 같은 약의 다른 쓰임 가능성 포함","confirm":"확인할 것 한 문장"}],"vitals":"혈압·체중·혈당 측정값을 약과 함께 볼 때의 의미 두세 문장. 측정 기록이 없으면 빈 문자열","overall":["여러 건강 문제를 함께 볼 때 실무자가 챙길 점, 2~3개"]},
  "combos":[{"drugs":["약1","약2"],"type":"병용 주의 | 효능 중복 | 누적 부담","level":"높음 | 보통 | 참고","note":"무엇이 왜 문제될 수 있는지 한두 문장"}],
  "checklist":[{"area":"영역명","items":[{"sign":"관찰 항목","related":["관련 약"]}]}],
  "observations":[{"observed":"입력된 변화","possibly_related":["관련될 수 있는 약"],"other_causes":"약 외에 함께 볼 원인","support":"약을 바꾸지 않고 실무자가 먼저 해 볼 수 있는 지원 한 문장","ask":"주치의에게 물을 한 문장"}],
@@ -1316,7 +1379,7 @@ function snapshot(){
   lastAge = $("age").value;
   const condText = CONDS.filter(c => lastConds.includes(c.id)).map(c => c.label).join(", ");
   lastInput = {age: $("age").value, sex: $("sex").value, drugs: drugs, obs: $("obs").value.trim(), conds: condText,
-    height: $("height").value.trim(), vitals: vitals.slice(), vit: vitalsText(vitals, $("height").value, 20)};
+    height: $("height").value.trim(), vitals: vitals.slice(), vit: [vitalsText(vitals, $("height").value, 20), bgText(bgFrom(vitals), 20)].filter(Boolean).join("\n\n")};
   return lastInput;
 }
 $("altCopy").addEventListener("click", () => {
@@ -1568,7 +1631,7 @@ function saveNow(){
 function saveSoon(){ if (!cur) return; clearTimeout(saveTimer); saveTimer = setTimeout(saveNow, 500); }
 function flush(){ clearTimeout(saveTimer); saveNow(); }
 function blankScreen(){
-  $("drugs").value = ""; $("obs").value = ""; $("age").value = ""; $("sex").value = ""; $("height").value = ""; vitals = []; paintVitals();
+  $("drugs").value = ""; $("obs").value = ""; $("age").value = ""; $("sex").value = ""; $("height").value = ""; vitals = []; paintVitals(); setBgWhen();
   document.querySelectorAll("#conds input").forEach(c => c.checked = false);
   lastData = null; lastInput = null; notes = [];
   $("result").innerHTML = BLANK;
@@ -1625,7 +1688,7 @@ function openMember(id){
   if (!rec){ cur = null; paintMembers(); return; }
   const i = rec.input || {};
   $("age").value = str(i.age); $("sex").value = str(i.sex); $("drugs").value = str(i.drugs); $("obs").value = str(i.obs);
-  $("height").value = str(i.height); vitals = cleanVitals(i.vitals); vMsg(""); paintVitals();
+  $("height").value = str(i.height); vitals = cleanVitals(i.vitals); vMsg(""); paintVitals(); setBgWhen();
   document.querySelectorAll("#conds input").forEach(c => c.checked = arr(i.conds).includes(c.value));
   isExample = false; $("exTag").style.display = "none";
   snapshot();
@@ -1743,6 +1806,7 @@ $("backupLoad").addEventListener("change", e => {
 });
 members = storeRead();
 paintMembers();
+setBgWhen();
 
 /* ---------- 공부 기능 ---------- */
 const TEACH = "너는 '약국이'다. 약을 잘 모르는 정신건강사회복지사에게 약을 가르치는 친절한 선생님이다. 쉬운 한국어 존댓말로 설명하고, 전문용어는 처음 나올 때 괄호로 풀이한다. 마크다운 기호(#, *, -)를 쓰지 않는다. 진단하지 않고, 약의 중단·감량·변경을 권하지 않는다. 확실하지 않은 내용은 지어내지 말고 모른다고 쓴다.\n\n";
