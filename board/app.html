@@ -310,36 +310,11 @@ const hasVitRaw = e => !!(e && (str(e.bpS).trim() || str(e.bpD).trim() || str(e.
 const vitOf = (date, e) => ({date, sys:e.bpS, dia:e.bpD, wt:e.wt});
 const vitalsOf = m => Object.keys(db.logs[m.id] || {}).filter(d => db.logs[m.id][d]).map(d => vitOf(d, db.logs[m.id][d]));
 const mdOf = iso => Number(str(iso).slice(5, 7)) + "월 " + Number(str(iso).slice(8, 10)) + "일";
-/* 혈당(mg/dL): 날짜별 기록(db.logs)에 적은 그대로 둠(bg). 잰 때 bgWhen = fast 공복 · post 식후 2시간 · rand 식사와 무관 · "" 모름.
-   범위는 대한당뇨병학회 당뇨병 진료지침(2023)의 기준값: 공복 100 미만 정상·100~125 조금 높음(공복혈당장애)·126 이상 높음,
-   식후 2시간 140 미만 정상·140~199 조금 높음(내당능장애)·200 이상 높음, 식사와 무관하거나 잰 때를 모르면 200 이상만 높음,
-   70 미만 낮음·54 미만 매우 낮음(저혈당 1·2단계). 잰 값의 범위일 뿐 진단 아님. 약사·의사 검토를 받지 않은 기준 */
-const BG_WHEN = [["", "잰 때"], ["fast", "공복"], ["post", "식후 2시간"], ["rand", "식사와 무관"]];
-const bgWhenLabel = w => { const x = w && BG_WHEN.find(p => p[0] === w); return x ? x[1] : ""; };
+/* 혈당(mg/dL): 날짜별 기록(db.logs)에 적은 그대로 둠(bg, 잰 때 bgWhen). 기준과 BG_WHEN·bgLevel·bgShort·bgText는 함께 쓰는 부분(index.html) */
 const hasBgRaw = e => !!(e && str(e.bg).trim());
-function bgLevel(v, when){
-  v = numOf(v);
-  if (v == null || v < 20 || v > 700) return null;
-  if (v < 70) return v < 54 ? {lv:"crit", label:"매우 낮음", low:true, high:false} : {lv:"hi", label:"낮음", low:true, high:false};
-  const cut = when === "fast" ? [100, 126] : when === "post" ? [140, 200] : null;
-  if (!cut) return {lv:v >= 200 ? "hi" : "", label:v >= 200 ? "높음" : "", low:false, high:v >= 200};
-  if (v >= cut[1]) return {lv:"hi", label:"높음", low:false, high:true};
-  return v >= cut[0] ? {lv:"mid", label:"조금 높음", low:false, high:false} : {lv:"ok", label:"정상", low:false, high:false};
-}
 const bgItem = (date, e) => ({date, v:numOf(e.bg), when:str(e.bgWhen), lvl:bgLevel(e.bg, e.bgWhen)});
 const bgList = pairs => pairs.filter(([, e]) => e && hasBgRaw(e) && bgLevel(e.bg)).map(([k, e]) => bgItem(k, e));
 const bgOf = m => bgList(Object.keys(db.logs[m.id] || {}).sort().map(k => [k, db.logs[m.id][k]]));
-const bgShort = x => (bgWhenLabel(x.when) ? bgWhenLabel(x.when) + " " : "") + x.v;
-/* AI 요청문에 넣을 혈당 기록 (최근 max건) */
-function bgText(list, max){
-  if (!list.length) return "";
-  const n = max || 20, L = ["[혈당 측정 기록 (mg/dL)] 범위 구분은 프로그램이 대한당뇨병학회 2023 기준(공복 100 미만 정상·100~125 조금 높음·126 이상 높음, 식후 2시간 140 미만 정상·140~199 조금 높음·200 이상 높음, "
-    + "식사와 무관하게 잰 값은 200 이상만 높음, 70 미만 낮음)으로 나눈 것이다. 당뇨약을 먹는 회원은 주치의가 정한 목표 혈당이 따로 있을 수 있으니 범위만으로 단정하지 않는다."];
-  list.slice(-n).forEach(x => L.push("- " + x.date + ": " + (bgWhenLabel(x.when) || "잰 때 모름") + " " + x.v + (x.lvl.label ? " (" + x.lvl.label + ")" : "")));
-  if (list.length > n) L.push("(그 전 기록 " + (list.length - n) + "건 생략)");
-  L.push("혈당 " + list.length + "번 잼: 높음 " + list.filter(x => x.lvl.high).length + "번, 70 미만 " + list.filter(x => x.lvl.low).length + "번");
-  return L.join("\n");
-}
 
 /* 약 점검: 내장 자료와 내장 규칙만 씀 (AI 아님). 같은 입력이면 다시 계산하지 않음 */
 const anaCache = new Map();
@@ -1030,10 +1005,13 @@ function takeVitals(m, i){
   const L = db.logs[m.id] = db.logs[m.id] || {}, at = new Date().toISOString();
   let n = 0;
   arr(i.vitals).forEach(v => {
-    if (!v || !/^\d{4}-\d{2}-\d{2}$/.test(str(v.date)) || hasVitRaw(L[v.date])) return;
-    const p = {};
-    if (bpLevel(v.sys, v.dia)){ p.bpS = String(numOf(v.sys)); p.bpD = String(numOf(v.dia)); }
-    if (wtOk(v.wt)) p.wt = String(wtOk(v.wt));
+    if (!v || !/^\d{4}-\d{2}-\d{2}$/.test(str(v.date))) return;
+    const p = {}, day = L[v.date];
+    if (!hasVitRaw(day)){   /* 현황판에 이미 잰 값이 있는 날은 그대로 둠 */
+      if (bpLevel(v.sys, v.dia)){ p.bpS = String(numOf(v.sys)); p.bpD = String(numOf(v.dia)); }
+      if (wtOk(v.wt)) p.wt = String(wtOk(v.wt));
+    }
+    if (!hasBgRaw(day) && str(v.bg).trim() && bgLevel(v.bg)){ p.bg = String(numOf(v.bg)); p.bgWhen = BG_WHEN.some(x => x[0] && x[0] === str(v.bgWhen)) ? str(v.bgWhen) : ""; }
     if (!Object.keys(p).length) return;
     L[v.date] = Object.assign({med:"", signs:[], note:""}, L[v.date] || {}, p, {at});
     n++;
@@ -1089,7 +1067,7 @@ function planText(plan, where){
   const chg = plan.upd.filter(x => x[2]), info = plan.upd.filter(x => !x[2]);
   if (chg.length) parts.push("약이 바뀐 회원 " + chg.length + "명(" + names(chg) + ")의 약을 새로 맞췄습니다");
   if (info.length) parts.push("기록이 바뀐 회원 " + info.length + "명(" + names(info) + ")의 정보를 맞췄습니다");
-  if (plan.vit) parts.push("혈압·체중 " + plan.vit + "건을 측정 기록에 넣었습니다");
+  if (plan.vit) parts.push("혈압·체중·혈당 " + plan.vit + "건을 측정 기록에 넣었습니다");
   let t = where + (parts.length ? "에서 " + parts.join(", ") + "." : "에서 새로 가져오거나 바꿀 회원이 없습니다.");
   if (plan.infoKept && plan.infoKept.length) t += " 새 약국이에서 고친 나이·성별·회원 상태(" + names(plan.infoKept) + ")는 그대로 두었습니다.";
   if (plan.kept.length) t += " 새 약국이에서도 약을 고친 회원(" + names(plan.kept) + ")은 그대로 두었습니다. 두 쪽의 약을 비교해 맞춰 주세요.";
