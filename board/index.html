@@ -172,7 +172,14 @@ details.care summary > * + *{margin-left:8px}
 .ai-text{white-space:pre-wrap;background:var(--note-bg);border-radius:8px;padding:10px 12px;font-size:14.5px;line-height:1.65}
 .ask-paste{display:flex;flex-direction:column;gap:8px;border:1px dashed var(--line);border-radius:8px;padding:10px}
 .ask-paste textarea{min-height:80px;font-size:13.5px}
+.ask-paste details.alt summary{cursor:pointer;font-size:13px;font-weight:500;color:var(--accent)}
+.ask-paste details.alt[open] summary{margin-bottom:8px}
 .vrow{display:flex;gap:8px 14px;flex-wrap:wrap;align-items:center}
+details.desk summary{cursor:pointer;font-weight:600;font-size:15px}
+.desk-body{display:flex;flex-direction:column;gap:10px;padding-top:10px}
+.desk-body .btns{display:flex;gap:8px;flex-wrap:wrap}
+.desk-body input{max-width:520px}
+.steps{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px;font-size:14px}
 .vrow input{width:86px}
 .vrow select{width:auto}
 .vbp,.vwt{display:flex;gap:5px;align-items:center}
@@ -207,7 +214,7 @@ details.care summary > * + *{margin-left:8px}
 <body>
 <div class="wrap">
   <header class="top">
-    <div class="brand"><h1>약국이 <span>현황판</span></h1><span class="today" id="today"></span></div>
+    <div class="brand"><h1>약국이 <span>현황판</span></h1><span class="tag low" id="modeTag" hidden>Claude판</span><span class="today" id="today"></span></div>
     <div class="top-actions">
       <button type="button" class="primary" id="addMember">+ 회원 추가</button>
       <details class="menu" id="dataMenu">
@@ -738,6 +745,38 @@ function vitalsText(list, cm, max){
   if (h) L.push("키 " + h + "cm" + (s.bmi ? ", 최근 BMI " + s.bmi + " (" + s.bmiLv.label + " 범위)" : ""));
   return L.join("\n");
 }
+/* 혈당(mg/dL): 대한당뇨병학회 당뇨병 진료지침(2023)의 기준값. 잰 때 when = fast 공복 · post 식후 2시간 · rand 식사와 무관 · "" 모름.
+   공복 100 미만 정상·100~125 조금 높음(공복혈당장애)·126 이상 높음, 식후 2시간 140 미만 정상·140~199 조금 높음(내당능장애)·200 이상 높음,
+   식사와 무관하거나 잰 때를 모르면 200 이상만 높음, 70 미만 낮음·54 미만 매우 낮음(저혈당 1·2단계). 잰 값의 범위일 뿐 진단 아님. 약사·의사 검토를 받지 않은 기준.
+   측정 기록 한 건 = {date, bg, bgWhen} (클로드 약국이는 input.vitals, 현황판은 날짜별 기록 db.logs) */
+const BG_WHEN = [["", "잰 때"], ["fast", "공복"], ["post", "식후 2시간"], ["rand", "식사와 무관"]];
+const bgWhenLabel = w => { const x = w && BG_WHEN.find(p => p[0] === w); return x ? x[1] : ""; };
+function bgLevel(v, when){
+  v = numOf(v);
+  if (v == null || v < 20 || v > 700) return null;
+  if (v < 70) return v < 54 ? {lv:"crit", label:"매우 낮음", low:true, high:false} : {lv:"hi", label:"낮음", low:true, high:false};
+  const cut = when === "fast" ? [100, 126] : when === "post" ? [140, 200] : null;
+  if (!cut) return {lv:v >= 200 ? "hi" : "", label:v >= 200 ? "높음" : "", low:false, high:v >= 200};
+  if (v >= cut[1]) return {lv:"hi", label:"높음", low:false, high:true};
+  return v >= cut[0] ? {lv:"mid", label:"조금 높음", low:false, high:false} : {lv:"ok", label:"정상", low:false, high:false};
+}
+const bgShort = x => (bgWhenLabel(x.when) ? bgWhenLabel(x.when) + " " : "") + x.v;
+/* 측정 기록에서 혈당만 날짜순으로: [{date, v, when, lvl}] */
+function bgFrom(list){
+  return arr(list).filter(x => x && /^\d{4}-\d{2}-\d{2}$/.test(str(x.date)) && str(x.bg).trim() && bgLevel(x.bg))
+    .map(x => ({date:str(x.date), v:numOf(x.bg), when:str(x.bgWhen), lvl:bgLevel(x.bg, x.bgWhen)}))
+    .sort((a, b) => a.date < b.date ? -1 : a.date > b.date ? 1 : 0);
+}
+/* AI 요청문에 넣을 혈당 기록 (bgFrom 결과, 최근 max건) */
+function bgText(list, max){
+  if (!list.length) return "";
+  const n = max || 20, L = ["[혈당 측정 기록 (mg/dL)] 범위 구분은 프로그램이 대한당뇨병학회 2023 기준(공복 100 미만 정상·100~125 조금 높음·126 이상 높음, 식후 2시간 140 미만 정상·140~199 조금 높음·200 이상 높음, "
+    + "식사와 무관하게 잰 값은 200 이상만 높음, 70 미만 낮음)으로 나눈 것이다. 당뇨약을 먹는 회원은 주치의가 정한 목표 혈당이 따로 있을 수 있으니 범위만으로 단정하지 않는다."];
+  list.slice(-n).forEach(x => L.push("- " + x.date + ": " + (bgWhenLabel(x.when) || "잰 때 모름") + " " + x.v + (x.lvl.label ? " (" + x.lvl.label + ")" : "")));
+  if (list.length > n) L.push("(그 전 기록 " + (list.length - n) + "건 생략)");
+  L.push("혈당 " + list.length + "번 잼: 높음 " + list.filter(x => x.lvl.high).length + "번, 70 미만 " + list.filter(x => x.lvl.low).length + "번");
+  return L.join("\n");
+}
 
 /* ---------- 건강 개입 기본 지침: 약은 그대로 두고 실무자가 할 수 있는 일. AI가 아니라 아래 표로 정하므로 같은 약이면 항상 같은 지침이 나옴 ----------
    list = 이 지침을 띄우는 성분, cond = 관련된 회원 상태(선택하면 맨 위로 올림) */
@@ -1021,36 +1060,11 @@ const hasVitRaw = e => !!(e && (str(e.bpS).trim() || str(e.bpD).trim() || str(e.
 const vitOf = (date, e) => ({date, sys:e.bpS, dia:e.bpD, wt:e.wt});
 const vitalsOf = m => Object.keys(db.logs[m.id] || {}).filter(d => db.logs[m.id][d]).map(d => vitOf(d, db.logs[m.id][d]));
 const mdOf = iso => Number(str(iso).slice(5, 7)) + "월 " + Number(str(iso).slice(8, 10)) + "일";
-/* 혈당(mg/dL): 날짜별 기록(db.logs)에 적은 그대로 둠(bg). 잰 때 bgWhen = fast 공복 · post 식후 2시간 · rand 식사와 무관 · "" 모름.
-   범위는 대한당뇨병학회 당뇨병 진료지침(2023)의 기준값: 공복 100 미만 정상·100~125 조금 높음(공복혈당장애)·126 이상 높음,
-   식후 2시간 140 미만 정상·140~199 조금 높음(내당능장애)·200 이상 높음, 식사와 무관하거나 잰 때를 모르면 200 이상만 높음,
-   70 미만 낮음·54 미만 매우 낮음(저혈당 1·2단계). 잰 값의 범위일 뿐 진단 아님. 약사·의사 검토를 받지 않은 기준 */
-const BG_WHEN = [["", "잰 때"], ["fast", "공복"], ["post", "식후 2시간"], ["rand", "식사와 무관"]];
-const bgWhenLabel = w => { const x = w && BG_WHEN.find(p => p[0] === w); return x ? x[1] : ""; };
+/* 혈당(mg/dL): 날짜별 기록(db.logs)에 적은 그대로 둠(bg, 잰 때 bgWhen). 기준과 BG_WHEN·bgLevel·bgShort·bgText는 함께 쓰는 부분(index.html) */
 const hasBgRaw = e => !!(e && str(e.bg).trim());
-function bgLevel(v, when){
-  v = numOf(v);
-  if (v == null || v < 20 || v > 700) return null;
-  if (v < 70) return v < 54 ? {lv:"crit", label:"매우 낮음", low:true, high:false} : {lv:"hi", label:"낮음", low:true, high:false};
-  const cut = when === "fast" ? [100, 126] : when === "post" ? [140, 200] : null;
-  if (!cut) return {lv:v >= 200 ? "hi" : "", label:v >= 200 ? "높음" : "", low:false, high:v >= 200};
-  if (v >= cut[1]) return {lv:"hi", label:"높음", low:false, high:true};
-  return v >= cut[0] ? {lv:"mid", label:"조금 높음", low:false, high:false} : {lv:"ok", label:"정상", low:false, high:false};
-}
 const bgItem = (date, e) => ({date, v:numOf(e.bg), when:str(e.bgWhen), lvl:bgLevel(e.bg, e.bgWhen)});
 const bgList = pairs => pairs.filter(([, e]) => e && hasBgRaw(e) && bgLevel(e.bg)).map(([k, e]) => bgItem(k, e));
 const bgOf = m => bgList(Object.keys(db.logs[m.id] || {}).sort().map(k => [k, db.logs[m.id][k]]));
-const bgShort = x => (bgWhenLabel(x.when) ? bgWhenLabel(x.when) + " " : "") + x.v;
-/* AI 요청문에 넣을 혈당 기록 (최근 max건) */
-function bgText(list, max){
-  if (!list.length) return "";
-  const n = max || 20, L = ["[혈당 측정 기록 (mg/dL)] 범위 구분은 프로그램이 대한당뇨병학회 2023 기준(공복 100 미만 정상·100~125 조금 높음·126 이상 높음, 식후 2시간 140 미만 정상·140~199 조금 높음·200 이상 높음, "
-    + "식사와 무관하게 잰 값은 200 이상만 높음, 70 미만 낮음)으로 나눈 것이다. 당뇨약을 먹는 회원은 주치의가 정한 목표 혈당이 따로 있을 수 있으니 범위만으로 단정하지 않는다."];
-  list.slice(-n).forEach(x => L.push("- " + x.date + ": " + (bgWhenLabel(x.when) || "잰 때 모름") + " " + x.v + (x.lvl.label ? " (" + x.lvl.label + ")" : "")));
-  if (list.length > n) L.push("(그 전 기록 " + (list.length - n) + "건 생략)");
-  L.push("혈당 " + list.length + "번 잼: 높음 " + list.filter(x => x.lvl.high).length + "번, 70 미만 " + list.filter(x => x.lvl.low).length + "번");
-  return L.join("\n");
-}
 
 /* 약 점검: 내장 자료와 내장 규칙만 씀 (AI 아님). 같은 입력이면 다시 계산하지 않음 */
 const anaCache = new Map();
@@ -1117,9 +1131,10 @@ function alertsOf(m){
 /* ---------- 화면 이동 ---------- */
 let route = {view:"board"};
 function go(hash){ if (location.hash === hash) paint(); else location.hash = hash; }
+/* 주소: #m-회원 = 회원 화면, #board 또는 빈 것 = 현황판 (Claude 화면은 #뒤에 /가 든 주소를 받지 않음). 예전 주소(#/m/회원/log 등)도 읽음 */
 function readHash(){
-  const p = location.hash.replace(/^#\/?/, "").split("/");
-  if (p[0] === "m" && memberById(p[1])) return {view:"member", id:p[1]};   /* 예전 주소(#/m/회원/log 등)도 회원 화면으로 */
+  const h = location.hash.replace(/^#/, ""), id = h.startsWith("m-") ? h.slice(2) : (h.match(/^\/?m\/([^/]+)/) || [])[1];
+  if (id && memberById(id)) return {view:"member", id};
   return {view:"board"};
 }
 window.addEventListener("hashchange", () => { saveNow(); route = readHash(); paint(); window.scrollTo(0, 0); });
@@ -1131,7 +1146,7 @@ function paint(){
 function memberLink(id, tab, extra){
   const m = memberById(id);
   return el("button", Object.assign({type:"button", class:"mini chip" + (route.id === id && route.view === "member" ? " on" : ""), text:m ? str(m.label) : "회원",
-    on:{click:() => go("#/m/" + id)}}, extra || {}));
+    on:{click:() => go("#m-" + id)}}, extra || {}));
 }
 
 /* ---------- 현황판 ---------- */
@@ -1144,8 +1159,10 @@ function paintBoard(){
     v.append(el("section", {class:"card empty"},
       el("h2", {text:"회원이 아직 없습니다"}),
       el("div", {class:"btns"},
-        el("button", {type:"button", class:"primary", text:"+ 첫 회원 추가", on:{click:() => { const m = addMember(); focusDrugs = true; go("#/m/" + m.id); }}}),
-        old.length ? el("button", {type:"button", text:"기존 약국이 회원 가져오기 (" + old.length + "명)", on:{click:importOld}}) : null)));
+        el("button", {type:"button", class:"primary", text:"+ 첫 회원 추가", on:{click:() => { const m = addMember(); focusDrugs = true; go("#m-" + m.id); }}}),
+        old.length ? el("button", {type:"button", text:"기존 약국이 회원 가져오기 (" + old.length + "명)", on:{click:importOld}}) : null,
+        el("button", {type:"button", text:"백업 파일에서 불러오기", on:{click:() => { $("dataMenu").open = true; $("backupLoad").click(); }}}))));
+    v.append(deskCard());
     return;
   }
   const watch = db.members.map(m => ({m, a:alertsOf(m)})).filter(x => x.a.length)
@@ -1178,8 +1195,39 @@ function paintBoard(){
       el("div", {class:"chips"}, ...r.ids.map(id => memberLink(id, "drugs"))),
       r.names.length ? el("p", {class:"muted", text:"적힌 이름: " + r.names.join(", ")}) : null)))
       : el("p", {class:"muted", text:"2명 이상이 같이 먹는 약이 없습니다."}));
-  v.append(el("div", {class:"grid"}, main, el("div", {class:"side"}, watchBox, comBox)));
+  v.append(el("div", {class:"grid"}, main, el("div", {class:"side"}, watchBox, comBox)), deskCard());
 }
+/* ---------- 바탕화면 아이콘(2026-11-25 사용자 요청): 주소 복사와 아이콘 그림(새약국이.ico)·안내문 압축 파일.
+   바로가기 파일은 내려받게 하지 않음(인터넷에서 받은 바로가기는 윈도우가 열 때마다 보안 경고). 저장 기능이 .ico를 받지 않아 압축 파일로 줌 ---------- */
+/* 새 약국이 주소: Claude판은 아티팩트 주소, 웹사이트판은 지금 열린 주소 (IN_CLAUDE가 아래에 있어 그릴 때 셈) */
+const deskUrl = () => IN_CLAUDE ? "https://claude.ai/artifact/KvuyyDz1kH9qECzP5pjnSu"
+  : /^https?:$/.test(location.protocol) ? location.origin + location.pathname.replace(/index\.html$/, "") : location.href.split("#")[0];
+function deskCard(){
+  const DESK_URL = deskUrl();
+  const url = el("input", {type:"text", readonly:true, value:DESK_URL, "aria-label":"새 약국이 주소"});
+  const msg = el("p", {class:"status", role:"status"});
+  const say = (t, err) => { msg.textContent = t; msg.className = "status" + (err ? " err" : ""); };
+  const copy = el("button", {type:"button", text:"주소 복사", on:{click:async () => {
+    url.value = DESK_URL; url.focus(); url.select();
+    let ok = false;
+    try { await navigator.clipboard.writeText(DESK_URL); ok = true; } catch (e) { try { ok = document.execCommand("copy"); } catch (x) { ok = false; } }
+    say(ok ? "주소를 복사했습니다. 바로 가기 만들기 창의 칸에 붙여 넣으세요(Ctrl+V)." : "복사하지 못했습니다. 주소 칸이 선택되어 있으니 Ctrl+C를 눌러 복사하세요.", !ok);
+  }}});
+  const get = el("button", {type:"button", text:"아이콘 그림 내려받기", on:{click:async () => {
+    try { await saveFile("새약국이_아이콘.zip", Uint8Array.from(atob(DESK_ZIP), c => c.charCodeAt(0)), "application/zip"); say("내려받았습니다. 아래 순서대로 해 주세요."); }
+    catch (e) { say(e && e.code === "declined" ? "내려받기를 취소했습니다." : "내려받지 못했습니다. 컴퓨터에서 새 약국이를 열어 다시 눌러 주세요.", true); }
+  }}});
+  return el("details", {class:"card desk"}, el("summary", {text:"바탕화면에 새 약국이 아이콘 만들기"}),
+    el("div", {class:"desk-body"}, url, el("div", {class:"btns"}, copy, get), msg,
+      el("ol", {class:"steps"},
+        el("li", {text:"\"아이콘 그림 내려받기\"로 받은 압축 파일을 마우스 오른쪽 단추로 누르고 \"압축 풀기\"를 누른 뒤, \"새약국이.ico\"를 '문서' 폴더에 둡니다."}),
+        el("li", {text:"바탕화면 빈 곳을 마우스 오른쪽 단추로 누르고 \"새로 만들기\" → \"바로 가기\"를 누릅니다."}),
+        el("li", {text:"\"주소 복사\"를 누르고, \"항목 위치 입력\" 칸에 붙여 넣은 뒤(Ctrl+V) \"다음\"을 누릅니다."}),
+        el("li", {text:"이름 칸에 \"새 약국이\"를 적고 \"마침\"을 누릅니다."}),
+        el("li", {text:"바탕화면의 \"새 약국이\"를 마우스 오른쪽 단추로 누르고 \"속성\" → \"웹 문서\" 탭 → \"아이콘 변경\" → \"찾아보기\" → 문서 폴더의 \"새약국이.ico\" → \"열기\" → \"확인\" → \"확인\"을 누릅니다."}))));
+}
+/* 아이콘 그림(새약국이.ico: 256·128·64는 PNG, 48·32·24·16은 BMP)과 '읽어 보세요.txt'를 묶은 압축 파일을 글자로 바꿔 넣은 것 */
+const DESK_ZIP = "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";
 function memberRow(m){
   const a = analyze(m), alerts = alertsOf(m).filter(x => !x.last), n = linesOf(m).length;
   const flags = el("div", {class:"tags"},
@@ -1189,7 +1237,7 @@ function memberRow(m){
     ...alerts.map(x => el("span", {class:"tag " + x.lv, text:x.text})),
     !n ? el("span", {class:"tag low", text:"약 없음"}) : null);
   return el("div", {class:"row", role:"listitem"},
-    el("div", {class:"who"}, el("button", {type:"button", text:str(m.label), on:{click:() => go("#/m/" + m.id)}}),
+    el("div", {class:"who"}, el("button", {type:"button", text:str(m.label), on:{click:() => go("#m-" + m.id)}}),
       el("span", {class:"muted", text:"약 " + n + "개" + (m.age ? " · " + m.age : "") + (m.sex ? " · " + m.sex : "")})),
     measLine(m), flags);
 }
@@ -1212,7 +1260,7 @@ function paintMember(){
   label.addEventListener("change", () => { const x = label.value.trim().slice(0, 20); if (!x){ label.value = str(m.label); return; } m = live(m); m.label = x; touch(m); saveNow(); });
   const del = el("button", {type:"button", class:"mini", text:"이 회원 삭제"});
   twoStep(del, "한 번 더 누르면 삭제 (측정 기록 포함, 되돌릴 수 없음)", () => {
-    db.members = db.members.filter(x => x.id !== m.id); delete db.logs[m.id]; anaCache.delete(m.id); saveNow(); go("#/");
+    db.members = db.members.filter(x => x.id !== m.id); delete db.logs[m.id]; anaCache.delete(m.id); saveNow(); go("#board");
   });
   const ageSel = el("select", {"aria-label":"연령대"}, ...["", "20대", "30대", "40대", "50대", "60대", "70대 이상"].map(x => el("option", {value:x, text:x || "선택 안 함"})));
   const sexSel = el("select", {"aria-label":"성별"}, ...["", "남성", "여성"].map(x => el("option", {value:x, text:x || "선택 안 함"})));
@@ -1223,7 +1271,7 @@ function paintMember(){
   ageSel.addEventListener("change", onInfo); sexSel.addEventListener("change", onInfo);
   const conds = el("div", {class:"conds", role:"group", "aria-label":"회원 상태"}, ...CONDS.map(c => el("label", null,
     el("input", {type:"checkbox", value:c.id, checked:arr(m.conds).includes(c.id), on:{change:onInfo}}), el("span", {text:c.label}))));
-  v.append(el("p", {class:"crumb"}, el("a", {href:"#/", text:"← 현황판"})),
+  v.append(el("p", {class:"crumb"}, el("a", {href:"#board", text:"← 현황판"})),
     el("section", {class:"card"},
       el("div", {class:"mhead"}, label, el("span", {id:"areas", class:"tags"})),
       el("details", {class:"minfo"}, el("summary", {text:"회원 정보 (연령대·성별·키·상태)"}),
@@ -1260,10 +1308,67 @@ async function copyText(t, btn){
   catch (e) { btn.textContent = "복사하지 못했습니다"; setTimeout(() => { btn.textContent = old; }, 2000); return false; }
 }
 
-/* ---------- AI: 지금은 요청문을 복사해 ChatGPT에 묻고, 받은 답을 붙여 넣음. 다른 연결 방식이 정해지면 askAI만 바꿈 ---------- */
+/* ---------- Claude판(2026-11-23): 같은 파일이 Claude 안에서 열리면 AI에게 바로 묻고(sample), 백업·인쇄 파일은 downloads로 내려받음.
+   Claude 밖(웹사이트판)은 ChatGPT 복사·붙여넣기, 브라우저 내려받기·인쇄. 기록은 두 곳이 따로 가짐(백업 파일로 옮김) ---------- */
+const IN_CLAUDE = !!window.claude;
+let aiSample = null, dlCap = null;
+if (IN_CLAUDE){
+  window.claude.use("sample").then(x => { aiSample = x || null; if (aiSample) repaintSoft(); }).catch(() => {});
+  window.claude.use("downloads").then(x => { dlCap = x || null; }).catch(() => {});
+}
+/* 글을 쓰는 중이 아니면 다시 그림 (AI 연결이 늦게 확인되면 단추를 Claude판 것으로 바꿈) */
+function repaintSoft(){ const a = document.activeElement; if (a && (a.tagName === "TEXTAREA" || (a.tagName === "INPUT" && a.type !== "checkbox"))) return; paint(); }
+/* 파일 내려받기: Claude판은 downloads(보는 사람이 확인), 웹사이트판은 브라우저 내려받기 */
+async function saveFile(name, data, type){
+  if (IN_CLAUDE){
+    const d = dlCap || await window.claude.use("downloads").catch(() => null);
+    if (!d) throw {code:"unavailable"};
+    return d.save({filename:name, data});
+  }
+  const a = el("a", {href:URL.createObjectURL(new Blob([data], {type})), download:name});
+  document.body.append(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 30000);
+}
+const flash = (btn, text, old) => { btn.textContent = text; setTimeout(() => { btn.textContent = old; }, 3000); };
+function aiErr(e){
+  const c = e && e.code;
+  if (["not_granted", "sampling_disabled", "not_declared", "capability_disabled", "capability_removed"].includes(c)) return "이 화면에서는 AI를 쓸 수 없습니다. 아래 'ChatGPT로 묻기'를 써 주세요.";
+  if (c === "rate_limited") return "요청이 많아 잠시 막혔습니다. 1~2분 뒤 '다시 묻기'를 누르거나 아래 'ChatGPT로 묻기'를 써 주세요.";
+  if (c === "prompt_too_large") return "보낼 내용이 너무 깁니다. 약이나 측정 기록을 줄여 주세요.";
+  if (c === "refused") return "AI가 이 요청에 답하지 않았습니다. 아래 'ChatGPT로 묻기'를 써 주세요.";
+  return "답을 받지 못했습니다. '다시 묻기'를 누르거나, Claude 사용량이 다 떨어졌다면 아래 'ChatGPT로 묻기'를 써 주세요.";
+}
+/* AI에게 묻기: Claude판은 누르자마자 Claude가 답하고(실패하면 ChatGPT로 묻기를 펼침), 웹사이트판은 ChatGPT 복사·붙여넣기.
+   onAnswer(답)은 잘못이면 알림 글을, 괜찮으면 ""를 돌려줌. 늘 단추를 누를 때 부름(처음 한 번 허용을 물음) */
+function askAI(prompt, onAnswer){
+  if (!aiSample) return pasteBox(prompt, onAnswer);
+  const box = el("div", {class:"ask-paste"});
+  const msg = el("span", {class:"status", role:"status"});
+  const out = el("p", {class:"ai-text"}); out.hidden = true;
+  const again = el("button", {type:"button", class:"mini", text:"다시 묻기"}); again.hidden = true;
+  const alt = el("details", {class:"alt"}, el("summary", {text:"Claude 사용량이 다 떨어졌을 때 (ChatGPT로 묻기)"}), pasteBox(prompt, onAnswer));
+  const run = async () => {
+    again.hidden = true; msg.className = "status"; msg.textContent = "AI가 정리하는 중입니다.";
+    try {
+      const r = await aiSample(prompt, {cache:false, onText:({text}) => { out.hidden = false; out.textContent = text; msg.textContent = "AI가 정리하는 중입니다. (" + text.length + "자)"; }});
+      const err = onAnswer(str(r.text).trim());
+      if (err){ msg.className = "status err"; msg.textContent = err; again.hidden = false; }
+      else if (box.isConnected){ msg.textContent = r.truncated ? "답이 길어 끝까지 받지 못했습니다." : ""; }
+    } catch (e) {
+      msg.className = "status err"; msg.textContent = aiErr(e); again.hidden = false;
+      if (e && e.text){ out.hidden = false; out.textContent = e.text; } else out.hidden = true;
+      if (e && e.code !== "upstream_error") alt.open = true;
+    }
+  };
+  again.addEventListener("click", run);
+  box.append(el("div", {class:"tags"}, msg, again), out, alt);
+  run();
+  return box;
+}
+/* ChatGPT 복사·붙여넣기 (웹사이트판, Claude판의 대신 묻기) */
 const AI_RULES = "너는 한국 정신재활시설의 정신건강사회복지사를 돕는 도우미다. 지킬 것: 진단하지 않는다(건강 상태는 '~로 추정됨', '~일 가능성'으로만 쓴다). "
   + "약의 중단·감량·변경·추가를 권하지 않는다. 판단이 필요한 것은 '주치의·약사 확인'으로 넘긴다. 회원은 아래 별칭으로만 부른다. 기록에 없는 내용은 지어내지 않는다. 혈압·체중·혈당은 잰 값의 범위로만 말하고 진단명을 단정하지 않는다. 쉬운 우리말로 쓴다.";
-function askAI(prompt, onAnswer){
+function pasteBox(prompt, onAnswer){
   const box = el("div", {class:"ask-paste"});
   const raw = el("textarea", {readonly:true, rows:"4", "aria-label":"복사할 요청문"}); raw.hidden = true; raw.value = prompt;
   const copy = el("button", {type:"button", class:"mini", text:"ChatGPT에 물어볼 요청문 복사"});
@@ -1427,7 +1532,15 @@ function drugCard(m, x, ids, flagged){
     cb.addEventListener("click", () => copyText(ask, cb));
     row("성분·분류", el("div", {text:arr(x.ingredient_en).length ? str(x.ingredient) + " (" + arr(x.ingredient_en).join(", ") + ") · 규칙 점검만"
       : str(x.ingredient) && str(x.ingredient) !== "확인 필요" ? str(x.ingredient) + " · " + str(x.class) : "내장 자료에서 찾지 못함"}));
-    row("찾아보기", el("div", null, nedrug), el("div", {class:"chips"}, cb, el("a", {href:"https://chatgpt.com/", target:"_blank", rel:"noopener", text:"ChatGPT 열기"})));
+    const key = nameKey(x.input) || str(x.input), exp = ((m.ai || {}).explain || {})[key];
+    if (aiSample){
+      const slot = el("div", {class:"wrapcol"});
+      const ab = el("button", {type:"button", class:"mini", text:exp ? "AI에게 다시 묻기" : "AI에게 묻기"});
+      ab.addEventListener("click", () => { slot.textContent = ""; slot.append(askAI(ask, t => {
+        m = live(m); setAI(m, {explain:Object.assign({}, (m.ai || {}).explain, {[key]:{text:t, at:new Date().toISOString()}})}); drugResult(m); return ""; })); });
+      row("찾아보기", el("div", null, nedrug), el("div", {class:"chips"}, ab), slot);
+    } else row("찾아보기", el("div", null, nedrug), el("div", {class:"chips"}, cb, el("a", {href:"https://chatgpt.com/", target:"_blank", rel:"noopener", text:"ChatGPT 열기"})));
+    if (exp && str(exp.text).trim()) row("AI 설명", el("div", null, el("span", {class:"tag low", text:"AI 설명 · " + aiDate(exp.at)})), el("p", {class:"ai-text", text:str(exp.text)}));
   }
   return el("article", {class:"drug" + (others.length ? " common" : "")},
     el("div", {class:"drug-head"}, el("b", {text:str(x.input)}),
@@ -1488,7 +1601,7 @@ function paintVitals(m){
     vs.bp.length ? el("span", {class:"tag " + (vs.highN ? "mid" : "low"), text:"혈압 " + vs.bp.length + "번 · 140/90 이상 " + vs.highN + "번"}) : null,
     g.length ? el("span", {class:"tag " + (gl ? "hi" : gh ? "mid" : "low"), text:"혈당 " + g.length + "번 · 높음 " + gh + "번 · 70 미만 " + gl + "번"}) : null);
   box.append(el("section", {class:"card"},
-    el("div", {class:"card-head"}, el("h2", {text:"혈압·체중·혈당"}), rows.length ? el("button", {type:"button", text:"측정 기록 인쇄", on:{click:() => printVitals(m)}}) : null),
+    el("div", {class:"card-head"}, el("h2", {text:"혈압·체중·혈당"}), rows.length ? el("button", {type:"button", text:"측정 기록 " + PRINT_LABEL, on:{click:e => printVitals(m, e.currentTarget)}}) : null),
     el("div", {class:"vform"}, dIn, el("span", {class:"vbp"}, sys, "/", dia, el("span", {class:"muted", text:"mmHg"})), el("span", {class:"vwt"}, wt, el("span", {class:"muted", text:"kg"})),
       el("span", {class:"vwt"}, bg, el("span", {class:"muted", text:"mg/dL"})), bgw, add),
     msg, sum.children.length ? sum : null, rows.length ? list : null,
@@ -1581,18 +1694,35 @@ function paintGuide(m){
   const note = guideNote; guideNote = "";
   body.append(el("section", {class:"card"},
     el("div", {class:"card-head"}, el("h2", {text:"쉬운 안내문"}),
-      el("div", {class:"tags"}, el("label", {class:"muted", for:"gWeek"}, week, " 일주일 복약 체크표 함께 인쇄"), aiBtn, el("button", {type:"button", class:"primary", text:"안내문 인쇄", on:{click:() => printGuide(m)}}))),
+      el("div", {class:"tags"}, el("label", {class:"muted", for:"gWeek"}, week, " 일주일 복약 체크표 함께 인쇄"), aiBtn, el("button", {type:"button", class:"primary", text:"안내문 " + PRINT_LABEL, on:{click:e => printGuide(m, e.currentTarget)}}))),
     note ? el("p", {class:"status", role:"status", text:note}) : null, aiSlot,
     ...items));
 }
 
 /* ---------- 인쇄 ---------- */
-function doPrint(pages){
-  const p = $("print"); p.textContent = ""; p.append(...pages);
-  window.print();
+const PRINT_LABEL = IN_CLAUDE ? "인쇄용 파일 받기" : "인쇄";
+const escHtml = t => str(t).replace(/[&<>"]/g, c => ({"&":"&amp;", "<":"&lt;", ">":"&gt;", "\"":"&quot;"})[c]);
+const fileSafe = t => str(t).replace(/[\\/:*?"<>|]/g, "").trim();
+/* 이 쪽의 인쇄용 글꼴·모양(@media print 안의 규칙)을 그대로 꺼내 인쇄용 파일에 넣음 */
+function printCss(){
+  const rules = [];
+  for (const sh of Array.from(document.styleSheets)){
+    let list = null; try { list = sh.cssRules; } catch (e) { continue; }
+    Array.from(list || []).forEach(r => { if (r.media && /print/.test(r.media.mediaText)) Array.from(r.cssRules).forEach(x => rules.push(x.cssText)); });
+  }
+  return ":root{--body:" + getComputedStyle(document.documentElement).getPropertyValue("--body") + "}\nbody{margin:0;padding:12mm;background:#fff;color:#000;font-family:var(--body)}\n@media print{body{padding:0}}\n" + rules.join("\n");
+}
+async function doPrint(pages, name, btn){
+  if (!IN_CLAUDE){ const p = $("print"); p.textContent = ""; p.append(...pages); window.print(); return; }
+  /* Claude 화면에서는 인쇄 창이 열리지 않아, 인쇄용 .html 파일로 내려받고 그 파일을 열어 인쇄함 */
+  const html = "<!doctype html><html lang=\"ko\"><head><meta charset=\"utf-8\"><title>" + escHtml(name) + "</title><style>" + printCss() + "</style></head><body><div id=\"print\">"
+    + pages.map(x => x.outerHTML).join("") + "</div></body></html>";
+  const old = btn ? btn.textContent : "";
+  try { await saveFile(name + ".html", html, "text/html"); if (btn) flash(btn, "내려받았습니다. 파일을 열어 인쇄하세요", old); }
+  catch (e) { if (btn) flash(btn, e && e.code === "declined" ? "취소했습니다" : "내려받지 못했습니다", old); }
 }
 window.addEventListener("afterprint", () => { $("print").textContent = ""; });
-function printVitals(m){
+function printVitals(m, btn){
   saveNow();
   const vs = vitalsSum(vitalsOf(m), m.height), g = bgOf(m), ov = m.ai && m.ai.overall;
   const sum = [vs.bp.length ? "혈압 " + vs.bp.length + "번(140/90 이상 " + vs.highN + "번)" : "",
@@ -1611,9 +1741,9 @@ function printVitals(m){
     el("table", null, el("thead", null, el("tr", null, el("th", {text:"날짜"}), el("th", {text:"혈압"}), el("th", {text:"체중(kg)"}), el("th", {text:"혈당(mg/dL)"}))), el("tbody", null, ...rows)),
     el("p", {class:"p-meta", style:"margin-top:8pt", text:"요약: " + (sum.join(" · ") || "없음")}),
     ov ? el("h2", {text:"AI 종합 정리 (" + aiDate(ov.at) + (ov.drugs !== m.drugs ? ", 약이 바뀌기 전" : "") + ", 참고자료, 진단 아님)"}) : null,
-    ov ? el("p", {class:"p-ai", text:ov.text}) : null)]);
+    ov ? el("p", {class:"p-ai", text:ov.text}) : null)], "약국이_측정기록_" + fileSafe(m.label) + "_" + today(), btn);
 }
-function printGuide(m){
+function printGuide(m, btn){
   saveNow();
   const pages = [el("div", {class:"p-page p-guide"},
     el("h1", {text:str(m.label) + "의 약 안내"}),
@@ -1630,7 +1760,7 @@ function printGuide(m){
       el("table", null, el("thead", null, el("tr", null, el("th", {text:""}), ...slots.map(s => el("th", {text:s})))),
         el("tbody", null, ...["월","화","수","목","금","토","일"].map(d => el("tr", null, el("th", {text:d + "요일"}), ...slots.map(() => el("td"))))))));
   }
-  doPrint(pages);
+  doPrint(pages, "약국이_안내문_" + fileSafe(m.label) + "_" + today(), btn);
 }
 
 /* ---------- 가져오기·백업 ---------- */
@@ -1657,10 +1787,13 @@ function takeVitals(m, i){
   const L = db.logs[m.id] = db.logs[m.id] || {}, at = new Date().toISOString();
   let n = 0;
   arr(i.vitals).forEach(v => {
-    if (!v || !/^\d{4}-\d{2}-\d{2}$/.test(str(v.date)) || hasVitRaw(L[v.date])) return;
-    const p = {};
-    if (bpLevel(v.sys, v.dia)){ p.bpS = String(numOf(v.sys)); p.bpD = String(numOf(v.dia)); }
-    if (wtOk(v.wt)) p.wt = String(wtOk(v.wt));
+    if (!v || !/^\d{4}-\d{2}-\d{2}$/.test(str(v.date))) return;
+    const p = {}, day = L[v.date];
+    if (!hasVitRaw(day)){   /* 현황판에 이미 잰 값이 있는 날은 그대로 둠 */
+      if (bpLevel(v.sys, v.dia)){ p.bpS = String(numOf(v.sys)); p.bpD = String(numOf(v.dia)); }
+      if (wtOk(v.wt)) p.wt = String(wtOk(v.wt));
+    }
+    if (!hasBgRaw(day) && str(v.bg).trim() && bgLevel(v.bg)){ p.bg = String(numOf(v.bg)); p.bgWhen = BG_WHEN.some(x => x[0] && x[0] === str(v.bgWhen)) ? str(v.bgWhen) : ""; }
     if (!Object.keys(p).length) return;
     L[v.date] = Object.assign({med:"", signs:[], note:""}, L[v.date] || {}, p, {at});
     n++;
@@ -1716,7 +1849,7 @@ function planText(plan, where){
   const chg = plan.upd.filter(x => x[2]), info = plan.upd.filter(x => !x[2]);
   if (chg.length) parts.push("약이 바뀐 회원 " + chg.length + "명(" + names(chg) + ")의 약을 새로 맞췄습니다");
   if (info.length) parts.push("기록이 바뀐 회원 " + info.length + "명(" + names(info) + ")의 정보를 맞췄습니다");
-  if (plan.vit) parts.push("혈압·체중 " + plan.vit + "건을 측정 기록에 넣었습니다");
+  if (plan.vit) parts.push("혈압·체중·혈당 " + plan.vit + "건을 측정 기록에 넣었습니다");
   let t = where + (parts.length ? "에서 " + parts.join(", ") + "." : "에서 새로 가져오거나 바꿀 회원이 없습니다.");
   if (plan.infoKept && plan.infoKept.length) t += " 새 약국이에서 고친 나이·성별·회원 상태(" + names(plan.infoKept) + ")는 그대로 두었습니다.";
   if (plan.kept.length) t += " 새 약국이에서도 약을 고친 회원(" + names(plan.kept) + ")은 그대로 두었습니다. 두 쪽의 약을 비교해 맞춰 주세요.";
@@ -1735,15 +1868,14 @@ function importOld(){
   $("dataMenu").open = true; paint();
 }
 $("importOld").addEventListener("click", importOld);
-$("addMember").addEventListener("click", () => { const m = addMember(); focusDrugs = true; go("#/m/" + m.id); });
+$("addMember").addEventListener("click", () => { const m = addMember(); focusDrugs = true; go("#m-" + m.id); });
 $("backupSave").addEventListener("click", () => {
   saveNow();
   const name = "약국이현황판_백업_" + today() + ".json";
   const text = JSON.stringify({app:"약국이 현황판", v:1, saved:new Date().toISOString(), members:db.members, logs:db.logs}, null, 1);
-  const a = el("a", {href:URL.createObjectURL(new Blob([text], {type:"application/json"})), download:name});
-  document.body.append(a); a.click(); a.remove();
-  setTimeout(() => URL.revokeObjectURL(a.href), 30000);
-  dataMsg("회원 " + db.members.length + "명의 기록을 백업 파일로 내려받았습니다.");
+  saveFile(name, text, "application/json")
+    .then(() => dataMsg("회원 " + db.members.length + "명의 기록을 백업 파일로 내려받았습니다."))
+    .catch(e => dataMsg(e && e.code === "declined" ? "내려받기를 취소했습니다." : "백업 파일을 내려받지 못했습니다.", true));
 });
 $("backupLoad").addEventListener("change", e => {
   const f = e.target.files && e.target.files[0];
@@ -1784,6 +1916,7 @@ window.addEventListener("storage", e => {
   paint();
 });
 document.addEventListener("click", e => { const m = $("dataMenu"); if (m.open && !m.contains(e.target)) m.open = false; });
+$("modeTag").hidden = !IN_CLAUDE;
 route = readHash();
 paint();
 </script>
