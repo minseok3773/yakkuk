@@ -1,0 +1,43 @@
+# 복무상황부: 저장소의 bokmu/ 파일이 바뀌면 웹사이트(gh-pages 가지의 bokmu/)에 자동으로 똑같이 올립니다.
+# 약국이·현황판 파일과 gh-pages의 다른 파일은 건드리지 않습니다. 강제 푸시를 하지 않습니다.
+name: 복무상황부 웹사이트 자동 반영
+on:
+  push:
+    branches: [main, "claude/**"]
+    paths: ["bokmu/**"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: bokmu-pages
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 고친 코드 받기
+        uses: actions/checkout@v4
+        with:
+          path: src
+      - name: 웹사이트 가지 받기
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: site
+      - name: bokmu 파일 옮기고 올리기
+        run: |
+          mkdir -p site/bokmu
+          for f in index.html sw.js manifest.webmanifest icon-192.png icon-512.png; do
+            if [ -f "src/bokmu/$f" ]; then cp "src/bokmu/$f" "site/bokmu/$f"; fi
+          done
+          cd site
+          git add bokmu
+          if git diff --cached --quiet; then echo "바뀐 것 없음"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "웹사이트판: 복무상황부 자동 반영 (${GITHUB_SHA::7})"
+          for i in 1 2 3; do
+            git push origin HEAD:gh-pages && exit 0
+            git pull --rebase origin gh-pages
+          done
+          exit 1
