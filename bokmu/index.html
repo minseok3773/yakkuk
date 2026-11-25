@@ -1342,6 +1342,8 @@ if (ONLINE) {
   const add = (rel, href, extra) => { const l = document.createElement("link"); l.rel = rel; l.href = href; Object.assign(l, extra || {}); document.head.append(l); };
   add("manifest", "manifest.webmanifest"); add("icon", "icon-192.png", {type:"image/png"}); add("apple-touch-icon", "icon-192.png");
   const m = document.createElement("meta"); m.name = "theme-color"; m.content = "#2c4677"; document.head.append(m);
+  /* 엣지·크롬이 설치할 수 있는 앱으로 알아보게 함(저장 없이 그대로 받아 오는 서비스 워커) */
+  if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js", {scope: "./"}).catch(() => {});
 }
 function paintDesk(){
   $("deskBtn").hidden = !ONLINE || STANDALONE;
@@ -1350,7 +1352,7 @@ function paintDesk(){
   $("deskHow").textContent = STANDALONE ? "바탕화면 앱으로 열려 있습니다."
     : !ONLINE ? "바탕화면에서 쓰려면 웹사이트 주소(" + SITE + ")를 엣지나 크롬으로 열고 이 칸의 ‘바탕화면에 설치’를 누르세요."
     : (installEvt ? "‘바탕화면에 설치’를 누르면 바탕화면에 아이콘이 생기고, 주소창 없는 창으로 열립니다. 기록과 새 기능은 이 웹사이트와 같습니다."
-       : "엣지: 주소창 오른쪽의 ‘앱 설치’ 단추(또는 … → 앱 → 이 사이트를 앱으로 설치). 크롬: ⋮ → 전송, 저장 및 공유 → 바로가기 만들기 → ‘창으로 열기’ 체크.") +
+       : "단추가 없으면 엣지: 오른쪽 위 ⋯ → 앱 → ‘이 사이트를 앱으로 설치’ → 설치 → ‘바탕 화면 바로 가기 만들기’ 체크 → 허용. 크롬: ⋮ → 전송, 저장 및 공유 → 바로가기 만들기 → ‘창으로 열기’ 체크.") +
       " ‘파일로 내려받기’는 바탕화면 파일을 두 번 눌러 엽니다. 다만 기록이 이 웹사이트와 따로 저장되고, 새 기능이 반영되지 않으며, 그림·엑셀 읽기는 인터넷이 있어야 됩니다.";
 }
 addEventListener("beforeinstallprompt", e => { e.preventDefault(); installEvt = e; paintDesk(); });
