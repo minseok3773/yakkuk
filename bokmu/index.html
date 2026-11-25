@@ -76,6 +76,15 @@ button:disabled{opacity:.5;cursor:default}
 #pasteBox::placeholder{color:var(--s-leave-ink);font-weight:600}
 #drop{border:2px dashed var(--line);border-radius:10px;padding:22px 16px;text-align:center;display:flex;flex-direction:column;gap:8px;align-items:center;cursor:pointer}
 #drop.over{border-color:var(--accent);background:var(--s-leave)}
+#pzone{border:2px dashed var(--accent);background:var(--s-leave);color:var(--ink);border-radius:8px;padding:12px 14px;display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;justify-content:space-between;cursor:text}
+#pzone:focus{outline:3px solid var(--accent);outline-offset:2px}
+#pzone.over{background:var(--panel)}
+#pzone .pz-t{display:flex;flex-direction:column;gap:2px;min-width:0}
+#pzone strong{color:var(--s-leave-ink)}
+#pzone .pz-ready{display:none;font-weight:600;color:var(--s-leave-ink)}
+#pzone:focus .pz-ready{display:inline}
+.pmsg{font-size:14px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.pmsg.err{color:var(--warn)}
 #drop strong{font-size:15px}
 
 .chips{display:flex;flex-wrap:wrap;gap:6px}
@@ -136,11 +145,12 @@ details[open] > summary{margin-bottom:10px}
     <div class="row">
       <label class="muted" for="month">복무 연월</label>
       <input type="month" id="month">
+      <button type="button" class="sm" id="deskBtn" hidden>바탕화면에 두기</button>
     </div>
   </header>
 
   <section class="panel" id="upPanel">
-    <div class="band"><h2>근태현황 넣기</h2><span class="tag" id="aiTag" hidden>사진도 읽음</span></div>
+    <div class="band"><h2>근태현황 넣기 · 여러 요원 한꺼번에</h2><span class="tag" id="aiTag" hidden>사진도 읽음</span></div>
     <textarea id="pasteBox" rows="2" placeholder="포털 근태현황 표를 마우스로 끌어 선택 → Ctrl+C → 여기를 누르고 Ctrl+V" aria-label="근태현황 표 붙여 넣기"></textarea>
     <div id="drop" tabindex="0" role="button" aria-label="근태현황 그림이나 엑셀 파일 올리기">
       <strong id="dropMain">근태현황 그림(PNG)이나 엑셀 파일을 끌어 놓거나 눌러서 고르기</strong>
@@ -169,7 +179,7 @@ details[open] > summary{margin-bottom:10px}
   </section>
 
   <details class="panel" id="setBox">
-    <summary>기본값·백업</summary>
+    <summary>기본값·백업·바탕화면</summary>
     <div class="row">
       <label class="f">복무기관<input type="text" id="s_org"></label>
       <label class="f">복무분야<input type="text" id="s_field"></label>
@@ -191,6 +201,14 @@ details[open] > summary{margin-bottom:10px}
       <input type="file" id="bkFile" accept=".json,application/json" hidden>
       <span class="status" id="bkStatus"></span>
     </div>
+    <div class="row" id="deskRow">
+      <strong style="font-size:14px">바탕화면에서 열기</strong>
+      <button type="button" class="pri" id="installBtn" hidden>바탕화면에 설치</button>
+      <button type="button" id="fileBtn" hidden>파일로 내려받기</button>
+      <button type="button" id="copyUrl">웹사이트 주소 복사</button>
+      <span class="status" id="deskStatus"></span>
+    </div>
+    <div class="muted" id="deskHow"></div>
   </details>
 </div>
 
@@ -372,6 +390,10 @@ function paintPerson(){
       '<label class="f">근무지<input type="text" id="p_place" value="' + esc(p.place || "") + '" placeholder="' + esc(db.set.place) + '"></label>' +
       '<label class="f" style="flex:0 1 180px">1일 교통비(원)<input type="number" id="p_fare" min="0" step="100" inputmode="numeric" value="' + (fareOf(p) || "") + '" placeholder="예: 3300"></label>' +
     '</div>' +
+    '<div id="pzone" tabindex="0" role="button" aria-label="' + esc(p.name) + ' 님 근태현황 캡처 붙여 넣기">' +
+      '<span class="pz-t"><strong>' + esc(p.name || "이 요원") + ' 님 근태 캡처 넣기</strong><span class="muted">포털에서 ' + esc(p.name || "이 요원") + ' 님을 누르고 캡처 → 이 칸을 누르고 Ctrl+V (PNG 끌어 놓기도 됨) <span class="pz-ready">· 붙여 넣을 준비 완료</span></span></span>' +
+      '<span class="row"><button type="button" class="sm" id="pPick">그림 파일 고르기</button><input type="file" id="pfile" accept="image/*" hidden></span></div>' +
+    (pMsg && pMsg.pid === p.id ? '<div class="pmsg' + (pMsg.err ? " err" : "") + '" id="pMsg">' + pMsg.html + '</div>' : "") +
     '<div class="row" style="justify-content:space-between"><h3>날짜별 근무</h3><button type="button" class="sm" id="resetDays">달력 기본값으로</button></div>' +
     chkHtml +
     '<div class="cal" id="cal">' + cal + '</div>' +
@@ -414,7 +436,7 @@ function paint(){
 
 /* ---------- 요원 화면 이벤트 ---------- */
 $("month").addEventListener("change", e => { if (/^\d{4}-\d{2}$/.test(e.target.value)) { cur.ym = e.target.value; paint(); } });
-$("chips").addEventListener("click", e => { const b = e.target.closest("[data-pid]"); if (b) { cur.pid = b.dataset.pid; paint(); } });
+$("chips").addEventListener("click", e => { const b = e.target.closest("[data-pid]"); if (b) { cur.pid = b.dataset.pid; pMsg = null; pPending = null; paint(); } });
 $("addP").addEventListener("click", () => {
   const p = {id:uid(), name:"새 요원", phone:"", org:"", field:"", type:"", place:""};
   db.people.push(p); cur.pid = p.id; paint();
@@ -752,19 +774,30 @@ function findOrAdd(name, fuzzy){
   if (!p) { p = {id:uid(), name: name || "새 요원", phone:"", org:"", field:"", type:"", place:""}; db.people.push(p); }
   return p;
 }
+/* 날짜 목록을 요원 달력에 넣음. 글자 인식으로 읽은 목록에서 빠진 평일은 휴일이 아니라 '확인 필요'로 둠 */
+function fillDays(pid, r, ym){
+  const R = rec(ym, pid, true), days = {};
+  for (let d = 1; d <= dim(ym); d++) days[d] = r.ocr && !isHoli(ym, d) ? "확인" : "휴일";
+  r.days.forEach(x => { const [y, m, d] = x.date.split("-").map(Number); if (y + "-" + pad(m) === ym && d >= 1 && d <= dim(ym)) days[d] = mapKind(x.kind); });
+  R.days = days; R.src = "사진";
+}
+/* 포털 합계 저장. 글자 인식에서 강조된(굵은) 줄은 잘못 읽기 쉬워, 그 요원의 합계가 이미 있으면 덮어쓰지 않음 */
+function savePortal(r, ym){
+  r.summary.forEach(s => {
+    const p = findOrAdd(s.name, r.ocr), R = rec(ym, p.id, true);
+    if (r.ocr && R.portal && r.selected && nameClose(s.name, r.selected)) return;
+    const {name, ...rest} = s; R.portal = rest;
+  });
+}
 function applyResults(){
   let lastYm = cur.ym, lastPid = cur.pid, filled = 0, added = db.people.length;
   results.forEach(r => {
     if (r.scan) { const pid = applyScan(r); if (pid) { lastPid = pid; filled++; lastYm = r.ym; } return; }
     const ym = r.ym || cur.ym;
-    r.summary.forEach(s => { const p = findOrAdd(s.name, r.ocr); const R = rec(ym, p.id, true); const {name, ...rest} = s; R.portal = rest; });
+    savePortal(r, ym);
     if (r.days.length) {
       const p = r.target && !r.target.startsWith("new:") && person(r.target) ? person(r.target) : findOrAdd(r.target ? r.target.slice(4) : "", r.ocr);
-      const R = rec(ym, p.id, true), days = {};
-      /* 글자 인식으로 읽은 목록에서 빠진 평일은 휴일이 아니라 '확인 필요'로 둠 */
-      for (let d = 1; d <= dim(ym); d++) days[d] = r.ocr && !isHoli(ym, d) ? "확인" : "휴일";
-      r.days.forEach(x => { const [y, m, d] = x.date.split("-").map(Number); if (y + "-" + pad(m) === ym && d >= 1 && d <= dim(ym)) days[d] = mapKind(x.kind); });
-      R.days = days; R.src = "사진"; filled++;
+      fillDays(p.id, r, ym); filled++;
       lastPid = p.id;
     }
     lastYm = ym;
@@ -861,8 +894,8 @@ function parseOCR(text){
     }
     let toks = left.split(/\s+/).map(t => t.replace(/[_.,'"」「]/g, "")).filter(Boolean).map(fixNum);
     const fi0 = toks.findIndex(t => /^\d+$/.test(t));
-    /* 숫자 자리(첫 숫자 뒤)에서 굵은 글씨를 잘못 읽은 것 고침: ㅇ·ㅁ·o → 0(여러 개면 그만큼), 고·ㄱ·ㅣ·l·| → 1 */
-    if (fi0 >= 0) toks = toks.slice(0, fi0).concat(toks.slice(fi0).flatMap(t => /^[ㅇㅁoO0]+$/.test(t) ? [...t].map(() => "0") : /^[고ㄱㅣlI|\[\]!]$/.test(t) ? ["1"] : [t]));
+    /* 숫자 자리(첫 숫자 뒤)에서 굵은 글씨를 잘못 읽은 것 고침: ㅇ·ㅁ·o(겹쳐 읽힌 것 포함) → 0, 고·ㄱ·ㅣ·l·| → 1 */
+    if (fi0 >= 0) toks = toks.slice(0, fi0).concat(toks.slice(fi0).map(t => /^[ㅇㅁoO]+$/.test(t) ? "0" : /^[고ㄱㅣlI|\[\]!]$/.test(t) ? "1" : t));
     const fi = toks.findIndex(t => /^\d+$/.test(t));
     if (fi < 1) return;
     let ni = -1; for (let k = fi - 1; k >= 0; k--) if (/^[가-힣]{2,4}$/.test(toks[k])) { ni = k; break; }
@@ -916,6 +949,65 @@ async function readImagesOCR(files){
   ocrPct = null; reading = false;
   afterCapture(errs.map(n => n + "에서 근태 표를 찾지 못했습니다. 표가 잘리지 않게 캡처해서 다시 넣어 주세요."));
 }
+/* ---------- 요원별 캡처 넣기: 고른 요원 칸에 붙여 넣은 캡처를 그 요원 달력에 바로 넣음 ---------- */
+let pMsg = null, pPending = null;
+async function readCapture(file){
+  if (sample && imgOK) return [parseReply((await sample(PROMPT, {images:[file], cache:false})).text)];
+  const w = await loadOCR();
+  const {c, band} = await ocrCanvas(file);
+  const r0 = await w.recognize(c, {}, {blocks:true, text:true});
+  let sel = "";
+  if (band != null) (r0.data.blocks || []).forEach(b => (b.paragraphs || []).forEach(pp => (pp.lines || []).forEach(l => {
+    if (!sel && l.bbox && l.bbox.y0 <= band && band <= l.bbox.y1) sel = lineName(l.text);
+  })));
+  const rs = sheetResults(parseOCR(r0.data.text));
+  rs.forEach(r => { r.ocr = true; if (sel && r.days.length && !r.selected) r.selected = sel; });
+  return rs;
+}
+function setPMsg(pid, html, err){ pMsg = {pid, html, err: !!err}; paintPerson(); }
+function putForPerson(pid, rs, force){
+  const p = person(pid); if (!p) return;
+  const withDays = rs.filter(r => r.days.length);
+  const ym0 = (withDays[0] && withDays[0].ym) || (rs[0] && rs[0].ym) || cur.ym;
+  rs.forEach(r => savePortal(r, r.ym || ym0));
+  if (!withDays.length) { cur.ym = ym0; paint(); setPMsg(pid, "합계표만 읽었습니다. 포털에서 " + esc(p.name) + " 님을 눌러 오른쪽 날짜 목록이 보이게 캡처해 주세요.", true); return; }
+  const r = withDays.find(x => x.selected && nameClose(x.selected, p.name)) || withDays[0];
+  if (!force && r.selected && !nameClose(r.selected, p.name)) {
+    pPending = {pid, rs};
+    cur.ym = r.ym || ym0; paint();
+    setPMsg(pid, "캡처에서 강조된 요원은 <strong>" + esc(r.selected) + "</strong> 님입니다. 포털에서 " + esc(p.name) + " 님을 누르고 다시 캡처해 주세요. <button type=\"button\" class=\"sm\" id=\"pForce\">그래도 " + esc(p.name) + " 님에게 넣기</button>", true);
+    return;
+  }
+  pPending = null;
+  const ym = r.ym || ym0;
+  fillDays(pid, r, ym);
+  cur.ym = ym; cur.pid = pid; paint();
+  const c = tally(daysOf(ym, pid), ym), chk = portalCheck(ym, pid);
+  const parts = CODES.filter(([k]) => c[k] && k !== "휴일").map(([k, n]) => n + " " + c[k]).join(", ");
+  setPMsg(pid, '<span class="tag ok">넣음</span> ' + ym.replace("-", "년 ") + "월: " + esc(parts) +
+    (chk ? (chk.diffs.length ? ' <span class="tag warn">포털과 다름: ' + esc(chk.diffs.join(", ")) + '</span>' : ' <span class="tag ok">포털과 같음</span>') : "") +
+    (c.확인 ? ' <span class="tag warn">확인 필요 ' + c.확인 + '일 (빨간 테두리)</span>' : ""), false);
+}
+async function readForPerson(files){
+  const pid = cur.pid, p = person(pid);
+  files = files.filter(f => f && /^image\//.test(f.type));
+  if (!p || !files.length) return;
+  if (reading) return;
+  reading = true;
+  setPMsg(pid, sample && imgOK ? "캡처를 읽는 중… 30초쯤 걸립니다." : "캡처 글자를 읽는 중… (처음 한 번은 도구를 내려받느라 10~20초)");
+  try { const rs = await readCapture(files[0]); reading = false; if (!rs.length) throw new Error("empty"); putForPerson(pid, rs, false); }
+  catch (e) { reading = false; setPMsg(pid, e && e.message === "load" ? "글자 인식 도구를 불러오지 못했습니다. 인터넷 연결을 확인하고 다시 넣어 주세요." : errMsg(e), true); }
+}
+$("person").addEventListener("click", e => {
+  if (e.target.id === "pPick") { e.stopPropagation(); $("pfile").click(); }
+  else if (e.target.id === "pForce" && pPending) { const pp = pPending; pPending = null; putForPerson(pp.pid, pp.rs, true); }
+  else if (e.target.closest && e.target.closest("#pzone") && e.target.tagName !== "BUTTON") $("pzone").focus();
+});
+$("person").addEventListener("change", e => { if (e.target.id === "pfile") { const fs = [...e.target.files]; e.target.value = ""; readForPerson(fs); } });
+["dragenter","dragover"].forEach(t => $("person").addEventListener(t, e => { const z = e.target.closest && e.target.closest("#pzone"); if (z) { e.preventDefault(); z.classList.add("over"); } }));
+$("person").addEventListener("dragleave", e => { const z = e.target.closest && e.target.closest("#pzone"); if (z) z.classList.remove("over"); });
+$("person").addEventListener("drop", e => { const z = e.target.closest && e.target.closest("#pzone"); if (z) { e.preventDefault(); z.classList.remove("over"); readForPerson([...(e.dataTransfer && e.dataTransfer.files || [])]); } });
+
 /* ---------- 종이 일일 복무 상황부 스캔 읽기 (Claude판, AI) ----------
    PDF는 pdf.js로 쪽마다 그림으로 바꾸고, 옆으로 누운 쪽은 세운 뒤, 위(날짜 칸)·아래(근무상황 표) 두 장으로 나눠 보냄 */
 const PDFJS = {js:"https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js", worker:"https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js"};
@@ -1071,6 +1163,12 @@ $("file").addEventListener("change", e => { const fs = [...e.target.files]; e.ta
 drop.addEventListener("drop", e => readFiles([...(e.dataTransfer && e.dataTransfer.files || [])]));
 document.addEventListener("paste", e => {
   const t = e.target, inBox = t && t.id === "pasteBox";
+  if (t && t.closest && t.closest("#pzone")) {
+    const fs = [...(e.clipboardData && e.clipboardData.items || [])].filter(it => it.kind === "file" && /^image\//.test(it.type)).map(it => it.getAsFile());
+    e.preventDefault();
+    if (fs.length) readForPerson(fs); else setPMsg(cur.pid, "붙여 넣은 것이 그림이 아닙니다. 포털 화면을 캡처(Win+Shift+S)한 뒤 Ctrl+V 해 주세요.", true);
+    return;
+  }
   if (!inBox && t && t.closest && t.closest("input,textarea,select,[contenteditable]")) return;
   const cd = e.clipboardData; if (!cd) return;
   const items = [...(cd.items || [])].filter(it => it.kind === "file" && /^image\//.test(it.type));
@@ -1232,6 +1330,48 @@ async function readSheets(files){
   if (results.length) setUp(errs.length ? errs.join(", ") + "에서 근태 표를 찾지 못했습니다." : "다 읽었습니다. 맞는지 보고 ‘달력에 채우기’를 누르세요.", !!errs.length);
   else setUp("파일에서 근태 표를 찾지 못했습니다. 포털 근태현황에서 받은 엑셀인지 확인해 주세요. 맞는데도 안 되면 그 파일을 알려 주세요.", true);
 }
+
+/* ---------- 바탕화면에서 열기 ----------
+   웹사이트판: 엣지·크롬의 앱 설치(바탕화면 아이콘, 주소창 없는 창, 기록·새 기능 그대로) 또는 이 파일 내려받기.
+   바로가기 파일(.url)은 윈도우가 열 때마다 보안 경고를 띄워 만들지 않음 */
+const SITE = "https://minseok3773.github.io/yakkuk/bokmu/";
+const ONLINE = /^https?:$/.test(location.protocol) && !window.claude;
+const STANDALONE = window.matchMedia && matchMedia("(display-mode: standalone)").matches;
+let installEvt = null;
+if (ONLINE) {
+  const add = (rel, href, extra) => { const l = document.createElement("link"); l.rel = rel; l.href = href; Object.assign(l, extra || {}); document.head.append(l); };
+  add("manifest", "manifest.webmanifest"); add("icon", "icon-192.png", {type:"image/png"}); add("apple-touch-icon", "icon-192.png");
+  const m = document.createElement("meta"); m.name = "theme-color"; m.content = "#2c4677"; document.head.append(m);
+}
+function paintDesk(){
+  $("deskBtn").hidden = !ONLINE || STANDALONE;
+  $("installBtn").hidden = !installEvt;
+  $("fileBtn").hidden = !ONLINE;
+  $("deskHow").textContent = STANDALONE ? "바탕화면 앱으로 열려 있습니다."
+    : !ONLINE ? "바탕화면에서 쓰려면 웹사이트 주소(" + SITE + ")를 엣지나 크롬으로 열고 이 칸의 ‘바탕화면에 설치’를 누르세요."
+    : (installEvt ? "‘바탕화면에 설치’를 누르면 바탕화면에 아이콘이 생기고, 주소창 없는 창으로 열립니다. 기록과 새 기능은 이 웹사이트와 같습니다."
+       : "엣지: 주소창 오른쪽의 ‘앱 설치’ 단추(또는 … → 앱 → 이 사이트를 앱으로 설치). 크롬: ⋮ → 전송, 저장 및 공유 → 바로가기 만들기 → ‘창으로 열기’ 체크.") +
+      " ‘파일로 내려받기’는 바탕화면 파일을 두 번 눌러 엽니다. 다만 기록이 이 웹사이트와 따로 저장되고, 새 기능이 반영되지 않으며, 그림·엑셀 읽기는 인터넷이 있어야 됩니다.";
+}
+addEventListener("beforeinstallprompt", e => { e.preventDefault(); installEvt = e; paintDesk(); });
+addEventListener("appinstalled", () => { installEvt = null; paintDesk(); $("deskStatus").textContent = "바탕화면에 설치했습니다."; $("deskStatus").className = "status"; });
+$("deskBtn").addEventListener("click", () => { const d = $("setBox"); d.open = true; d.scrollIntoView({behavior:"smooth", block:"start"}); });
+$("installBtn").addEventListener("click", async () => {
+  if (!installEvt) return;
+  const ev = installEvt; installEvt = null;
+  try { await ev.prompt(); const c = await ev.userChoice; $("deskStatus").textContent = c && c.outcome === "accepted" ? "설치했습니다. 바탕화면의 ‘복무상황부’ 아이콘으로 여세요." : "설치를 취소했습니다."; $("deskStatus").className = "status"; }
+  catch (e) { $("deskStatus").textContent = "설치 창을 열지 못했습니다. 아래 방법으로 설치해 주세요."; $("deskStatus").className = "status err"; }
+  paintDesk();
+});
+$("fileBtn").addEventListener("click", async () => {
+  try {
+    const res = await fetch(location.pathname.replace(/[^/]*$/, "") + "index.html", {cache:"no-store"});
+    if (!res.ok) throw 0;
+    await saveFile("복무상황부.html", await res.text(), "text/html", $("deskStatus"));
+  } catch (e) { $("deskStatus").textContent = "파일을 만들지 못했습니다. 인터넷 연결을 확인해 주세요."; $("deskStatus").className = "status err"; }
+});
+$("copyUrl").addEventListener("click", () => copyText(SITE, $("deskStatus"), "주소를 복사했습니다: " + SITE));
+paintDesk();
 
 paintSet();
 paint();
