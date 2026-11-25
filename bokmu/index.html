@@ -600,7 +600,7 @@ function paintAIMode(){
   $("scanRow").hidden = !ai;
   $("file").accept = ".xlsx,.xls,.csv,image/*";
   $("dropMain").textContent = "근태현황 그림(PNG)이나 엑셀 파일을 끌어 놓거나 눌러서 고르기";
-  $("dropSub").textContent = ai ? "화면 캡처 뒤 Ctrl+V로 붙여 넣어도 됩니다 · Claude가 그림을 읽습니다" : "화면 캡처 뒤 Ctrl+V로 붙여 넣어도 됩니다 · 그림 글자는 이 컴퓨터 안에서 읽습니다";
+  $("dropSub").textContent = "포털에서 요원을 한 명씩 눌러 캡처하고 차례로 Ctrl+V · 다 넣은 뒤 한 번에 채웁니다" + (ai ? "" : " · 그림은 이 컴퓨터 안에서 읽습니다");
 }
 (async () => {
   if (window.claude) {
@@ -659,16 +659,52 @@ function matchTarget(r){
     const names = [...new Set(fit.map(s => s.name))];
     if (names.length === 1) nm = names[0];
   }
-  const hit = db.people.find(p => p.name === nm);
+  const hit = db.people.find(p => p.name === nm) || (r.ocr ? nearName(nm) : null);
   return hit ? hit.id : (nm ? "new:" + nm : (person(cur.pid) ? cur.pid : "new:"));
+}
+/* 캡처를 한 명씩 넣으면 결과가 쌓임. 같은 합계표는 한 번만 두고, 같은 요원·같은 달 날짜 목록은 새 것으로 바꿈 */
+const nameClose = (a, b) => a === b || (!!a && !!b && a.length === b.length && a.length >= 3 && [...a].filter((ch, i) => ch !== b[i]).length === 1);
+function targetName(r){ return r.target.startsWith("new:") ? r.target.slice(4) : ((person(r.target) || {}).name || ""); }
+function addResult(r){
+  r.target = matchTarget(r);
+  if (r.summary.length) {
+    /* 같은 합계표(이름이 절반 넘게 겹침)는 하나로 합침. 먼저 읽은 값은 두고, 빠졌던 요원만 더함 */
+    const prev = results.find(x => !x.scan && x.summary.length && r.summary.filter(y => x.summary.some(z => nameClose(y.name, z.name))).length * 2 > Math.min(x.summary.length, r.summary.length));
+    if (prev) { r.summary.forEach(y => { if (!prev.summary.some(z => nameClose(y.name, z.name))) prev.summary.push(y); }); r.summary = []; }
+  }
+  if (r.days.length && r.target && r.target !== "new:") {
+    results = results.filter(x => {
+      if (x.scan || !x.days.length || x.target !== r.target || (x.ym && r.ym && x.ym !== r.ym)) return true;
+      if (x.summary.length) { x.days = []; return true; }
+      return false;
+    });
+  }
+  if (r.summary.length || r.days.length) results.push(r);
+  return r;
+}
+function progressHtml(){
+  const names = [];
+  results.forEach(r => r.summary.forEach(x => { if (!names.some(n => nameClose(n, x.name))) names.push(x.name); }));
+  if (names.length < 2) return "";
+  const done = results.filter(r => r.days.length).map(targetName);
+  const left = names.filter(n => !done.some(d => nameClose(d, n)));
+  return '<div class="row"><span class="muted">날짜 목록</span>' + names.map(n => { const ok = done.some(d => nameClose(d, n)); return '<span class="tag' + (ok ? " ok" : "") + '">' + (ok ? "✓ " : "") + esc(n) + '</span>'; }).join("") +
+    (left.length ? '<span class="muted">남은 요원 ' + left.length + '명</span>' : '<span class="tag ok">모두 넣음</span>') + '</div>';
+}
+function afterCapture(errs){
+  paintPreview();
+  if (!results.length) { setUp(errs[0] || "읽지 못했습니다.", true); return; }
+  if (errs.length) { setUp(errs[0], true); return; }
+  const last = [...results].reverse().find(r => r.days.length), who = last ? targetName(last) : "";
+  setUp((who ? who + " 님 날짜 목록을 읽었습니다." : "읽었습니다.") + " 다음 요원을 포털에서 눌러 캡처한 뒤 Ctrl+V로 붙여 넣으세요. 다 넣었으면 ‘달력에 채우기’를 누르세요.");
 }
 function paintPreview(){
   const box = $("preview");
   if (!results.length) { box.hidden = true; box.innerHTML = ""; return; }
   box.hidden = false;
-  box.innerHTML = results.map((r, i) => {
-    if (r.scan) return scanBlock(r, i);
-    let h = '<div class="preview" data-i="' + i + '"><div class="row" style="justify-content:space-between"><strong>읽은 결과 ' + (results.length > 1 ? (i + 1) : "") + '</strong>' + (r.ocr ? '<span class="tag warn">그림 글자 인식 · 숫자 확인</span> ' : "") + (r.ym ? '<span class="tag">' + r.ym.replace("-", "년 ") + '월</span>' : "") + '</div>';
+  box.innerHTML = progressHtml() + results.map((r, i) => {
+    if (r.scan) return scanBlock(r, i).replace("</strong>", '</strong> <button type="button" class="sm" data-rm="' + i + '">빼기</button>');
+    let h = '<div class="preview" data-i="' + i + '"><div class="row" style="justify-content:space-between"><span class="row"><strong>' + (r.days.length && !r.summary.length ? esc(targetName(r) || "날짜 목록") : "읽은 결과 " + (results.length > 1 ? (i + 1) : "")) + '</strong><button type="button" class="sm" data-rm="' + i + '">빼기</button></span>' + (r.ocr ? '<span class="tag warn">그림 글자 인식 · 숫자 확인</span> ' : "") + (r.ym ? '<span class="tag">' + r.ym.replace("-", "년 ") + '월</span>' : "") + '</div>';
     if (r.summary.length && r.ocr) h += '<div class="row muted">합계표 (이름이 틀렸으면 고쳐 주세요):</div><div class="row">' + r.summary.map((s, j) => '<label class="row muted" style="gap:4px"><input type="text" data-sn="' + i + ':' + j + '" value="' + esc(s.name) + '" style="width:84px" aria-label="성명"> 출근일수 ' + s.workdays + ' · 연가 ' + s.annual + ' · 병가 ' + s.sick + (s.special ? ' · 특휴 ' + s.special : "") + '</label>').join("") + '</div>';
     else if (r.summary.length) h += '<div class="muted">합계표: ' + r.summary.map(s => esc(s.name) + ' (출근일수 ' + s.workdays + ', 연가 ' + s.annual + ', 병가 ' + s.sick + (s.special ? ', 특휴 ' + s.special : "") + ')').join(" · ") + '</div>';
     if (r.days.length) {
@@ -701,6 +737,8 @@ $("preview").addEventListener("change", e => {
 });
 $("preview").addEventListener("click", e => {
   if (e.target.id === "cancelAll") { results = []; paintPreview(); setUp(""); }
+  const rm = e.target.closest("[data-rm]");
+  if (rm) { results.splice(+rm.dataset.rm, 1); paintPreview(); setUp(results.length ? "뺐습니다." : ""); }
   if (e.target.id === "applyAll") applyResults();
 });
 /* 글자 인식은 이름 한 글자를 틀릴 수 있어, 글자 수가 같고 한 글자만 다른 기존 요원이 한 명이면 그 요원으로 봄 */
@@ -756,19 +794,17 @@ async function readFiles(files){
 async function readImages(files){
   if (!(sample && imgOK)) return readImagesOCR(files);
   if (reading) return;
-  reading = true; results = []; paintPreview();
+  reading = true;
   const errs = [];
   for (let i = 0; i < files.length; i++) {
     setUp("사진을 읽는 중… " + (files.length > 1 ? "(" + (i + 1) + "/" + files.length + ") " : "") + "30초쯤 걸립니다.");
     try {
       const out = await sample(PROMPT, {images:[files[i]], cache:false});
-      const r = parseReply(out.text); r.target = matchTarget(r); results.push(r);
+      addResult(parseReply(out.text));
     } catch (e) { errs.push(errMsg(e)); if (e && (e.code === "not_granted" || e.code === "rate_limited")) break; }
   }
   reading = false;
-  paintPreview();
-  if (results.length) setUp(errs.length ? errs.length + "장은 읽지 못했습니다. " + errs[0] : "다 읽었습니다. 맞는지 보고 ‘달력에 채우기’를 누르세요.", !!errs.length);
-  else setUp(errs[0] || "읽지 못했습니다.", true);
+  afterCapture(errs);
 }
 /* ---------- 그림(PNG 등) 글자 인식: AI 없이 이 컴퓨터 안에서 읽음 (tesseract.js, 한국어 자료는 처음 한 번 내려받음) ---------- */
 const OCR_V = {js:"https://cdn.jsdelivr.net/npm/tesseract.js@5.1.1/dist/tesseract.min.js", worker:"https://cdn.jsdelivr.net/npm/tesseract.js@5.1.1/dist/worker.min.js", core:"https://cdn.jsdelivr.net/npm/tesseract.js-core@5.1.1", lang:"https://cdn.jsdelivr.net/npm/@tesseract.js-data/kor@1.0.0/4.0.0_best_int"};
@@ -776,7 +812,7 @@ let ocrWorkerP = null, ocrPct = null;
 function loadOCR(){
   if (ocrWorkerP) return ocrWorkerP;
   ocrWorkerP = new Promise((ok, no) => {
-    const go = () => window.Tesseract.createWorker("kor", 1, {workerPath:OCR_V.worker, corePath:OCR_V.core, langPath:OCR_V.lang,
+    const go = () => !(window.Tesseract && window.Tesseract.createWorker) ? no(new Error("load")) : window.Tesseract.createWorker("kor", 1, {workerPath:OCR_V.worker, corePath:OCR_V.core, langPath:OCR_V.lang,
       logger: m => { if (ocrPct && m && typeof m.progress === "number") ocrPct(m.status, m.progress); }})
       .then(async w => { await w.setParameters({tessedit_pageseg_mode:"6", preserve_interword_spaces:"1"}); ok(w); }, no);
     if (window.Tesseract) return go();
@@ -793,9 +829,19 @@ async function ocrCanvas(file){
     const c = document.createElement("canvas"); c.width = im.naturalWidth * S; c.height = im.naturalHeight * S;
     const x = c.getContext("2d"); x.imageSmoothingQuality = "high"; x.drawImage(im, 0, 0, c.width, c.height);
     const d = x.getImageData(0, 0, c.width, c.height), p = d.data;
+    /* 합계표에서 노랗게 강조된 줄(= 오른쪽 날짜 목록의 주인)을 찾음: 왼쪽 40% 안에서 노란 점이 많은 가로줄 */
+    let band = null, run = [], best = [];
+    const xMax = Math.floor(c.width * 0.4), step = 4;
+    for (let y = 0; y < c.height; y += S) {
+      let n = 0, t = 0;
+      for (let xx = 0; xx < xMax; xx += step) { const k = (y * c.width + xx) * 4; t++; if (p[k] > 235 && p[k+1] > 205 && p[k+2] < 220 && p[k] - p[k+2] > 25) n++; }
+      if (n > t * 0.3) run.push(y); else { if (run.length > best.length) best = run; run = []; }
+    }
+    if (run.length > best.length) best = run;
+    if (best.length >= 3) band = (best[0] + best[best.length - 1]) / 2;
     for (let i = 0; i < p.length; i += 4) { const v = (0.299 * p[i] + 0.587 * p[i+1] + 0.114 * p[i+2]) < 200 ? 0 : 255; p[i] = p[i+1] = p[i+2] = v; }
     x.putImageData(d, 0, 0);
-    return c;
+    return {c, band};
   } finally { URL.revokeObjectURL(url); }
 }
 /* 인식한 글을 줄마다 나눠 합계표 줄과 날짜별 목록 줄로 읽음 */
@@ -813,7 +859,10 @@ function parseOCR(text){
       const kind = line.slice(dm.index + dm[0].length).replace(/^\s*[월화수목금토일훨급복]\s/, " ").trim();
       out.daily[""].push({date: dm[1] + "-" + pad(+dm[2]) + "-" + pad(+dm[3]), kind: kind || "?"});
     }
-    const toks = left.split(/\s+/).map(t => t.replace(/[_.,'"」「]/g, "")).filter(Boolean).map(fixNum);
+    let toks = left.split(/\s+/).map(t => t.replace(/[_.,'"」「]/g, "")).filter(Boolean).map(fixNum);
+    const fi0 = toks.findIndex(t => /^\d+$/.test(t));
+    /* 숫자 자리(첫 숫자 뒤)에서 굵은 글씨를 잘못 읽은 것 고침: ㅇ·ㅁ·o → 0(여러 개면 그만큼), 고·ㄱ·ㅣ·l·| → 1 */
+    if (fi0 >= 0) toks = toks.slice(0, fi0).concat(toks.slice(fi0).flatMap(t => /^[ㅇㅁoO0]+$/.test(t) ? [...t].map(() => "0") : /^[고ㄱㅣlI|\[\]!]$/.test(t) ? ["1"] : [t]));
     const fi = toks.findIndex(t => /^\d+$/.test(t));
     if (fi < 1) return;
     let ni = -1; for (let k = fi - 1; k >= 0; k--) if (/^[가-힣]{2,4}$/.test(toks[k])) { ni = k; break; }
@@ -833,9 +882,16 @@ function parseOCR(text){
   if (!out.daily[""].length) delete out.daily[""];
   return out;
 }
+/* 강조된 줄의 성명만 읽음: 첫 숫자(생년월일 등) 바로 앞의 한글 낱말 */
+function lineName(text){
+  const toks = String(text || "").split(/\s+/).map(t => t.replace(/[_.,'"」「]/g, "")).filter(Boolean);
+  const fi = toks.findIndex(t => /\d{3,}/.test(t));
+  for (let k = (fi < 0 ? toks.length : fi) - 1; k >= 0; k--) if (/^[가-힣]{2,4}$/.test(toks[k]) && !/근무지|성명|센터|둥지/.test(toks[k])) return toks[k];
+  return "";
+}
 async function readImagesOCR(files){
   if (reading) return;
-  reading = true; results = []; paintPreview();
+  reading = true;
   const errs = [];
   let w;
   ocrPct = (st, pr) => { if (/load|init/i.test(st)) setUp("글자 인식 도구를 준비하는 중… " + Math.round(pr * 100) + "% (처음 한 번만 10~20초)"); };
@@ -846,16 +902,19 @@ async function readImagesOCR(files){
     ocrPct = (st, pr) => { if (/recogn/i.test(st)) setUp("그림 글자를 읽는 중… " + tag + Math.round(pr * 100) + "%"); };
     try {
       setUp("그림 글자를 읽는 중… " + tag);
-      const r0 = await w.recognize(await ocrCanvas(files[i]));
+      const {c, band} = await ocrCanvas(files[i]);
+      const r0 = await w.recognize(c, {}, {blocks:true, text:true});
+      let sel = "";
+      if (band != null) (r0.data.blocks || []).forEach(b => (b.paragraphs || []).forEach(pp => (pp.lines || []).forEach(l => {
+        if (!sel && l.bbox && l.bbox.y0 <= band && band <= l.bbox.y1) sel = lineName(l.text);
+      })));
       const rs = sheetResults(parseOCR(r0.data.text));
       if (!rs.length) throw new Error("empty");
-      rs.forEach(r => { r.ocr = true; r.target = matchTarget(r); results.push(r); });
+      rs.forEach(r => { r.ocr = true; if (sel && r.days.length && !r.selected) r.selected = sel; addResult(r); });
     } catch (e) { errs.push(files[i].name || "그림"); }
   }
   ocrPct = null; reading = false;
-  paintPreview();
-  if (results.length) setUp(errs.length ? errs.join(", ") + "에서 근태 표를 찾지 못했습니다." : "다 읽었습니다. 그림 글자 인식은 틀릴 수 있으니 포털 화면과 숫자를 맞춰 보고 ‘달력에 채우기’를 누르세요.", !!errs.length);
-  else setUp("그림에서 근태 표를 찾지 못했습니다. 근태현황 표가 잘리지 않게 캡처해서 다시 올려 주세요.", true);
+  afterCapture(errs.map(n => n + "에서 근태 표를 찾지 못했습니다. 표가 잘리지 않게 캡처해서 다시 넣어 주세요."));
 }
 /* ---------- 종이 일일 복무 상황부 스캔 읽기 (Claude판, AI) ----------
    PDF는 pdf.js로 쪽마다 그림으로 바꾸고, 옆으로 누운 쪽은 세운 뒤, 위(날짜 칸)·아래(근무상황 표) 두 장으로 나눠 보냄 */
@@ -1128,7 +1187,7 @@ function readPasted(html, text){
   gridsFrom(html, text).forEach(g => { const p = parseGrid(g); if (p.summary.length || Object.keys(p.daily).length) add(p); else add(parseLoose(g)); });
   const rs = sheetResults(merged);
   if (!rs.length) { setUp("붙여 넣은 내용에서 근태 표를 찾지 못했습니다. 포털 근태현황의 표 부분을 끌어 선택해 다시 복사해 주세요.", true); return; }
-  rs.forEach(r => { r.target = matchTarget(r); results.push(r); });
+  rs.forEach(r => addResult(r));
   results.forEach(r => { if (r.days.length && r.target.startsWith("new:") && r.target.length <= 4) r.target = matchTarget(r); });
   paintPreview();
   setUp("읽었습니다. 다른 요원 표도 이어서 붙여 넣을 수 있습니다. 다 넣었으면 ‘달력에 채우기’를 누르세요.");
@@ -1165,7 +1224,7 @@ async function readSheets(files){
       });
       const rs = sheetResults(merged);
       if (!rs.length) throw new Error("empty");
-      rs.forEach(r => { r.target = matchTarget(r); results.push(r); });
+      rs.forEach(r => addResult(r));
     } catch (e) { errs.push(f.name); }
   }
   reading = false;
