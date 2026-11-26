@@ -42,3 +42,8 @@
 
 - 2026-11-25 사용자 결정("약국이는 별개니깐 복무로")으로 별도 저장소 **minseok3773/bokmu**로 옮겼습니다. 새 주소 https://minseok3773.github.io/bokmu/ . 작업 안내는 그 저장소의 CLAUDE.md를 따릅니다.
 - 이 저장소의 `bokmu/index.html`(gh-pages에도 같은 파일)은 예전 주소 https://minseok3773.github.io/yakkuk/bokmu/ 를 새 주소로 넘겨 주는 페이지만 남겼습니다(예전 서비스 워커를 지움). 같은 사이트라 브라우저 기록은 이어집니다. 복무상황부 코드를 이 저장소에서 고치지 않습니다.
+
+## 키오스크 (지움)
+
+- 2026-11-26 사용자 요청("약국이에 들어가있는 키오스크는 삭제해줘")으로 "쉼표카페 키오스크"(`kiosk/`: 화면, QR 그림, 음성 파일)를 작업 가지·main·gh-pages에서 지웠습니다. 예전 주소 https://minseok3773.github.io/yakkuk/kiosk/ 는 열리지 않습니다. 다시 넣지 않습니다(되살리려면 사용자가 요청해야 하며, git 기록에 남아 있습니다).
+- Claude에 따로 게시된 "둥지카페 키오스크" 아티팩트(https://claude.ai/artifact/1YaxnTvttQTomjMbq1dMYN)는 이 저장소와 별개라 그대로 두었습니다.
