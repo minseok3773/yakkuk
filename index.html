@@ -198,8 +198,8 @@ ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
 탐스로신 0.2mg 하루 1회 (비뇨기과)</textarea>
       </div>
       <div class="field" id="photoField" hidden>
-        <label for="photo">약 봉투·처방전 사진에서 읽어 오기 (이름은 가리고)</label>
-        <input type="file" id="photo" accept="image/*">
+        <label for="photo">약 봉투·처방전 사진이나 스크린샷에서 읽어 오기 (Ctrl+V로 붙여 넣어도 됨, 이름은 가리고)</label>
+        <input type="file" id="photo" accept="image/*" multiple>
       </div>
       <div class="field">
         <label id="condsLabel">회원 상태 (해당하는 것만 선택)</label>
@@ -311,7 +311,7 @@ function el(tag, attrs, ...kids){
 const arr = v => Array.isArray(v) ? v : [];
 const str = v => (v==null ? "" : String(v));
 
-let sample = null, busy = false, lastData = null, downloads = null, notes = [], lastInput = null, vitals = [];
+let imgLim = null, sample = null, busy = false, lastData = null, downloads = null, notes = [], lastInput = null, vitals = [];
 (async () => { try { downloads = window.claude ? await window.claude.use("downloads") : null; } catch (e) { downloads = null; } })();
 const runBtn = $("run"), statusEl = $("status");
 function setStatus(msg, err){ statusEl.textContent = msg; statusEl.className = "status" + (err ? " err" : ""); }
@@ -322,7 +322,7 @@ if (WEB) $("webTag").hidden = false;
 (async () => {
   try { sample = window.claude ? await window.claude.use("sample") : null; } catch(e){ sample = null; }
   if (sample){ runBtn.disabled = false; runBtn.textContent = "정리하기";
-    try { const lim = await sample.limits(); if (lim && lim.images) $("photoField").hidden = false; } catch(e){} }
+    try { const lim = await sample.limits(); if (lim && lim.images){ imgLim = lim.images; $("photoField").hidden = false; } } catch(e){} }
   else { runBtn.disabled = false; runBtn.textContent = "ChatGPT로 정리하기"; $("altSum").textContent = "ChatGPT로 정리하는 순서"; }
 })();
 
@@ -336,7 +336,7 @@ let isExample = true;
 ["drugs","obs"].forEach(id => $(id).addEventListener("input", () => { isExample = false; $("exTag").style.display = "none"; }));
 
 /* ---------- 혈압·체중·혈당: 회원 기록(input.vitals, input.height)에 날짜별로 둠 {date, sys, dia, wt, bg, bgWhen}.
-   범위 판정은 함께 쓰는 vitalsSum(혈압·체중)과 bgLevel·bgFrom(혈당, 2026-11-24 추가) ---------- */
+   범위 판정은 vitalsSum(혈압·체중)과 bgLevel·bgFrom(혈당, 2026-11-24 추가) ---------- */
 const z2 = n => String(n).padStart(2, "0");
 const todayIso = () => { const d = new Date(); return d.getFullYear() + "-" + z2(d.getMonth() + 1) + "-" + z2(d.getDate()); };
 const monthDay = iso => { const [y, m, d] = str(iso).split("-").map(Number); return (y !== new Date().getFullYear() ? y + "년 " : "") + m + "월 " + d + "일"; };
@@ -382,7 +382,7 @@ function paintVitals(){
   if (g.length) tags.push(bgSumTag(g));
   if (tags.length) box.append(el("div", {class:"sum"}, ...tags));
 }
-/* 혈당 잰 때: 고를 것을 채우고, 지난번 고른 것을 미리 골라 둠 (BG_WHEN은 아래 함께 쓰는 부분에 있어 처음 그리기 때 부름) */
+/* 혈당 잰 때: 고를 것을 채우고, 지난번 고른 것을 미리 골라 둠 (BG_WHEN이 이 아래에 있어 처음 그리기 때 부름) */
 function setBgWhen(){
   const sel = $("vBgWhen");
   if (!sel.options.length) BG_WHEN.forEach(([v, t]) => sel.append(el("option", {value:v, text:t})));
@@ -416,26 +416,37 @@ $("vAdd").addEventListener("click", () => {
 $("height").addEventListener("keydown", e => { if (e.key === "Enter") e.preventDefault(); });
 $("height").addEventListener("input", () => { paintVitals(); vitalsChanged(); });
 
-$("photo").addEventListener("change", async (e) => {
-  const file = e.target.files && e.target.files[0];
-  if (!file || busy || !sample) return;
-  busy = true; runBtn.disabled = true; setStatus("사진에서 약 이름을 읽는 중입니다.");
+/* 약 봉투·처방전 사진이나 스크린샷에서 약을 읽어 지금 회원의 약 칸에 넣음(파일 고르기, Ctrl+V). 열린 회원이 없으면 새 회원으로 저장 */
+async function readDrugImages(list){
+  if (busy) return;
+  if (!sample || !imgLim){ setStatus(WEB ? SHOT_WEB : "이 화면에서는 그림을 읽을 수 없습니다. 약을 직접 입력해 주세요.", true); return; }
+  const files = imageFiles(list, imgLim.maxCount || 5).filter(f => !arr(imgLim.mediaTypes).length || imgLim.mediaTypes.includes(f.type));
+  if (!files.length){ setStatus("읽을 수 있는 그림이 없습니다. PNG나 JPG 그림을 붙여 넣어 주세요.", true); return; }
+  if (imgLim.maxInputBytes && files.some(f => f.size > imgLim.maxInputBytes)){ setStatus("그림이 너무 큽니다. 약 목록 부분만 잘라 다시 붙여 넣어 주세요.", true); return; }
+  busy = true; runBtn.disabled = true; setStatus("그림에서 약 이름을 읽는 중입니다.");
   try {
-    const out = await sample("이 사진은 약 봉투 또는 처방전이다. 약 이름과 용량, 복용 횟수만 한 줄에 하나씩 적어라. 사람 이름, 주민등록번호, 병원·약국 이름 등 개인정보는 절대 적지 마라. 약 이름을 읽을 수 없으면 '읽지 못함'이라고만 적어라. 다른 말은 쓰지 마라.", {images:[file], cache:false});
-    const t = (out.text || "").trim();
-    if (!t || t.includes("읽지 못함")) setStatus("사진에서 약 이름을 읽지 못했습니다. 더 밝고 또렷한 사진으로 다시 올리거나 직접 입력해 주세요.", true);
-    else {
-      if (isExample){ $("drugs").value = t; $("obs").value = ""; isExample = false; $("exTag").style.display = "none"; }
-      else $("drugs").value = ($("drugs").value.trim() ? $("drugs").value.trim() + "\n" : "") + t;
-      setStatus("사진에서 읽은 약을 넣었습니다. 약 봉투와 대조한 뒤 정리하기를 눌러 주세요.");
-      saveSoon();
-    }
+    const out = await sample(SHOT_PROMPT, {images:files, cache:false});
+    const r = shotLines(out.text);
+    if (!r.lines.length){ setStatus("그림에서 약 이름을 읽지 못했습니다. 약 목록이 잘 보이게 잘라서 다시 붙여 넣어 주세요.", true); return; }
+    if (isExample){ $("drugs").value = ""; $("obs").value = ""; $("age").value = ""; $("sex").value = ""; document.querySelectorAll("#conds input").forEach(c => c.checked = false);
+      isExample = false; $("exTag").style.display = "none"; }
+    const mg = mergeDrugLines($("drugs").value, r.lines);
+    $("drugs").value = mg.text;
+    busy = false; ensureMember(); saveSoon();   /* 새 회원 만들기는 작업 중(busy)이면 막혀 있어 먼저 풂 */
+    setStatus(shotReport(mg, r.unsure, curRec() ? str(curRec().label) : "") + " 그다음 정리하기를 눌러 주세요.");
   } catch (err) {
-    setStatus(err && err.code === "not_granted" ? "AI 사용을 허용해야 사진을 읽을 수 있습니다." : "사진을 읽지 못했습니다. 직접 입력해 주세요.", true);
-  } finally { busy = false; runBtn.disabled = false; e.target.value = ""; }
+    setStatus(shotErr(err), true);
+  } finally { busy = false; runBtn.disabled = false; }
+}
+$("photo").addEventListener("change", e => { const f = Array.from(e.target.files || []); e.target.value = ""; readDrugImages(f); });
+/* 어디서든 Ctrl+V로 그림을 붙여 넣으면 읽음 (글은 그대로 붙여 넣어짐) */
+document.addEventListener("paste", e => {
+  const files = imageFiles(e.clipboardData && e.clipboardData.files, 10);
+  if (!files.length) return;
+  e.preventDefault();
+  readDrugImages(files);
 });
 
-/* @@share-begin: 약국이 현황판(board/index.html)도 여기부터 @@share-end까지를 그대로 씁니다. 고친 뒤 python3 tools/build_board.py */
 /* ---------- 내장 약 정보: 미국 FDA가 공개한 허가사항(openFDA drug label)을 2026-11-14에 내려받아, 이 프로젝트에서 우리말로 간추린 것 ----------
    k = 영문 성분명, ko = 우리말 성분명, br = 널리 알려진 제품명, se = 허가사항의 흔한 이상반응, warn = 경고문·경고와 주의,
    care = 실무자가 살필 점, id = 허가사항 문서 번호(DailyMed setid), dt = 그 문서의 개정일, n = 근거 문서가 특수한 경우의 설명.
@@ -743,9 +754,7 @@ const ELDER = [
   {list:["agomelatine"], lv:"보통", msg:"75세 이상에서는 효과가 확인되지 않아 쓰지 않도록 되어 있음(영국 허가사항)."},
   {list:["domperidone"], lv:"보통", msg:"60세가 넘으면 심장 부정맥 위험이 더 높음(영국 허가사항). 두근거림, 실신을 관찰."}
 ];
-/* @@share-end */
 $("conds").append(...CONDS.map(c => el("label", {for:"c_" + c.id}, el("input", {type:"checkbox", id:"c_" + c.id, value:c.id}), el("span", {text:c.label}))));
-/* @@share-begin: 약국이 현황판(board/index.html)도 여기부터 @@share-end까지를 그대로 씁니다. 고친 뒤 python3 tools/build_board.py */
 let lastConds = [], lastAge = "";
 function condCheck(drugs){
   const out = [];
@@ -963,7 +972,6 @@ function bgText(list, max){
   L.push("혈당 " + list.length + "번 잼: 높음 " + list.filter(x => x.lvl.high).length + "번, 70 미만 " + list.filter(x => x.lvl.low).length + "번");
   return L.join("\n");
 }
-/* @@share-end */
 function healthGroups(drugs){
   const g = new Map();
   drugs.forEach(x => offOf(x).forEach(o => {
@@ -1128,7 +1136,6 @@ function photoBox(x){
   return box;
 }
 
-/* @@share-begin: 약국이 현황판(board/index.html)도 여기부터 @@share-end까지를 그대로 씁니다. 고친 뒤 python3 tools/build_board.py */
 /* ---------- 건강 개입 기본 지침: 약은 그대로 두고 실무자가 할 수 있는 일. AI가 아니라 아래 표로 정하므로 같은 약이면 항상 같은 지침이 나옴 ----------
    list = 이 지침을 띄우는 성분, cond = 관련된 회원 상태(선택하면 맨 위로 올림) */
 const CARE = [
@@ -1304,7 +1311,6 @@ function careTopics(drugs){
   });
   return out.sort((a, b) => b.boost - a.boost);
 }
-/* @@share-end */
 
 function buildPrompt(drugs, obs, age, sex, conds, vit){
   const pre = drugs.split("\n").map(x => x.trim()).filter(Boolean).map(l => [l, localMatch(l)]).filter(p => p[1].length);
@@ -1448,7 +1454,6 @@ $("form").addEventListener("submit", async (e) => {
    같은 약: 성분이 같은 약(내장 사전으로 찾은 성분, 없으면 그 회원을 정리할 때 AI가 읽은 성분),
    또는 용량을 뺀 약 이름이 같은 약. 회원 기록을 읽어 그때그때 셈하고 따로 저장하지 않는다.
    한 회원의 저장·복사 글에는 다른 회원의 정보를 넣지 않는다. */
-/* @@share-begin: 약국이 현황판(board/index.html)도 여기부터 @@share-end까지를 그대로 씁니다. 고친 뒤 python3 tools/build_board.py */
 const FORM_END = /(서방정|서방캡슐|장용정|장용캡슐|구강붕해정|필름코팅정|츄어블정|연질캡슐|경질캡슐|캡슐|캅셀|정|시럽|현탁액|패치)$/;
 const DOSE_WORD = /^(반알|한알|두알|세알|반정|아침|점심|저녁|취침|자기|잠자기|하루|매일|식전|식후|필요시|필요할)/;
 const DOSE_UNIT = /^\s*(mg|ml|mcg|μg|µg|g(?![a-z])|iu|밀리|미리|마이크로|그램)/i;
@@ -1483,7 +1488,46 @@ function mode(list){
   list.forEach(v => { const k = (c.get(v) || 0) + 1; c.set(v, k); if (k > n){ n = k; best = v; } });
   return best;
 }
-/* @@share-end */
+/* ---------- 사진·스크린샷에서 약 읽기(2026-11-26 사용자 요청 "회원별로 스크린샷을 붙여넣기하면 읽어서 약물을 자동으로 입력"):
+   AI(sample images)에게 줄 요청문과 답 정리. 답은 "약 이름 용량 복용법 (진료과)" 한 줄씩, 확실하지 않은 줄은 앞에 "?" ---------- */
+const SHOT_PROMPT = "이 그림은 처방전, 약 봉투, 약국·병원 프로그램 화면, 건강보험 '내가 먹는 약' 화면 같은 약 목록의 사진이나 스크린샷이다. "
+  + "지금 먹는 약만 한 줄에 하나씩 '약 이름 용량 복용법 (진료과)' 꼴로 적어라. 예: 리스페리돈정 2mg 하루 2회 (정신건강의학과). "
+  + "그림에 없는 용량·복용법·진료과는 빼고 적는다. 같은 약이 여러 번 나오면 한 번만 적는다. 약이 아닌 글(금액, 날짜, 안내문, 주의사항)은 적지 않는다. "
+  + "사람 이름, 주민등록번호, 생년월일, 연락처, 주소, 병원·약국 이름은 절대 적지 않는다. 글자가 흐리거나 잘려서 확실하지 않은 약은 줄 맨 앞에 '? '를 붙인다. "
+  + "약을 하나도 읽을 수 없으면 '읽지 못함'이라고만 적는다. 번호, 표시, 다른 말은 쓰지 않는다.";
+/* AI 답을 약 줄로: 번호·표시를 떼고, "?"로 시작한 줄은 확인이 필요한 약으로 모음 */
+function shotLines(text){
+  const lines = [], unsure = [];
+  str(text).split(/\r?\n/).forEach(l => {
+    let t = l.trim().replace(/^[-*•·]\s*/, "").replace(/^\d+[.)]\s+/, "").trim();
+    const q = t.startsWith("?");
+    t = t.replace(/^\?\s*/, "").trim();
+    if (!t || t.includes("읽지 못함") || t.length > 120 || lines.includes(t)) return;
+    lines.push(t);
+    if (q) unsure.push(drugName(t) || t);
+  });
+  return {lines, unsure};
+}
+/* 읽은 줄을 지금 약 목록 뒤에 붙임. 용량을 뺀 이름이 같은 약이 이미 있으면 넣지 않고 알림(용량이 바뀌었을 수 있어 사람이 고침) */
+function mergeDrugLines(cur, lines){
+  const have = str(cur).split("\n").map(x => x.trim()).filter(Boolean), keys = new Set(have.map(nameKey).filter(Boolean)), add = [], skip = [];
+  lines.forEach(l => { const k = nameKey(l); if (k && keys.has(k)) skip.push(drugName(l) || l); else { add.push(l); if (k) keys.add(k); } });
+  return {text:have.concat(add).join("\n"), add, skip};
+}
+/* 붙여 넣거나 고른 파일 가운데 그림만, 최대 n장 */
+const imageFiles = (list, n) => Array.from(list || []).filter(f => f && /^image\//.test(str(f.type))).slice(0, n || 5);
+/* 그림 읽기 결과 알림 */
+function shotReport(mg, unsure, who){
+  return "그림에서 약 " + mg.add.length + "개를 읽어 " + (who ? who + "의 " : "") + "약 칸에 넣었습니다."
+    + (mg.skip.length ? " 이미 있는 약(" + mg.skip.join(", ") + ")은 넣지 않았습니다." : "")
+    + (unsure.length ? " 흐려서 확인이 필요한 약: " + unsure.join(", ") + "." : "") + " 약 봉투와 대조해 주세요.";
+}
+const SHOT_WEB = "웹사이트판에서는 그림을 읽지 못합니다. 그림을 ChatGPT에 붙여 넣어 약 이름·용량·복용법을 한 줄씩 적어 달라고 한 뒤, 그 답을 약 칸에 붙여 넣어 주세요.";
+function shotErr(e){
+  const c = e && e.code;
+  return c === "not_granted" ? "AI 사용을 허용해야 그림을 읽을 수 있습니다." : c === "rate_limited" ? "요청이 많아 잠시 막혔습니다. 1~2분 뒤 다시 붙여 넣어 주세요."
+    : c === "images_unavailable" ? "이 화면에서는 그림을 보낼 수 없습니다. 약을 직접 입력해 주세요." : "그림을 읽지 못했습니다. 다시 붙여 넣거나 직접 입력해 주세요.";
+}
 function occOf(id, label, line, x){
   const lm = localMatch(line);
   const o = {id, label, line, name:drugName(line), nk:nameKey(line), dict:ingKey(lm.map(v => v.k[0])), ai: x && !x.unsure ? aiKey(x) : "", x};
