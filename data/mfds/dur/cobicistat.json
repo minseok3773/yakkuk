@@ -1,0 +1,323 @@
+{
+ "id": "cobicistat",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "cobicistat"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "St. John's Wort 80% methanol ext.",
+   "reason": "Cobicistat 및 Elvitegravir의 혈중농도 감소로 치료효과 소실 및 내성 발현 가능",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "alfuzosin hydrochloride",
+   "reason": "Alfuzosin 혈중농도 증가",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "amiodarone hydrochloride",
+   "reason": "Amiodarone 혈중농도 증가",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "Ibrutinib",
+   "reason": "Ibrutinib의 혈중 농도 증가",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "S-pantoprazole sodium trihydrate (as S-pantoprazole)",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "calcium carbonate(precipitated)+esomeprazole magnesium (as esomeprazole)",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "calcium carbonate(precipitated)+lansoprazole",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "dexlansoprazole",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "esomeprazole",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "esomeprazole magnesium (as esomeprazol)",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "esomeprazole magnesium (as esomeprazol)+naproxen",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "esomeprazole magnesium (as esomeprazole)",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "esomeprazole magnesium (as esomeprazole)+magnesium hydroxide",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "esomeprazole magnesium (as esomeprazole)+sodium bicarbonate",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "esomeprazole sodium (as esomeprazole)",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "esomeprazole strontium tetrahydrate (as esomeprazol)",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "esomeprazole strontium tetrahydrate (as esomeprazol)+naproxen",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "esomeprazole+naproxen",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "ezetimibe+simvastatin",
+   "reason": "횡문근융해를 포함한 근육병증 위험 가능",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "fexuprazan hydrochloride",
+   "reason": "위 내 pH 증가로 인한 Atazanavir의 생체이용률 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "finerenone",
+   "reason": "Finerenone 혈중농도의 현저한 증가가 예상됨",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "ilaprazole",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "lansoprazole",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "lansoprazole granule (as lansoprazole)",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "omeprazole",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "omeprazole granule(enteric coated) (as omeprazole)",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "omeprazole+sodium bicarbonate",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "pantoprazole hemimagnesium monohydrate (as pantoprazole)",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "pantoprazole sodium (as pantoprazole)",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "pimozide",
+   "reason": "QT연장 및 심실성부정맥 유발 가능",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "rabeprazole sodium",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "rabeprazole sodium+sodium bicarbonate",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "rivaroxaban(micronized)",
+   "reason": "리바록사반의 혈중농도가 상승하여 출혈위험 증가",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "simvastatin",
+   "reason": "횡문근 융해를 포함한 근육병과 같은 중대한 반응 가능",
+   "self": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "ingredient": "blonanserin",
+   "reason": "Blonanserin 혈중농도 증가",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "caffeine anhydrous+ergotamine tartrate",
+   "reason": "Ergotamine 혈중농도 증가, 말초혈관연축 또는 국소빈혈",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "carbamazepine",
+   "reason": "Cobicistat 및 Elvitegravir의 혈중농도 감소로 치료효과 소실 및 내성 발현 가능",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "ezetimibe+simvastatin",
+   "reason": "근병증의 위험 증가 가능",
+   "self": "cobicistat silicon dioxide (as cobicistat )+darunavir ethanolate (as darunavir)"
+  },
+  {
+   "ingredient": "simvastatin",
+   "reason": "근육병증과 같은 이상사례 초래 가능",
+   "self": "cobicistat silicon dioxide (as cobicistat )+darunavir ethanolate (as darunavir)"
+  },
+  {
+   "ingredient": "abacavir sulfate (as abacavir)+lamivudine",
+   "reason": "세포내 인산화 방해, 동일한 역전사효소 유전자(M184V)변이를 통한 바이러스 내성 - 항바이러스 효과 감소",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "lamivudine",
+   "reason": "세포내 인산화 방해, 동일한 역전사효소 유전자(M184V)변이를 통한 바이러스 내성 - 항바이러스 효과 감소",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "lamivudine+zidovudine",
+   "reason": "세포내 인산화 방해, 동일한 역전사효소 유전자(M184V)변이를 통한 바이러스 내성 - 항바이러스 효과 감소",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "diphenylhydantoin sodium",
+   "reason": "Cobicistat 및 Elvitegravir의 혈중농도 감소로 치료효과 소실 및 내성 발현 가능",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "fosphenytoin sodium",
+   "reason": "Cobicistat 및 Elvitegravir의 혈중농도 감소로 치료효과 소실 및 내성 발현 가능",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "phenobarbital",
+   "reason": "Cobicistat 및 Elvitegravir의 혈중농도 감소로 치료효과 소실 및 내성 발현 가능",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "phenobarbital sodium",
+   "reason": "Cobicistat 및 Elvitegravir의 혈중농도 감소로 치료효과 소실 및 내성 발현 가능",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "phenytoin sodium",
+   "reason": "Cobicistat 및 Elvitegravir의 혈중농도 감소로 치료효과 소실 및 내성 발현 가능",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "rifabutin",
+   "reason": "Cobicistat 및 Elvitegravir의 혈중농도 감소로 치료효과 소실 및 내성 발현 가능",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "rifampicin",
+   "reason": "Cobicistat 및 Elvitegravir의 혈중농도 감소로 치료효과 소실 및 내성 발현 가능",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "sildenafil citrate(as sildenafil)",
+   "reason": "Sildenafil 혈중농도 증가, 병용투여 할 경우에는 Sildenafil의 투여용량이 25mg을 초과하지 않도록 하며, 48시간 내 재투여 금지",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "simvastatin",
+   "reason": "Simvastatin 혈중농도 증가, 횡문근융해를 비롯한 근육병증",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "triazolam",
+   "reason": "Triazolam 혈중농도 증가, 진정 또는 호흡 억제의 연장 또는 증가",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "vardenafil hydrochloride hydrate (as vardenafil)",
+   "reason": "vardenafil 혈중농도 증가",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "sildenafil",
+   "reason": "Sildenafil 혈중농도 증가, 병용투여 할 경우에는 Sildenafil의 투여용량이 25mg을 초과하지 않도록 하며, 48시간 내 재투여 금지",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "sildenafil citrate (as sildenafil)",
+   "reason": "Sildenafil 혈중농도 증가, 병용투여 할 경우에는 Sildenafil의 투여용량이 25mg을 초과하지 않도록 하며, 48시간 내 재투여 금지",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  },
+  {
+   "ingredient": "tadalafil",
+   "reason": "Tadalafil 혈중농도 증가, 병용투여 할 경우에는 Tadalafil의 투여용량이 10mg을 초과하지 않도록 하며, 72시간 내 재투여 금지",
+   "self": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)"
+  }
+ ],
+ "age": [
+  {
+   "text": "3개월 미만: 핵황달의 위험 나타날 수 있음.",
+   "ingredient": "atazanavir sulfate (as atazanavir), cobicistat silicon dioxide (as cobicistat)"
+  },
+  {
+   "text": "36개월 미만: 안전성 및 유효성 미확립 생후 23-26일 랫트에서 사망 관찰됨.",
+   "ingredient": "darunavir ethanolate (as darunavir), cobicistat silicon dioxide (as cobicistat)"
+  }
+ ],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임신한 여성을 포함한 환자들에게 투여 시 고빌리루빈혈증이 흔하게 발생함",
+   "ingredient": "Cobicistat + Atazanavir"
+  },
+  {
+   "grade": "2",
+   "reason": "임신 중 약물노출 감소. 임신기간 중 이 약 투여를 시작하면 안 됨",
+   "ingredient": "Cobicistat + Darunavir"
+  },
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립",
+   "ingredient": "Cobicistat+Elvitegravir+Emtricitabine+Tenofovir alafenamide"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

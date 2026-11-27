@@ -1,0 +1,1370 @@
+{
+ "id": "naproxen",
+ "query": [
+  "나프록센"
+ ],
+ "fetched": "2026-11-27",
+ "total": 86,
+ "kept": 86,
+ "mfdsName": [
+  "나프록센",
+  "나프록센나트륨"
+ ],
+ "items": [
+  {
+   "itemSeq": "199300208",
+   "name": "낙센에프정(나프록센)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1993-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199300208"
+  },
+  {
+   "itemSeq": "199700166",
+   "name": "낙센에프서방정1000밀리그램(나프록센)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700166"
+  },
+  {
+   "itemSeq": "200600131",
+   "name": "바이넥스나프록센나트륨주(수출용)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "110",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-03-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600131"
+  },
+  {
+   "itemSeq": "201102151",
+   "name": "코러스나프록센나트륨정550밀리그람(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "550",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201102151"
+  },
+  {
+   "itemSeq": "201207414",
+   "name": "신플랙스정(나프록센)(수출용)",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207414"
+  },
+  {
+   "itemSeq": "197500016",
+   "name": "낙센정(나프록센)",
+   "company": "(주)종근당",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1975-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197500016"
+  },
+  {
+   "itemSeq": "198300064",
+   "name": "아나프록스정(나프록센나트륨)",
+   "company": "(주)종근당",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1983-06-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300064"
+  },
+  {
+   "itemSeq": "198700731",
+   "name": "아낙스정(나프록센나트륨)",
+   "company": "환인제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1987-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700731"
+  },
+  {
+   "itemSeq": "198802481",
+   "name": "알삭센정(나프록센나트륨)",
+   "company": "지엘팜텍(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1988-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198802481"
+  },
+  {
+   "itemSeq": "198901589",
+   "name": "자이날정(나프록센나트륨)",
+   "company": "고려제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-06-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198901589"
+  },
+  {
+   "itemSeq": "198900920",
+   "name": "폭센정275밀리그램(나프록센나트륨)",
+   "company": "명인제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900920"
+  },
+  {
+   "itemSeq": "199000568",
+   "name": "프로트린정(나프록센나트륨)",
+   "company": "코오롱제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1990-08-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199000568"
+  },
+  {
+   "itemSeq": "199102384",
+   "name": "세록센정(나프록센나트륨)",
+   "company": "영풍제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1991-06-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199102384"
+  },
+  {
+   "itemSeq": "199403378",
+   "name": "에이프로젠나프록센나트륨정",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1994-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199403378"
+  },
+  {
+   "itemSeq": "199401158",
+   "name": "소렌정(나프록센나트륨)(수출용)",
+   "company": "대원제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "나프록센나트륨",
+     "amount": "275",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1994-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199401158"
+  },
+  {
+   "itemSeq": "199401319",
+   "name": "나로펜정(나프록센나트륨)",
+   "company": "오스틴제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1995-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199401319"
+  },
+  {
+   "itemSeq": "199802621",
+   "name": "프리나정(나프록센나트륨)",
+   "company": "(주)씨엠지제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-03-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199802621"
+  },
+  {
+   "itemSeq": "199802387",
+   "name": "나프롱정(나프록센나트륨)",
+   "company": "신일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-11-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199802387"
+  },
+  {
+   "itemSeq": "199901047",
+   "name": "태극나렉신정(나프록센나트륨)\n(수출명 : NAPRONEW TABLET)",
+   "company": "태극제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-05-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901047"
+  },
+  {
+   "itemSeq": "199902599",
+   "name": "미래나프록센나트륨정",
+   "company": "미래바이오제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-11-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199902599"
+  },
+  {
+   "itemSeq": "200102657",
+   "name": "스노핀정275밀리그램(나프록센나트륨)",
+   "company": "(주)한국파비스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200102657"
+  },
+  {
+   "itemSeq": "200204388",
+   "name": "나프록신정(나프록센나트륨)",
+   "company": "화일약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-12-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200204388"
+  },
+  {
+   "itemSeq": "200403671",
+   "name": "에이스펜연질캡슐(나프록센)",
+   "company": "(주)알피바이오",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403671"
+  },
+  {
+   "itemSeq": "200400644",
+   "name": "아나탁심정(나프록센나트륨)",
+   "company": "(주)마더스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400644"
+  },
+  {
+   "itemSeq": "200500806",
+   "name": "나프노펜정(나프록센나트륨)",
+   "company": "(주)일화",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-04-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500806"
+  },
+  {
+   "itemSeq": "200607905",
+   "name": "나록펜정(나프록센나트륨)(수출용)",
+   "company": "부광유니파마(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607905"
+  },
+  {
+   "itemSeq": "200705433",
+   "name": "다나프록센정(나프록센나트륨)(수출용)",
+   "company": "한국코러스(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705433"
+  },
+  {
+   "itemSeq": "200710782",
+   "name": "탁센연질캡슐(나프록센)",
+   "company": "(주)녹십자",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710782"
+  },
+  {
+   "itemSeq": "200901148",
+   "name": "엔에이피정(나프록센나트륨)",
+   "company": "한솔신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901148"
+  },
+  {
+   "itemSeq": "201301493",
+   "name": "에이프록센연질캡슐(나프록센)",
+   "company": "(주)서흥",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201301493"
+  },
+  {
+   "itemSeq": "201301659",
+   "name": "신플랙스세미정(나프록센)(수출용)",
+   "company": "(주)한국피엠지제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201301659"
+  },
+  {
+   "itemSeq": "201306491",
+   "name": "나쎈연질캡슐(나프록센)",
+   "company": "신일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306491"
+  },
+  {
+   "itemSeq": "201306492",
+   "name": "캐롤엔연질캡슐(나프록센)",
+   "company": "일동제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306492"
+  },
+  {
+   "itemSeq": "201308676",
+   "name": "하이플나프록센정(나프록센나트륨)",
+   "company": "하이플생명과학(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308676"
+  },
+  {
+   "itemSeq": "201310281",
+   "name": "스피록센연질캡슐(나프록센)",
+   "company": "광동제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310281"
+  },
+  {
+   "itemSeq": "201310498",
+   "name": "자이날큐연질캡슐(나프록센)",
+   "company": "고려제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310498"
+  },
+  {
+   "itemSeq": "201401095",
+   "name": "나에겐연질캡슐(나프록센)",
+   "company": "(주)마더스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401095"
+  },
+  {
+   "itemSeq": "201403321",
+   "name": "일양나프록센나트륨정",
+   "company": "일양약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403321"
+  },
+  {
+   "itemSeq": "201403389",
+   "name": "여우엔연질캡슐(나프록센)",
+   "company": "코오롱제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403389"
+  },
+  {
+   "itemSeq": "201403390",
+   "name": "한솔나프록센연질캡슐",
+   "company": "한솔신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403390"
+  },
+  {
+   "itemSeq": "201403391",
+   "name": "확펜연질캡슐(나프록센)",
+   "company": "(주)유한양행",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403391"
+  },
+  {
+   "itemSeq": "201403431",
+   "name": "프로센골드연질캡슐(나프록센)",
+   "company": "명문제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403431"
+  },
+  {
+   "itemSeq": "201403474",
+   "name": "경남나프록센연질캡슐",
+   "company": "경남제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403474"
+  },
+  {
+   "itemSeq": "201403877",
+   "name": "나리센연질캡슐(나프록센)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403877"
+  },
+  {
+   "itemSeq": "201403991",
+   "name": "프리센연질캡슐(나프록센)",
+   "company": "(주)씨엠지제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403991"
+  },
+  {
+   "itemSeq": "201404125",
+   "name": "다나센연질캡슐(나프록센)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404125"
+  },
+  {
+   "itemSeq": "201404406",
+   "name": "페인엔젤센연질캡슐(나프록센)",
+   "company": "제이더블유중외제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404406"
+  },
+  {
+   "itemSeq": "201404850",
+   "name": "맥쎈연질캡슐(나프록센)",
+   "company": "코스맥스파마(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404850"
+  },
+  {
+   "itemSeq": "201405135",
+   "name": "올나펜연질캡슐(나프록센)",
+   "company": "(주)경보제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405135"
+  },
+  {
+   "itemSeq": "201501592",
+   "name": "낙센연질캡슐(나프록센)",
+   "company": "(주)종근당",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501592"
+  },
+  {
+   "itemSeq": "201503810",
+   "name": "엔프렌드연질캡슐(나프록센)",
+   "company": "부광약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503810"
+  },
+  {
+   "itemSeq": "201601056",
+   "name": "이지엔6스트롱연질캡슐(나프록센)",
+   "company": "(주)대웅제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601056"
+  },
+  {
+   "itemSeq": "201700401",
+   "name": "로젠연질캡슐(나프록센)",
+   "company": "정우신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700401"
+  },
+  {
+   "itemSeq": "201701248",
+   "name": "나프록소정(나프록센나트륨)",
+   "company": "오스템파마주식회사",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701248"
+  },
+  {
+   "itemSeq": "201702682",
+   "name": "킥센연질캡슐(나프록센)",
+   "company": "지엘팜텍(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702682"
+  },
+  {
+   "itemSeq": "201707302",
+   "name": "프리엔에프연질캡슐(나프록센)",
+   "company": "동국제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707302"
+  },
+  {
+   "itemSeq": "201708634",
+   "name": "푸로싹연질캡슐(나프록센)",
+   "company": "제일헬스사이언스(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708634"
+  },
+  {
+   "itemSeq": "201803970",
+   "name": "팜페인파워연질캡슐(나프록센)",
+   "company": "이연제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803970"
+  },
+  {
+   "itemSeq": "201900682",
+   "name": "큐센연질캡슐(나프록센)",
+   "company": "삼성제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900682"
+  },
+  {
+   "itemSeq": "201900727",
+   "name": "솔루록센연질캡슐(나프록센)",
+   "company": "현대약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900727"
+  },
+  {
+   "itemSeq": "201902876",
+   "name": "나프원큐연질캡슐(나프록센)",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902876"
+  },
+  {
+   "itemSeq": "201907830",
+   "name": "미가펜에스연질캡슐(나프록센)",
+   "company": "(주)팜젠사이언스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907830"
+  },
+  {
+   "itemSeq": "202003877",
+   "name": "나프원큐에스연질캡슐(나프록센)",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003877"
+  },
+  {
+   "itemSeq": "202005491",
+   "name": "테라록센연질캡슐(나프록센)",
+   "company": "(주)테라젠이텍스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005491"
+  },
+  {
+   "itemSeq": "202106248",
+   "name": "노바프록센정(나프록센나트륨)(수출명 : Naprex Tablet)",
+   "company": "주식회사 노바엠헬스케어",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106248"
+  },
+  {
+   "itemSeq": "202202195",
+   "name": "엠프록센연질캡슐(나프록센)",
+   "company": "맥널티제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202195"
+  },
+  {
+   "itemSeq": "202203437",
+   "name": "이지페인록센연질캡슐(나프록센)",
+   "company": "경방신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203437"
+  },
+  {
+   "itemSeq": "202401759",
+   "name": "시어스나프록센정(나프록센나트륨)",
+   "company": "(주)시어스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-07-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401759"
+  },
+  {
+   "itemSeq": "202402681",
+   "name": "파인큐나프록센현탁액",
+   "company": "대원바이오텍주식회사",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "2.5",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2024-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402681"
+  },
+  {
+   "itemSeq": "202500965",
+   "name": "플라낙스정(나프록센나트륨)",
+   "company": "(주)한국피엠지제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500965"
+  },
+  {
+   "itemSeq": "202501303",
+   "name": "제이프록센정(나프록센나트륨)",
+   "company": "진양제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센나트륨",
+     "amount": "275.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501303"
+  },
+  {
+   "itemSeq": "202502599",
+   "name": "확센연질캡슐(나프록센)",
+   "company": "오스틴제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-10-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502599"
+  },
+  {
+   "itemSeq": "202600925",
+   "name": "뇌신롱연질캡슐(나프록센)",
+   "company": "씨에이치디제약주식회사",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600925"
+  },
+  {
+   "itemSeq": "202603490",
+   "name": "영진나프록센연질캡슐",
+   "company": "영진약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603490"
+  },
+  {
+   "itemSeq": "201200417",
+   "name": "비모보정 500/20밀리그램",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-01-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200417"
+  },
+  {
+   "itemSeq": "201308928",
+   "name": "낙소졸정500/20밀리그램(나프록센,에스오메프라졸)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸스트론튬사수화물",
+     "amount": "24.60",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308928"
+  },
+  {
+   "itemSeq": "201402074",
+   "name": "낙센에스정500/20밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402074"
+  },
+  {
+   "itemSeq": "201403085",
+   "name": "나프메드정500/20밀리그램",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "나프록센",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403085"
+  },
+  {
+   "itemSeq": "201403727",
+   "name": "신플랙스세이프정500/20밀리그램",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "나프록센",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403727"
+  },
+  {
+   "itemSeq": "201403728",
+   "name": "에소록센정(나프록센, 에스오메프라졸)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "나프록센",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403728"
+  },
+  {
+   "itemSeq": "201403894",
+   "name": "나프라졸정",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "나프록센",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403894"
+  },
+  {
+   "itemSeq": "202302313",
+   "name": "수벡스정",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "수마트립탄숙신산염",
+     "amount": "119",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "나프록센나트륨",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302313"
+  },
+  {
+   "itemSeq": "202500425",
+   "name": "나소프라정500/20밀리그램(나프록센,에스오메프라졸)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500425"
+  },
+  {
+   "itemSeq": "202500515",
+   "name": "비모엠정500/20밀리그램(나프록센, 에스오메프라졸)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500515"
+  },
+  {
+   "itemSeq": "202500589",
+   "name": "엑소락센정500/20밀리그램(나프록센, 에스오메프라졸마그네슘삼수화물)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500589"
+  },
+  {
+   "itemSeq": "202500700",
+   "name": "제모보정500/20밀리그램(나프록센, 에스오메프라졸)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500700"
+  }
+ ]
+}

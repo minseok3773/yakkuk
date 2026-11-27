@@ -1,0 +1,286 @@
+{
+ "id": "desvenlafaxine",
+ "query": [
+  "데스벤라팍신"
+ ],
+ "fetched": "2026-11-26",
+ "total": 18,
+ "kept": 18,
+ "mfdsName": [
+  "데스벤라팍신벤조산염",
+  "데스벤라팍신숙신산염일수화물",
+  "데스벤라팍신"
+ ],
+ "items": [
+  {
+   "itemSeq": "201400538",
+   "name": "프리스틱서방정100밀리그램(데스벤라팍신숙신산염일수화물)",
+   "company": "한국화이자제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "데스벤라팍신숙신산염일수화물",
+     "amount": "151.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400538"
+  },
+  {
+   "itemSeq": "201400537",
+   "name": "프리스틱서방정50밀리그램(데스벤라팍신숙신산염일수화물)",
+   "company": "한국화이자제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "데스벤라팍신숙신산염일수화물",
+     "amount": "75.87",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400537"
+  },
+  {
+   "itemSeq": "202002456",
+   "name": "데스베라서방정100밀리그램(데스벤라팍신벤조산염)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "데스벤라팍신벤조산염",
+     "amount": "146.37",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002456"
+  },
+  {
+   "itemSeq": "202002455",
+   "name": "데스베라서방정50밀리그램(데스벤라팍신벤조산염)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "데스벤라팍신벤조산염",
+     "amount": "73.185",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002455"
+  },
+  {
+   "itemSeq": "202002454",
+   "name": "데팍신서방정100밀리그램(데스벤라팍신)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "데스벤라팍신",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002454"
+  },
+  {
+   "itemSeq": "202002453",
+   "name": "데팍신서방정50밀리그램(데스벤라팍신)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "데스벤라팍신",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002453"
+  },
+  {
+   "itemSeq": "202002458",
+   "name": "에스벤서방정100밀리그램(데스벤라팍신벤조산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "데스벤라팍신벤조산염",
+     "amount": "146.37",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002458"
+  },
+  {
+   "itemSeq": "202002457",
+   "name": "에스벤서방정50밀리그램(데스벤라팍신벤조산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "데스벤라팍신벤조산염",
+     "amount": "73.185",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002457"
+  },
+  {
+   "itemSeq": "202002460",
+   "name": "프리넥사서방정100밀리그램(데스벤라팍신벤조산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "데스벤라팍신벤조산염",
+     "amount": "146.37",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002460"
+  },
+  {
+   "itemSeq": "202002459",
+   "name": "프리넥사서방정50밀리그램(데스벤라팍신벤조산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "데스벤라팍신벤조산염",
+     "amount": "73.185",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002459"
+  },
+  {
+   "itemSeq": "202200501",
+   "name": "데팍신서방정25밀리그램(데스벤라팍신)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "데스벤라팍신",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200501"
+  },
+  {
+   "itemSeq": "202400587",
+   "name": "파마데스벤라팍신서방정100밀리그램(데스벤라팍신숙신산염일수화물)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "데스벤라팍신숙신산염일수화물",
+     "amount": "151.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400587"
+  },
+  {
+   "itemSeq": "202401555",
+   "name": "파마데스벤라팍신서방정50밀리그램(데스벤라팍신숙신산염일수화물)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "데스벤라팍신숙신산염일수화물",
+     "amount": "75.885",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401555"
+  },
+  {
+   "itemSeq": "202500081",
+   "name": "데스프리서방정50밀리그램(데스벤라팍신숙신산염일수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "데스벤라팍신숙신산염일수화물",
+     "amount": "75.885",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500081"
+  },
+  {
+   "itemSeq": "202500083",
+   "name": "데스프리서방정100밀리그램(데스벤라팍신숙신산염일수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "데스벤라팍신숙신산염일수화물",
+     "amount": "151.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-01-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500083"
+  },
+  {
+   "itemSeq": "202500838",
+   "name": "데스베라서방정25밀리그램(데스벤라팍신벤조산염)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "데스벤라팍신벤조산염",
+     "amount": "36.5925",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500838"
+  },
+  {
+   "itemSeq": "202500935",
+   "name": "에스벤서방정25밀리그램(데스벤라팍신벤조산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "데스벤라팍신벤조산염",
+     "amount": "36.5925",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500935"
+  },
+  {
+   "itemSeq": "202500934",
+   "name": "프리넥사서방정25밀리그램(데스벤라팍신벤조산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "데스벤라팍신벤조산염",
+     "amount": "36.5925",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500934"
+  }
+ ]
+}

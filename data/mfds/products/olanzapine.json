@@ -1,0 +1,705 @@
+{
+ "id": "olanzapine",
+ "query": [
+  "올란자핀"
+ ],
+ "fetched": "2026-11-26",
+ "total": 46,
+ "kept": 46,
+ "mfdsName": [
+  "올란자핀",
+  "미세올란자핀"
+ ],
+ "items": [
+  {
+   "itemSeq": "200808004",
+   "name": "싸이렉사정10밀리그램(올란자핀)(수출용)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808004"
+  },
+  {
+   "itemSeq": "200809388",
+   "name": "뉴로자핀정5밀리그램(올란자핀)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809388"
+  },
+  {
+   "itemSeq": "200810513",
+   "name": "자이레핀정10밀리그램(올란자핀)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810513"
+  },
+  {
+   "itemSeq": "200903065",
+   "name": "산도스올란자핀정10밀리그램",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903065"
+  },
+  {
+   "itemSeq": "200903067",
+   "name": "산도스올란자핀정5밀리그램",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903067"
+  },
+  {
+   "itemSeq": "200903078",
+   "name": "산도스올란자핀정2.5밀리그램",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903078"
+  },
+  {
+   "itemSeq": "200907819",
+   "name": "올라핀정10밀리그램(올란자핀)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200907819"
+  },
+  {
+   "itemSeq": "200907811",
+   "name": "올라핀정5밀리그램(올란자핀)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200907811"
+  },
+  {
+   "itemSeq": "200909126",
+   "name": "싸이렉사정5밀리그램(올란자핀)(수출용)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-12-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200909126"
+  },
+  {
+   "itemSeq": "201002395",
+   "name": "뉴로자핀정10밀리그램(올란자핀)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002395"
+  },
+  {
+   "itemSeq": "201002396",
+   "name": "뉴로자핀정2.5밀리그램(올란자핀)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002396"
+  },
+  {
+   "itemSeq": "201002996",
+   "name": "자이자핀정10밀리그램(올란자핀)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002996"
+  },
+  {
+   "itemSeq": "201004538",
+   "name": "에이프렉사정10밀리그램(올란자핀)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-07-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004538"
+  },
+  {
+   "itemSeq": "201006442",
+   "name": "에이프렉사정2.5밀리그램(올란자핀)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006442"
+  },
+  {
+   "itemSeq": "201006443",
+   "name": "에이프렉사정5밀리그램(올란자핀)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006443"
+  },
+  {
+   "itemSeq": "201007234",
+   "name": "자이레핀정2.5밀리그램(올란자핀)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007234"
+  },
+  {
+   "itemSeq": "201007233",
+   "name": "자이레핀정5밀리그램(올란자핀)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007233"
+  },
+  {
+   "itemSeq": "201007770",
+   "name": "자이자핀정5밀리그램(올란자핀)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007770"
+  },
+  {
+   "itemSeq": "201101116",
+   "name": "자이피스오디정 10밀리그램(올란자핀)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101116"
+  },
+  {
+   "itemSeq": "201101853",
+   "name": "올자핀정10밀리그램(올란자핀)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101853"
+  },
+  {
+   "itemSeq": "201102619",
+   "name": "올자핀정2.5밀리그램(올란자핀)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201102619"
+  },
+  {
+   "itemSeq": "201102755",
+   "name": "올자핀정5밀리그램(올란자핀)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201102755"
+  },
+  {
+   "itemSeq": "201109301",
+   "name": "자이피스오디정 5밀리그램(올란자핀)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109301"
+  },
+  {
+   "itemSeq": "201500444",
+   "name": "올자펙스정10밀리그램(올란자핀)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500444"
+  },
+  {
+   "itemSeq": "201500445",
+   "name": "올자펙스정5밀리그램(올란자핀)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500445"
+  },
+  {
+   "itemSeq": "201507717",
+   "name": "테바올란자핀정10밀리그램",
+   "company": "(주)한독테바",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507717"
+  },
+  {
+   "itemSeq": "201507719",
+   "name": "테바올란자핀정2.5밀리그램",
+   "company": "(주)한독테바",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507719"
+  },
+  {
+   "itemSeq": "201507718",
+   "name": "테바올란자핀정5밀리그램",
+   "company": "(주)한독테바",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507718"
+  },
+  {
+   "itemSeq": "201507969",
+   "name": "테바올란자핀정15밀리그램",
+   "company": "(주)한독테바",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507969"
+  },
+  {
+   "itemSeq": "201507986",
+   "name": "피엠에스올란자핀정10밀리그램(올란자핀)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507986"
+  },
+  {
+   "itemSeq": "201507984",
+   "name": "피엠에스올란자핀정2.5밀리그램(올란자핀)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507984"
+  },
+  {
+   "itemSeq": "201507985",
+   "name": "피엠에스올란자핀정5밀리그램(올란자핀)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507985"
+  },
+  {
+   "itemSeq": "201600806",
+   "name": "제이더블유올란자핀정20mg(수출명:Olanzapine Tablet 20mg SANWA)(수출용)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600806"
+  },
+  {
+   "itemSeq": "201600803",
+   "name": "제이더블유올란자핀정2.5mg(수출명:Olanzapine Tablet 2.5mg SANWA)(수출용)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600803"
+  },
+  {
+   "itemSeq": "201600805",
+   "name": "제이더블유올란자핀정10mg(수출명:Olanzapine Tablet 10mg SANWA)(수출용)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600805"
+  },
+  {
+   "itemSeq": "201600804",
+   "name": "제이더블유올란자핀정5mg(수출명:Olanzapine Tablet 5mg SANWA)(수출용)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600804"
+  },
+  {
+   "itemSeq": "202203600",
+   "name": "영진올란자핀정10밀리그램",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203600"
+  },
+  {
+   "itemSeq": "202203601",
+   "name": "영진올란자핀정5밀리그램",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203601"
+  },
+  {
+   "itemSeq": "202400669",
+   "name": "자이프렉사정10밀리그램(올란자핀)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400669"
+  },
+  {
+   "itemSeq": "202400667",
+   "name": "자이프렉사정2.5밀리그램(올란자핀)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400667"
+  },
+  {
+   "itemSeq": "202400668",
+   "name": "자이프렉사정5밀리그램(올란자핀)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400668"
+  },
+  {
+   "itemSeq": "202400728",
+   "name": "자이프렉사자이디스확산정5밀리그램(미세올란자핀)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미세올란자핀",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400728"
+  },
+  {
+   "itemSeq": "202400729",
+   "name": "자이프렉사자이디스확산정10밀리그램(미세올란자핀)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미세올란자핀",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400729"
+  },
+  {
+   "itemSeq": "202402585",
+   "name": "자이자핀정2.5밀리그램(올란자핀)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-11-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402585"
+  },
+  {
+   "itemSeq": "202501982",
+   "name": "올자펙스정2.5밀리그램(올란자핀)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501982"
+  },
+  {
+   "itemSeq": "202603605",
+   "name": "영진올란자핀정7.5밀리그램(올란자핀)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올란자핀",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603605"
+  }
+ ]
+}

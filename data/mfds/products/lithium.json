@@ -1,0 +1,74 @@
+{
+ "id": "lithium",
+ "query": [
+  "리튬"
+ ],
+ "fetched": "2026-11-26",
+ "total": 4,
+ "kept": 4,
+ "mfdsName": [
+  "탄산리튬"
+ ],
+ "items": [
+  {
+   "itemSeq": "197300172",
+   "name": "리단정(탄산리튬)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탄산리튬",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1973-12-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197300172"
+  },
+  {
+   "itemSeq": "198500638",
+   "name": "명인탄산리튬정300밀리그램",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탄산리튬",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500638"
+  },
+  {
+   "itemSeq": "198500718",
+   "name": "환인탄산리튬정",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탄산리튬",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500718"
+  },
+  {
+   "itemSeq": "201507389",
+   "name": "명인탄산리튬정150밀리그램",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탄산리튬",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507389"
+  }
+ ]
+}

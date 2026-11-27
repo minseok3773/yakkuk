@@ -1,0 +1,144 @@
+{
+ "id": "tadalafil",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "tadalafil"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "Micronized Riociguat",
+   "reason": "Guanylate cyclase 자극제의 혈압강하작용 증가",
+   "self": "tadalafil"
+  },
+  {
+   "ingredient": "diluted nitroglycerin (as nitroglycerin)",
+   "reason": "혈압강하작용 증가",
+   "self": "tadalafil"
+  },
+  {
+   "ingredient": "diluted nitroglycerin (as nitroglycerin)",
+   "reason": "혈압강하작용 증강",
+   "self": "tadalafil"
+  },
+  {
+   "ingredient": "isosorbide dinitrate",
+   "reason": "혈압강하작용 증가",
+   "self": "tadalafil"
+  },
+  {
+   "ingredient": "isosorbide mononitrate",
+   "reason": "혈압강하작용 증가",
+   "self": "tadalafil"
+  },
+  {
+   "ingredient": "molsidomin",
+   "reason": "혈압강하작용 증가",
+   "self": "tadalafil"
+  },
+  {
+   "ingredient": "nicorandil",
+   "reason": "혈압강하작용 증가",
+   "self": "tadalafil"
+  },
+  {
+   "ingredient": "nicorandil",
+   "reason": "혈압강하작용 증강",
+   "self": "tadalafil"
+  },
+  {
+   "ingredient": "sodium nitroprusside",
+   "reason": "혈압강하작용 증강",
+   "self": "tadalafil"
+  },
+  {
+   "ingredient": "Udenafil",
+   "reason": "동일계열 병용투여 금기",
+   "self": "tadalafil"
+  },
+  {
+   "ingredient": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)",
+   "reason": "Tadalafil 혈중농도 증가, 병용투여 할 경우에는 Tadalafil의 투여용량이 10mg을 초과하지 않도록 하며, 72시간 내 재투여 금지",
+   "self": "tadalafil"
+  },
+  {
+   "ingredient": "diluted nitroglycerin solution (as nitroglycerin)",
+   "reason": "혈압강하작용 증강",
+   "self": "tadalafil"
+  },
+  {
+   "ingredient": "mirodenafil",
+   "reason": "동일계열 병용투여 금기",
+   "self": "tadalafil"
+  },
+  {
+   "ingredient": "mirodenafil hydrochloride (as mirodenafil)",
+   "reason": "동일계열 병용투여 금기",
+   "self": "tadalafil"
+  },
+  {
+   "ingredient": "nirmatrelvir+ritonavir",
+   "reason": "Tadalafil의 혈중농도를 증가시킬 수 있음. 폐고혈압 치료에 사용 시 병용투여 금기, 발기부전에 사용 시 Tadalafil의 용량조절이 권장됨",
+   "self": "tadalafil"
+  },
+  {
+   "ingredient": "sildenafil",
+   "reason": "동일계열 병용투여 금기",
+   "self": "tadalafil"
+  },
+  {
+   "ingredient": "sildenafil citrate (as sildenafil)",
+   "reason": "동일계열 병용투여 금기",
+   "self": "tadalafil"
+  },
+  {
+   "ingredient": "sildenafil citrate(as sildenafil)",
+   "reason": "동일계열 병용투여 금기",
+   "self": "tadalafil"
+  },
+  {
+   "ingredient": "udenafil",
+   "reason": "동일계열 병용투여 금기",
+   "self": "tadalafil"
+  },
+  {
+   "ingredient": "vardenafil hydrochloride hydrate (as vardenafil)",
+   "reason": "동일계열 병용투여 금기",
+   "self": "tadalafil"
+  }
+ ],
+ "age": [
+  {
+   "text": "18세 미만:",
+   "ingredient": "tadalafil"
+  }
+ ],
+ "pregnancy": [
+  {
+   "grade": "1",
+   "reason": "micronized macitentan: 임부에 대한 안전성 미확립. 선천성 결함 가능성. 동물실험에서 최기형성 보고. / tadalafil: 여성에게 사용할 수 없음",
+   "ingredient": "micronized macitentan + tadalafil"
+  },
+  {
+   "grade": "1",
+   "reason": "여성에게 사용할 수 없음",
+   "ingredient": "tadalafil"
+  },
+  {
+   "grade": "1",
+   "reason": "tadalafil: 여성에게 사용할 수 없음/tamsulosin:-",
+   "ingredient": "tadalafil+  tamsulosin"
+  },
+  {
+   "grade": "1",
+   "reason": "tadalafil: 여성에게 사용할 수 없음 / dutasteride: 전임상시험에서 남성 태아의 외부 생식기 발달 저해 가능성.",
+   "ingredient": "tadalafil + dutasteride"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

@@ -1,0 +1,44 @@
+{
+ "id": "tamsulosin",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "tamsulosin"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "nirmatrelvir+ritonavir",
+   "reason": "Tamsulosin의 혈중농도를 증가시킬 수 있음",
+   "self": "tamsulosin hydrochloride"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "",
+   "ingredient": "tamsulosin hydrochloride"
+  },
+  {
+   "grade": "1",
+   "reason": "전임상시험에서 남성 태아의 외부 생식기 발달 저해 가능성",
+   "ingredient": "dutasteride + tamsulosin"
+  },
+  {
+   "grade": "2",
+   "reason": "solifenacin : 임부에 대한 안전성 미확립 / tamsluosin : -",
+   "ingredient": "solifenacin + tamsulosin"
+  },
+  {
+   "grade": "1",
+   "reason": "tadalafil: 여성에게 사용할 수 없음/tamsulosin:-",
+   "ingredient": "tadalafil+  tamsulosin"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

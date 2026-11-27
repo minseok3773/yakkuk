@@ -1,0 +1,7180 @@
+{
+ "id": "dapagliflozin",
+ "query": [
+  "다파글리플로진"
+ ],
+ "fetched": "2026-11-26",
+ "total": 382,
+ "kept": 382,
+ "mfdsName": [
+  "다파글리플로진프로판디올수화물",
+  "다파글리플로진무수유당혼합물",
+  "다파글리플로진시트르산(미분화)",
+  "다파글리플로진시트르산",
+  "다파글리플로진비스L-프롤린",
+  "다파글리플로진",
+  "다파글리플로진포르메이트"
+ ],
+ "items": [
+  {
+   "itemSeq": "202002316",
+   "name": "다포진정10밀리그램(다파글리플로진)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002316"
+  },
+  {
+   "itemSeq": "202003735",
+   "name": "다파론정10밀리그램(다파글리플로진비스L-프롤린)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "15.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003735"
+  },
+  {
+   "itemSeq": "202003734",
+   "name": "다파론정5밀리그램(다파글리플로진비스L-프롤린)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "7.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003734"
+  },
+  {
+   "itemSeq": "202003739",
+   "name": "다파진정10밀리그램(다파글리플로진비스L-프롤린)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "15.63",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003739"
+  },
+  {
+   "itemSeq": "202003736",
+   "name": "다포르정10밀리그램(다파글리플로진비스L-프롤린)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "15.63",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003736"
+  },
+  {
+   "itemSeq": "202003737",
+   "name": "트루다파정10밀리그램(다파글리플로진비스L-프롤린)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "15.63",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003737"
+  },
+  {
+   "itemSeq": "202003940",
+   "name": "엑시글루정10밀리그램(다파글리플로진)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003940"
+  },
+  {
+   "itemSeq": "202003939",
+   "name": "엑시글루정5밀리그램(다파글리플로진)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003939"
+  },
+  {
+   "itemSeq": "202005380",
+   "name": "다파리진정10밀리그램(다파글리플로진무수유당혼합물)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005380"
+  },
+  {
+   "itemSeq": "202005353",
+   "name": "다플디엠정10밀리그램(다파글리플로진무수유당혼합물)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005353"
+  },
+  {
+   "itemSeq": "202005376",
+   "name": "다플로진정10mg(다파글리플로진무수유당혼합물)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005376"
+  },
+  {
+   "itemSeq": "202005355",
+   "name": "젠시가정10밀리그램(다파글리플로진무수유당혼합물)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005355"
+  },
+  {
+   "itemSeq": "202005321",
+   "name": "포시글리정10밀리그램(다파글리플로진무수유당혼합물)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005321"
+  },
+  {
+   "itemSeq": "202005319",
+   "name": "포시디정10밀리그램(다파글리플로진무수유당혼합물)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005319"
+  },
+  {
+   "itemSeq": "202005363",
+   "name": "포실로진정10밀리그램(다파글리플로진무수유당혼합물)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005363"
+  },
+  {
+   "itemSeq": "202007551",
+   "name": "다파원정10mg(다파글리플로진시트르산)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-11-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007551"
+  },
+  {
+   "itemSeq": "202007550",
+   "name": "다파원정5mg(다파글리플로진시트르산)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "7.35",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-11-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007550"
+  },
+  {
+   "itemSeq": "202101181",
+   "name": "다파칸정10밀리그램(다파글리플로진무수유당혼합물)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101181"
+  },
+  {
+   "itemSeq": "202102088",
+   "name": "다포진정5밀리그램(다파글리플로진)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102088"
+  },
+  {
+   "itemSeq": "202103301",
+   "name": "슈가파정10밀리그램(다파글리플로진무수유당혼합물)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103301"
+  },
+  {
+   "itemSeq": "202103300",
+   "name": "슈가파정5밀리그램(다파글리플로진무수유당혼합물)(수출용)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "7.635",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103300"
+  },
+  {
+   "itemSeq": "202200034",
+   "name": "다파프로진정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200034"
+  },
+  {
+   "itemSeq": "202200237",
+   "name": "다파하나정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200237"
+  },
+  {
+   "itemSeq": "202200328",
+   "name": "일양다파글리플로진정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200328"
+  },
+  {
+   "itemSeq": "202200432",
+   "name": "포시로정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200432"
+  },
+  {
+   "itemSeq": "202200440",
+   "name": "포사린정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200440"
+  },
+  {
+   "itemSeq": "202200564",
+   "name": "다파디정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-02-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200564"
+  },
+  {
+   "itemSeq": "202200812",
+   "name": "다파프로진정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200812"
+  },
+  {
+   "itemSeq": "202200836",
+   "name": "다파하나정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200836"
+  },
+  {
+   "itemSeq": "202200913",
+   "name": "다글로진정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200913"
+  },
+  {
+   "itemSeq": "202200898",
+   "name": "일양다파글리플로진정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200898"
+  },
+  {
+   "itemSeq": "202200919",
+   "name": "포시로정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200919"
+  },
+  {
+   "itemSeq": "202200945",
+   "name": "글루다파정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200945"
+  },
+  {
+   "itemSeq": "202200944",
+   "name": "글루다파정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200944"
+  },
+  {
+   "itemSeq": "202200929",
+   "name": "다글로진정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200929"
+  },
+  {
+   "itemSeq": "202200946",
+   "name": "포슈벳정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200946"
+  },
+  {
+   "itemSeq": "202200991",
+   "name": "디플로정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200991"
+  },
+  {
+   "itemSeq": "202201026",
+   "name": "다파디정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201026"
+  },
+  {
+   "itemSeq": "202201016",
+   "name": "다파루틴정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201016"
+  },
+  {
+   "itemSeq": "202201028",
+   "name": "포시리진정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201028"
+  },
+  {
+   "itemSeq": "202201013",
+   "name": "화이트다파글리플로진정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201013"
+  },
+  {
+   "itemSeq": "202201074",
+   "name": "포사린정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201074"
+  },
+  {
+   "itemSeq": "202201075",
+   "name": "포시엘정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201075"
+  },
+  {
+   "itemSeq": "202201082",
+   "name": "제포가정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201082"
+  },
+  {
+   "itemSeq": "202201843",
+   "name": "다파릴정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201843"
+  },
+  {
+   "itemSeq": "202202088",
+   "name": "다파싱글정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202088"
+  },
+  {
+   "itemSeq": "202202179",
+   "name": "뉴팜다파글리플로진정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202179"
+  },
+  {
+   "itemSeq": "202202180",
+   "name": "다프로디정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202180"
+  },
+  {
+   "itemSeq": "202202177",
+   "name": "에이다파정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202177"
+  },
+  {
+   "itemSeq": "202202198",
+   "name": "뉴시가정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)유유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202198"
+  },
+  {
+   "itemSeq": "202202237",
+   "name": "유다파정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202237"
+  },
+  {
+   "itemSeq": "202202227",
+   "name": "포시올정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202227"
+  },
+  {
+   "itemSeq": "202202246",
+   "name": "다파킴정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)킴스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202246"
+  },
+  {
+   "itemSeq": "202202271",
+   "name": "포글린정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202271"
+  },
+  {
+   "itemSeq": "202202288",
+   "name": "포다글정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202288"
+  },
+  {
+   "itemSeq": "202202299",
+   "name": "네오다파정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202299"
+  },
+  {
+   "itemSeq": "202202457",
+   "name": "다파로정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202457"
+  },
+  {
+   "itemSeq": "202202918",
+   "name": "포글리진정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202918"
+  },
+  {
+   "itemSeq": "202203132",
+   "name": "당시가정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203132"
+  },
+  {
+   "itemSeq": "202203125",
+   "name": "당시가정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203125"
+  },
+  {
+   "itemSeq": "202203322",
+   "name": "다파유정(다파글리플로진프로판디올수화물)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203322"
+  },
+  {
+   "itemSeq": "202203351",
+   "name": "다파프로정10밀리그램(다파글리플로진포르메이트)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진포르메이트",
+     "amount": "10.685",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-08-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203351"
+  },
+  {
+   "itemSeq": "202203350",
+   "name": "다파프로정5밀리그램(다파글리플로진포르메이트)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진포르메이트",
+     "amount": "5.343",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-08-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203350"
+  },
+  {
+   "itemSeq": "202203475",
+   "name": "유케이다파정10밀리그램(다파글리플로진프로판디올수화물)(수출용)",
+   "company": "(주)유케이케미팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-08-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203475"
+  },
+  {
+   "itemSeq": "202203469",
+   "name": "엠다파정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203469"
+  },
+  {
+   "itemSeq": "202203754",
+   "name": "다파글루정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-10-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203754"
+  },
+  {
+   "itemSeq": "202203843",
+   "name": "다파릴정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-10-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203843"
+  },
+  {
+   "itemSeq": "202203948",
+   "name": "디파글루정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203948"
+  },
+  {
+   "itemSeq": "202204016",
+   "name": "포글로정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204016"
+  },
+  {
+   "itemSeq": "202204126",
+   "name": "글리플로정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204126"
+  },
+  {
+   "itemSeq": "202204210",
+   "name": "뉴팜다파글리플로진정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204210"
+  },
+  {
+   "itemSeq": "202204294",
+   "name": "유케이다파정5밀리그램(다파글리플로진프로판디올수화물)(수출용)",
+   "company": "(주)유케이케미팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204294"
+  },
+  {
+   "itemSeq": "202204312",
+   "name": "다파로정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204312"
+  },
+  {
+   "itemSeq": "202204301",
+   "name": "다파싱글정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204301"
+  },
+  {
+   "itemSeq": "202204313",
+   "name": "다플진정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204313"
+  },
+  {
+   "itemSeq": "202204325",
+   "name": "에이다파정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204325"
+  },
+  {
+   "itemSeq": "202204329",
+   "name": "포글린정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204329"
+  },
+  {
+   "itemSeq": "202204364",
+   "name": "네오다파정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204364"
+  },
+  {
+   "itemSeq": "202204370",
+   "name": "다프로디정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204370"
+  },
+  {
+   "itemSeq": "202204351",
+   "name": "포다글정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204351"
+  },
+  {
+   "itemSeq": "202204416",
+   "name": "포시올정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204416"
+  },
+  {
+   "itemSeq": "202204478",
+   "name": "엔피다파정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204478"
+  },
+  {
+   "itemSeq": "202204518",
+   "name": "디파글루정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204518"
+  },
+  {
+   "itemSeq": "202204688",
+   "name": "엠다파정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204688"
+  },
+  {
+   "itemSeq": "202204690",
+   "name": "포슈벳정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204690"
+  },
+  {
+   "itemSeq": "202204699",
+   "name": "포시다파정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204699"
+  },
+  {
+   "itemSeq": "202300026",
+   "name": "다포가정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300026"
+  },
+  {
+   "itemSeq": "202300038",
+   "name": "디피원정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300038"
+  },
+  {
+   "itemSeq": "202300205",
+   "name": "삼성다파글리플로진정(다파글리플로진프로판디올수화물)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300205"
+  },
+  {
+   "itemSeq": "202300256",
+   "name": "다포시정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300256"
+  },
+  {
+   "itemSeq": "202300285",
+   "name": "플로가정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300285"
+  },
+  {
+   "itemSeq": "202300304",
+   "name": "다퓨라정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300304"
+  },
+  {
+   "itemSeq": "202300305",
+   "name": "다퓨라정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300305"
+  },
+  {
+   "itemSeq": "202300330",
+   "name": "다파로진정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300330"
+  },
+  {
+   "itemSeq": "202300336",
+   "name": "포시엘정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300336"
+  },
+  {
+   "itemSeq": "202300341",
+   "name": "다파슬린정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300341"
+  },
+  {
+   "itemSeq": "202300340",
+   "name": "동아다파글리플로진정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300340"
+  },
+  {
+   "itemSeq": "202300379",
+   "name": "다파글정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300379"
+  },
+  {
+   "itemSeq": "202300388",
+   "name": "다파엔정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300388"
+  },
+  {
+   "itemSeq": "202300385",
+   "name": "동아다파글리플로진정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300385"
+  },
+  {
+   "itemSeq": "202300370",
+   "name": "타파진정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300370"
+  },
+  {
+   "itemSeq": "202300371",
+   "name": "타파진정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300371"
+  },
+  {
+   "itemSeq": "202300390",
+   "name": "휴시가정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300390"
+  },
+  {
+   "itemSeq": "202300422",
+   "name": "다파가정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300422"
+  },
+  {
+   "itemSeq": "202300420",
+   "name": "다파그린정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300420"
+  },
+  {
+   "itemSeq": "202300421",
+   "name": "다파그린정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300421"
+  },
+  {
+   "itemSeq": "202300411",
+   "name": "다파글리엠정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300411"
+  },
+  {
+   "itemSeq": "202300412",
+   "name": "다파글리엠정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300412"
+  },
+  {
+   "itemSeq": "202300410",
+   "name": "다플로정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300410"
+  },
+  {
+   "itemSeq": "202300414",
+   "name": "답플로정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300414"
+  },
+  {
+   "itemSeq": "202300425",
+   "name": "비엔씨다파정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)한국비엔씨",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300425"
+  },
+  {
+   "itemSeq": "202300403",
+   "name": "케이시가정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300403"
+  },
+  {
+   "itemSeq": "202300404",
+   "name": "포글로정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300404"
+  },
+  {
+   "itemSeq": "202300407",
+   "name": "포글리진정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300407"
+  },
+  {
+   "itemSeq": "202301304",
+   "name": "파시가정10밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301304"
+  },
+  {
+   "itemSeq": "202302482",
+   "name": "플로가정5밀리그램(다파글리플로진프로판디올수화물)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302482"
+  },
+  {
+   "itemSeq": "202402722",
+   "name": "다파진정5밀리그램(다파글리플로진비스L-프롤린)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "7.815",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402722"
+  },
+  {
+   "itemSeq": "202500734",
+   "name": "트루다파정5밀리그램(다파글리플로진비스L-프롤린)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "7.815",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500734"
+  },
+  {
+   "itemSeq": "202600928",
+   "name": "포시진정10밀리그램(다파글리플로진시트르산)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600928"
+  },
+  {
+   "itemSeq": "202600929",
+   "name": "포시진정5밀리그램(다파글리플로진시트르산)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "7.35",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600929"
+  },
+  {
+   "itemSeq": "201503484",
+   "name": "직듀오서방정10/1000밀리그램",
+   "company": "한국아스트라제네카(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503484"
+  },
+  {
+   "itemSeq": "201503635",
+   "name": "직듀오서방정10/500밀리그램",
+   "company": "한국아스트라제네카(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503635"
+  },
+  {
+   "itemSeq": "201701576",
+   "name": "큐턴정5/10밀리그램",
+   "company": "한국아스트라제네카(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "삭사글립틴수화물",
+     "amount": "5.29",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701576"
+  },
+  {
+   "itemSeq": "202106824",
+   "name": "다파엔듀오서방정10/1000밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "14.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106824"
+  },
+  {
+   "itemSeq": "202106825",
+   "name": "다파엔듀오서방정5/1000밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "7.35",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106825"
+  },
+  {
+   "itemSeq": "202106829",
+   "name": "포글리메트서방정10/1000밀리그램",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "14.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106829"
+  },
+  {
+   "itemSeq": "202106874",
+   "name": "다파엠서방정10/1000밀리그램",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "14.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106874"
+  },
+  {
+   "itemSeq": "202106875",
+   "name": "다파엠서방정5/1000밀리그램",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "7.35",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106875"
+  },
+  {
+   "itemSeq": "202106882",
+   "name": "다메트서방정10/1000밀리그램",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "14.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106882"
+  },
+  {
+   "itemSeq": "202107048",
+   "name": "포시메트서방정10/1000밀리그램(다파글리플로진시트르산, 메트포르민염산염)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107048"
+  },
+  {
+   "itemSeq": "202107126",
+   "name": "포슈벳듀오서방정10/1000밀리그램",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "14.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107126"
+  },
+  {
+   "itemSeq": "202107224",
+   "name": "포시디엠서방정10/1000밀리그램",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107224"
+  },
+  {
+   "itemSeq": "202107220",
+   "name": "플로가듀오서방정10/1000밀리그램",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "14.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107220"
+  },
+  {
+   "itemSeq": "202107219",
+   "name": "플로가듀오서방정5/1000밀리그램",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "7.35",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107219"
+  },
+  {
+   "itemSeq": "202107476",
+   "name": "엑시글루엠서방정10/500밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107476"
+  },
+  {
+   "itemSeq": "202107475",
+   "name": "엑시글루엠서방정10/1000밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107475"
+  },
+  {
+   "itemSeq": "202107477",
+   "name": "엑시글루엠서방정5/1000밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107477"
+  },
+  {
+   "itemSeq": "202107478",
+   "name": "엑시글루엠서방정5/500밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107478"
+  },
+  {
+   "itemSeq": "202108046",
+   "name": "다파콤비정10/100밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108046"
+  },
+  {
+   "itemSeq": "202108078",
+   "name": "다파메트서방정10/1000밀리그램",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "15.63",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108078"
+  },
+  {
+   "itemSeq": "202108077",
+   "name": "다파메트서방정10/500밀리그램",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "15.63",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108077"
+  },
+  {
+   "itemSeq": "202108083",
+   "name": "다포르메트서방정10/500밀리그램",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "15.63",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108083"
+  },
+  {
+   "itemSeq": "202108084",
+   "name": "다포르메트서방정10/1000밀리그램",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "15.63",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108084"
+  },
+  {
+   "itemSeq": "202108076",
+   "name": "시타플로진정10/100밀리그램",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108076"
+  },
+  {
+   "itemSeq": "202108082",
+   "name": "제포가듀오서방정10/1000밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "15.63",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108082"
+  },
+  {
+   "itemSeq": "202108081",
+   "name": "제포가듀오서방정10/500밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "15.63",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108081"
+  },
+  {
+   "itemSeq": "202108079",
+   "name": "트루다파엠서방정10/500밀리그램(다파글리플로진,메트포르민)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "15.63",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108079"
+  },
+  {
+   "itemSeq": "202108080",
+   "name": "트루다파엠서방정10/1000밀리그램(다파글리플로진,메트포르민)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "15.63",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108080"
+  },
+  {
+   "itemSeq": "202200046",
+   "name": "글루듀오정10/100밀리그램",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200046"
+  },
+  {
+   "itemSeq": "202200065",
+   "name": "다파그린에스정10/100밀리그램",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200065"
+  },
+  {
+   "itemSeq": "202200042",
+   "name": "다파듀오정10/100밀리그램",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200042"
+  },
+  {
+   "itemSeq": "202200044",
+   "name": "다파루틴스타정10/100밀리그램",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200044"
+  },
+  {
+   "itemSeq": "202200055",
+   "name": "다파릴시타정10/100밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200055"
+  },
+  {
+   "itemSeq": "202200054",
+   "name": "다파비아정10/100밀리그램",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200054"
+  },
+  {
+   "itemSeq": "202200045",
+   "name": "다파시정10/100밀리그램(다파글리플로진프로판디올수화물, 시타글립틴인산염수화물)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200045"
+  },
+  {
+   "itemSeq": "202200067",
+   "name": "다파자누정10/100밀리그램",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200067"
+  },
+  {
+   "itemSeq": "202200050",
+   "name": "다포가플러스정10/100밀리그램",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200050"
+  },
+  {
+   "itemSeq": "202200053",
+   "name": "시다플로정10/100밀리그램(다파글리플로진,시타글립틴)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200053"
+  },
+  {
+   "itemSeq": "202200048",
+   "name": "시답플로정10/100밀리그램",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200048"
+  },
+  {
+   "itemSeq": "202200068",
+   "name": "시타다파정10/100밀리그램(다파글리플로진,시타글립틴)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200068"
+  },
+  {
+   "itemSeq": "202200049",
+   "name": "시타원듀오정10/100밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200049"
+  },
+  {
+   "itemSeq": "202200064",
+   "name": "자글로진정10/100밀리그램",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200064"
+  },
+  {
+   "itemSeq": "202200069",
+   "name": "자누가정10/100밀리그램(다파글리플로진,시타글립틴)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200069"
+  },
+  {
+   "itemSeq": "202200056",
+   "name": "자누다진정10/100밀리그램",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200056"
+  },
+  {
+   "itemSeq": "202200070",
+   "name": "자누다파정10/100밀리그램",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200070"
+  },
+  {
+   "itemSeq": "202200066",
+   "name": "타파듀오정10/100밀리그램",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200066"
+  },
+  {
+   "itemSeq": "202200052",
+   "name": "포시다베정10/100밀리그램",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200052"
+  },
+  {
+   "itemSeq": "202200043",
+   "name": "포시비스정10/100밀리그램",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200043"
+  },
+  {
+   "itemSeq": "202200051",
+   "name": "포시비아정10/100밀리그램",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200051"
+  },
+  {
+   "itemSeq": "202200215",
+   "name": "글리듀오큐정10/100밀리그램",
+   "company": "성이바이오제약주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200215"
+  },
+  {
+   "itemSeq": "202200212",
+   "name": "글리로우싯정10/100밀리그램",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200212"
+  },
+  {
+   "itemSeq": "202200210",
+   "name": "다글로시타정10/100밀리그램",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200210"
+  },
+  {
+   "itemSeq": "202200216",
+   "name": "다파글시타정10/100밀리그램(다파글리플로진프로판디올수화물, 시타글립틴인산염수화물)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200216"
+  },
+  {
+   "itemSeq": "202200214",
+   "name": "다파르시정10/100밀리그램",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200214"
+  },
+  {
+   "itemSeq": "202200213",
+   "name": "시타칸다플정10/100밀리그램",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200213"
+  },
+  {
+   "itemSeq": "202200211",
+   "name": "포사린플러스정10/100밀리그램",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200211"
+  },
+  {
+   "itemSeq": "202200495",
+   "name": "글루포비정10/100밀리그램",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200495"
+  },
+  {
+   "itemSeq": "202200489",
+   "name": "다파글립틴정10/100밀리그램",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200489"
+  },
+  {
+   "itemSeq": "202200492",
+   "name": "다파로에스정10/100밀리그램(다파글리플로진시트르산, 시타글립틴염산염수화물)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200492"
+  },
+  {
+   "itemSeq": "202200497",
+   "name": "듀오글리정",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200497"
+  },
+  {
+   "itemSeq": "202200496",
+   "name": "디에스플러스정10/100밀리그램(다파글리플로진시트르산,시타글립틴염산염수화물)",
+   "company": "(주)유유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200496"
+  },
+  {
+   "itemSeq": "202200500",
+   "name": "슈가맥스정10/100밀리그램",
+   "company": "(주)새한제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200500"
+  },
+  {
+   "itemSeq": "202200498",
+   "name": "시타포글리정10/100밀리그램",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200498"
+  },
+  {
+   "itemSeq": "202200491",
+   "name": "에스립틴디정10/100밀리그램",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200491"
+  },
+  {
+   "itemSeq": "202200490",
+   "name": "자누플로정10/100밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200490"
+  },
+  {
+   "itemSeq": "202200494",
+   "name": "파시콤비정10/100밀리그램",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200494"
+  },
+  {
+   "itemSeq": "202200493",
+   "name": "포누비아정 10/100밀리그램",
+   "company": "초당약품공업(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200493"
+  },
+  {
+   "itemSeq": "202200488",
+   "name": "포시글립엠정10/100밀리그램",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200488"
+  },
+  {
+   "itemSeq": "202200499",
+   "name": "포시콤비정10/100밀리그램",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200499"
+  },
+  {
+   "itemSeq": "202202500",
+   "name": "다파론듀오서방정10/1000밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "15.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202500"
+  },
+  {
+   "itemSeq": "202202499",
+   "name": "다파론듀오서방정10/500밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "15.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202499"
+  },
+  {
+   "itemSeq": "202202497",
+   "name": "다파론듀오서방정5/500밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "7.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202497"
+  },
+  {
+   "itemSeq": "202202498",
+   "name": "다파론듀오서방정5/1000밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "7.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202498"
+  },
+  {
+   "itemSeq": "202202644",
+   "name": "티디콤비정10/100밀리그램",
+   "company": "(주)티디에스팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202644"
+  },
+  {
+   "itemSeq": "202202588",
+   "name": "제미다파정",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "제미글립틴타르타르산염1.5수화물",
+     "amount": "68.9",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202588"
+  },
+  {
+   "itemSeq": "202202855",
+   "name": "엑시글루에스정",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-07-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202855"
+  },
+  {
+   "itemSeq": "202203763",
+   "name": "자누콤비정10/100밀리그램",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-10-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203763"
+  },
+  {
+   "itemSeq": "202204006",
+   "name": "실다파정10/100밀리그램(다파글리플로진,시타글립틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.6",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204006"
+  },
+  {
+   "itemSeq": "202204037",
+   "name": "다파엔듀오서방정10/500밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "14.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204037"
+  },
+  {
+   "itemSeq": "202204038",
+   "name": "다파엔듀오서방정5/500밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "7.35",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204038"
+  },
+  {
+   "itemSeq": "202204073",
+   "name": "다메트서방정5/500밀리그램",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "7.35",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204073"
+  },
+  {
+   "itemSeq": "202204058",
+   "name": "듀오리치서방정10/500밀리그램",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "14.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204058"
+  },
+  {
+   "itemSeq": "202204057",
+   "name": "듀오리치서방정5/500밀리그램",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "7.35",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204057"
+  },
+  {
+   "itemSeq": "202204067",
+   "name": "일양다파메서방정5/500밀리그램",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "7.35",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204067"
+  },
+  {
+   "itemSeq": "202204061",
+   "name": "케이듀오서방정5/500밀리그램",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "7.35",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204061"
+  },
+  {
+   "itemSeq": "202204059",
+   "name": "포글리메트서방정5/500밀리그램",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "7.35",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204059"
+  },
+  {
+   "itemSeq": "202204072",
+   "name": "포슈벳듀오서방정10/500밀리그램",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "14.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204072"
+  },
+  {
+   "itemSeq": "202204071",
+   "name": "포슈벳듀오서방정5/500밀리그램",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "7.35",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204071"
+  },
+  {
+   "itemSeq": "202204070",
+   "name": "포시디시엠서방정5/500밀리그램",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "7.35",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204070"
+  },
+  {
+   "itemSeq": "202204063",
+   "name": "포시메트서방정5/500밀리그램",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "7.35",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204063"
+  },
+  {
+   "itemSeq": "202204065",
+   "name": "플로가듀오서방정5/500밀리그램",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "7.35",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204065"
+  },
+  {
+   "itemSeq": "202204123",
+   "name": "다파원엠서방정10/1000밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염콜로이드성이산화규소",
+     "amount": "1010.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204123"
+  },
+  {
+   "itemSeq": "202204139",
+   "name": "다파원엠서방정10/500밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염콜로이드성이산화규소",
+     "amount": "505.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204139"
+  },
+  {
+   "itemSeq": "202204140",
+   "name": "다파원엠서방정5/1000밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "7.35",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염콜로이드성이산화규소",
+     "amount": "1010",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204140"
+  },
+  {
+   "itemSeq": "202204141",
+   "name": "다파원엠서방정5/500밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "7.35",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염콜로이드성이산화규소",
+     "amount": "505.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204141"
+  },
+  {
+   "itemSeq": "202204356",
+   "name": "다파프로진메트서방정5/500밀리그램",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "7.35",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염콜로이드성이산화규소",
+     "amount": "505.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204356"
+  },
+  {
+   "itemSeq": "202204357",
+   "name": "다파프로진메트서방정5/1000밀리그램",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "7.35",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염콜로이드성이산화규소",
+     "amount": "1010",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204357"
+  },
+  {
+   "itemSeq": "202204358",
+   "name": "다파프로진메트서방정10/500밀리그램",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염콜로이드성이산화규소",
+     "amount": "505.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204358"
+  },
+  {
+   "itemSeq": "202204359",
+   "name": "다파프로진메트서방정10/1000밀리그램",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염콜로이드성이산화규소",
+     "amount": "1010.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204359"
+  },
+  {
+   "itemSeq": "202204513",
+   "name": "다파글립정10/100밀리그램",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204513"
+  },
+  {
+   "itemSeq": "202300031",
+   "name": "다파시타립정10/100밀리그램(다파글리플로진프로판디올수화물,시타글립틴인산염수화물)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300031"
+  },
+  {
+   "itemSeq": "202300030",
+   "name": "삼다파듀오정10/100밀리그램(다파글리플로진프로판디올수화물,시타글립틴인산염수화물)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300030"
+  },
+  {
+   "itemSeq": "202300036",
+   "name": "시타글로정10/100밀리그램(다파글리플로진프로판디올수화물,시타글립틴인산염수화물)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300036"
+  },
+  {
+   "itemSeq": "202300051",
+   "name": "포시글리듀오서방정10/1000밀리그램",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300051"
+  },
+  {
+   "itemSeq": "202300056",
+   "name": "포실로진에스정(다파글리플로진프로판디올수화물,시타글립틴인산염수화물)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300056"
+  },
+  {
+   "itemSeq": "202300142",
+   "name": "글리플로엠서방정10/1000밀리그램",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300142"
+  },
+  {
+   "itemSeq": "202300145",
+   "name": "다파엔메트서방정10/1000밀리그램(다파글리플로진, 메트포르민)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300145"
+  },
+  {
+   "itemSeq": "202300150",
+   "name": "다파엘듀오서방정10/1000밀리그램",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300150"
+  },
+  {
+   "itemSeq": "202300144",
+   "name": "다파이제서방정10/1000밀리그램(다파글리플로진,메트포르민)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300144"
+  },
+  {
+   "itemSeq": "202300146",
+   "name": "다파칸메트서방정10/1000밀리그램",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300146"
+  },
+  {
+   "itemSeq": "202300154",
+   "name": "다포진엠서방정10/1000밀리그램",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300154"
+  },
+  {
+   "itemSeq": "202300143",
+   "name": "다플로엠서방정10/1000밀리그램",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300143"
+  },
+  {
+   "itemSeq": "202300149",
+   "name": "다플로진듀오서방정10/1000밀리그램",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300149"
+  },
+  {
+   "itemSeq": "202300153",
+   "name": "에스포가듀오서방정10/1000밀리그램",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300153"
+  },
+  {
+   "itemSeq": "202300152",
+   "name": "영진다듀서방정10/1000밀리그램",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300152"
+  },
+  {
+   "itemSeq": "202300147",
+   "name": "젠시가메트서방정10/1000밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300147"
+  },
+  {
+   "itemSeq": "202300072",
+   "name": "젠시가에스정10/100밀리그램(다파글리플로진,시타글립틴)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300072"
+  },
+  {
+   "itemSeq": "202300176",
+   "name": "다파씨글로정10/100밀리그램(다파글리플로진프로판디올수화물,시타글립틴인산염수화물)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300176"
+  },
+  {
+   "itemSeq": "202300188",
+   "name": "다파스타정10/100밀리그램",
+   "company": "주식회사 노바엠헬스케어",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300188"
+  },
+  {
+   "itemSeq": "202300192",
+   "name": "유다파듀오서방정10/500밀리그램",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300192"
+  },
+  {
+   "itemSeq": "202300191",
+   "name": "유다파듀오서방정10/1000밀리그램",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300191"
+  },
+  {
+   "itemSeq": "202300187",
+   "name": "포다시정10/100밀리그램",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300187"
+  },
+  {
+   "itemSeq": "202300197",
+   "name": "뉴시타글로진정10/100밀리그램(다파글리플로진, 시타글립틴)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300197"
+  },
+  {
+   "itemSeq": "202300210",
+   "name": "다파릴듀오서방정10/1000밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300210"
+  },
+  {
+   "itemSeq": "202300209",
+   "name": "다파릴듀오서방정10/500밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300209"
+  },
+  {
+   "itemSeq": "202300202",
+   "name": "자누비포정10/100밀리그램",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300202"
+  },
+  {
+   "itemSeq": "202300203",
+   "name": "자누포정10/100밀리그램",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300203"
+  },
+  {
+   "itemSeq": "202300196",
+   "name": "화이트다파글립틴정10/100밀리그램",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300196"
+  },
+  {
+   "itemSeq": "202300241",
+   "name": "다파로엠서방정10/1000밀리그램",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300241"
+  },
+  {
+   "itemSeq": "202300240",
+   "name": "다파로엠서방정10/500밀리그램",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300240"
+  },
+  {
+   "itemSeq": "202300225",
+   "name": "다파메토정10/100밀리그램",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300225"
+  },
+  {
+   "itemSeq": "202300242",
+   "name": "다파플러스서방정10/500밀리그램",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300242"
+  },
+  {
+   "itemSeq": "202300243",
+   "name": "다파플러스서방정10/1000밀리그램",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300243"
+  },
+  {
+   "itemSeq": "202300228",
+   "name": "다포가듀오서방정10/1000밀리그램(다파글리플로진프로판디올수화물, 메트포르민염산염)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300228"
+  },
+  {
+   "itemSeq": "202300227",
+   "name": "다포가듀오서방정10/500밀리그램(다파글리플로진프로판디올수화물, 메트포르민염산염)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300227"
+  },
+  {
+   "itemSeq": "202300230",
+   "name": "타파진플러스서방정10/1000밀리그램",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300230"
+  },
+  {
+   "itemSeq": "202300229",
+   "name": "타파진플러스서방정10/500밀리그램",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300229"
+  },
+  {
+   "itemSeq": "202300239",
+   "name": "폴민다파서방정10/1000밀리그램",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300239"
+  },
+  {
+   "itemSeq": "202300238",
+   "name": "폴민다파서방정10/500밀리그램",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300238"
+  },
+  {
+   "itemSeq": "202300252",
+   "name": "시타듀오정10/100밀리그램",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300252"
+  },
+  {
+   "itemSeq": "202300259",
+   "name": "자누프립정10/100밀리그램",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300259"
+  },
+  {
+   "itemSeq": "202300260",
+   "name": "펜믹스시타플로정(시타글립틴인산염수화물·다파글리플로진프로판디올수화물)",
+   "company": "(주)펜믹스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300260"
+  },
+  {
+   "itemSeq": "202300271",
+   "name": "다누시가정10/100밀리그램",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300271"
+  },
+  {
+   "itemSeq": "202300275",
+   "name": "디파글루엠서방정10/1000밀리그램",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300275"
+  },
+  {
+   "itemSeq": "202300274",
+   "name": "포시디엠서방정10/500밀리그램",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300274"
+  },
+  {
+   "itemSeq": "202300273",
+   "name": "포시디엠서방정5/500밀리그램",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300273"
+  },
+  {
+   "itemSeq": "202300293",
+   "name": "다글립정10/100밀리그램(다파글리플로진, 시타글립틴)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300293"
+  },
+  {
+   "itemSeq": "202300298",
+   "name": "포시로멧서방정10/500밀리그램(다파글리플로진, 메트포르민염산염)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300298"
+  },
+  {
+   "itemSeq": "202300297",
+   "name": "포시로멧서방정5/500밀리그램(다파글리플로진, 메트포르민염산염)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300297"
+  },
+  {
+   "itemSeq": "202300302",
+   "name": "나누당시가정10/100밀리그램",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300302"
+  },
+  {
+   "itemSeq": "202300306",
+   "name": "에이다파시타듀오정10/100밀리그램",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300306"
+  },
+  {
+   "itemSeq": "202300342",
+   "name": "트루디에스정10/100밀리그램(다파글리플로진,시타글립틴)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300342"
+  },
+  {
+   "itemSeq": "202300354",
+   "name": "다파로진듀오서방정10/1000밀리그램",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300354"
+  },
+  {
+   "itemSeq": "202300355",
+   "name": "다파루틴듀오서방정10/1000밀리그램",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300355"
+  },
+  {
+   "itemSeq": "202300366",
+   "name": "다파포민서방정10/500밀리그램",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300366"
+  },
+  {
+   "itemSeq": "202300347",
+   "name": "다파포민서방정10/1000밀리그램",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300347"
+  },
+  {
+   "itemSeq": "202300348",
+   "name": "다파프로메트서방정10/1000밀리그램",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300348"
+  },
+  {
+   "itemSeq": "202300349",
+   "name": "다파프로메트서방정10/500밀리그램",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300349"
+  },
+  {
+   "itemSeq": "202300351",
+   "name": "다파프로메트서방정5/500밀리그램",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300351"
+  },
+  {
+   "itemSeq": "202300352",
+   "name": "다파프로메트서방정5/1000밀리그램",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300352"
+  },
+  {
+   "itemSeq": "202300353",
+   "name": "다플진메트서방정10/1000밀리그램",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300353"
+  },
+  {
+   "itemSeq": "202300357",
+   "name": "포글로엠서방정10/1000밀리그램(다파글리플로진프로판디올수화물, 메트포르민염산염)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300357"
+  },
+  {
+   "itemSeq": "202300350",
+   "name": "포시다파엠서방정10/1000밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300350"
+  },
+  {
+   "itemSeq": "202300356",
+   "name": "포시로멧서방정10/1000밀리그램(다파글리플로진, 메트포르민)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300356"
+  },
+  {
+   "itemSeq": "202300358",
+   "name": "플로가엠듀오서방정10/1000밀리그램(다파글리플로진, 메트포르민)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300358"
+  },
+  {
+   "itemSeq": "202300359",
+   "name": "휴시가듀오서방정10/500밀리그램(다파글리플로진, 메트포르민)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300359"
+  },
+  {
+   "itemSeq": "202300360",
+   "name": "휴시가듀오서방정10/1000밀리그램(다파글리플로진, 메트포르민)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300360"
+  },
+  {
+   "itemSeq": "202300369",
+   "name": "다플시타정10/100mg(다파글리플로진, 시타글립틴)",
+   "company": "삼아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300369"
+  },
+  {
+   "itemSeq": "202300372",
+   "name": "디피투정10/100밀리그램(다파글리플로진프로판디올수화물, 시타글립틴인산염수화물)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300372"
+  },
+  {
+   "itemSeq": "202300387",
+   "name": "시타엠다파정10/100밀리그램(다파글리플로진,시타글립틴)",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300387"
+  },
+  {
+   "itemSeq": "202300383",
+   "name": "에스플로정10/100밀리그램",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300383"
+  },
+  {
+   "itemSeq": "202300381",
+   "name": "유시다파정10/100밀리그램(다파글리플로진,시타글립틴)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300381"
+  },
+  {
+   "itemSeq": "202300386",
+   "name": "자누듀오정10/100밀리그램",
+   "company": "(주)킴스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300386"
+  },
+  {
+   "itemSeq": "202300384",
+   "name": "자누스틴듀오정10/100밀리그램",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300384"
+  },
+  {
+   "itemSeq": "202300389",
+   "name": "포시아정10/100밀리그램(다파글리플로진,시타글립틴)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300389"
+  },
+  {
+   "itemSeq": "202300417",
+   "name": "다콤시타정10/100밀리그램(다파글리플로진, 시타글립틴)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300417"
+  },
+  {
+   "itemSeq": "202300432",
+   "name": "다파글루엠서방정10/500밀리그램(다파글리플로진프로판디올수화물,메트포르민염산염)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300432"
+  },
+  {
+   "itemSeq": "202300433",
+   "name": "다파글루엠서방정10/1000밀리그램(다파글리플로진프로판디올수화물,메트포르민염산염)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1,000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300433"
+  },
+  {
+   "itemSeq": "202300423",
+   "name": "다파글엠서방정10/1000밀리그램(다파글리플로진프로판디올수화물,메트포르민염산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1,000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300423"
+  },
+  {
+   "itemSeq": "202300424",
+   "name": "다파글엠서방정10/500밀리그램(다파글리플로진프로판디올수화물,메트포르민염산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300424"
+  },
+  {
+   "itemSeq": "202300431",
+   "name": "다플디엠메트서방정10/1000밀리그램(다파글리플로진프로판디올수화물,메트포르민염산염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1,000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300431"
+  },
+  {
+   "itemSeq": "202300430",
+   "name": "다플디엠메트서방정10/500밀리그램(다파글리플로진프로판디올수화물,메트포르민염산염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300430"
+  },
+  {
+   "itemSeq": "202300429",
+   "name": "답플로엠서방정10/1000밀리그램(다파글리플로진프로판디올수화물,메트포르민염산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1,000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300429"
+  },
+  {
+   "itemSeq": "202300428",
+   "name": "답플로엠서방정10/500밀리그램(다파글리플로진프로판디올수화물,메트포르민염산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300428"
+  },
+  {
+   "itemSeq": "202300533",
+   "name": "시타리진정10/100밀리그램",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-02-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300533"
+  },
+  {
+   "itemSeq": "202300644",
+   "name": "다파듀시타정10/100밀리그램(다파글리플로진프로판디올수화물,시타글립틴인산염수화물)",
+   "company": "코스맥스파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-02-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300644"
+  },
+  {
+   "itemSeq": "202300664",
+   "name": "다파그린지정10/4밀리그램",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300664"
+  },
+  {
+   "itemSeq": "202300715",
+   "name": "그루시가정10/4밀리그램",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300715"
+  },
+  {
+   "itemSeq": "202300717",
+   "name": "다파메피정10/4밀리그램",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300717"
+  },
+  {
+   "itemSeq": "202300716",
+   "name": "직더블엠정10/4밀리그램(다파글리플로진, 글리메피리드)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300716"
+  },
+  {
+   "itemSeq": "202300827",
+   "name": "슈가다파정",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에보글립틴타르타르산염",
+     "amount": "6.87",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-03-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300827"
+  },
+  {
+   "itemSeq": "202300910",
+   "name": "플로시타정10/100밀리그램(다파글리플로진, 시타글립틴)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300910"
+  },
+  {
+   "itemSeq": "202301100",
+   "name": "포비글정10/100밀리그램",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301100"
+  },
+  {
+   "itemSeq": "202301577",
+   "name": "다시디엠정10/100밀리그램(다파글리플로진,시타글립틴)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301577"
+  },
+  {
+   "itemSeq": "202301622",
+   "name": "다파시타엠서방정10/100/1000밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염콜로이드성이산화규소",
+     "amount": "1010",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301622"
+  },
+  {
+   "itemSeq": "202301623",
+   "name": "실다파엠서방정5/50/1000밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "64.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301623"
+  },
+  {
+   "itemSeq": "202301625",
+   "name": "실다파엠서방정5/50/750밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "64.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "750.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301625"
+  },
+  {
+   "itemSeq": "202301624",
+   "name": "실다파엠서방정5/50/500밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "64.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301624"
+  },
+  {
+   "itemSeq": "202301736",
+   "name": "다파시틴정10/100밀리그램(다파글리플로진,시타글립틴)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301736"
+  },
+  {
+   "itemSeq": "202301759",
+   "name": "다파시타정10/100밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301759"
+  },
+  {
+   "itemSeq": "202301844",
+   "name": "다파진에스듀오정10/100밀리그램(다파글리플로진,시타글립틴)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진비스L-프롤린",
+     "amount": "15.63",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.48",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301844"
+  },
+  {
+   "itemSeq": "202301855",
+   "name": "포시글리듀오서방정10/500밀리그램",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301855"
+  },
+  {
+   "itemSeq": "202301872",
+   "name": "다파엔시타정10/100밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301872"
+  },
+  {
+   "itemSeq": "202301902",
+   "name": "글리플로엠서방정10/500밀리그램",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301902"
+  },
+  {
+   "itemSeq": "202301905",
+   "name": "다파엔메트서방정10/500밀리그램(다파글리플로진, 메트포르민)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301905"
+  },
+  {
+   "itemSeq": "202301900",
+   "name": "다파엘듀오서방정10/500밀리그램",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301900"
+  },
+  {
+   "itemSeq": "202301894",
+   "name": "다파이제서방정10/500밀리그램(다파글리플로진,메트포르민)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301894"
+  },
+  {
+   "itemSeq": "202301896",
+   "name": "다파칸메트서방정10/500밀리그램",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301896"
+  },
+  {
+   "itemSeq": "202301904",
+   "name": "다포진엠서방정10/500밀리그램",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301904"
+  },
+  {
+   "itemSeq": "202301893",
+   "name": "다플로엠서방정10/500밀리그램",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301893"
+  },
+  {
+   "itemSeq": "202301898",
+   "name": "다플로진듀오서방정10/500밀리그램",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301898"
+  },
+  {
+   "itemSeq": "202301903",
+   "name": "에스포가듀오서방정10/500밀리그램",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301903"
+  },
+  {
+   "itemSeq": "202301895",
+   "name": "영진다듀서방정10/500밀리그램",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301895"
+  },
+  {
+   "itemSeq": "202301897",
+   "name": "젠시가메트서방정10/500밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진무수유당혼합물",
+     "amount": "15.27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301897"
+  },
+  {
+   "itemSeq": "202301959",
+   "name": "포르자듀오정10/100밀리그램",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301959"
+  },
+  {
+   "itemSeq": "202302005",
+   "name": "휴시글로정(다파글리플로진,시타글립틴)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산(미분화)",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302005"
+  },
+  {
+   "itemSeq": "202302020",
+   "name": "다파시타엠서방정5/50/1000밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "64.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염콜로이드성이산화규소",
+     "amount": "1010",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302020"
+  },
+  {
+   "itemSeq": "202302019",
+   "name": "다파시타엠서방정5/50/500밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "64.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염콜로이드성이산화규소",
+     "amount": "505",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302019"
+  },
+  {
+   "itemSeq": "202302018",
+   "name": "다파시타엠서방정5/50/750밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "64.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염콜로이드성이산화규소",
+     "amount": "757.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302018"
+  },
+  {
+   "itemSeq": "202302010",
+   "name": "시다프비아정10/100밀리그램(다파글리플로진,시타글립틴)",
+   "company": "한국아스트라제네카(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302010"
+  },
+  {
+   "itemSeq": "202302547",
+   "name": "트루버디정10/15밀리그램(다파글리플로진,피오글리타존)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.300",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.530",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302547"
+  },
+  {
+   "itemSeq": "202302548",
+   "name": "트루버디정10/30밀리그램(다파글리플로진,피오글리타존)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.300",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.060",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302548"
+  },
+  {
+   "itemSeq": "202302574",
+   "name": "다플진메트서방정10/500밀리그램(다파글리플로진프로판디올수화물, 메트포르민염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302574"
+  },
+  {
+   "itemSeq": "202302573",
+   "name": "다플진메트서방정5/500밀리그램(다파글리플로진프로판디올수화물, 메트포르민염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302573"
+  },
+  {
+   "itemSeq": "202302567",
+   "name": "포시다파엠서방정10/500밀리그램(다파글리플로진프로판디올수화물,메트포르민염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302567"
+  },
+  {
+   "itemSeq": "202302566",
+   "name": "포시다파엠서방정5/500밀리그램(다파글리플로진프로판디올수화물,메트포르민염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302566"
+  },
+  {
+   "itemSeq": "202302656",
+   "name": "다파엠듀오서방정10/500밀리그램",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302656"
+  },
+  {
+   "itemSeq": "202302655",
+   "name": "다파엠듀오서방정5/500밀리그램",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302655"
+  },
+  {
+   "itemSeq": "202302837",
+   "name": "듀글로우정10/15밀리그램(다파글리플로진프로판디올수화물,피오글리타존염산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302837"
+  },
+  {
+   "itemSeq": "202303029",
+   "name": "슈가트리서방정5/10/1000밀리그램(에보글립틴,다파글리플로진,메트포르민염산염)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에보글립틴타르타르산염",
+     "amount": "6.87",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303029"
+  },
+  {
+   "itemSeq": "202303461",
+   "name": "피오다정10/15밀리그램(다파글리플로진,피오글리타존)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303461"
+  },
+  {
+   "itemSeq": "202400167",
+   "name": "플로가엠듀오서방정10/500밀리그램(다파글리플로진, 메트포르민)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400167"
+  },
+  {
+   "itemSeq": "202400166",
+   "name": "플로가엠듀오서방정5/500밀리그램(다파글리플로진, 메트포르민)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400166"
+  },
+  {
+   "itemSeq": "202400224",
+   "name": "듀글로우정10/30밀리그램(다파글리플로진프로판디올수화물,피오글리타존염산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400224"
+  },
+  {
+   "itemSeq": "202400231",
+   "name": "다파피오정10/15밀리그램(다파글리플로진,피오글리타존)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.300",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.530",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400231"
+  },
+  {
+   "itemSeq": "202400232",
+   "name": "다파피오정10/30밀리그램(다파글리플로진,피오글리타존)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.300",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.060",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400232"
+  },
+  {
+   "itemSeq": "202400241",
+   "name": "엑토시가정10/15밀리그램(다파글리플로진, 피오글리타존)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-02-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400241"
+  },
+  {
+   "itemSeq": "202400905",
+   "name": "다파리나정(다파글리플로진프로판디올수화물,리나글립틴)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400905"
+  },
+  {
+   "itemSeq": "202400923",
+   "name": "다파로엘정10/5밀리그램(다파글리플로진프로판디올수화물,리나글립틴)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400923"
+  },
+  {
+   "itemSeq": "202400937",
+   "name": "다파엔젠타정10/5밀리그램(다파글리플로진,리나글립틴)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400937"
+  },
+  {
+   "itemSeq": "202400935",
+   "name": "리나다파지정(다파글리플로진프로판디올수화물,리나글립틴)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400935"
+  },
+  {
+   "itemSeq": "202400934",
+   "name": "트라시가정10/5밀리그램(다파글리플로진프로판디올수화물,리나글립틴)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400934"
+  },
+  {
+   "itemSeq": "202400936",
+   "name": "트루다파엘정10/5밀리그램(다파글리플로진,리나글립틴)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400936"
+  },
+  {
+   "itemSeq": "202400922",
+   "name": "포사리나정10/5밀리그램(다파글리플로진프로판디올수화물,리나글립틴)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400922"
+  },
+  {
+   "itemSeq": "202400933",
+   "name": "포시젠타정(다파글리플로진프로판디올수화물,리나글립틴)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400933"
+  },
+  {
+   "itemSeq": "202401772",
+   "name": "포시타엠서방정10/100/1000밀리그램(다파글리플로진,시타글립틴,메트포르민)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401772"
+  },
+  {
+   "itemSeq": "202401773",
+   "name": "포시타엠서방정5/50/1000밀리그램(다파글리플로진,시타글립틴,메트포르민)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "64.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401773"
+  },
+  {
+   "itemSeq": "202401792",
+   "name": "시타다파엠서방정10/100/1000밀리그램(다파글리플로진,시타글립틴,메트포르민)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401792"
+  },
+  {
+   "itemSeq": "202401791",
+   "name": "시타다파엠서방정5/50/1000밀리그램(다파글리플로진,시타글립틴,메트포르민)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "64.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401791"
+  },
+  {
+   "itemSeq": "202401788",
+   "name": "시타칸다플메트서방정5/50/1000밀리그램(다파글리플로진,시타글립틴,메트포르민)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "64.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401788"
+  },
+  {
+   "itemSeq": "202401787",
+   "name": "시타칸다플메트서방정10/100/1000밀리그램(다파글리플로진,시타글립틴,메트포르민)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401787"
+  },
+  {
+   "itemSeq": "202401789",
+   "name": "자누플로멧서방정10/100/1000밀리그램(다파글리플로진,시타글립틴,메트포르민)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401789"
+  },
+  {
+   "itemSeq": "202401790",
+   "name": "자누플로멧서방정5/50/1000밀리그램(다파글리플로진,시타글립틴,메트포르민)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "64.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401790"
+  },
+  {
+   "itemSeq": "202403108",
+   "name": "다파진에스엠서방정10/100/1000밀리그램(다파글리플로진,시타글립틴,메트포르민)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403108"
+  },
+  {
+   "itemSeq": "202403106",
+   "name": "시타플로진메트서방정10/100/1000밀리그램(다파글리플로진,시타글립틴,메트포르민)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403106"
+  },
+  {
+   "itemSeq": "202500059",
+   "name": "트루디에스엠서방정10/100/1000밀리그램(다파글리플로진,시타글립틴,메트포르민)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500059"
+  },
+  {
+   "itemSeq": "202500060",
+   "name": "휴시글로엠서방정10/100/1000밀리그램(다파글리플로진, 시타글립틴, 메트포르민)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "113.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500060"
+  },
+  {
+   "itemSeq": "202500552",
+   "name": "시타플로진메트서방정5/50/1000밀리그램(다파글리플로진,시타글립틴,메트포르민)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "56.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500552"
+  },
+  {
+   "itemSeq": "202500710",
+   "name": "다파진에스엠서방정5/50/1000밀리그램(다파글리플로진, 시타글립틴, 메트포르민)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "56.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500710"
+  },
+  {
+   "itemSeq": "202500712",
+   "name": "트루디에스엠서방정5/50/1000밀리그램(다파글리플로진,시타글립틴,메트포르민)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "56.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500712"
+  },
+  {
+   "itemSeq": "202500711",
+   "name": "휴시글로엠서방정5/50/1000밀리그램(다파글리플로진, 시타글립틴, 메트포르민)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "6.15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴염산염수화물",
+     "amount": "56.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500711"
+  },
+  {
+   "itemSeq": "202603530",
+   "name": "포시메트서방정10/500밀리그램(다파글리플로진시트르산, 메트포르민염산염)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진시트르산",
+     "amount": "14.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-11-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603530"
+  }
+ ]
+}

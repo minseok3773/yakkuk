@@ -1,0 +1,5760 @@
+{
+ "id": "diphenhydramine",
+ "query": [
+  "디펜히드라민"
+ ],
+ "fetched": "2026-11-27",
+ "total": 164,
+ "kept": 164,
+ "mfdsName": [
+  "디펜히드라민",
+  "디펜히드라민염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "200302200",
+   "name": "디히스타주(디펜히드라민염산염)(수출용)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-10-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302200"
+  },
+  {
+   "itemSeq": "200807310",
+   "name": "슬리펠정25밀리그램(디펜히드라민염산염)",
+   "company": "한미약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807310"
+  },
+  {
+   "itemSeq": "200807882",
+   "name": "디펙타민연질캡슐(디펜히드라민염산염)",
+   "company": "(주)알피바이오",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807882"
+  },
+  {
+   "itemSeq": "200808028",
+   "name": "단자민정(디펜히드라민염산염)",
+   "company": "고려제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808028"
+  },
+  {
+   "itemSeq": "200808704",
+   "name": "이텍스디펜히드라민염산염정25mg(수출용)",
+   "company": "(주)테라젠이텍스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808704"
+  },
+  {
+   "itemSeq": "200903392",
+   "name": "제로민연질캡슐(디펜히드라민염산염)",
+   "company": "한솔신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903392"
+  },
+  {
+   "itemSeq": "200903737",
+   "name": "쿨드림연질캡슐(디펜히드라민염산염)",
+   "company": "(주)녹십자",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903737"
+  },
+  {
+   "itemSeq": "201208876",
+   "name": "브이엠안티이치겔(디펜히드라민염산염)(수출명:VM Anti-itch Gel(Diphenhydramine Hydrochloride)(수출용)",
+   "company": "(주)퍼슨",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208876"
+  },
+  {
+   "itemSeq": "201401099",
+   "name": "동구디펜히드라민염산염연질캡슐25밀리그램(수출용)",
+   "company": "(주)동구바이오제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401099"
+  },
+  {
+   "itemSeq": "202001554",
+   "name": "코자미연질캡슐(디펜히드라민염산염)",
+   "company": "(주)인트로바이오파마",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001554"
+  },
+  {
+   "itemSeq": "202301154",
+   "name": "드림굿연질캡슐(디펜히드라민염산염)",
+   "company": "경방신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-04-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301154"
+  },
+  {
+   "itemSeq": "202301813",
+   "name": "이지퀼나잇액(디펜히드라민염산염)",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "250.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301813"
+  },
+  {
+   "itemSeq": "202500981",
+   "name": "딥슬링연질캡슐(디펜히드라민염산염)",
+   "company": "태극제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500981"
+  },
+  {
+   "itemSeq": "202502075",
+   "name": "그밤엔연질캡슐(디펜히드라민염산염)",
+   "company": "경동제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502075"
+  },
+  {
+   "itemSeq": "202600823",
+   "name": "이밤이지연질캡슐(디펜히드라민염산염)",
+   "company": "삼진제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600823"
+  },
+  {
+   "itemSeq": "202602046",
+   "name": "자비론나이트연질캡슐(디펜히드라민염산염)",
+   "company": "(주)씨엠지제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602046"
+  },
+  {
+   "itemSeq": "202602370",
+   "name": "디페니아연질캡슐50밀리그램(디펜히드라민염산염)",
+   "company": "(주)메디카코리아",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-08-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602370"
+  },
+  {
+   "itemSeq": "196700061",
+   "name": "에어신신파스",
+   "company": "신신제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "l-멘톨",
+     "amount": "240.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "d-캄파",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "티몰",
+     "amount": "15.6",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "살리실산글리콜",
+     "amount": "156.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1967-07-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=196700061"
+  },
+  {
+   "itemSeq": "198901098",
+   "name": "신신파스에스(수출명:별첨)",
+   "company": "신신제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "살리실산메틸",
+     "amount": "5.94",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "1.80",
+     "unit": "그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "16.19",
+     "unit": "그램"
+    },
+    {
+     "name": "티몰",
+     "amount": "3.60",
+     "unit": "그램"
+    },
+    {
+     "name": "용뇌",
+     "amount": "1.26",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "1.80",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "15.08",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.57",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "41.13",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "티몰",
+     "amount": "9.14",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "용뇌",
+     "amount": "3.20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "4.57",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-05-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198901098"
+  },
+  {
+   "itemSeq": "199201236",
+   "name": "물린디액",
+   "company": "신신제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "크로타미톤",
+     "amount": "5000.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "3500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "3000.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1992-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201236"
+  },
+  {
+   "itemSeq": "199500818",
+   "name": "제올라크림",
+   "company": "태극제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1995-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199500818"
+  },
+  {
+   "itemSeq": "199501960",
+   "name": "프리치크림",
+   "company": "신일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "ㅣ-멘톨",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1995-11-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501960"
+  },
+  {
+   "itemSeq": "199601101",
+   "name": "벌무덴리니멘트",
+   "company": "일양약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "크로타미톤",
+     "amount": "5",
+     "unit": "그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "3.5",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "3",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "1",
+     "unit": "그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "0.5",
+     "unit": "그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "0.1",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "1996-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199601101"
+  },
+  {
+   "itemSeq": "199702966",
+   "name": "버물리에스액",
+   "company": "현대약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "2",
+     "unit": "그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "0.3",
+     "unit": "그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "3",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "3",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "3",
+     "unit": "그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "0.2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "1997-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199702966"
+  },
+  {
+   "itemSeq": "199803082",
+   "name": "누보클렌액",
+   "company": "현대약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "클로르헥시딘글루콘산염 액",
+     "amount": "1.0",
+     "unit": "밀리리터"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "0.3",
+     "unit": "그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "0.1",
+     "unit": "그램"
+    },
+    {
+     "name": "알란토인",
+     "amount": "0.2",
+     "unit": "그램"
+    },
+    {
+     "name": "나파졸린염산염",
+     "amount": "0.1",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "1998-10-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199803082"
+  },
+  {
+   "itemSeq": "199801231",
+   "name": "리카에이크림",
+   "company": "(주)보령",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801231"
+  },
+  {
+   "itemSeq": "199903457",
+   "name": "써버쿨액",
+   "company": "(주)녹십자",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "크로타미톤",
+     "amount": "5.0",
+     "unit": "그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "3.5",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "3.0",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "1.0",
+     "unit": "그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "0.5",
+     "unit": "그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "0.1",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "1999-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199903457"
+  },
+  {
+   "itemSeq": "199900248",
+   "name": "마미송에프크림",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "크로타미톤",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "35.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900248"
+  },
+  {
+   "itemSeq": "200105775",
+   "name": "대일제약 온누리 스프레이파스",
+   "company": "(주)대일제약",
+   "type": "의약외품",
+   "ingredients": [
+    {
+     "name": "L-멘톨",
+     "amount": "3.2",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "3.0",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "1.75",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산글리콜",
+     "amount": "1.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.04",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2001-01-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200105775"
+  },
+  {
+   "itemSeq": "200100920",
+   "name": "제올라에스액",
+   "company": "태극제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "1000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "3000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "3500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "크로타미톤",
+     "amount": "5000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100920"
+  },
+  {
+   "itemSeq": "200100584",
+   "name": "쎄레마일드연고",
+   "company": "(주)유한양행",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "히드로코르티손아세테이트",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "산화아연",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-10-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100584"
+  },
+  {
+   "itemSeq": "200207753",
+   "name": "대일쿨스프레이파스",
+   "company": "대일화학공업(주)",
+   "type": "의약외품",
+   "ingredients": [
+    {
+     "name": "DL-멘톨",
+     "amount": "3.2",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "3.0",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "1.75",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산글리콜",
+     "amount": "1.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.04",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2002-03-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200207753"
+  },
+  {
+   "itemSeq": "200302217",
+   "name": "제놀쿨카타플라스마",
+   "company": "(주)녹십자",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "살리실산글리콜",
+     "amount": "164.6",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "54.9",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "54.9",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "32.9",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "11",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "5.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-01-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302217"
+  },
+  {
+   "itemSeq": "200308600",
+   "name": "미키크림",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-05-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308600"
+  },
+  {
+   "itemSeq": "200402713",
+   "name": "안티센크림",
+   "company": "(주)한국파비스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402713"
+  },
+  {
+   "itemSeq": "200401127",
+   "name": "안티이치크림1%(수출명:Anti-ItchCream1%)(수출용)",
+   "company": "태극제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트산아연수화물",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401127"
+  },
+  {
+   "itemSeq": "200401128",
+   "name": "안티이치크림2%(수출명:Anti-ItchCream2%)(수출용)",
+   "company": "태극제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트산아연수화물",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401128"
+  },
+  {
+   "itemSeq": "200401051",
+   "name": "이보드람연고",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "히드로코르티손아세테이트",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "산화아연",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401051"
+  },
+  {
+   "itemSeq": "200407532",
+   "name": "신신에어파스아렉스",
+   "company": "신신제약(주)",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "l-멘톨",
+     "amount": "5.02",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.063",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.71",
+     "unit": "그램"
+    },
+    {
+     "name": "니코틴산벤질에스테르",
+     "amount": "0.063",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2004-12-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200407532"
+  },
+  {
+   "itemSeq": "200507722",
+   "name": "신신에어파스-F",
+   "company": "신신제약(주)",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "l-멘톨",
+     "amount": "6.59",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.063",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.71",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2005-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200507722"
+  },
+  {
+   "itemSeq": "200500864",
+   "name": "졸리민정",
+   "company": "동성제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500864"
+  },
+  {
+   "itemSeq": "200500434",
+   "name": "더마큐연고",
+   "company": "일동제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "히드로코르티손아세테이트",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "산화아연",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500434"
+  },
+  {
+   "itemSeq": "200508623",
+   "name": "현대에어파스에프에어로솔",
+   "company": "현대약품(주)",
+   "type": "의약외품",
+   "ingredients": [
+    {
+     "name": "엘-멘톨",
+     "amount": "5.22",
+     "unit": "그램"
+    },
+    {
+     "name": "디엘-캄파",
+     "amount": "4.90",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메칠",
+     "amount": "2.85",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.065",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산글리콜",
+     "amount": "2.86",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2005-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200508623"
+  },
+  {
+   "itemSeq": "200600308",
+   "name": "신신냉파프카타플라스마",
+   "company": "신신제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "dl-캄파",
+     "amount": "80.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "살리실산글리콜",
+     "amount": "240.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "80.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "48.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-03-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600308"
+  },
+  {
+   "itemSeq": "200602466",
+   "name": "성광에어파스-쿨",
+   "company": "(주)퍼슨",
+   "type": "의약외품",
+   "ingredients": [
+    {
+     "name": "L-멘톨",
+     "amount": "5.020",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.750",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.063",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.710",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2006-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200602466"
+  },
+  {
+   "itemSeq": "200604321",
+   "name": "시노코프캡슐",
+   "company": "현대약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디프로필린",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-메틸에페드린염산염",
+     "amount": "3.1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-05-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604321"
+  },
+  {
+   "itemSeq": "200607484",
+   "name": "애니클렌액",
+   "company": "(주)퍼슨",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "클로르헥시딘글루콘산염 액",
+     "amount": "1.0",
+     "unit": "밀리리터"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "0.3",
+     "unit": "그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "0.1",
+     "unit": "그램"
+    },
+    {
+     "name": "알란토인",
+     "amount": "0.2",
+     "unit": "그램"
+    },
+    {
+     "name": "나파졸린염산염",
+     "amount": "0.1",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2006-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607484"
+  },
+  {
+   "itemSeq": "200607841",
+   "name": "엑스칠플러스연고",
+   "company": "시믹씨엠오코리아주식회사",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "리도카인",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-메틸에페드린염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로코르티손아세테이트",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르헥시딘염산염",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "알란토인",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "레티놀팔미테이트 유",
+     "amount": "1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607841"
+  },
+  {
+   "itemSeq": "200701274",
+   "name": "그린솔트에프액",
+   "company": "(주)그린제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "나파졸린염산염",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "3.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "알란토인",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르헥시딘글루콘산염 액",
+     "amount": "0.01",
+     "unit": "밀리리터"
+    }
+   ],
+   "permitDate": "2007-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701274"
+  },
+  {
+   "itemSeq": "200801646",
+   "name": "싸아크쿨파스에어로솔",
+   "company": "일명제약(주)",
+   "type": "의약외품",
+   "ingredients": [
+    {
+     "name": "L-멘톨",
+     "amount": "3.2",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "3.0",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "1.75",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산글리콜",
+     "amount": "1.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.04",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2008-02-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801646"
+  },
+  {
+   "itemSeq": "200802686",
+   "name": "버물리키드크림",
+   "company": "현대약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스판테놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리시리진산이칼륨",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-03-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802686"
+  },
+  {
+   "itemSeq": "200804140",
+   "name": "맨담네오스프레이",
+   "company": "(주)보령",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "L-멘톨",
+     "amount": "5.22",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.90",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.85",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.065",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산글리콜",
+     "amount": "2.86",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2008-04-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804140"
+  },
+  {
+   "itemSeq": "200805845",
+   "name": "성수에어파스에어로솔",
+   "company": "(주)성수바이오텍",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "L-멘톨",
+     "amount": "3.2",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "3.0",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메칠",
+     "amount": "1.75",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산글리콜",
+     "amount": "1.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.04",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2008-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805845"
+  },
+  {
+   "itemSeq": "200806895",
+   "name": "파라쿨에스에어파스",
+   "company": "태극제약(주)",
+   "type": "의약외품",
+   "ingredients": [
+    {
+     "name": "L-멘톨",
+     "amount": "5,220",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2,856",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "d-캄파",
+     "amount": "4,900",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "살리실산글리콜",
+     "amount": "2,856",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "65.272",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806895"
+  },
+  {
+   "itemSeq": "200807607",
+   "name": "버래물액",
+   "company": "신신제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디부카인염산염",
+     "amount": "0.3",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "2.0",
+     "unit": "그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "5.0",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "3.0",
+     "unit": "그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "0.3",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2008-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807607"
+  },
+  {
+   "itemSeq": "200811147",
+   "name": "모스쿨액",
+   "company": "경남제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "크로타미톤",
+     "amount": "5",
+     "unit": "그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "3.5",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "3",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "1",
+     "unit": "그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "0.5",
+     "unit": "그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "0.1",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2008-11-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811147"
+  },
+  {
+   "itemSeq": "200901276",
+   "name": "써버쿨키드크림",
+   "company": "(주)녹십자",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "덱스판테놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리시리진산이칼륨",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-02-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901276"
+  },
+  {
+   "itemSeq": "200902139",
+   "name": "후레쉬에어파스",
+   "company": "일명제약(주)",
+   "type": "의약외품",
+   "ingredients": [
+    {
+     "name": "L-멘톨",
+     "amount": "5.02",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.71",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.063",
+     "unit": "그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "5.02",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.71",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.063",
+     "unit": "그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "5.02",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.71",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.063",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2009-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902139"
+  },
+  {
+   "itemSeq": "200902862",
+   "name": "현대에어파스맥스에어로솔",
+   "company": "현대약품(주)",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "l-멘톨",
+     "amount": "5.02",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.71",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.063",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2009-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902862"
+  },
+  {
+   "itemSeq": "200903285",
+   "name": "노통펜쿨정(수출용)",
+   "company": "(주)마더스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-05-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903285"
+  },
+  {
+   "itemSeq": "200905936",
+   "name": "탑에어파스에어로솔",
+   "company": "(주)필텍에어졸",
+   "type": "의약외품",
+   "ingredients": [
+    {
+     "name": "디엘멘톨",
+     "amount": "3.2",
+     "unit": "그램"
+    },
+    {
+     "name": "캄파dl-",
+     "amount": "3.0",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "1.75",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산글리콜",
+     "amount": "1.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.04",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2009-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905936"
+  },
+  {
+   "itemSeq": "200907176",
+   "name": "에어쿨파스에어졸(무향,파인,허브)",
+   "company": "한국디비케이(주)",
+   "type": "의약외품",
+   "ingredients": [
+    {
+     "name": "엘-멘톨",
+     "amount": "5.22",
+     "unit": "그램"
+    },
+    {
+     "name": "디엘-캄파",
+     "amount": "4.90",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메칠",
+     "amount": "2.85",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.065",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산글리콜",
+     "amount": "2.86",
+     "unit": "그램"
+    },
+    {
+     "name": "엘-멘톨",
+     "amount": "5.22",
+     "unit": "그램"
+    },
+    {
+     "name": "디엘-캄파",
+     "amount": "4.90",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메칠",
+     "amount": "2.85",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.065",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산글리콜",
+     "amount": "2.86",
+     "unit": "그램"
+    },
+    {
+     "name": "엘-멘톨",
+     "amount": "5.22",
+     "unit": "그램"
+    },
+    {
+     "name": "디엘-캄파",
+     "amount": "4.90",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메칠",
+     "amount": "2.85",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.065",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산글리콜",
+     "amount": "2.86",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2009-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200907176"
+  },
+  {
+   "itemSeq": "200909107",
+   "name": "제일소프트핫카타플라스마",
+   "company": "제일헬스사이언스(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "살리실산메틸",
+     "amount": "105",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "8.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "140",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "17.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "티몰",
+     "amount": "8.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노닐산바닐아미드",
+     "amount": "1.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-12-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200909107"
+  },
+  {
+   "itemSeq": "200909108",
+   "name": "제일쿨텍카타플라스마",
+   "company": "제일헬스사이언스(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "살리실산메틸",
+     "amount": "160",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "140",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "80",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "티몰",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-12-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200909108"
+  },
+  {
+   "itemSeq": "201001772",
+   "name": "대일네오스프레이파스",
+   "company": "대일화학공업(주)",
+   "type": "의약외품",
+   "ingredients": [
+    {
+     "name": "l-멘톨",
+     "amount": "5.02",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.71",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.063",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2010-03-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001772"
+  },
+  {
+   "itemSeq": "201002800",
+   "name": "안티푸라민쿨에어파스에어로솔",
+   "company": "(주)유한양행",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "L-멘톨",
+     "amount": "5.02",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.71",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메칠",
+     "amount": "2.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.063",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2010-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002800"
+  },
+  {
+   "itemSeq": "201003705",
+   "name": "오케이쿨파스에어졸(무향,쑥향, 라벤더향, 감귤향)",
+   "company": "한국디비케이(주)",
+   "type": "의약외품",
+   "ingredients": [
+    {
+     "name": "엘-멘톨",
+     "amount": "3.20",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메칠",
+     "amount": "1.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.04",
+     "unit": "그램"
+    },
+    {
+     "name": "디엘-캄파",
+     "amount": "3.00",
+     "unit": "그램"
+    },
+    {
+     "name": "엘-멘톨",
+     "amount": "3.20",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메칠",
+     "amount": "1.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.04",
+     "unit": "그램"
+    },
+    {
+     "name": "디엘-캄파",
+     "amount": "3.00",
+     "unit": "그램"
+    },
+    {
+     "name": "엘-멘톨",
+     "amount": "3.20",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메칠",
+     "amount": "1.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.04",
+     "unit": "그램"
+    },
+    {
+     "name": "디엘-캄파",
+     "amount": "3.00",
+     "unit": "그램"
+    },
+    {
+     "name": "엘-멘톨",
+     "amount": "3.20",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메칠",
+     "amount": "1.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.04",
+     "unit": "그램"
+    },
+    {
+     "name": "디엘-캄파",
+     "amount": "3.00",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2010-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003705"
+  },
+  {
+   "itemSeq": "201004000",
+   "name": "신신에어파스-이엑스",
+   "company": "신신제약(주)",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "l-멘톨",
+     "amount": "5.48",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.99",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.069",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "5.2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2010-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004000"
+  },
+  {
+   "itemSeq": "201101292",
+   "name": "테라플루콜드앤코프나이트타임건조시럽",
+   "company": "헤일리온코리아주식회사",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "650",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페닐레프린염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101292"
+  },
+  {
+   "itemSeq": "201102036",
+   "name": "둥근머리버물리겔",
+   "company": "현대약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "2",
+     "unit": "그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "0.3",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "3",
+     "unit": "그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "0.2",
+     "unit": "그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "3",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "3",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2011-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201102036"
+  },
+  {
+   "itemSeq": "201103942",
+   "name": "물린디키드크림",
+   "company": "신신제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스판테놀",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리시리진산이칼륨",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-06-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103942"
+  },
+  {
+   "itemSeq": "201206073",
+   "name": "멘소래담스프레이-에스",
+   "company": "일명제약(주)",
+   "type": "의약외품",
+   "ingredients": [
+    {
+     "name": "L-멘톨",
+     "amount": "5.13",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.81",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.97",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.064",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2012-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206073"
+  },
+  {
+   "itemSeq": "201308049",
+   "name": "에이스쿨케이스프레이",
+   "company": "에이스팩(주)",
+   "type": "의약외품",
+   "ingredients": [
+    {
+     "name": "l-멘톨",
+     "amount": "5.00",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.70",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.73",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산글리콜",
+     "amount": "2.73",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.06",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2013-07-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308049"
+  },
+  {
+   "itemSeq": "201308935",
+   "name": "멘소래담스프레이익스트림에스",
+   "company": "일명제약(주)",
+   "type": "의약외품",
+   "ingredients": [
+    {
+     "name": "L-멘톨",
+     "amount": "5.13",
+     "unit": "그램"
+    },
+    {
+     "name": "디엘-캄파",
+     "amount": "4.74",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.81",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.064",
+     "unit": "그램"
+    },
+    {
+     "name": "니코틴산벤질에스테르",
+     "amount": "0.064",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2013-08-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308935"
+  },
+  {
+   "itemSeq": "201402387",
+   "name": "케이비쿨에어파스에어로솔",
+   "company": "(주)국보싸이언스",
+   "type": "의약외품",
+   "ingredients": [
+    {
+     "name": "l-멘톨",
+     "amount": "5.02",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.71",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.063",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2014-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402387"
+  },
+  {
+   "itemSeq": "201404796",
+   "name": "쿨에어에어로솔",
+   "company": "(주)젠파마",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "dl-캄파",
+     "amount": "3.00",
+     "unit": "그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "3.20",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.04",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산글리콜",
+     "amount": "1.75",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "1.75",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2014-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404796"
+  },
+  {
+   "itemSeq": "201405035",
+   "name": "스포플렉스쿨에어파스",
+   "company": "(주)대일제약",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "L-멘톨",
+     "amount": "5.02",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.71",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.063",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2014-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405035"
+  },
+  {
+   "itemSeq": "201500020",
+   "name": "무조무알파에어로솔",
+   "company": "신신제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "테르비나핀염산염",
+     "amount": "0.4",
+     "unit": "그램"
+    },
+    {
+     "name": "리도카인",
+     "amount": "0.8",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.4",
+     "unit": "그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "0.04",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2015-01-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500020"
+  },
+  {
+   "itemSeq": "201501087",
+   "name": "멘소래담딥앤쿨에어로솔",
+   "company": "일명제약(주)",
+   "type": "의약외품",
+   "ingredients": [
+    {
+     "name": "L-멘톨",
+     "amount": "5.00",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.63",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.70",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산글리콜",
+     "amount": "2.70",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.062",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2015-03-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501087"
+  },
+  {
+   "itemSeq": "201501235",
+   "name": "모스쿨키드크림",
+   "company": "경남제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스판테놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리시리진산이칼륨",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501235"
+  },
+  {
+   "itemSeq": "201501920",
+   "name": "푸리덴연고",
+   "company": "신신제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "리도카인",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-메틸에페드린염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로코르티손아세테이트",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르헥시딘염산염",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "알란토인",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501920"
+  },
+  {
+   "itemSeq": "201502317",
+   "name": "바르졸플러스크림(수출용)",
+   "company": "(주)서울제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "에코나졸질산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리도카인",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "크로타미톤",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502317"
+  },
+  {
+   "itemSeq": "201502802",
+   "name": "스위트홈에어파스",
+   "company": "(주)삼현제약",
+   "type": "의약외품",
+   "ingredients": [
+    {
+     "name": "L-멘톨",
+     "amount": "5.02",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.71",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.063",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2015-05-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502802"
+  },
+  {
+   "itemSeq": "201503843",
+   "name": "화콜콜드앤플루데이앤드나잇연질캡슐(수출용)",
+   "company": "제이더블유중외제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "35.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페닐레프린염산염",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "35.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페닐레프린염산염",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503843"
+  },
+  {
+   "itemSeq": "201504052",
+   "name": "화콜콜드앤플루나잇연질캡슐(수출용)",
+   "company": "제이더블유중외제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "35.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페닐레프린염산염",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504052"
+  },
+  {
+   "itemSeq": "201504891",
+   "name": "안티푸라민코인플라스타",
+   "company": "(주)유한양행",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "살리실산메틸",
+     "amount": "7.560",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "3.778",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "1.512",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "박하유",
+     "amount": "0.945",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "0.420",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.336",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노닐산바닐릴아미드",
+     "amount": "0.063",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "5.541",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "2.769",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "1.108",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "박하유",
+     "amount": "0.693",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "0.308",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.246",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노닐산바닐릴아미드",
+     "amount": "0.046",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504891"
+  },
+  {
+   "itemSeq": "201504879",
+   "name": "종근당공파스플라스타",
+   "company": "(주)종근당",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "살리실산메틸",
+     "amount": "5.541",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "2.769",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "1.108",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "박하유",
+     "amount": "0.693",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "0.308",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.246",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노닐산바닐릴아미드",
+     "amount": "0.046",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504879"
+  },
+  {
+   "itemSeq": "201507025",
+   "name": "두두엔액",
+   "company": "(주)퍼슨",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "프레드니솔론발레로아세테이트",
+     "amount": "0.15",
+     "unit": "그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "3.5",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "1",
+     "unit": "그램"
+    },
+    {
+     "name": "티몰",
+     "amount": "0.1",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "1",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2015-10-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507025"
+  },
+  {
+   "itemSeq": "201507124",
+   "name": "노펜미니플라스타",
+   "company": "제이더블유중외제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "살리실산메틸",
+     "amount": "5.541",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "2.769",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "1.108",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "박하유",
+     "amount": "0.693",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "0.308",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.246",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노닐산바닐릴아미드",
+     "amount": "0.046",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507124"
+  },
+  {
+   "itemSeq": "201507392",
+   "name": "그린에어파스쿨에어로솔",
+   "company": "(주)그린제약",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "L-멘톨",
+     "amount": "5.02",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.71",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.75",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.063",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2015-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507392"
+  },
+  {
+   "itemSeq": "201507772",
+   "name": "유에츄데이앤나이트연질캡슐",
+   "company": "(주)유유제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-메틸에페드린염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-메틸에페드린염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507772"
+  },
+  {
+   "itemSeq": "201601308",
+   "name": "디펜동전플라스타",
+   "company": "신일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "살리실산메틸",
+     "amount": "7.56",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "3.778",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "1.512",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "박하유",
+     "amount": "0.945",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "0.42",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.336",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노닐산바닐릴아미드",
+     "amount": "0.063",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "5.541",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "2.769",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "1.108",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "박하유",
+     "amount": "0.693",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "0.308",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.246",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노닐산바닐릴아미드",
+     "amount": "0.046",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601308"
+  },
+  {
+   "itemSeq": "201601543",
+   "name": "모키쿨플라스타",
+   "company": "대화제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "0.493",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "0.493",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "1.478",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.252",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "0.252",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "0.754",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601543"
+  },
+  {
+   "itemSeq": "201602246",
+   "name": "클리마일드연고",
+   "company": "부광약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "히드로코르티손아세테이트",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "산화아연",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602246"
+  },
+  {
+   "itemSeq": "201602401",
+   "name": "버물리플라스타",
+   "company": "현대약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "0.493",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "0.493",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "1.478",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.252",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "0.252",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "0.754",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602401"
+  },
+  {
+   "itemSeq": "201602958",
+   "name": "제일동전파프플라스타",
+   "company": "제일헬스사이언스(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "살리실산메틸",
+     "amount": "5.541",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "2.769",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "1.108",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "박하유",
+     "amount": "0.693",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "0.308",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.246",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노닐산바닐릴아미드",
+     "amount": "0.046",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602958"
+  },
+  {
+   "itemSeq": "201604986",
+   "name": "레스타민코와파우더크림",
+   "company": "한국코와(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "산화아연",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리시레틴산",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604986"
+  },
+  {
+   "itemSeq": "201606639",
+   "name": "더마스킨연고",
+   "company": "정우신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "히드로코르티손아세테이트",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "산화아연",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-11-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606639"
+  },
+  {
+   "itemSeq": "201606648",
+   "name": "두피나액",
+   "company": "일양약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "프레드니솔론발레로아세테이트",
+     "amount": "0.15",
+     "unit": "그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "3.5",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "1.0",
+     "unit": "그램"
+    },
+    {
+     "name": "티몰",
+     "amount": "0.1",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "1.0",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2016-11-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606648"
+  },
+  {
+   "itemSeq": "201607141",
+   "name": "씨씨케이안티이치크림(수출용)",
+   "company": "시믹씨엠오코리아주식회사",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트산아연수화물",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201607141"
+  },
+  {
+   "itemSeq": "201700107",
+   "name": "베노쿨키드크림",
+   "company": "(주)유유제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스판테놀",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리시리진산이칼륨",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700107"
+  },
+  {
+   "itemSeq": "201700225",
+   "name": "베노쿨에스액",
+   "company": "(주)유유제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "크로타미톤",
+     "amount": "5.0",
+     "unit": "그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "3.5",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "3.0",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "1.0",
+     "unit": "그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "0.5",
+     "unit": "그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "0.1",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2017-01-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700225"
+  },
+  {
+   "itemSeq": "201700353",
+   "name": "베노터치힐러플라스타",
+   "company": "(주)유유제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "0.493",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "0.493",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "1.478",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700353"
+  },
+  {
+   "itemSeq": "201701257",
+   "name": "터비뉴더블액션에어로솔",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "테르비나핀염산염",
+     "amount": "0.4",
+     "unit": "그램"
+    },
+    {
+     "name": "리도카인",
+     "amount": "0.8",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.4",
+     "unit": "그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "0.04",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2017-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701257"
+  },
+  {
+   "itemSeq": "201701905",
+   "name": "조아포인트플라스타",
+   "company": "조아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "살리실산메틸",
+     "amount": "7.56",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "3.778",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "1.512",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "박하유",
+     "amount": "0.945",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "0.42",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.336",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노닐산바닐릴아미드",
+     "amount": "0.063",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "5.541",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "2.769",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "1.108",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "박하유",
+     "amount": "0.693",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "0.308",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.246",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노닐산바닐릴아미드",
+     "amount": "0.046",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701905"
+  },
+  {
+   "itemSeq": "201703186",
+   "name": "제놀코인플라스타",
+   "company": "(주)녹십자",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "살리실산메틸",
+     "amount": "7.56",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "3.778",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "1.512",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "박하유",
+     "amount": "0.945",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "0.42",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.336",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노닐산바닐릴아미드",
+     "amount": "0.063",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "5.541",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "2.769",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "1.108",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "박하유",
+     "amount": "0.693",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "0.308",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.246",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노닐산바닐릴아미드",
+     "amount": "0.046",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201703186"
+  },
+  {
+   "itemSeq": "201706971",
+   "name": "한풍제통고온혈플라스타",
+   "company": "(주)한풍제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "살리실산메틸",
+     "amount": "5.541",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "2.769",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "1.108",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "박하유",
+     "amount": "0.693",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "0.308",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.246",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노닐산바닐릴아미드",
+     "amount": "0.046",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706971"
+  },
+  {
+   "itemSeq": "201800949",
+   "name": "더모메디큐액",
+   "company": "부광약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "테르비나핀염산염",
+     "amount": "1",
+     "unit": "그램"
+    },
+    {
+     "name": "리도카인",
+     "amount": "2",
+     "unit": "그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "0.1",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "1",
+     "unit": "그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "1",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2018-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800949"
+  },
+  {
+   "itemSeq": "201801010",
+   "name": "이치논크림",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "헤파리노이드",
+     "amount": "3.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "알란토인",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801010"
+  },
+  {
+   "itemSeq": "201801425",
+   "name": "계안겔(수출용)",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "크로타미톤",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "29.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801425"
+  },
+  {
+   "itemSeq": "201801495",
+   "name": "해피홈에어파스쿨에어로솔",
+   "company": "(주)지에스켐",
+   "type": "의약외품",
+   "ingredients": [
+    {
+     "name": "l-멘톨",
+     "amount": "4.96",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.65",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "3.10",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.062",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2018-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801495"
+  },
+  {
+   "itemSeq": "201801542",
+   "name": "써버쿨플라스타",
+   "company": "진양제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "0.493",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "0.493",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "1.478",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801542"
+  },
+  {
+   "itemSeq": "201801921",
+   "name": "피엠쿨에어로솔",
+   "company": "경남제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "테르비나핀염산염",
+     "amount": "0.4",
+     "unit": "그램"
+    },
+    {
+     "name": "리도카인",
+     "amount": "0.8",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.4",
+     "unit": "그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "0.04",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2018-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801921"
+  },
+  {
+   "itemSeq": "201802134",
+   "name": "판콜아이콜드시럽",
+   "company": "동화약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "9.375",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "31.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "9.375",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802134"
+  },
+  {
+   "itemSeq": "201804704",
+   "name": "티어실에어로솔",
+   "company": "삼일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "테르비나핀염산염",
+     "amount": "0.4",
+     "unit": "그램"
+    },
+    {
+     "name": "리도카인",
+     "amount": "0.8",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.4",
+     "unit": "그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "0.04",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2018-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804704"
+  },
+  {
+   "itemSeq": "201805156",
+   "name": "멘소래담코인플라스타",
+   "company": "진양제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "살리실산메틸",
+     "amount": "5.541",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "2.769",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "1.108",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "박하유",
+     "amount": "0.693",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "0.308",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.246",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노닐산바닐릴아미드",
+     "amount": "0.046",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805156"
+  },
+  {
+   "itemSeq": "201900904",
+   "name": "무조무플러스겔",
+   "company": "신신제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "테르비나핀염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리도카인",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900904"
+  },
+  {
+   "itemSeq": "201901541",
+   "name": "콜드윈시럽",
+   "company": "(주)씨엠지제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "150",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-메틸에페드린염산염",
+     "amount": "9.375",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "31.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "9.375",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901541"
+  },
+  {
+   "itemSeq": "201901623",
+   "name": "하니동전파스플라스타",
+   "company": "원광제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "살리실산메틸",
+     "amount": "5.541",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "2.769",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "1.108",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "박하유",
+     "amount": "0.693",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "0.308",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.246",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노닐산바닐릴아미드",
+     "amount": "0.046",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901623"
+  },
+  {
+   "itemSeq": "201903099",
+   "name": "오케이파워겔",
+   "company": "조아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "테르비나핀염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리도카인",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903099"
+  },
+  {
+   "itemSeq": "201904579",
+   "name": "터비뉴더블액션겔",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "테르비나핀염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리도카인",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904579"
+  },
+  {
+   "itemSeq": "201904588",
+   "name": "파인에스정",
+   "company": "대한뉴팜(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "브로멜라인",
+     "amount": "45",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카페인무수물",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904588"
+  },
+  {
+   "itemSeq": "201904772",
+   "name": "제일쿨키드크림",
+   "company": "제일헬스사이언스(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스판테놀",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리시리진산이칼륨",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904772"
+  },
+  {
+   "itemSeq": "201906274",
+   "name": "대일뉴아이스쿨에어로솔",
+   "company": "대일화학공업(주)",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "l-멘톨",
+     "amount": "5.12",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.80",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.064",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2019-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906274"
+  },
+  {
+   "itemSeq": "201907160",
+   "name": "풋원겔",
+   "company": "현대약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "테르비나핀염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리도카인",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907160"
+  },
+  {
+   "itemSeq": "201908589",
+   "name": "버물리알파액",
+   "company": "현대약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-캄파",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "D-판테놀",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908589"
+  },
+  {
+   "itemSeq": "202008005",
+   "name": "멘소래담스프레이쿨",
+   "company": "일명제약(주)",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "l-멘톨",
+     "amount": "5.17",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.91",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.065",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2020-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008005"
+  },
+  {
+   "itemSeq": "202008175",
+   "name": "바르지오모두크림",
+   "company": "동화약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "테르비나핀염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우레아",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리도카인",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-11-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008175"
+  },
+  {
+   "itemSeq": "202100359",
+   "name": "디큐펜프로나이트연질캡슐",
+   "company": "(주)알피바이오",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100359"
+  },
+  {
+   "itemSeq": "202101211",
+   "name": "물린쿨에스겔",
+   "company": "(주)시어스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "크로타미톤",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리도카인",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101211"
+  },
+  {
+   "itemSeq": "202107874",
+   "name": "후레쉬쿨에어파스",
+   "company": "일명제약(주)",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "l-멘톨",
+     "amount": "5.09",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.78",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.064",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2021-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107874"
+  },
+  {
+   "itemSeq": "202200584",
+   "name": "물린디쿨액",
+   "company": "신신제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "2000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리도카인",
+     "amount": "1000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "크로타미톤",
+     "amount": "3000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "3000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "3000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "3000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스판테놀",
+     "amount": "1000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-02-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200584"
+  },
+  {
+   "itemSeq": "202203174",
+   "name": "제일파프쿨에어",
+   "company": "일명제약(주)",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "l-멘톨",
+     "amount": "5.25",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "3.30",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.066",
+     "unit": "그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "5.25",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "3.30",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.066",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2022-08-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203174"
+  },
+  {
+   "itemSeq": "202203898",
+   "name": "안티푸라민쿨에어파스파워에어로솔",
+   "company": "(주)유한양행",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "L-멘톨",
+     "amount": "6.5",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "4.64",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "3.09",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.062",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2022-10-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203898"
+  },
+  {
+   "itemSeq": "202204213",
+   "name": "이지엔6나이트연질캡슐",
+   "company": "(주)대웅제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204213"
+  },
+  {
+   "itemSeq": "202300708",
+   "name": "써버쿨겔",
+   "company": "(주)녹십자",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "l-멘톨",
+     "amount": "3.0",
+     "unit": "그램"
+    },
+    {
+     "name": "dl-캄파",
+     "amount": "3.0",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "1.0",
+     "unit": "그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "0.5",
+     "unit": "그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "0.1",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2023-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300708"
+  },
+  {
+   "itemSeq": "202302258",
+   "name": "벌키퍼크림",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-캄파",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디부카인염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302258"
+  },
+  {
+   "itemSeq": "202302807",
+   "name": "헤모힐연고",
+   "company": "진양제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "리도카인",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-메틸에페드린염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로코르티손아세테이트",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르헥시딘염산염",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "알란토인",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302807"
+  },
+  {
+   "itemSeq": "202303154",
+   "name": "신신에어파스엔",
+   "company": "신신제약(주)",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "L-멘톨",
+     "amount": "9.42",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산글리콜",
+     "amount": "2.74",
+     "unit": "그램"
+    },
+    {
+     "name": "DL-캄파",
+     "amount": "4.71",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.063",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2023-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303154"
+  },
+  {
+   "itemSeq": "202303276",
+   "name": "다펜나이트연질캡슐",
+   "company": "조아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-12-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303276"
+  },
+  {
+   "itemSeq": "202400026",
+   "name": "이치레스큐플라스타",
+   "company": "(주)한독",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "0.493",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "0.493",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "1.478",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400026"
+  },
+  {
+   "itemSeq": "202400576",
+   "name": "디판버그겔",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스판테놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리도카인염산염수화물",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "알란토인",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리시리진산이칼륨",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400576"
+  },
+  {
+   "itemSeq": "202400644",
+   "name": "제일파프쿨에어맥스",
+   "company": "일명제약(주)",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "L-멘톨",
+     "amount": "8.0",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.82",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.065",
+     "unit": "그램"
+    },
+    {
+     "name": "액화석유가스",
+     "amount": "70.0",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2024-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400644"
+  },
+  {
+   "itemSeq": "202401208",
+   "name": "치치엔마일드크림",
+   "company": "(주)퍼슨",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "리도카인",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "알란토인",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르헥시딘염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401208"
+  },
+  {
+   "itemSeq": "202401207",
+   "name": "쿨시드크림",
+   "company": "태극제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "글리시리진산이칼륨",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스판테놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401207"
+  },
+  {
+   "itemSeq": "202401301",
+   "name": "써버쿨에스액",
+   "company": "(주)녹십자",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "L-멘톨",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-캄파",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리도카인",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스판테놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401301"
+  },
+  {
+   "itemSeq": "202402067",
+   "name": "티타노에이연고",
+   "company": "일양약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "리도카인",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-메틸에페드린염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로코르티손아세테이트",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르헥시딘염산염",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "알란토인",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토코페롤아세테이트",
+     "amount": "30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-08-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402067"
+  },
+  {
+   "itemSeq": "202402178",
+   "name": "더블쿨에어파스",
+   "company": "일명제약(주)",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "l-멘톨",
+     "amount": "7.00",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.80",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.064",
+     "unit": "그램"
+    },
+    {
+     "name": "DL-캄파",
+     "amount": "4.81",
+     "unit": "그램"
+    },
+    {
+     "name": "l-멘톨",
+     "amount": "7.00",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.80",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.064",
+     "unit": "그램"
+    },
+    {
+     "name": "DL-캄파",
+     "amount": "4.81",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2024-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402178"
+  },
+  {
+   "itemSeq": "202402182",
+   "name": "씨콜드나이트정",
+   "company": "(주)대웅제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아야콜설폰산칼륨",
+     "amount": "60.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "벤포티아민",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리보플라빈",
+     "amount": "4.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스코르브산 과립97%",
+     "amount": "51.55",
+     "unit": "밀리그램/리터"
+    }
+   ],
+   "permitDate": "2024-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402182"
+  },
+  {
+   "itemSeq": "202402551",
+   "name": "판텍콜드시럽",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "300",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카페인수화물",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르페니라민말레산염",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "18",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "300",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "18",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402551"
+  },
+  {
+   "itemSeq": "202402764",
+   "name": "둥근머리버물리에스겔",
+   "company": "현대약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "크로타미톤",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리도카인",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-캄파",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-11-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402764"
+  },
+  {
+   "itemSeq": "202500330",
+   "name": "물린디플라스타",
+   "company": "신신제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "l-멘톨",
+     "amount": "1.478",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "0.493",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.493",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-02-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500330"
+  },
+  {
+   "itemSeq": "202500568",
+   "name": "맨담쿨파워스프레이",
+   "company": "일명제약(주)",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "l-멘톨",
+     "amount": "7.30",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.90",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.064",
+     "unit": "그램"
+    },
+    {
+     "name": "DL-캄파",
+     "amount": "4.84",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2025-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500568"
+  },
+  {
+   "itemSeq": "202500588",
+   "name": "판콜에이치건조시럽",
+   "company": "동화약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리보플라빈포스페이트나트륨",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500588"
+  },
+  {
+   "itemSeq": "202500745",
+   "name": "판텍타임나이트시럽",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "370.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "83.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500745"
+  },
+  {
+   "itemSeq": "202501325",
+   "name": "케펨에어스프레이",
+   "company": "일명제약(주)",
+   "type": "",
+   "ingredients": [
+    {
+     "name": "l-멘톨",
+     "amount": "5.93",
+     "unit": "그램"
+    },
+    {
+     "name": "살리실산메틸",
+     "amount": "2.81",
+     "unit": "그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.064",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2025-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501325"
+  },
+  {
+   "itemSeq": "202501643",
+   "name": "판피린나이트액",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "370.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "83.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501643"
+  },
+  {
+   "itemSeq": "202501737",
+   "name": "씨콜드프리미엄정",
+   "company": "(주)대웅제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아야콜설폰산칼륨",
+     "amount": "60.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "벤포티아민",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리보플라빈",
+     "amount": "4.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스코르브산 과립97%",
+     "amount": "51.55",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아야콜설폰산칼륨",
+     "amount": "60.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "벤포티아민",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리보플라빈",
+     "amount": "4.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스코르브산 과립97%",
+     "amount": "51.55",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501737"
+  },
+  {
+   "itemSeq": "202502047",
+   "name": "판피린타임나이트플루건조시럽",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리보플라빈",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스코르브산",
+     "amount": "166.60",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리신",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502047"
+  },
+  {
+   "itemSeq": "202502724",
+   "name": "제올라쿨겔",
+   "company": "태극제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리도카인",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리시리진산이칼륨",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "알란토인",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "크로타미톤",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-캄파",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502724"
+  },
+  {
+   "itemSeq": "202503300",
+   "name": "비오플라스타",
+   "company": "동성제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "0.493",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "0.493",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "1.478",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민",
+     "amount": "0.252",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "0.252",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "0.754",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-12-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503300"
+  },
+  {
+   "itemSeq": "202600795",
+   "name": "제올라에스플라스타",
+   "company": "태극제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "0.493",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "0.493",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "1.478",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600795"
+  },
+  {
+   "itemSeq": "202601137",
+   "name": "벌무덴에스겔",
+   "company": "일양약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "디펜히드라민",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "크로타미톤",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에녹솔론",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리도카인",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601137"
+  },
+  {
+   "itemSeq": "202601276",
+   "name": "모드콜티나이트발포정",
+   "company": "(주)종근당",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스코르브산",
+     "amount": "160.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601276"
+  }
+ ]
+}

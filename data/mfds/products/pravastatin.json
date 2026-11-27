@@ -1,0 +1,304 @@
+{
+ "id": "pravastatin",
+ "query": [
+  "프라바스타틴"
+ ],
+ "fetched": "2026-11-27",
+ "total": 18,
+ "kept": 18,
+ "mfdsName": [
+  "프라바스타틴나트륨"
+ ],
+ "items": [
+  {
+   "itemSeq": "199000074",
+   "name": "메바로친정5밀리그램(프라바스타틴나트륨)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라바스타틴나트륨",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1990-04-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199000074"
+  },
+  {
+   "itemSeq": "199300175",
+   "name": "메바로친정10밀리그램(프라바스타틴나트륨)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라바스타틴나트륨",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1993-02-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199300175"
+  },
+  {
+   "itemSeq": "200100914",
+   "name": "파바틴정10밀리그램(프라바스타틴나트륨)(수출용)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라바스타틴나트륨",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-11-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100914"
+  },
+  {
+   "itemSeq": "200200143",
+   "name": "메바로친정20밀리그램(프라바스타틴나트륨)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라바스타틴나트륨",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-09-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200143"
+  },
+  {
+   "itemSeq": "200200723",
+   "name": "프라스탄정10밀리그람(프라바스타틴나트륨)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라바스타틴나트륨",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-12-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200723"
+  },
+  {
+   "itemSeq": "200301046",
+   "name": "리포스탄정(프라바스타틴)(수출용)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라바스타틴나트륨",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-06-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301046"
+  },
+  {
+   "itemSeq": "200300660",
+   "name": "프라스탄정40밀리그람(프라바스타틴나트륨)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라바스타틴나트륨",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300660"
+  },
+  {
+   "itemSeq": "200403244",
+   "name": "프라바스타정(프라바스타틴나트륨)(수출용)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라바스타틴나트륨",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403244"
+  },
+  {
+   "itemSeq": "200400922",
+   "name": "프라스탄정20밀리그람(프라바스타틴나트륨)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라바스타틴나트륨",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400922"
+  },
+  {
+   "itemSeq": "200403773",
+   "name": "코러스프라바스타틴정(프라바스타틴나트륨)(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라바스타틴나트륨",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403773"
+  },
+  {
+   "itemSeq": "200705083",
+   "name": "프라바스타정20mg(프라바스타틴나트륨)(수출용)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라바스타틴나트륨",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705083"
+  },
+  {
+   "itemSeq": "200705082",
+   "name": "프라바스타정40mg(프라바스타틴나트륨)(수출용)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라바스타틴나트륨",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705082"
+  },
+  {
+   "itemSeq": "200705319",
+   "name": "라프라스정40밀리그램(프라바스타틴나트륨)(수출용)",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라바스타틴나트륨",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705319"
+  },
+  {
+   "itemSeq": "201105270",
+   "name": "메바로친정40밀리그램(프라바스타틴나트륨)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라바스타틴나트륨",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201105270"
+  },
+  {
+   "itemSeq": "202300635",
+   "name": "프라바페닉스캡슐",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라바스타틴나트륨",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트",
+     "amount": "160",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-02-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300635"
+  },
+  {
+   "itemSeq": "202601558",
+   "name": "이지프라펜캡슐(프라바스타틴, 페노피브릭산)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "페노피브릭산",
+     "amount": "110.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프라바스타틴나트륨",
+     "amount": "40.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601558"
+  },
+  {
+   "itemSeq": "202601552",
+   "name": "페노듀오캡슐(프라바스타틴, 페노피브릭산)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "페노피브릭산",
+     "amount": "110.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프라바스타틴나트륨",
+     "amount": "40.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601552"
+  },
+  {
+   "itemSeq": "202601574",
+   "name": "프라바펜캡슐(프라바스타틴, 페노피브릭산)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "페노피브릭산",
+     "amount": "110.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프라바스타틴나트륨",
+     "amount": "40.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601574"
+  }
+ ]
+}

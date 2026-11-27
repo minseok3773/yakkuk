@@ -1,0 +1,179 @@
+{
+ "id": "doxazosin",
+ "query": [
+  "독사조신"
+ ],
+ "fetched": "2026-11-27",
+ "total": 10,
+ "kept": 10,
+ "mfdsName": [
+  "독사조신메실산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "200000932",
+   "name": "카딜정2밀리그램(독사조신메실산염)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "독사조신메실산염",
+     "amount": "2.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "독사조신메실산염",
+     "amount": "2.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000932"
+  },
+  {
+   "itemSeq": "200404719",
+   "name": "제뉴원독사조신메실산염정2밀리그램",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "독사조신메실산염",
+     "amount": "2.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404719"
+  },
+  {
+   "itemSeq": "200402842",
+   "name": "위더스독사조신메실산염정2밀리그램",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "독사조신메실산염",
+     "amount": "2.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "독사조신메실산염",
+     "amount": "2.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402842"
+  },
+  {
+   "itemSeq": "200402566",
+   "name": "카조라정2mg(독사조신메실산염)",
+   "company": "미래바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "독사조신메실산염",
+     "amount": "2.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "독사조신메실산염",
+     "amount": "2.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402566"
+  },
+  {
+   "itemSeq": "200402698",
+   "name": "독시카민정(독사조신메실산염)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "독사조신메실산염",
+     "amount": "2.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402698"
+  },
+  {
+   "itemSeq": "200502216",
+   "name": "독사존엑스엘서방정4밀리그램(독사조신메실산염)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "독사조신메실산염",
+     "amount": "4.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502216"
+  },
+  {
+   "itemSeq": "200501979",
+   "name": "카르딜엑스엘서방정4밀리그램(독사조신메실산염)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "독사조신메실산염",
+     "amount": "4.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501979"
+  },
+  {
+   "itemSeq": "200500225",
+   "name": "카비엑스엘서방정(독사조신메실산염)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "독사조신메실산염",
+     "amount": "4.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500225"
+  },
+  {
+   "itemSeq": "200612573",
+   "name": "카두라엑스엘서방정4mg(독사조신메실산염)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "독사조신메실산염",
+     "amount": "5.093",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-12-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200612573"
+  },
+  {
+   "itemSeq": "201607198",
+   "name": "다림독사조신메실산염정2밀리그램(수출용)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "독사조신메실산염",
+     "amount": "2.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-12-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201607198"
+  }
+ ]
+}

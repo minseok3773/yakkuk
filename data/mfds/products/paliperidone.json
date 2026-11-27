@@ -1,0 +1,245 @@
+{
+ "id": "paliperidone",
+ "query": [
+  "팔리페리돈"
+ ],
+ "fetched": "2026-11-26",
+ "total": 13,
+ "kept": 13,
+ "mfdsName": [
+  "팔리페리돈팔미테이트",
+  "팔리페리돈"
+ ],
+ "items": [
+  {
+   "itemSeq": "201004691",
+   "name": "인베가서스티나주사156mg(팔리페리돈팔미테이트)",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "팔리페리돈팔미테이트",
+     "amount": "156",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004691"
+  },
+  {
+   "itemSeq": "201004690",
+   "name": "인베가서스티나주사117mg(팔리페리돈팔미테이트)",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "팔리페리돈팔미테이트",
+     "amount": "156",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004690"
+  },
+  {
+   "itemSeq": "201004692",
+   "name": "인베가서스티나주사234mg(팔리페리돈팔미테이트)",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "팔리페리돈팔미테이트",
+     "amount": "156",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004692"
+  },
+  {
+   "itemSeq": "201004688",
+   "name": "인베가서스티나주사39mg(팔리페리돈팔미테이트)",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "팔리페리돈팔미테이트",
+     "amount": "156",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004688"
+  },
+  {
+   "itemSeq": "201004689",
+   "name": "인베가서스티나주사78mg(팔리페리돈팔미테이트)",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "팔리페리돈팔미테이트",
+     "amount": "156",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004689"
+  },
+  {
+   "itemSeq": "201603750",
+   "name": "인베가트린자주사(팔리페리돈팔미테이트)",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "팔리페리돈팔미테이트",
+     "amount": "273.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "팔리페리돈팔미테이트",
+     "amount": "410.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "팔리페리돈팔미테이트",
+     "amount": "546.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "팔리페리돈팔미테이트",
+     "amount": "819.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603750"
+  },
+  {
+   "itemSeq": "201707659",
+   "name": "팔리스펜서방정3밀리그램(팔리페리돈)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "팔리페리돈",
+     "amount": "3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707659"
+  },
+  {
+   "itemSeq": "201707660",
+   "name": "팔리스펜서방정6밀리그램(팔리페리돈)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "팔리페리돈",
+     "amount": "6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707660"
+  },
+  {
+   "itemSeq": "201707658",
+   "name": "팔리스펜서방정9밀리그램(팔리페리돈)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "팔리페리돈",
+     "amount": "9",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707658"
+  },
+  {
+   "itemSeq": "202000410",
+   "name": "인베가서방정3밀리그램(팔리페리돈)",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "팔리페리돈",
+     "amount": "0.90",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "팔리페리돈",
+     "amount": "2.10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000410"
+  },
+  {
+   "itemSeq": "202000411",
+   "name": "인베가서방정6밀리그램(팔리페리돈)",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "팔리페리돈",
+     "amount": "1.80",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "팔리페리돈",
+     "amount": "4.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000411"
+  },
+  {
+   "itemSeq": "202000409",
+   "name": "인베가서방정9밀리그램(팔리페리돈)",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "팔리페리돈",
+     "amount": "2.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "팔리페리돈",
+     "amount": "6.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000409"
+  },
+  {
+   "itemSeq": "202203639",
+   "name": "인베가하피에라주사(팔리페리돈팔미테이트)",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "팔리페리돈팔미테이트",
+     "amount": "1092",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "팔리페리돈팔미테이트",
+     "amount": "1560",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203639"
+  }
+ ]
+}

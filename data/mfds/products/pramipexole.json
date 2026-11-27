@@ -1,0 +1,394 @@
+{
+ "id": "pramipexole",
+ "query": [
+  "프라미펙솔"
+ ],
+ "fetched": "2026-11-27",
+ "total": 25,
+ "kept": 25,
+ "mfdsName": [
+  "프라미펙솔염산염일수화물"
+ ],
+ "items": [
+  {
+   "itemSeq": "200410141",
+   "name": "미라펙스정0.125밀리그램(프라미펙솔염산염일수화물)",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "0.125",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410141"
+  },
+  {
+   "itemSeq": "200410142",
+   "name": "미라펙스정0.25밀리그램(프라미펙솔염산염일수화물)",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "0.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410142"
+  },
+  {
+   "itemSeq": "200410143",
+   "name": "미라펙스정0.5밀리그램(프라미펙솔염산염일수화물)",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "0.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410143"
+  },
+  {
+   "itemSeq": "200410144",
+   "name": "미라펙스정1.0밀리그램(프라미펙솔염산염일수화물)",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410144"
+  },
+  {
+   "itemSeq": "201201265",
+   "name": "프라펙솔정1밀리그램(프라미펙솔염산염일수화물)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201201265"
+  },
+  {
+   "itemSeq": "201206856",
+   "name": "프라펙솔정0.125밀리그램(프라미펙솔염산염일수화물)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "0.125",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206856"
+  },
+  {
+   "itemSeq": "201206858",
+   "name": "프라펙솔정0.25밀리그램(프라미펙솔염산염일수화물)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "0.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206858"
+  },
+  {
+   "itemSeq": "201206857",
+   "name": "프라펙솔정0.5밀리그램(프라미펙솔염산염일수화물)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "0.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206857"
+  },
+  {
+   "itemSeq": "201310242",
+   "name": "미라프서방정0.75밀리그램(프라미펙솔염산염일수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "0.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-11-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310242"
+  },
+  {
+   "itemSeq": "201400390",
+   "name": "미라프서방정0.375밀리그램(프라미펙솔염산염일수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "0.375",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400390"
+  },
+  {
+   "itemSeq": "201400391",
+   "name": "미라프서방정1.5밀리그램(프라미펙솔염산염일수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "1.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400391"
+  },
+  {
+   "itemSeq": "201402590",
+   "name": "미라프정0.25밀리그램(프라미펙솔염산염일수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "0.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402590"
+  },
+  {
+   "itemSeq": "201402589",
+   "name": "미라프정1.0밀리그램(프라미펙솔염산염일수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402589"
+  },
+  {
+   "itemSeq": "201501384",
+   "name": "미라프정0.125밀리그램(프라미펙솔염산염일수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "0.125",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501384"
+  },
+  {
+   "itemSeq": "201501385",
+   "name": "미라프정0.5밀리그램(프라미펙솔염산염일수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "0.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501385"
+  },
+  {
+   "itemSeq": "201804308",
+   "name": "프라펙솔서방정0.375밀리그램(프라미펙솔염산염일수화물)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "0.375",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "0.375",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804308"
+  },
+  {
+   "itemSeq": "201804306",
+   "name": "프라펙솔서방정0.75밀리그램(프라미펙솔염산염일수화물)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "0.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804306"
+  },
+  {
+   "itemSeq": "201804307",
+   "name": "프라펙솔서방정1.5밀리그램(프라미펙솔염산염일수화물)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "1.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804307"
+  },
+  {
+   "itemSeq": "202106621",
+   "name": "피디펙솔서방정0.375밀리그램(프라미펙솔염산염일수화물)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "0.375",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106621"
+  },
+  {
+   "itemSeq": "202107702",
+   "name": "피디펙솔정0.125밀리그램(프라미펙솔염산염일수화물)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "0.125",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107702"
+  },
+  {
+   "itemSeq": "202107701",
+   "name": "피디펙솔정0.25밀리그램(프라미펙솔염산염일수화물)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "0.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107701"
+  },
+  {
+   "itemSeq": "202107703",
+   "name": "피디펙솔정0.5밀리그램(프라미펙솔염산염일수화물)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "0.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107703"
+  },
+  {
+   "itemSeq": "202107704",
+   "name": "피디펙솔정1밀리그램(프라미펙솔염산염일수화물)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107704"
+  },
+  {
+   "itemSeq": "202108206",
+   "name": "피디펙솔서방정0.75밀리그램(프라미펙솔염산염일수화물)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "0.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108206"
+  },
+  {
+   "itemSeq": "202108205",
+   "name": "피디펙솔서방정1.5밀리그램(프라미펙솔염산염일수화물)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프라미펙솔염산염일수화물",
+     "amount": "1.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108205"
+  }
+ ]
+}

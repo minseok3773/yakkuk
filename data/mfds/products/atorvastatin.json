@@ -1,0 +1,8684 @@
+{
+ "id": "atorvastatin",
+ "query": [
+  "아토르바스타틴",
+  "아토바스타틴"
+ ],
+ "fetched": "2026-11-27",
+ "total": 674,
+ "kept": 500,
+ "mfdsName": [
+  "아토르바스타틴칼슘삼수화물",
+  "아토르바스타틴칼슘수화물",
+  "아토르바스타틴칼슘",
+  "아토르바스타틴칼슘삼수화물 과립",
+  "아토르바스타틴스트론튬오수화물"
+ ],
+ "items": [
+  {
+   "itemSeq": "200410085",
+   "name": "리피토정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410085"
+  },
+  {
+   "itemSeq": "200410086",
+   "name": "리피토정40밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410086"
+  },
+  {
+   "itemSeq": "200410090",
+   "name": "리피토정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410090"
+  },
+  {
+   "itemSeq": "200700764",
+   "name": "아트로반정(아토르바스타틴칼슘삼수화물)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700764"
+  },
+  {
+   "itemSeq": "200703052",
+   "name": "리피원정20mg(아토르바스타틴칼슘삼수화물)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703052"
+  },
+  {
+   "itemSeq": "200703050",
+   "name": "리피칸정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703050"
+  },
+  {
+   "itemSeq": "200703129",
+   "name": "리피원정10mg(아토르바스타틴칼슘삼수화물)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.845",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703129"
+  },
+  {
+   "itemSeq": "200703136",
+   "name": "리피칸정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.845",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703136"
+  },
+  {
+   "itemSeq": "200704961",
+   "name": "리피논정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704961"
+  },
+  {
+   "itemSeq": "200705314",
+   "name": "리포액틴정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705314"
+  },
+  {
+   "itemSeq": "200705819",
+   "name": "비씨아토르바스타틴정(아토르바스타틴칼슘수화물)",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705819"
+  },
+  {
+   "itemSeq": "200705817",
+   "name": "아토산정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705817"
+  },
+  {
+   "itemSeq": "200705825",
+   "name": "아토스타정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705825"
+  },
+  {
+   "itemSeq": "200705818",
+   "name": "휴텍스아토르바스타틴정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705818"
+  },
+  {
+   "itemSeq": "200705992",
+   "name": "아토르바정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705992"
+  },
+  {
+   "itemSeq": "200705991",
+   "name": "아토르바정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705991"
+  },
+  {
+   "itemSeq": "200706385",
+   "name": "토바스트정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706385"
+  },
+  {
+   "itemSeq": "200706536",
+   "name": "리포메트정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.845",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706536"
+  },
+  {
+   "itemSeq": "200706542",
+   "name": "리피논정40밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706542"
+  },
+  {
+   "itemSeq": "200706538",
+   "name": "리피테롤정(아토르바스타틴칼슘삼수화물)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706538"
+  },
+  {
+   "itemSeq": "200706539",
+   "name": "아토스틴정(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706539"
+  },
+  {
+   "itemSeq": "200706537",
+   "name": "토바스틴정(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706537"
+  },
+  {
+   "itemSeq": "200706601",
+   "name": "일양아토르바스타틴정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.845",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706601"
+  },
+  {
+   "itemSeq": "200707797",
+   "name": "라도바정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707797"
+  },
+  {
+   "itemSeq": "200707792",
+   "name": "리피트롤정(아토르바스타틴칼슘수화물)",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707792"
+  },
+  {
+   "itemSeq": "200708449",
+   "name": "아도르정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708449"
+  },
+  {
+   "itemSeq": "200708458",
+   "name": "아로반정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708458"
+  },
+  {
+   "itemSeq": "200708455",
+   "name": "아스타틴정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708455"
+  },
+  {
+   "itemSeq": "200708456",
+   "name": "아토르반정10mg(아토르바스타틴칼슘삼수화물)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708456"
+  },
+  {
+   "itemSeq": "200709203",
+   "name": "리포메트정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709203"
+  },
+  {
+   "itemSeq": "200709202",
+   "name": "아토반정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709202"
+  },
+  {
+   "itemSeq": "200709201",
+   "name": "아토스틴정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709201"
+  },
+  {
+   "itemSeq": "200709390",
+   "name": "리피로우정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709390"
+  },
+  {
+   "itemSeq": "200709389",
+   "name": "리피로우정40밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709389"
+  },
+  {
+   "itemSeq": "200709787",
+   "name": "광동아토르바스타틴정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709787"
+  },
+  {
+   "itemSeq": "200709793",
+   "name": "아르바정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709793"
+  },
+  {
+   "itemSeq": "200709794",
+   "name": "아토렌정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709794"
+  },
+  {
+   "itemSeq": "200709786",
+   "name": "아토로우정10mg(아토르바스타틴칼슘삼수화물)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709786"
+  },
+  {
+   "itemSeq": "200709790",
+   "name": "아토르정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709790"
+  },
+  {
+   "itemSeq": "200709825",
+   "name": "아토스탄정10mg(아토르바스타틴칼슘수화물)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709825"
+  },
+  {
+   "itemSeq": "200709792",
+   "name": "에이스틴정(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709792"
+  },
+  {
+   "itemSeq": "200709788",
+   "name": "에이피토정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "건일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709788"
+  },
+  {
+   "itemSeq": "200711422",
+   "name": "리피토정80밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "86.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711422"
+  },
+  {
+   "itemSeq": "200712032",
+   "name": "비씨아토르바스타틴정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712032"
+  },
+  {
+   "itemSeq": "200801350",
+   "name": "리피논정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801350"
+  },
+  {
+   "itemSeq": "200801352",
+   "name": "토바스트정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801352"
+  },
+  {
+   "itemSeq": "200802335",
+   "name": "라토바정(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802335"
+  },
+  {
+   "itemSeq": "200802327",
+   "name": "리피로우정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802327"
+  },
+  {
+   "itemSeq": "200803246",
+   "name": "리피로우정80밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "86.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803246"
+  },
+  {
+   "itemSeq": "200803429",
+   "name": "아토르바정40밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803429"
+  },
+  {
+   "itemSeq": "200803964",
+   "name": "리피칸정40밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803964"
+  },
+  {
+   "itemSeq": "200807683",
+   "name": "스피틴정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807683"
+  },
+  {
+   "itemSeq": "200807684",
+   "name": "스피틴정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807684"
+  },
+  {
+   "itemSeq": "200808409",
+   "name": "리피스톱정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808409"
+  },
+  {
+   "itemSeq": "200808715",
+   "name": "리포액틴정40밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808715"
+  },
+  {
+   "itemSeq": "200808796",
+   "name": "아토스타정40mg(아토르바스타틴칼슘삼수화물)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808796"
+  },
+  {
+   "itemSeq": "200809045",
+   "name": "리피스톱정40밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809045"
+  },
+  {
+   "itemSeq": "200809402",
+   "name": "리피논정80밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "86.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809402"
+  },
+  {
+   "itemSeq": "200809440",
+   "name": "스피틴정40밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809440"
+  },
+  {
+   "itemSeq": "200811250",
+   "name": "뉴바스트정10밀리그램(아토르바스타틴스트론튬오수화물)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴스트론튬오수화물",
+     "amount": "11.595",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811250"
+  },
+  {
+   "itemSeq": "200811251",
+   "name": "뉴바스트정20밀리그램(아토르바스타틴스트론튬오수화물)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴스트론튬오수화물",
+     "amount": "23.19",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811251"
+  },
+  {
+   "itemSeq": "200811252",
+   "name": "뉴바스트정40밀리그램(아토르바스타틴스트론튬오수화물)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴스트론튬오수화물",
+     "amount": "46.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811252"
+  },
+  {
+   "itemSeq": "201000637",
+   "name": "리피스톱정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000637"
+  },
+  {
+   "itemSeq": "201110505",
+   "name": "토바스트정40밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110505"
+  },
+  {
+   "itemSeq": "201202396",
+   "name": "에이피토정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "건일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201202396"
+  },
+  {
+   "itemSeq": "201203514",
+   "name": "아리토정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201203514"
+  },
+  {
+   "itemSeq": "201203513",
+   "name": "아리토정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201203513"
+  },
+  {
+   "itemSeq": "201203609",
+   "name": "광동아토르바스타틴정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201203609"
+  },
+  {
+   "itemSeq": "201203607",
+   "name": "아토반정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.845",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201203607"
+  },
+  {
+   "itemSeq": "201205250",
+   "name": "리포액틴정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205250"
+  },
+  {
+   "itemSeq": "201206319",
+   "name": "뉴스타틴에이정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206319"
+  },
+  {
+   "itemSeq": "201206318",
+   "name": "뉴스타틴에이정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206318"
+  },
+  {
+   "itemSeq": "201206339",
+   "name": "리반틴정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206339"
+  },
+  {
+   "itemSeq": "201206556",
+   "name": "아토센정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-08-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206556"
+  },
+  {
+   "itemSeq": "201206836",
+   "name": "글로스타정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206836"
+  },
+  {
+   "itemSeq": "201206877",
+   "name": "올피트정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206877"
+  },
+  {
+   "itemSeq": "201207013",
+   "name": "아로스틴정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207013"
+  },
+  {
+   "itemSeq": "201207300",
+   "name": "엘디로정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207300"
+  },
+  {
+   "itemSeq": "201207593",
+   "name": "리스테롤정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207593"
+  },
+  {
+   "itemSeq": "201207589",
+   "name": "휴온스아토르바스타틴정(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207589"
+  },
+  {
+   "itemSeq": "201208289",
+   "name": "아르틴정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208289"
+  },
+  {
+   "itemSeq": "201208467",
+   "name": "리피스타틴정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208467"
+  },
+  {
+   "itemSeq": "201208754",
+   "name": "리바틴정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208754"
+  },
+  {
+   "itemSeq": "201208877",
+   "name": "바토르정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208877"
+  },
+  {
+   "itemSeq": "201208998",
+   "name": "뉴펙스정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208998"
+  },
+  {
+   "itemSeq": "201209000",
+   "name": "악토바정(아토르바스타틴칼슘수화물)",
+   "company": "(주)킴스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201209000"
+  },
+  {
+   "itemSeq": "201208999",
+   "name": "악토바정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)킴스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208999"
+  },
+  {
+   "itemSeq": "201209008",
+   "name": "우담바정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "미래바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201209008"
+  },
+  {
+   "itemSeq": "201208996",
+   "name": "일양아토르바스타틴정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208996"
+  },
+  {
+   "itemSeq": "201209554",
+   "name": "바토르정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201209554"
+  },
+  {
+   "itemSeq": "201210138",
+   "name": "아피토정(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-12-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201210138"
+  },
+  {
+   "itemSeq": "201300047",
+   "name": "뉴펙스정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201300047"
+  },
+  {
+   "itemSeq": "201300149",
+   "name": "아페코정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.845",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201300149"
+  },
+  {
+   "itemSeq": "201302989",
+   "name": "아도르정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201302989"
+  },
+  {
+   "itemSeq": "201306059",
+   "name": "바스타틴정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306059"
+  },
+  {
+   "itemSeq": "201306069",
+   "name": "바스타틴정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306069"
+  },
+  {
+   "itemSeq": "201306119",
+   "name": "파로틴정10mg(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)파마킹",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306119"
+  },
+  {
+   "itemSeq": "201306231",
+   "name": "아트로반정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306231"
+  },
+  {
+   "itemSeq": "201306289",
+   "name": "아바스타정10mg(아토르바스타틴칼슘삼수화물)",
+   "company": "동성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.845",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306289"
+  },
+  {
+   "itemSeq": "201306380",
+   "name": "유니피토정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306380"
+  },
+  {
+   "itemSeq": "201306873",
+   "name": "아바큐정10mg(아토르바스타틴칼슘수화물)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306873"
+  },
+  {
+   "itemSeq": "201307002",
+   "name": "대웅바이오아토르바스타틴정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307002"
+  },
+  {
+   "itemSeq": "201307038",
+   "name": "아토타틴정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307038"
+  },
+  {
+   "itemSeq": "201307062",
+   "name": "유니피토정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307062"
+  },
+  {
+   "itemSeq": "201307357",
+   "name": "올피트정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307357"
+  },
+  {
+   "itemSeq": "201307346",
+   "name": "일양바이오아토르바스타틴칼슘삼수화물정10밀리그램",
+   "company": "일양바이오팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.845",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307346"
+  },
+  {
+   "itemSeq": "201307382",
+   "name": "리피톨정(아토르바스타틴칼슘삼수화물)",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307382"
+  },
+  {
+   "itemSeq": "201307483",
+   "name": "명문아토르바스타틴정20mg(아토르바스타틴칼슘수화물)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307483"
+  },
+  {
+   "itemSeq": "201307539",
+   "name": "바로스타틴정10mg(아토르바스타틴칼슘삼수화물)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307539"
+  },
+  {
+   "itemSeq": "201307536",
+   "name": "아톨바정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307536"
+  },
+  {
+   "itemSeq": "201307559",
+   "name": "아토란정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307559"
+  },
+  {
+   "itemSeq": "201307558",
+   "name": "아토란정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307558"
+  },
+  {
+   "itemSeq": "201307570",
+   "name": "토바스틴정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307570"
+  },
+  {
+   "itemSeq": "201307661",
+   "name": "아토로틴정(아토르바스타틴칼슘)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-06-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307661"
+  },
+  {
+   "itemSeq": "201307887",
+   "name": "명문아토르바스타틴정10mg(아토르바스타틴칼슘수화물)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307887"
+  },
+  {
+   "itemSeq": "201308048",
+   "name": "뉴토르정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308048"
+  },
+  {
+   "itemSeq": "201308170",
+   "name": "아페코정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308170"
+  },
+  {
+   "itemSeq": "201308307",
+   "name": "아바틴정10mg(아토르바스타틴칼슘삼수화물)",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308307"
+  },
+  {
+   "itemSeq": "201308368",
+   "name": "엘디로정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308368"
+  },
+  {
+   "itemSeq": "201308416",
+   "name": "바이피토정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308416"
+  },
+  {
+   "itemSeq": "201308859",
+   "name": "아토릭스정10mg(아토르바스타틴칼슘수화물)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308859"
+  },
+  {
+   "itemSeq": "201309180",
+   "name": "아이타틴정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309180"
+  },
+  {
+   "itemSeq": "201309332",
+   "name": "아트로드정10mg(아토르바스타틴칼슘수화물)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309332"
+  },
+  {
+   "itemSeq": "201309488",
+   "name": "리바틴정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309488"
+  },
+  {
+   "itemSeq": "201309533",
+   "name": "아토틴엠정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309533"
+  },
+  {
+   "itemSeq": "201309774",
+   "name": "아토바스정10mg(아토르바스타틴칼슘수화물)",
+   "company": "(주)티디에스팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309774"
+  },
+  {
+   "itemSeq": "201310004",
+   "name": "아토르정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-11-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310004"
+  },
+  {
+   "itemSeq": "201310393",
+   "name": "써미토정10밀리그램(아토르바스타틴칼슘)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310393"
+  },
+  {
+   "itemSeq": "201310784",
+   "name": "아토테롤정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.845",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310784"
+  },
+  {
+   "itemSeq": "201310783",
+   "name": "아토테롤정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310783"
+  },
+  {
+   "itemSeq": "201310964",
+   "name": "아로토정(아토르바스타틴칼슘수화물)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310964"
+  },
+  {
+   "itemSeq": "201400193",
+   "name": "리스테롤정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400193"
+  },
+  {
+   "itemSeq": "201400190",
+   "name": "일양바이오아토르바스타틴칼슘삼수화물정20밀리그램",
+   "company": "일양바이오팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400190"
+  },
+  {
+   "itemSeq": "201400347",
+   "name": "휴텍스아토르바스타틴정20mg(아토르바스타틴칼슘삼수화물)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400347"
+  },
+  {
+   "itemSeq": "201400497",
+   "name": "아토산정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400497"
+  },
+  {
+   "itemSeq": "201401233",
+   "name": "아바틴정20mg(아토르바스타틴칼슘삼수화물)",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401233"
+  },
+  {
+   "itemSeq": "201401870",
+   "name": "바토르정40밀리그램(아토르바스타틴칼슘삼수화물)(수출용)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401870"
+  },
+  {
+   "itemSeq": "201401922",
+   "name": "토르비스정(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)퍼슨",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401922"
+  },
+  {
+   "itemSeq": "201402411",
+   "name": "케이토바정(아토르바스타틴칼슘)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402411"
+  },
+  {
+   "itemSeq": "201403178",
+   "name": "리피스틴정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.845",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403178"
+  },
+  {
+   "itemSeq": "201403179",
+   "name": "리피스틴정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403179"
+  },
+  {
+   "itemSeq": "201403191",
+   "name": "글로스타정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403191"
+  },
+  {
+   "itemSeq": "201403198",
+   "name": "아토로우정20mg(아토르바스타틴칼슘삼수화물)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403198"
+  },
+  {
+   "itemSeq": "201403318",
+   "name": "아토스포정10mg(아토르바스타틴칼슘삼수화물)",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403318"
+  },
+  {
+   "itemSeq": "201403432",
+   "name": "뉴토르정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403432"
+  },
+  {
+   "itemSeq": "201403815",
+   "name": "아르바정20mg(아토르바스타틴칼슘삼수화물)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403815"
+  },
+  {
+   "itemSeq": "201404023",
+   "name": "아트로드정20mg(아토르바스타틴칼슘수화물)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404023"
+  },
+  {
+   "itemSeq": "201404036",
+   "name": "휴온스아토르바스타틴정40밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404036"
+  },
+  {
+   "itemSeq": "201404037",
+   "name": "휴온스아토르바스타틴정80밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "86.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404037"
+  },
+  {
+   "itemSeq": "201404035",
+   "name": "휴온스아토르바스타틴정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404035"
+  },
+  {
+   "itemSeq": "201404482",
+   "name": "리피산트정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404482"
+  },
+  {
+   "itemSeq": "201404481",
+   "name": "리피산트정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404481"
+  },
+  {
+   "itemSeq": "201404537",
+   "name": "아토타틴정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404537"
+  },
+  {
+   "itemSeq": "201404644",
+   "name": "휴스타정20mg(아토르바스타틴칼슘수화물)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404644"
+  },
+  {
+   "itemSeq": "201404786",
+   "name": "휴스타정10mg(아토르바스타틴칼슘수화물)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404786"
+  },
+  {
+   "itemSeq": "201405524",
+   "name": "아토스탄정20mg(아토르바스타틴칼슘수화물)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405524"
+  },
+  {
+   "itemSeq": "201405997",
+   "name": "뉴스타틴에이정40밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405997"
+  },
+  {
+   "itemSeq": "201406140",
+   "name": "아토릭스정20mg(아토르바스타틴칼슘수화물)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406140"
+  },
+  {
+   "itemSeq": "201500282",
+   "name": "리반틴정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500282"
+  },
+  {
+   "itemSeq": "201500619",
+   "name": "리파르정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500619"
+  },
+  {
+   "itemSeq": "201500645",
+   "name": "리파르정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500645"
+  },
+  {
+   "itemSeq": "201500648",
+   "name": "리피엔정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500648"
+  },
+  {
+   "itemSeq": "201500649",
+   "name": "리피엔정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500649"
+  },
+  {
+   "itemSeq": "201500660",
+   "name": "아토스타정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500660"
+  },
+  {
+   "itemSeq": "201500979",
+   "name": "대웅바이오아토르바스타틴정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500979"
+  },
+  {
+   "itemSeq": "201501728",
+   "name": "리피탄정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501728"
+  },
+  {
+   "itemSeq": "201501978",
+   "name": "리피도정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501978"
+  },
+  {
+   "itemSeq": "201501979",
+   "name": "리피도정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501979"
+  },
+  {
+   "itemSeq": "201501997",
+   "name": "에이스틴정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501997"
+  },
+  {
+   "itemSeq": "201502559",
+   "name": "아토바틴정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502559"
+  },
+  {
+   "itemSeq": "201502561",
+   "name": "휴니즈아토르바스타틴칼슘정10mg(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502561"
+  },
+  {
+   "itemSeq": "201502712",
+   "name": "바로스타틴정20mg(아토르바스타틴칼슘삼수화물)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502712"
+  },
+  {
+   "itemSeq": "201502990",
+   "name": "아토틴엠정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502990"
+  },
+  {
+   "itemSeq": "201503235",
+   "name": "휴니즈아토르바스타틴칼슘정20mg(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503235"
+  },
+  {
+   "itemSeq": "201505350",
+   "name": "아토르반정20mg(아토르바스타틴칼슘삼수화물)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505350"
+  },
+  {
+   "itemSeq": "201505365",
+   "name": "아토센정20mg(아토르바스타틴칼슘수화물)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505365"
+  },
+  {
+   "itemSeq": "201506583",
+   "name": "아토렌정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506583"
+  },
+  {
+   "itemSeq": "201507737",
+   "name": "아로틴정10mg(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507737"
+  },
+  {
+   "itemSeq": "201507738",
+   "name": "아로틴정20mg(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507738"
+  },
+  {
+   "itemSeq": "201601007",
+   "name": "아토린정10mg(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)옵투스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601007"
+  },
+  {
+   "itemSeq": "201601146",
+   "name": "알피바스타틴정10mg(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)알피바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601146"
+  },
+  {
+   "itemSeq": "201601761",
+   "name": "리피큐어정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.845",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601761"
+  },
+  {
+   "itemSeq": "201602765",
+   "name": "뉴아토르타정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602765"
+  },
+  {
+   "itemSeq": "201602763",
+   "name": "뉴아토르타정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602763"
+  },
+  {
+   "itemSeq": "201602773",
+   "name": "비엘토바정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)씨엘팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602773"
+  },
+  {
+   "itemSeq": "201602764",
+   "name": "제일아토르바스타틴정40밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "제일헬스사이언스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602764"
+  },
+  {
+   "itemSeq": "201602875",
+   "name": "아토건정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602875"
+  },
+  {
+   "itemSeq": "201602876",
+   "name": "아토건정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602876"
+  },
+  {
+   "itemSeq": "201602933",
+   "name": "비엘토바정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)씨엘팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602933"
+  },
+  {
+   "itemSeq": "201602931",
+   "name": "아피토정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602931"
+  },
+  {
+   "itemSeq": "201603076",
+   "name": "아로반정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603076"
+  },
+  {
+   "itemSeq": "201603144",
+   "name": "보리아토정(아토르바스타틴칼슘삼수화물)",
+   "company": "경진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603144"
+  },
+  {
+   "itemSeq": "201603247",
+   "name": "리피탑정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "한국신텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603247"
+  },
+  {
+   "itemSeq": "201603246",
+   "name": "리피탑정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "한국신텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603246"
+  },
+  {
+   "itemSeq": "201603236",
+   "name": "아토스포정20mg(아토르바스타틴칼슘삼수화물)",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603236"
+  },
+  {
+   "itemSeq": "201603361",
+   "name": "리피큐어정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603361"
+  },
+  {
+   "itemSeq": "201603432",
+   "name": "리피스타틴정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603432"
+  },
+  {
+   "itemSeq": "201603588",
+   "name": "비보존아토르바스타틴정20mg(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603588"
+  },
+  {
+   "itemSeq": "201603587",
+   "name": "비보존아토르바스타틴정10mg(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603587"
+  },
+  {
+   "itemSeq": "201603961",
+   "name": "아토바진정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603961"
+  },
+  {
+   "itemSeq": "201701083",
+   "name": "리피롤정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701083"
+  },
+  {
+   "itemSeq": "201701084",
+   "name": "리피롤정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701084"
+  },
+  {
+   "itemSeq": "201701097",
+   "name": "제이더블유신약아토르바스타틴정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701097"
+  },
+  {
+   "itemSeq": "201701286",
+   "name": "제이더블유신약아토르바스타틴정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701286"
+  },
+  {
+   "itemSeq": "201701343",
+   "name": "아토르스타정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701343"
+  },
+  {
+   "itemSeq": "201701538",
+   "name": "아스타틴정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701538"
+  },
+  {
+   "itemSeq": "201701568",
+   "name": "아토르스타정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701568"
+  },
+  {
+   "itemSeq": "201701634",
+   "name": "네오아토정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701634"
+  },
+  {
+   "itemSeq": "201701635",
+   "name": "네오아토정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701635"
+  },
+  {
+   "itemSeq": "201701877",
+   "name": "리피크린정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701877"
+  },
+  {
+   "itemSeq": "201704784",
+   "name": "아토셀에스정10밀리그램(아토르바스타틴칼슘)",
+   "company": "(주)텔콘알에프제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704784"
+  },
+  {
+   "itemSeq": "201704839",
+   "name": "리피아정10mg(아토르바스타틴칼슘)",
+   "company": "에스에스팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704839"
+  },
+  {
+   "itemSeq": "201707527",
+   "name": "아로토정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707527"
+  },
+  {
+   "itemSeq": "201707624",
+   "name": "아로스틴정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707624"
+  },
+  {
+   "itemSeq": "201708496",
+   "name": "리피크린정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708496"
+  },
+  {
+   "itemSeq": "201800303",
+   "name": "케이토바정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800303"
+  },
+  {
+   "itemSeq": "201800504",
+   "name": "아르틴정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800504"
+  },
+  {
+   "itemSeq": "201800795",
+   "name": "아르테크정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800795"
+  },
+  {
+   "itemSeq": "201800861",
+   "name": "알피바스타틴정20mg(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)알피바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800861"
+  },
+  {
+   "itemSeq": "201801719",
+   "name": "리피노정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.845",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801719"
+  },
+  {
+   "itemSeq": "201801718",
+   "name": "리피노정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801718"
+  },
+  {
+   "itemSeq": "201801735",
+   "name": "라도바정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801735"
+  },
+  {
+   "itemSeq": "201801951",
+   "name": "리토아틴정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801951"
+  },
+  {
+   "itemSeq": "201801952",
+   "name": "리토아틴정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801952"
+  },
+  {
+   "itemSeq": "201802395",
+   "name": "리바토정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802395"
+  },
+  {
+   "itemSeq": "201802750",
+   "name": "알토바정10밀리그램(아토르바스타틴칼슘)",
+   "company": "(주)서흥",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802750"
+  },
+  {
+   "itemSeq": "201802983",
+   "name": "아르테크정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802983"
+  },
+  {
+   "itemSeq": "201803145",
+   "name": "리피탄정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803145"
+  },
+  {
+   "itemSeq": "201803135",
+   "name": "아로타틴정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)유앤생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803135"
+  },
+  {
+   "itemSeq": "201804269",
+   "name": "아드윈정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804269"
+  },
+  {
+   "itemSeq": "201804270",
+   "name": "아드윈정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804270"
+  },
+  {
+   "itemSeq": "201804618",
+   "name": "아토로틴정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804618"
+  },
+  {
+   "itemSeq": "201804838",
+   "name": "리피탑정40밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "한국신텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804838"
+  },
+  {
+   "itemSeq": "201805136",
+   "name": "오코바스타정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805136"
+  },
+  {
+   "itemSeq": "201805137",
+   "name": "오코바스타정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805137"
+  },
+  {
+   "itemSeq": "201805352",
+   "name": "리피아토정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805352"
+  },
+  {
+   "itemSeq": "201901298",
+   "name": "리피아토정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901298"
+  },
+  {
+   "itemSeq": "201901774",
+   "name": "리피테롤정20mg(아토르바스타틴칼슘삼수화물)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901774"
+  },
+  {
+   "itemSeq": "201902555",
+   "name": "뉴피토정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902555"
+  },
+  {
+   "itemSeq": "201902690",
+   "name": "뉴피토정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902690"
+  },
+  {
+   "itemSeq": "201902759",
+   "name": "메가아토바정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.845",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902759"
+  },
+  {
+   "itemSeq": "201902753",
+   "name": "메가아토바정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902753"
+  },
+  {
+   "itemSeq": "201902796",
+   "name": "레토바정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)바스칸바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902796"
+  },
+  {
+   "itemSeq": "201903183",
+   "name": "레토바정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)바스칸바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903183"
+  },
+  {
+   "itemSeq": "201903324",
+   "name": "다림아토르바스타틴정20밀리그램(아토르바스타틴칼슘삼수화물)(수출용)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903324"
+  },
+  {
+   "itemSeq": "201903325",
+   "name": "소피아정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.845",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903325"
+  },
+  {
+   "itemSeq": "201903557",
+   "name": "제일아토르바스타틴정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "제일헬스사이언스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903557"
+  },
+  {
+   "itemSeq": "201903558",
+   "name": "제일아토르바스타틴정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "제일헬스사이언스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903558"
+  },
+  {
+   "itemSeq": "201903836",
+   "name": "휴텍스아토르바스타틴정40mg(아토르바스타틴칼슘삼수화물)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903836"
+  },
+  {
+   "itemSeq": "201904207",
+   "name": "아토잘정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)새한제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904207"
+  },
+  {
+   "itemSeq": "201904206",
+   "name": "아토잘정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)새한제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904206"
+  },
+  {
+   "itemSeq": "201904609",
+   "name": "에이토바정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904609"
+  },
+  {
+   "itemSeq": "201904610",
+   "name": "에이토바정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904610"
+  },
+  {
+   "itemSeq": "201904723",
+   "name": "비엘아토르정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "동방에프티엘(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904723"
+  },
+  {
+   "itemSeq": "201904722",
+   "name": "비엘아토르정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "동방에프티엘(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904722"
+  },
+  {
+   "itemSeq": "201904714",
+   "name": "아나타정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "독립바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904714"
+  },
+  {
+   "itemSeq": "201905536",
+   "name": "아나타정10밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "독립바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905536"
+  },
+  {
+   "itemSeq": "201905856",
+   "name": "아토산정40밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905856"
+  },
+  {
+   "itemSeq": "201906111",
+   "name": "아톨바정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906111"
+  },
+  {
+   "itemSeq": "201906327",
+   "name": "바로스타틴정40밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906327"
+  },
+  {
+   "itemSeq": "201906438",
+   "name": "아토바진정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906438"
+  },
+  {
+   "itemSeq": "201906914",
+   "name": "리토르정10mg(아토르바스타틴칼슘삼수화물)",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.845",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906914"
+  },
+  {
+   "itemSeq": "201906913",
+   "name": "리토르정20mg(아토르바스타틴칼슘삼수화물)",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906913"
+  },
+  {
+   "itemSeq": "201907428",
+   "name": "대웅바이오아토르바스타틴정40밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907428"
+  },
+  {
+   "itemSeq": "201907848",
+   "name": "아토셀에스정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)텔콘알에프제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907848"
+  },
+  {
+   "itemSeq": "201907997",
+   "name": "라도바정40mg(아토르바스타틴칼슘삼수화물)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907997"
+  },
+  {
+   "itemSeq": "202000815",
+   "name": "리바토정20밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000815"
+  },
+  {
+   "itemSeq": "202001692",
+   "name": "아토바틴정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001692"
+  },
+  {
+   "itemSeq": "202002253",
+   "name": "아도르정40밀리그램(아토르바스타틴칼슘수화물)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002253"
+  },
+  {
+   "itemSeq": "202002212",
+   "name": "아토로민정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002212"
+  },
+  {
+   "itemSeq": "202002211",
+   "name": "아토로민정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002211"
+  },
+  {
+   "itemSeq": "202002309",
+   "name": "아피토정40밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002309"
+  },
+  {
+   "itemSeq": "202002540",
+   "name": "아토렌정40밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002540"
+  },
+  {
+   "itemSeq": "202002626",
+   "name": "아르바정40밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002626"
+  },
+  {
+   "itemSeq": "202003394",
+   "name": "아이리토정10밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003394"
+  },
+  {
+   "itemSeq": "202101273",
+   "name": "대웅바이오아토르바스타틴정80밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "86.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101273"
+  },
+  {
+   "itemSeq": "202101463",
+   "name": "스피틴정80밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "86.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101463"
+  },
+  {
+   "itemSeq": "202301595",
+   "name": "아토르바정5밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "5.425",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301595"
+  },
+  {
+   "itemSeq": "202400512",
+   "name": "리피로우정5밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "5.425",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400512"
+  },
+  {
+   "itemSeq": "202600844",
+   "name": "비보존아토르바스타틴정5mg(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "5.425",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600844"
+  },
+  {
+   "itemSeq": "202602458",
+   "name": "휴온스아토르바스타틴정5밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "5.425",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-08-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602458"
+  },
+  {
+   "itemSeq": "202602892",
+   "name": "휴니즈아토르바스타틴칼슘정5mg(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "5.425",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602892"
+  },
+  {
+   "itemSeq": "200410087",
+   "name": "카듀엣정5mg/10mg(암로디핀베실산염, 아토르바스타틴칼슘삼수화물)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410087"
+  },
+  {
+   "itemSeq": "200410088",
+   "name": "카듀엣정5mg/20mg(암로디핀베실산염, 아토르바스타틴칼슘삼수화물)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410088"
+  },
+  {
+   "itemSeq": "200410089",
+   "name": "카듀엣정5mg/40mg(암로디핀베실산염, 아토르바스타틴칼슘삼수화물)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410089"
+  },
+  {
+   "itemSeq": "200802596",
+   "name": "듀오스크정5/10밀리그램(암로디핀베실산염, 아토르바스타틴칼슘수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-03-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802596"
+  },
+  {
+   "itemSeq": "200806024",
+   "name": "카디페어정5/10mg",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806024"
+  },
+  {
+   "itemSeq": "200807211",
+   "name": "올핀정5mg/10mg",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807211"
+  },
+  {
+   "itemSeq": "200807210",
+   "name": "올핀정5mg/20mg",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "20.72",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807210"
+  },
+  {
+   "itemSeq": "200807230",
+   "name": "카로디엣정5mg/10mg",
+   "company": "동성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807230"
+  },
+  {
+   "itemSeq": "200807229",
+   "name": "카로디엣정5mg/20mg",
+   "company": "동성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "20.72",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807229"
+  },
+  {
+   "itemSeq": "200807374",
+   "name": "로바토정5mg/10mg",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807374"
+  },
+  {
+   "itemSeq": "200807377",
+   "name": "로바토정5mg/20mg",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "20.72",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807377"
+  },
+  {
+   "itemSeq": "200807529",
+   "name": "투믹스정5/10밀리그램(암로디핀, 아토르바스타틴)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.935",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807529"
+  },
+  {
+   "itemSeq": "200807530",
+   "name": "투믹스정5/20밀리그램(암로디핀, 아토르바스타틴)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.935",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807530"
+  },
+  {
+   "itemSeq": "200807985",
+   "name": "아토디핀정",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807985"
+  },
+  {
+   "itemSeq": "200808145",
+   "name": "코듀원정5mg/10mg",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808145"
+  },
+  {
+   "itemSeq": "200808268",
+   "name": "듀오맥스정",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808268"
+  },
+  {
+   "itemSeq": "200808271",
+   "name": "아듀오정5mg/10mg(암로디핀베실산염, 아토르바스타틴칼슘수화물)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808271"
+  },
+  {
+   "itemSeq": "200808377",
+   "name": "아스퀘어정",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808377"
+  },
+  {
+   "itemSeq": "200808417",
+   "name": "비듀엣정5mg/10mg",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808417"
+  },
+  {
+   "itemSeq": "200808514",
+   "name": "아토바디핀정5mg/10mg",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "무수아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808514"
+  },
+  {
+   "itemSeq": "200808656",
+   "name": "아듀오정5mg/20mg(수출용)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "베실산암로디핀",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808656"
+  },
+  {
+   "itemSeq": "200808872",
+   "name": "듀스틴정",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808872"
+  },
+  {
+   "itemSeq": "200809419",
+   "name": "콜듀엣정5mg/10mg",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809419"
+  },
+  {
+   "itemSeq": "200809659",
+   "name": "노토바정5mg/10mg",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809659"
+  },
+  {
+   "itemSeq": "200809778",
+   "name": "써큐엣정5/10밀리그램(수출용)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.37",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809778"
+  },
+  {
+   "itemSeq": "200810440",
+   "name": "카디엔정5/10밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810440"
+  },
+  {
+   "itemSeq": "201006495",
+   "name": "듀오디핀정",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006495"
+  },
+  {
+   "itemSeq": "201102757",
+   "name": "에스-듀오액틴정",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.35",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "S-암로디핀베실산염2.5수화물",
+     "amount": "3.74",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201102757"
+  },
+  {
+   "itemSeq": "201205252",
+   "name": "카듀엣정10/20밀리그램(암로디핀베실산염/아토르바스타틴칼슘삼수화물)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.88",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205252"
+  },
+  {
+   "itemSeq": "201309481",
+   "name": "로벨리토정150/10밀리그램(이르베사르탄,아토르바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이르베사르탄",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309481"
+  },
+  {
+   "itemSeq": "201309480",
+   "name": "로벨리토정150/20밀리그램(이르베사르탄,아토르바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이르베사르탄",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309480"
+  },
+  {
+   "itemSeq": "201401984",
+   "name": "로벨리토정300/10밀리그램(이르베사르탄,아토르바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이르베사르탄",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401984"
+  },
+  {
+   "itemSeq": "201401985",
+   "name": "로벨리토정300/20밀리그램(이르베사르탄,아토르바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이르베사르탄",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401985"
+  },
+  {
+   "itemSeq": "201402067",
+   "name": "암로듀엣정10/20mg",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.87",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402067"
+  },
+  {
+   "itemSeq": "201402068",
+   "name": "암로듀엣정5/10mg",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.935",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402068"
+  },
+  {
+   "itemSeq": "201402069",
+   "name": "암로듀엣정5/20mg(암로디핀, 아토르바스타틴)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.935",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402069"
+  },
+  {
+   "itemSeq": "201403128",
+   "name": "카듀스틴정5mg/10mg",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403128"
+  },
+  {
+   "itemSeq": "201403279",
+   "name": "아토듀엣정5/10mg",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403279"
+  },
+  {
+   "itemSeq": "201403323",
+   "name": "듀에이정",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403323"
+  },
+  {
+   "itemSeq": "201403873",
+   "name": "뉴펙스듀오정5mg/20mg",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403873"
+  },
+  {
+   "itemSeq": "201403872",
+   "name": "뉴펙스듀오정5mg/10mg",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403872"
+  },
+  {
+   "itemSeq": "201404127",
+   "name": "라토바정20밀리그램(아토르바스타틴칼슘삼수화물)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404127"
+  },
+  {
+   "itemSeq": "201404571",
+   "name": "암로스틴정5mg/10mg",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404571"
+  },
+  {
+   "itemSeq": "201500367",
+   "name": "아토젯정10/10밀리그램",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.9",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500367"
+  },
+  {
+   "itemSeq": "201500364",
+   "name": "아토젯정10/20밀리그램",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500364"
+  },
+  {
+   "itemSeq": "201500365",
+   "name": "아토젯정10/40밀리그램",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500365"
+  },
+  {
+   "itemSeq": "201500366",
+   "name": "아토젯정10/80밀리그램",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "86.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500366"
+  },
+  {
+   "itemSeq": "201603925",
+   "name": "아토암로정5mg/10mg",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603925"
+  },
+  {
+   "itemSeq": "201707339",
+   "name": "암바스타정5mg/10mg",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707339"
+  },
+  {
+   "itemSeq": "201708367",
+   "name": "케이듀엣정5/10밀리그램",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708367"
+  },
+  {
+   "itemSeq": "201708368",
+   "name": "케이듀엣정5/20밀리그램",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "20.72",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708368"
+  },
+  {
+   "itemSeq": "201708606",
+   "name": "카디엔정5/20밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "20.72",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708606"
+  },
+  {
+   "itemSeq": "201801331",
+   "name": "카디렛정5/10밀리그램",
+   "company": "(주)퍼슨",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801331"
+  },
+  {
+   "itemSeq": "201801332",
+   "name": "카디렛정5/20밀리그램",
+   "company": "(주)퍼슨",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "20.72",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801332"
+  },
+  {
+   "itemSeq": "201801880",
+   "name": "이듀엣정5/10밀리그램(암로디핀베실산염, 아토르바스타틴칼슘)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801880"
+  },
+  {
+   "itemSeq": "201801994",
+   "name": "리피메트서방정10/500밀리그램(아토르바스타틴,메트포르민)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801994"
+  },
+  {
+   "itemSeq": "201801993",
+   "name": "리피메트서방정10/750밀리그램(아토르바스타틴, 메트포르민)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "750.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801993"
+  },
+  {
+   "itemSeq": "201801992",
+   "name": "리피메트서방정20/500밀리그램(아토르바스타틴, 메트포르민)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801992"
+  },
+  {
+   "itemSeq": "201801991",
+   "name": "리피메트서방정20/750밀리그램(아토르바스타틴, 메트포르민)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "750.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801991"
+  },
+  {
+   "itemSeq": "201801990",
+   "name": "리피토엠서방정10/500밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801990"
+  },
+  {
+   "itemSeq": "201801989",
+   "name": "리피토엠서방정10/750밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "750.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801989"
+  },
+  {
+   "itemSeq": "201801988",
+   "name": "리피토엠서방정20/500밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801988"
+  },
+  {
+   "itemSeq": "201801987",
+   "name": "리피토엠서방정20/750밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "750.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801987"
+  },
+  {
+   "itemSeq": "201801998",
+   "name": "아토메트서방정10/500밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801998"
+  },
+  {
+   "itemSeq": "201801997",
+   "name": "아토메트서방정10/750밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "750.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801997"
+  },
+  {
+   "itemSeq": "201801995",
+   "name": "아토메트서방정20/500밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801995"
+  },
+  {
+   "itemSeq": "201801996",
+   "name": "아토메트서방정20/750밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "750.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801996"
+  },
+  {
+   "itemSeq": "201803338",
+   "name": "리피메트서방정10/1000밀리그램(아토르바스타틴,메트포르민)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803338"
+  },
+  {
+   "itemSeq": "201803310",
+   "name": "리피토엠서방정10/1000밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803310"
+  },
+  {
+   "itemSeq": "201803343",
+   "name": "아토메트서방정10/1000밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803343"
+  },
+  {
+   "itemSeq": "201901592",
+   "name": "듀타딘정 5/10밀리그램",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901592"
+  },
+  {
+   "itemSeq": "201901593",
+   "name": "듀타딘정 5/20밀리그램",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "20.72",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901593"
+  },
+  {
+   "itemSeq": "201905283",
+   "name": "라듀엣정5/10밀리그램",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905283"
+  },
+  {
+   "itemSeq": "201906902",
+   "name": "가두에정5/10밀리그램",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906902"
+  },
+  {
+   "itemSeq": "201906903",
+   "name": "가두에정5/20밀리그램",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "20.72",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906903"
+  },
+  {
+   "itemSeq": "201907846",
+   "name": "아토노바정5/10밀리그램",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.36",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907846"
+  },
+  {
+   "itemSeq": "201907847",
+   "name": "아토노바정5/20밀리그램",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "20.72",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907847"
+  },
+  {
+   "itemSeq": "202003221",
+   "name": "아카브정120/40밀리그램(피마사르탄칼륨,아토르바스타틴)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피마사르탄칼륨삼수화물과립",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003221"
+  },
+  {
+   "itemSeq": "202003220",
+   "name": "아카브정30/10밀리그램",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피마사르탄칼륨삼수화물과립",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003220"
+  },
+  {
+   "itemSeq": "202003219",
+   "name": "아카브정30/20밀리그램",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피마사르탄칼륨삼수화물과립",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003219"
+  },
+  {
+   "itemSeq": "202003218",
+   "name": "아카브정60/10밀리그램",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피마사르탄칼륨삼수화물과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003218"
+  },
+  {
+   "itemSeq": "202003217",
+   "name": "아카브정60/20밀리그램",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피마사르탄칼륨삼수화물과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003217"
+  },
+  {
+   "itemSeq": "202005385",
+   "name": "엑스원에이정5/160/20밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "발사르탄",
+     "amount": "160.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005385"
+  },
+  {
+   "itemSeq": "202005386",
+   "name": "엑스원에이정5/160/10밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "발사르탄",
+     "amount": "160.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005386"
+  },
+  {
+   "itemSeq": "202005383",
+   "name": "엑스원에이정5/80/20밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "발사르탄",
+     "amount": "80.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005383"
+  },
+  {
+   "itemSeq": "202005384",
+   "name": "엑스원에이정5/80/10밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "발사르탄",
+     "amount": "80.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005384"
+  },
+  {
+   "itemSeq": "202006662",
+   "name": "아바트리정5/160/10밀리그램",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "발사르탄",
+     "amount": "160",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006662"
+  },
+  {
+   "itemSeq": "202006661",
+   "name": "아바트리정5/160/20밀리그램",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "발사르탄",
+     "amount": "160",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006661"
+  },
+  {
+   "itemSeq": "202006659",
+   "name": "아바트리정5/80/20밀리그램",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "발사르탄",
+     "amount": "80",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006659"
+  },
+  {
+   "itemSeq": "202006660",
+   "name": "아바트리정5/80/10밀리그램",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "발사르탄",
+     "amount": "80",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006660"
+  },
+  {
+   "itemSeq": "202006658",
+   "name": "아발탄에이플러스정5/160/10밀리그램",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "발사르탄",
+     "amount": "160",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006658"
+  },
+  {
+   "itemSeq": "202006657",
+   "name": "아발탄에이플러스정5/160/20밀리그램",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "발사르탄",
+     "amount": "160",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006657"
+  },
+  {
+   "itemSeq": "202006655",
+   "name": "아발탄에이플러스정5/80/20밀리그램",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "발사르탄",
+     "amount": "80",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006655"
+  },
+  {
+   "itemSeq": "202006656",
+   "name": "아발탄에이플러스정5/80/10밀리그램",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "발사르탄",
+     "amount": "80.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006656"
+  },
+  {
+   "itemSeq": "202006982",
+   "name": "리피로우젯정10/10밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물 과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브 과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-10-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006982"
+  },
+  {
+   "itemSeq": "202006983",
+   "name": "리피로우젯정10/20밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물 과립",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브 과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-10-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006983"
+  },
+  {
+   "itemSeq": "202006984",
+   "name": "리피로우젯정10/40밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물 과립",
+     "amount": "600.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브 과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-10-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006984"
+  },
+  {
+   "itemSeq": "202100198",
+   "name": "리바젯정10/10밀리그램",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100198"
+  },
+  {
+   "itemSeq": "202100199",
+   "name": "리바젯정10/20밀리그램",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100199"
+  },
+  {
+   "itemSeq": "202100209",
+   "name": "리포젯정10/10밀리그램",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100209"
+  },
+  {
+   "itemSeq": "202100208",
+   "name": "리포젯정10/20밀리그램",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100208"
+  },
+  {
+   "itemSeq": "202100207",
+   "name": "리포젯정10/40밀리그램",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100207"
+  },
+  {
+   "itemSeq": "202100189",
+   "name": "바스타젯정10/10밀리그램(에제티미브, 아토르바스타틴칼슘)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100189"
+  },
+  {
+   "itemSeq": "202100190",
+   "name": "바스타젯정10/20밀리그램(에제티미브, 아토르바스타틴칼슘)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100190"
+  },
+  {
+   "itemSeq": "202100191",
+   "name": "바스타젯정10/40밀리그램(에제티미브, 아토르바스타틴칼슘)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100191"
+  },
+  {
+   "itemSeq": "202100212",
+   "name": "셀토젯정10/10밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100212"
+  },
+  {
+   "itemSeq": "202100211",
+   "name": "셀토젯정10/20밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100211"
+  },
+  {
+   "itemSeq": "202100206",
+   "name": "아르바젯정10/10밀리그램",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100206"
+  },
+  {
+   "itemSeq": "202100205",
+   "name": "아르바젯정10/20밀리그램",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100205"
+  },
+  {
+   "itemSeq": "202100183",
+   "name": "아리토린정10/10밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100183"
+  },
+  {
+   "itemSeq": "202100184",
+   "name": "아리토린정10/20밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100184"
+  },
+  {
+   "itemSeq": "202100185",
+   "name": "아리토린정10/40밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100185"
+  },
+  {
+   "itemSeq": "202100201",
+   "name": "아제티브정10/10밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100201"
+  },
+  {
+   "itemSeq": "202100202",
+   "name": "아제티브정10/20밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100202"
+  },
+  {
+   "itemSeq": "202100203",
+   "name": "아제티브정10/40밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100203"
+  },
+  {
+   "itemSeq": "202100215",
+   "name": "아토로우플러스정10/10밀리그램",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100215"
+  },
+  {
+   "itemSeq": "202100216",
+   "name": "아토로우플러스정10/20밀리그램",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100216"
+  },
+  {
+   "itemSeq": "202100224",
+   "name": "아토반듀오정10/10밀리그램",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100224"
+  },
+  {
+   "itemSeq": "202100226",
+   "name": "아토반듀오정10/20밀리그램",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100226"
+  },
+  {
+   "itemSeq": "202100225",
+   "name": "아토반듀오정10/40밀리그램",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100225"
+  },
+  {
+   "itemSeq": "202100186",
+   "name": "아토브젯정10/10밀리그램",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100186"
+  },
+  {
+   "itemSeq": "202100187",
+   "name": "아토브젯정10/20밀리그램",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100187"
+  },
+  {
+   "itemSeq": "202100188",
+   "name": "아토브젯정10/40밀리그램",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100188"
+  },
+  {
+   "itemSeq": "202100179",
+   "name": "아토에젯정10/10밀리그램",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100179"
+  },
+  {
+   "itemSeq": "202100178",
+   "name": "아토에젯정10/20밀리그램",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물 과립",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브 과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100178"
+  },
+  {
+   "itemSeq": "202100177",
+   "name": "아토에젯정10/40밀리그램",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물 과립",
+     "amount": "600.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브 과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100177"
+  },
+  {
+   "itemSeq": "202100233",
+   "name": "아토에지정10/10밀리그램",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100233"
+  },
+  {
+   "itemSeq": "202100234",
+   "name": "아토에지정10/20밀리그램",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100234"
+  },
+  {
+   "itemSeq": "202100227",
+   "name": "아토이브정10/10밀리그램",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100227"
+  },
+  {
+   "itemSeq": "202100229",
+   "name": "아토이브정10/20밀리그램",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100229"
+  },
+  {
+   "itemSeq": "202100228",
+   "name": "아토이브정10/40밀리그램",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물 과립",
+     "amount": "600.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브 과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100228"
+  },
+  {
+   "itemSeq": "202100174",
+   "name": "아토티브정10/10밀리그램",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100174"
+  },
+  {
+   "itemSeq": "202100175",
+   "name": "아토티브정10/20밀리그램",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물 과립",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브 과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100175"
+  },
+  {
+   "itemSeq": "202100176",
+   "name": "아토티브정10/40밀리그램",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물 과립",
+     "amount": "600.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브 과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100176"
+  },
+  {
+   "itemSeq": "202100232",
+   "name": "아페젯정10/10밀리그램",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100232"
+  },
+  {
+   "itemSeq": "202100231",
+   "name": "아페젯정10/20밀리그램",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100231"
+  },
+  {
+   "itemSeq": "202100182",
+   "name": "에제토바정10/10밀리그램",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100182"
+  },
+  {
+   "itemSeq": "202100221",
+   "name": "엘오공정10/10밀리그램",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100221"
+  },
+  {
+   "itemSeq": "202100222",
+   "name": "엘오공정10/20밀리그램",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물 과립",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브 과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100222"
+  },
+  {
+   "itemSeq": "202100223",
+   "name": "엘오공정10/40밀리그램",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물 과립",
+     "amount": "600.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브 과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100223"
+  },
+  {
+   "itemSeq": "202100195",
+   "name": "와이젯정10/10밀리그램",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100195"
+  },
+  {
+   "itemSeq": "202100196",
+   "name": "와이젯정10/20밀리그램",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100196"
+  },
+  {
+   "itemSeq": "202100193",
+   "name": "유토젯정10/10mg",
+   "company": "(주)유유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100193"
+  },
+  {
+   "itemSeq": "202100194",
+   "name": "유토젯정10/20mg",
+   "company": "(주)유유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물 과립",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브 과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100194"
+  },
+  {
+   "itemSeq": "202100192",
+   "name": "유토젯정10/40mg",
+   "company": "(주)유유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물 과립",
+     "amount": "600.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브 과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100192"
+  },
+  {
+   "itemSeq": "202100240",
+   "name": "제피토정10/10밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100240"
+  },
+  {
+   "itemSeq": "202100242",
+   "name": "제피토정10/20밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100242"
+  },
+  {
+   "itemSeq": "202100241",
+   "name": "제피토정10/40밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100241"
+  },
+  {
+   "itemSeq": "202100238",
+   "name": "토스젯정10/10밀리그램",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100238"
+  },
+  {
+   "itemSeq": "202100237",
+   "name": "토스젯정10/20밀리그램",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물 과립",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브 과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100237"
+  },
+  {
+   "itemSeq": "202100239",
+   "name": "토스젯정10/40밀리그램",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물 과립",
+     "amount": "600.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브 과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100239"
+  },
+  {
+   "itemSeq": "202100664",
+   "name": "아트맥콤비젤연질캡슐10/1000밀리그램(아토르바스타틴,오메가-3-산에틸에스테르90)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "오메가-3-산에틸에스테르90",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100664"
+  },
+  {
+   "itemSeq": "202100873",
+   "name": "아트로메가콤비젤연질캡슐10/1000밀리그램(아토르바스타틴,오메가-3-산에틸에스테르90)",
+   "company": "한국바이오켐제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "오메가3산에틸에스테르90",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100873"
+  },
+  {
+   "itemSeq": "202101442",
+   "name": "건토젯정10/10밀리그램(에제티미브/아토르바스타틴칼슘삼수화물)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101442"
+  },
+  {
+   "itemSeq": "202101441",
+   "name": "건토젯정10/20밀리그램(에제티미브/아토르바스타틴칼슘삼수화물)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101441"
+  },
+  {
+   "itemSeq": "202101440",
+   "name": "건토젯정10/40밀리그램(에제티미브/아토르바스타틴칼슘삼수화물)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101440"
+  },
+  {
+   "itemSeq": "202101421",
+   "name": "글로젯정10/10밀리그램",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101421"
+  },
+  {
+   "itemSeq": "202101422",
+   "name": "글로젯정10/20밀리그램",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101422"
+  },
+  {
+   "itemSeq": "202101555",
+   "name": "뉴아토르젯정10/10밀리그램",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101555"
+  },
+  {
+   "itemSeq": "202101554",
+   "name": "뉴아토르젯정10/20밀리그램",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101554"
+  },
+  {
+   "itemSeq": "202101553",
+   "name": "뉴아토르젯정10/40밀리그램",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101553"
+  },
+  {
+   "itemSeq": "202101604",
+   "name": "뉴토젯정10/10밀리그램",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101604"
+  },
+  {
+   "itemSeq": "202101608",
+   "name": "뉴토젯정10/20밀리그램",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101608"
+  },
+  {
+   "itemSeq": "202101512",
+   "name": "듀얼아토정10/10밀리그램",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101512"
+  },
+  {
+   "itemSeq": "202101511",
+   "name": "듀얼아토정10/20밀리그램",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101511"
+  },
+  {
+   "itemSeq": "202101420",
+   "name": "듀오피토정10/10밀리그램",
+   "company": "건일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101420"
+  },
+  {
+   "itemSeq": "202101419",
+   "name": "듀오피토정10/20밀리그램",
+   "company": "건일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101419"
+  },
+  {
+   "itemSeq": "202101418",
+   "name": "듀오피토정10/40밀리그램",
+   "company": "건일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101418"
+  },
+  {
+   "itemSeq": "202101414",
+   "name": "듀토르정10/10밀리그램",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101414"
+  },
+  {
+   "itemSeq": "202101415",
+   "name": "듀토르정10/20밀리그램",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101415"
+  },
+  {
+   "itemSeq": "202101641",
+   "name": "라도젯정10/10밀리그램",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101641"
+  },
+  {
+   "itemSeq": "202101642",
+   "name": "라도젯정10/20밀리그램",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101642"
+  },
+  {
+   "itemSeq": "202101643",
+   "name": "라도젯정10/40밀리그램",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101643"
+  },
+  {
+   "itemSeq": "202101429",
+   "name": "리토바젯정10/10밀리그램(에제티미브,아토르바스타틴칼슘삼수화물)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101429"
+  },
+  {
+   "itemSeq": "202101430",
+   "name": "리토바젯정10/20밀리그램(에제티미브,아토르바스타틴칼슘삼수화물)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101430"
+  },
+  {
+   "itemSeq": "202101431",
+   "name": "리토바젯정10/40밀리그램(에제티미브, 아토르바스타틴칼슘삼수화물)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101431"
+  },
+  {
+   "itemSeq": "202101500",
+   "name": "리토젯정10/10밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101500"
+  },
+  {
+   "itemSeq": "202101499",
+   "name": "리토젯정10/20밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101499"
+  },
+  {
+   "itemSeq": "202101498",
+   "name": "리토젯정10/40밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101498"
+  },
+  {
+   "itemSeq": "202101545",
+   "name": "리포듀오정10/10밀리그램(에제티미브, 아토르바스타틴칼슘삼수화물)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101545"
+  },
+  {
+   "itemSeq": "202101546",
+   "name": "리포듀오정10/20밀리그램(에제티미브, 아토르바스타틴칼슘삼수화물)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101546"
+  },
+  {
+   "itemSeq": "202101633",
+   "name": "리피듀엣정10/10밀리그램(에제티미브, 아토르바스타틴칼슘삼수화물)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101633"
+  },
+  {
+   "itemSeq": "202101663",
+   "name": "리피듀엣정10/20밀리그램(에제티미브, 아토르바스타틴칼슘삼수화물)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101663"
+  },
+  {
+   "itemSeq": "202101411",
+   "name": "리피아젯정10/10밀리그램",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101411"
+  },
+  {
+   "itemSeq": "202101412",
+   "name": "리피아젯정10/20밀리그램",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101412"
+  },
+  {
+   "itemSeq": "202101413",
+   "name": "리피아젯정10/40밀리그램",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101413"
+  },
+  {
+   "itemSeq": "202101464",
+   "name": "리피젯정10/10밀리그램",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101464"
+  },
+  {
+   "itemSeq": "202101465",
+   "name": "리피젯정10/20밀리그램",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101465"
+  },
+  {
+   "itemSeq": "202101466",
+   "name": "리피젯정10/40밀리그램",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101466"
+  },
+  {
+   "itemSeq": "202101398",
+   "name": "리피토플러스정10/40밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101398"
+  },
+  {
+   "itemSeq": "202101400",
+   "name": "리피토플러스정10/10밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101400"
+  },
+  {
+   "itemSeq": "202101399",
+   "name": "리피토플러스정10/20밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101399"
+  },
+  {
+   "itemSeq": "202101503",
+   "name": "바로다운정10/10밀리그램",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101503"
+  },
+  {
+   "itemSeq": "202101502",
+   "name": "바로다운정10/20밀리그램",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101502"
+  },
+  {
+   "itemSeq": "202101497",
+   "name": "바이젯정10/10밀리그램",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101497"
+  },
+  {
+   "itemSeq": "202101496",
+   "name": "바이젯정10/20밀리그램",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101496"
+  },
+  {
+   "itemSeq": "202101495",
+   "name": "바이젯정10/40밀리그램",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101495"
+  },
+  {
+   "itemSeq": "202101384",
+   "name": "브이토젯정10/10밀리그램",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101384"
+  },
+  {
+   "itemSeq": "202101385",
+   "name": "브이토젯정10/20밀리그램",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101385"
+  },
+  {
+   "itemSeq": "202101386",
+   "name": "브이토젯정10/40밀리그램",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101386"
+  },
+  {
+   "itemSeq": "202101552",
+   "name": "삼토젯정10/10밀리그램",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101552"
+  },
+  {
+   "itemSeq": "202101551",
+   "name": "삼토젯정10/20밀리그램",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101551"
+  },
+  {
+   "itemSeq": "202101550",
+   "name": "삼토젯정10/40밀리그램",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101550"
+  },
+  {
+   "itemSeq": "202101569",
+   "name": "아드젯정10/10밀리그램",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101569"
+  },
+  {
+   "itemSeq": "202101568",
+   "name": "아드젯정10/20밀리그램",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101568"
+  },
+  {
+   "itemSeq": "202101483",
+   "name": "아로젯정10/10밀리그램",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101483"
+  },
+  {
+   "itemSeq": "202101482",
+   "name": "아로젯정10/20밀리그램",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101482"
+  },
+  {
+   "itemSeq": "202101481",
+   "name": "아로젯정10/40밀리그램",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101481"
+  },
+  {
+   "itemSeq": "202101484",
+   "name": "아로틴플러스정10/40밀리그램(에제티미브/아토르바스타틴칼슘삼수화물)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101484"
+  },
+  {
+   "itemSeq": "202101485",
+   "name": "아로틴플러스정10/20밀리그램(에제티미브/아토르바스타틴칼슘삼수화물)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101485"
+  },
+  {
+   "itemSeq": "202101486",
+   "name": "아로틴플러스정10/10밀리그램(에제티미브/아토르바스타틴칼슘삼수화물)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101486"
+  },
+  {
+   "itemSeq": "202101600",
+   "name": "아르젯정10/10밀리그램",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101600"
+  },
+  {
+   "itemSeq": "202101601",
+   "name": "아르젯정10/20밀리그램",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101601"
+  },
+  {
+   "itemSeq": "202101602",
+   "name": "아르젯정10/40밀리그램",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101602"
+  },
+  {
+   "itemSeq": "202101625",
+   "name": "아미젯정10/10밀리그램",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101625"
+  },
+  {
+   "itemSeq": "202101624",
+   "name": "아미젯정10/20밀리그램",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101624"
+  },
+  {
+   "itemSeq": "202101626",
+   "name": "아미젯정10/40밀리그램",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "43.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101626"
+  },
+  {
+   "itemSeq": "202101394",
+   "name": "아바젯정10/10밀리그램",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101394"
+  }
+ ]
+}

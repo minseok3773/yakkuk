@@ -1,0 +1,8381 @@
+{
+ "id": "rosuvastatin",
+ "query": [
+  "로수바스타틴"
+ ],
+ "fetched": "2026-11-27",
+ "total": 935,
+ "kept": 500,
+ "mfdsName": [
+  "로수바스타틴칼슘",
+  "로수바스타틴칼슘(미분화)",
+  "로수바스타틴칼슘염"
+ ],
+ "items": [
+  {
+   "itemSeq": "200210097",
+   "name": "크레스토정10밀리그램(로수바스타틴칼슘)",
+   "company": "한국아스트라제네카(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-01-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200210097"
+  },
+  {
+   "itemSeq": "200410326",
+   "name": "크레스토정20밀리그램(로수바스타틴칼슘)",
+   "company": "한국아스트라제네카(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410326"
+  },
+  {
+   "itemSeq": "200511256",
+   "name": "크레스토정5밀리그램(로수바스타틴칼슘)",
+   "company": "한국아스트라제네카(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511256"
+  },
+  {
+   "itemSeq": "200810870",
+   "name": "로수로드정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-11-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810870"
+  },
+  {
+   "itemSeq": "200900690",
+   "name": "로스바탄정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-01-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200900690"
+  },
+  {
+   "itemSeq": "200900691",
+   "name": "크레산트정10mg(로수바스타틴칼슘)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-01-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200900691"
+  },
+  {
+   "itemSeq": "201000977",
+   "name": "대웅로수바스타틴정10밀리그램(로수바스타틴칼슘(미분화))",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000977"
+  },
+  {
+   "itemSeq": "201000974",
+   "name": "대웅로수바스타틴정20밀리그램(로수바스타틴칼슘(미분화))",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000974"
+  },
+  {
+   "itemSeq": "201000975",
+   "name": "대웅로수바스타틴정5밀리그램(로수바스타틴칼슘(미분화))",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000975"
+  },
+  {
+   "itemSeq": "201001001",
+   "name": "레스타정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001001"
+  },
+  {
+   "itemSeq": "201000972",
+   "name": "로레스토정10mg(로수바스타틴칼슘)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000972"
+  },
+  {
+   "itemSeq": "201000989",
+   "name": "로바스로정10밀리그램(로수바스타틴칼슘(미분화))",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000989"
+  },
+  {
+   "itemSeq": "201001008",
+   "name": "로비탄정10밀리그램(로수바스타틴칼슘)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001008"
+  },
+  {
+   "itemSeq": "201001006",
+   "name": "로비탄정20밀리그램(로수바스타틴칼슘)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001006"
+  },
+  {
+   "itemSeq": "201001007",
+   "name": "로비탄정5밀리그램(로수바스타틴칼슘)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001007"
+  },
+  {
+   "itemSeq": "201000963",
+   "name": "로수로드정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000963"
+  },
+  {
+   "itemSeq": "201000982",
+   "name": "로수로드정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000982"
+  },
+  {
+   "itemSeq": "201000991",
+   "name": "로수리딘정10밀리그램(로수바스타틴칼슘)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000991"
+  },
+  {
+   "itemSeq": "201000969",
+   "name": "로수리딘정20밀리그램(로수바스타틴칼슘)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000969"
+  },
+  {
+   "itemSeq": "201000994",
+   "name": "로수바틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000994"
+  },
+  {
+   "itemSeq": "201000993",
+   "name": "로수바틴정20밀리그램(로수바스타틴칼슘)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000993"
+  },
+  {
+   "itemSeq": "201001013",
+   "name": "로수탄정10밀리그램(로수바스타틴칼슘)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001013"
+  },
+  {
+   "itemSeq": "201001002",
+   "name": "로수틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001002"
+  },
+  {
+   "itemSeq": "201000998",
+   "name": "로슈타정10밀리그램(로수바스타틴칼슘)",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘염",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000998"
+  },
+  {
+   "itemSeq": "201000999",
+   "name": "로슈타정20밀리그램(로수바스타틴칼슘)",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000999"
+  },
+  {
+   "itemSeq": "201000967",
+   "name": "로스틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000967"
+  },
+  {
+   "itemSeq": "201000984",
+   "name": "수바스트정10밀리그램(로수바스타틴칼슘)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000984"
+  },
+  {
+   "itemSeq": "201000983",
+   "name": "수바스트정20밀리그램(로수바스타틴칼슘)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000983"
+  },
+  {
+   "itemSeq": "201000966",
+   "name": "수바스틴정(로수바스타틴칼슘)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000966"
+  },
+  {
+   "itemSeq": "201001004",
+   "name": "슈스타정10밀리그램(로수바스타틴칼슘)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001004"
+  },
+  {
+   "itemSeq": "201001005",
+   "name": "슈스타정20밀리그램(로수바스타틴칼슘)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001005"
+  },
+  {
+   "itemSeq": "201001003",
+   "name": "슈스타정5밀리그램(로수바스타틴칼슘)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001003"
+  },
+  {
+   "itemSeq": "201000986",
+   "name": "스타로바정10mg(로수바스타틴칼슘)",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000986"
+  },
+  {
+   "itemSeq": "201001012",
+   "name": "올스타틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001012"
+  },
+  {
+   "itemSeq": "201001000",
+   "name": "유로스틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)유유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001000"
+  },
+  {
+   "itemSeq": "201000973",
+   "name": "콜로스타정10밀리그램(로수바스타틴칼슘)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000973"
+  },
+  {
+   "itemSeq": "201001014",
+   "name": "크레로바정10밀리그램(로수바스타틴칼슘)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001014"
+  },
+  {
+   "itemSeq": "201001011",
+   "name": "크레로슈정10밀리그램(로수바스타틴칼슘)",
+   "company": "삼아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001011"
+  },
+  {
+   "itemSeq": "201001009",
+   "name": "크레로슈정20밀리그램(로수바스타틴칼슘)",
+   "company": "삼아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001009"
+  },
+  {
+   "itemSeq": "201001010",
+   "name": "크레로슈정5밀리그램(로수바스타틴칼슘)",
+   "company": "삼아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001010"
+  },
+  {
+   "itemSeq": "201000988",
+   "name": "크레스논정10밀리그램(로수바스타틴칼슘)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000988"
+  },
+  {
+   "itemSeq": "201000976",
+   "name": "크레스틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000976"
+  },
+  {
+   "itemSeq": "201000985",
+   "name": "크로바틴정10mg(로수바스타틴칼슘)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000985"
+  },
+  {
+   "itemSeq": "201000981",
+   "name": "크로우정10mg(로수바스타틴칼슘)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000981"
+  },
+  {
+   "itemSeq": "201000980",
+   "name": "크로우정20mg(로수바스타틴칼슘)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000980"
+  },
+  {
+   "itemSeq": "201000978",
+   "name": "탑스타틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000978"
+  },
+  {
+   "itemSeq": "201000979",
+   "name": "탑스타틴정20밀리그램(로수바스타틴칼슘)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000979"
+  },
+  {
+   "itemSeq": "201000968",
+   "name": "하이엘정10밀리그램(로수바스타틴칼슘)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000968"
+  },
+  {
+   "itemSeq": "201000970",
+   "name": "하이엘정20밀리그램(로수바스타틴칼슘)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201000970"
+  },
+  {
+   "itemSeq": "201001026",
+   "name": "로바스타정10밀리그램(로수바스타틴칼슘)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001026"
+  },
+  {
+   "itemSeq": "201001029",
+   "name": "에스로틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001029"
+  },
+  {
+   "itemSeq": "201001030",
+   "name": "에스로틴정20밀리그램(로수바스타틴칼슘)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001030"
+  },
+  {
+   "itemSeq": "201001041",
+   "name": "크레산트정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001041"
+  },
+  {
+   "itemSeq": "201003714",
+   "name": "크레스논정20밀리그램(로수바스타틴칼슘)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003714"
+  },
+  {
+   "itemSeq": "201003713",
+   "name": "크레스논정5밀리그램(로수바스타틴칼슘)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003713"
+  },
+  {
+   "itemSeq": "201005762",
+   "name": "로수테롤정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201005762"
+  },
+  {
+   "itemSeq": "201005763",
+   "name": "크레토정10밀리그램(로수바스타틴칼슘)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201005763"
+  },
+  {
+   "itemSeq": "201007499",
+   "name": "로수바정10밀리그램(로수바스타틴칼슘)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-12-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007499"
+  },
+  {
+   "itemSeq": "201310589",
+   "name": "로베틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310589"
+  },
+  {
+   "itemSeq": "201310590",
+   "name": "로베틴정20밀리그램(로수바스타틴칼슘)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310590"
+  },
+  {
+   "itemSeq": "201310588",
+   "name": "로베틴정5밀리그램(로수바스타틴칼슘)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310588"
+  },
+  {
+   "itemSeq": "201310819",
+   "name": "수바스트정5밀리그램(로수바스타틴칼슘)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310819"
+  },
+  {
+   "itemSeq": "201310979",
+   "name": "크레첵정10밀리그램(로수바스타틴칼슘)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310979"
+  },
+  {
+   "itemSeq": "201310980",
+   "name": "크레첵정20밀리그램(로수바스타틴칼슘)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310980"
+  },
+  {
+   "itemSeq": "201400004",
+   "name": "명문로수바스타틴칼슘정20밀리그램",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400004"
+  },
+  {
+   "itemSeq": "201400005",
+   "name": "명문로수바스타틴칼슘정10밀리그램",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400005"
+  },
+  {
+   "itemSeq": "201400102",
+   "name": "모노로바정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400102"
+  },
+  {
+   "itemSeq": "201400111",
+   "name": "모노로바정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400111"
+  },
+  {
+   "itemSeq": "201400112",
+   "name": "모노로바정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400112"
+  },
+  {
+   "itemSeq": "201400124",
+   "name": "콜로스타정20밀리그램(로수바스타틴칼슘)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400124"
+  },
+  {
+   "itemSeq": "201400123",
+   "name": "콜로스타정5밀리그램(로수바스타틴칼슘)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400123"
+  },
+  {
+   "itemSeq": "201400154",
+   "name": "로트로반정10밀리그램(로수바스타틴칼슘)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400154"
+  },
+  {
+   "itemSeq": "201400155",
+   "name": "로트로반정20밀리그램(로수바스타틴칼슘)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400155"
+  },
+  {
+   "itemSeq": "201400290",
+   "name": "로레스토정20밀리그램(로수바스타틴칼슘)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400290"
+  },
+  {
+   "itemSeq": "201400289",
+   "name": "로레스토정5밀리그램(로수바스타틴칼슘)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400289"
+  },
+  {
+   "itemSeq": "201400288",
+   "name": "이텍스로수바스타틴칼슘정20mg",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400288"
+  },
+  {
+   "itemSeq": "201400286",
+   "name": "이텍스로수바스타틴칼슘정5mg",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400286"
+  },
+  {
+   "itemSeq": "201400287",
+   "name": "이텍스로수바스타틴칼슘정10mg",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400287"
+  },
+  {
+   "itemSeq": "201400352",
+   "name": "로수넥스정10mg(로수바스타틴칼슘)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400352"
+  },
+  {
+   "itemSeq": "201400370",
+   "name": "동광로수바스타틴칼슘정20mg",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400370"
+  },
+  {
+   "itemSeq": "201400371",
+   "name": "동광로수바스타틴칼슘정10mg",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400371"
+  },
+  {
+   "itemSeq": "201400389",
+   "name": "로수바스타퀄정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400389"
+  },
+  {
+   "itemSeq": "201400388",
+   "name": "로수바스타퀄정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400388"
+  },
+  {
+   "itemSeq": "201400386",
+   "name": "로스톤정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400386"
+  },
+  {
+   "itemSeq": "201400387",
+   "name": "로스톤정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400387"
+  },
+  {
+   "itemSeq": "201400385",
+   "name": "로스톤정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400385"
+  },
+  {
+   "itemSeq": "201400383",
+   "name": "에스로틴정5밀리그램(로수바스타틴칼슘)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400383"
+  },
+  {
+   "itemSeq": "201400379",
+   "name": "크레고정10밀리그램(로수바스타틴칼슘)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400379"
+  },
+  {
+   "itemSeq": "201400380",
+   "name": "크레고정20밀리그램(로수바스타틴칼슘)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400380"
+  },
+  {
+   "itemSeq": "201400382",
+   "name": "크바스틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400382"
+  },
+  {
+   "itemSeq": "201400452",
+   "name": "로바스로정20밀리그램(로수바스타틴칼슘(미분화))",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400452"
+  },
+  {
+   "itemSeq": "201400451",
+   "name": "로바스로정5밀리그램(로수바스타틴칼슘(미분화))",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400451"
+  },
+  {
+   "itemSeq": "201400419",
+   "name": "로수틴정20밀리그램(로수바스타틴칼슘)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400419"
+  },
+  {
+   "itemSeq": "201400423",
+   "name": "명문로수바스타틴칼슘정5밀리그램",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400423"
+  },
+  {
+   "itemSeq": "201400434",
+   "name": "비바코정10밀리그램(로수바스타틴칼슘)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400434"
+  },
+  {
+   "itemSeq": "201400433",
+   "name": "비바코정20밀리그램(로수바스타틴칼슘)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400433"
+  },
+  {
+   "itemSeq": "201400435",
+   "name": "비바코정5밀리그램(로수바스타틴칼슘)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400435"
+  },
+  {
+   "itemSeq": "201400402",
+   "name": "엘로수바정10밀리그램(로수바스타틴칼슘(미분화))",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400402"
+  },
+  {
+   "itemSeq": "201400401",
+   "name": "엘로수바정20밀리그램(로수바스타틴칼슘(미분화))",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400401"
+  },
+  {
+   "itemSeq": "201400409",
+   "name": "크레아진정10mg(로수바스타틴칼슘)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400409"
+  },
+  {
+   "itemSeq": "201400411",
+   "name": "크레아진정20mg(로수바스타틴칼슘)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400411"
+  },
+  {
+   "itemSeq": "201400410",
+   "name": "크레아진정5mg(로수바스타틴칼슘)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400410"
+  },
+  {
+   "itemSeq": "201400432",
+   "name": "크레첵정5밀리그램(로수바스타틴칼슘)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400432"
+  },
+  {
+   "itemSeq": "201400413",
+   "name": "크로스타정10밀리그램(로수바스타틴칼슘)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400413"
+  },
+  {
+   "itemSeq": "201400414",
+   "name": "크로스타정20밀리그램(로수바스타틴칼슘)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400414"
+  },
+  {
+   "itemSeq": "201400415",
+   "name": "크로스타정5밀리그램(로수바스타틴칼슘)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400415"
+  },
+  {
+   "itemSeq": "201400429",
+   "name": "크로우정5mg(로수바스타틴칼슘)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400429"
+  },
+  {
+   "itemSeq": "201400412",
+   "name": "크바스틴정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400412"
+  },
+  {
+   "itemSeq": "201400605",
+   "name": "로수브이정10mg(로수바스타틴칼슘)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400605"
+  },
+  {
+   "itemSeq": "201400757",
+   "name": "유로스토정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400757"
+  },
+  {
+   "itemSeq": "201400839",
+   "name": "크레스바정10mg(로수바스타틴칼슘)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400839"
+  },
+  {
+   "itemSeq": "201400840",
+   "name": "크레스바정20mg(로수바스타틴칼슘)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400840"
+  },
+  {
+   "itemSeq": "201400918",
+   "name": "씨엠지로수바스타틴정10mg(로수바스타틴칼슘)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400918"
+  },
+  {
+   "itemSeq": "201400970",
+   "name": "한올로수바스타틴칼슘정10밀리그램",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400970"
+  },
+  {
+   "itemSeq": "201401264",
+   "name": "뉴스타틴알정10밀리그램(로수바스타틴칼슘)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401264"
+  },
+  {
+   "itemSeq": "201401266",
+   "name": "뉴스타틴알정20밀리그램(로수바스타틴칼슘)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401266"
+  },
+  {
+   "itemSeq": "201401265",
+   "name": "뉴스타틴알정5밀리그램(로수바스타틴칼슘)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401265"
+  },
+  {
+   "itemSeq": "201401487",
+   "name": "로스틴정20밀리그램(로수바스타틴칼슘)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401487"
+  },
+  {
+   "itemSeq": "201401680",
+   "name": "로수바스타퀄정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401680"
+  },
+  {
+   "itemSeq": "201401921",
+   "name": "크로스틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401921"
+  },
+  {
+   "itemSeq": "201402642",
+   "name": "씨엠지로수바스타틴정5mg(로수바스타틴칼슘)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-06-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402642"
+  },
+  {
+   "itemSeq": "201402641",
+   "name": "씨엠지로수바스타틴정20mg(로수바스타틴칼슘)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-06-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402641"
+  },
+  {
+   "itemSeq": "201402893",
+   "name": "올스타틴정5밀리그램(로수바스타틴칼슘)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402893"
+  },
+  {
+   "itemSeq": "201403173",
+   "name": "콜레스톱정10mg(로수바스타틴칼슘)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403173"
+  },
+  {
+   "itemSeq": "201403200",
+   "name": "에이프로젠로수바스타틴칼슘정10밀리그램",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403200"
+  },
+  {
+   "itemSeq": "201403434",
+   "name": "뉴스토정10mg(로수바스타틴칼슘)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403434"
+  },
+  {
+   "itemSeq": "201403469",
+   "name": "로바스타정20밀리그램(로수바스타틴칼슘)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403469"
+  },
+  {
+   "itemSeq": "201403492",
+   "name": "크레스반정10mg(로수바스타틴칼슘)",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403492"
+  },
+  {
+   "itemSeq": "201403493",
+   "name": "크레스반정20mg(로수바스타틴칼슘)",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403493"
+  },
+  {
+   "itemSeq": "201403561",
+   "name": "로바스타정5밀리그램(로수바스타틴칼슘)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403561"
+  },
+  {
+   "itemSeq": "201403882",
+   "name": "로바탄정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403882"
+  },
+  {
+   "itemSeq": "201403883",
+   "name": "로바탄정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403883"
+  },
+  {
+   "itemSeq": "201403881",
+   "name": "로바탄정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403881"
+  },
+  {
+   "itemSeq": "201403910",
+   "name": "로수리딘정5밀리그램(로수바스타틴칼슘)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403910"
+  },
+  {
+   "itemSeq": "201404014",
+   "name": "로스타젠정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404014"
+  },
+  {
+   "itemSeq": "201404015",
+   "name": "로스타젠정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404015"
+  },
+  {
+   "itemSeq": "201404019",
+   "name": "메로바정10밀리그램(로수바스타틴칼슘)",
+   "company": "메딕스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404019"
+  },
+  {
+   "itemSeq": "201404134",
+   "name": "슈바스타정(로수바스타틴칼슘)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404134"
+  },
+  {
+   "itemSeq": "201404145",
+   "name": "이로스타정(로수바스타틴칼슘)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404145"
+  },
+  {
+   "itemSeq": "201404241",
+   "name": "하이엘정5밀리그램(로수바스타틴칼슘)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404241"
+  },
+  {
+   "itemSeq": "201404672",
+   "name": "파비스트정10밀리그램(로수바스타틴칼슘)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404672"
+  },
+  {
+   "itemSeq": "201404848",
+   "name": "로바테롤정10밀리그램(로수바스타틴칼슘)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404848"
+  },
+  {
+   "itemSeq": "201404929",
+   "name": "휴레스토정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404929"
+  },
+  {
+   "itemSeq": "201404930",
+   "name": "휴레스토정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404930"
+  },
+  {
+   "itemSeq": "201404928",
+   "name": "휴레스토정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404928"
+  },
+  {
+   "itemSeq": "201405004",
+   "name": "로수테롤정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405004"
+  },
+  {
+   "itemSeq": "201405051",
+   "name": "로스토정10밀리그램(로수바스타틴칼슘)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405051"
+  },
+  {
+   "itemSeq": "201405052",
+   "name": "로스토정20밀리그램(로수바스타틴칼슘)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405052"
+  },
+  {
+   "itemSeq": "201405050",
+   "name": "로스토정5밀리그램(로수바스타틴칼슘)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405050"
+  },
+  {
+   "itemSeq": "201405101",
+   "name": "이로스타정20밀리그램(로수바스타틴칼슘)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405101"
+  },
+  {
+   "itemSeq": "201405077",
+   "name": "콜레스톱정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405077"
+  },
+  {
+   "itemSeq": "201405074",
+   "name": "콜레스톱정5mg(로수바스타틴칼슘)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405074"
+  },
+  {
+   "itemSeq": "201405416",
+   "name": "로수반정10mg(로수바스타틴칼슘)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405416"
+  },
+  {
+   "itemSeq": "201405588",
+   "name": "크레스틴정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405588"
+  },
+  {
+   "itemSeq": "201405613",
+   "name": "올스타틴정20밀리그램(로수바스타틴칼슘)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405613"
+  },
+  {
+   "itemSeq": "201405754",
+   "name": "크레로바정20밀리그램(로수바스타틴칼슘)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405754"
+  },
+  {
+   "itemSeq": "201405753",
+   "name": "크레로바정5밀리그램(로수바스타틴칼슘)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405753"
+  },
+  {
+   "itemSeq": "201405844",
+   "name": "레스타정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405844"
+  },
+  {
+   "itemSeq": "201405853",
+   "name": "로수틴정5밀리그램(로수바스타틴칼슘)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405853"
+  },
+  {
+   "itemSeq": "201500672",
+   "name": "슈바스타정5mg(로수바스타틴칼슘)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500672"
+  },
+  {
+   "itemSeq": "201501556",
+   "name": "오스타틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501556"
+  },
+  {
+   "itemSeq": "201501555",
+   "name": "오스타틴정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501555"
+  },
+  {
+   "itemSeq": "201501569",
+   "name": "크레지정20밀리그램(로수바스타틴칼슘)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501569"
+  },
+  {
+   "itemSeq": "201501710",
+   "name": "부광로수바스타틴칼슘정10밀리그램",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501710"
+  },
+  {
+   "itemSeq": "201501709",
+   "name": "부광로수바스타틴칼슘정20밀리그램",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501709"
+  },
+  {
+   "itemSeq": "201501711",
+   "name": "부광로수바스타틴칼슘정5밀리그램",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501711"
+  },
+  {
+   "itemSeq": "201501810",
+   "name": "크레바틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501810"
+  },
+  {
+   "itemSeq": "201501811",
+   "name": "크레바틴정5밀리그램(로수바스타틴칼슘)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501811"
+  },
+  {
+   "itemSeq": "201502366",
+   "name": "록스바정10mg(로수바스타틴칼슘)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502366"
+  },
+  {
+   "itemSeq": "201502564",
+   "name": "로수탄정5밀리그램(로수바스타틴칼슘)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502564"
+  },
+  {
+   "itemSeq": "201502974",
+   "name": "로바스토정10밀리그램(로수바스타틴칼슘)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502974"
+  },
+  {
+   "itemSeq": "201502973",
+   "name": "로바스토정5밀리그램(로수바스타틴칼슘)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502973"
+  },
+  {
+   "itemSeq": "201503219",
+   "name": "크레지정10밀리그램(로수바스타틴칼슘)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503219"
+  },
+  {
+   "itemSeq": "201503218",
+   "name": "크레지정5밀리그램(로수바스타틴칼슘)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503218"
+  },
+  {
+   "itemSeq": "201503865",
+   "name": "로수탄정20밀리그램(로수바스타틴칼슘)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503865"
+  },
+  {
+   "itemSeq": "201504162",
+   "name": "리포스토정20밀리그램(로수바스타틴칼슘)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504162"
+  },
+  {
+   "itemSeq": "201504202",
+   "name": "슈바스틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504202"
+  },
+  {
+   "itemSeq": "201504203",
+   "name": "슈바스틴정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504203"
+  },
+  {
+   "itemSeq": "201505162",
+   "name": "크레스정10mg(로수바스타틴칼슘)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505162"
+  },
+  {
+   "itemSeq": "201505163",
+   "name": "크레스정20mg(로수바스타틴칼슘)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505163"
+  },
+  {
+   "itemSeq": "201506639",
+   "name": "크로바틴정20mg(로수바스타틴칼슘)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506639"
+  },
+  {
+   "itemSeq": "201506830",
+   "name": "리포스토정10밀리그램(로수바스타틴칼슘)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506830"
+  },
+  {
+   "itemSeq": "201506829",
+   "name": "리포스토정5밀리그램(로수바스타틴칼슘)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506829"
+  },
+  {
+   "itemSeq": "201506856",
+   "name": "크래바스정10mg(로수바스타틴칼슘)",
+   "company": "일양바이오팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506856"
+  },
+  {
+   "itemSeq": "201507399",
+   "name": "크로바틴정5mg(로수바스타틴칼슘)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507399"
+  },
+  {
+   "itemSeq": "201507897",
+   "name": "로바이드정10mg(로수바스타틴칼슘)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507897"
+  },
+  {
+   "itemSeq": "201507898",
+   "name": "로바이드정20mg(로수바스타틴칼슘)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507898"
+  },
+  {
+   "itemSeq": "201507896",
+   "name": "로바이드정5mg(로수바스타틴칼슘)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507896"
+  },
+  {
+   "itemSeq": "201508189",
+   "name": "로슈바토정10mg(로수바스타틴칼슘)",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508189"
+  },
+  {
+   "itemSeq": "201508211",
+   "name": "수바스틴정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508211"
+  },
+  {
+   "itemSeq": "201508442",
+   "name": "수바틴정10mg(로수바스타틴칼슘)",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508442"
+  },
+  {
+   "itemSeq": "201601553",
+   "name": "로수브이정20mg(로수바스타틴칼슘)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601553"
+  },
+  {
+   "itemSeq": "201601552",
+   "name": "로수브이정5mg(로수바스타틴칼슘)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601552"
+  },
+  {
+   "itemSeq": "201601638",
+   "name": "유니로바정20mg(로수바스타틴칼슘)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601638"
+  },
+  {
+   "itemSeq": "201601698",
+   "name": "크레스정5밀리그램(로수바스타틴칼슘)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601698"
+  },
+  {
+   "itemSeq": "201602318",
+   "name": "유니로바정10mg(로수바스타틴칼슘)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602318"
+  },
+  {
+   "itemSeq": "201602575",
+   "name": "크라틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602575"
+  },
+  {
+   "itemSeq": "201602574",
+   "name": "크라틴정20밀리그램(로수바스타틴칼슘)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602574"
+  },
+  {
+   "itemSeq": "201602576",
+   "name": "크라틴정5밀리그램(로수바스타틴칼슘)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602576"
+  },
+  {
+   "itemSeq": "201602996",
+   "name": "크레바틴정20밀리그램(로수바스타틴칼슘)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602996"
+  },
+  {
+   "itemSeq": "201603369",
+   "name": "크레진정10밀리그램(로수바스타틴칼슘)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603369"
+  },
+  {
+   "itemSeq": "201603370",
+   "name": "크레진정20밀리그램(로수바스타틴칼슘)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603370"
+  },
+  {
+   "itemSeq": "201603368",
+   "name": "크레진정5밀리그램(로수바스타틴칼슘)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603368"
+  },
+  {
+   "itemSeq": "201603462",
+   "name": "로수바틴정5밀리그램(로수바스타틴칼슘)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603462"
+  },
+  {
+   "itemSeq": "201603489",
+   "name": "로스타정10mg(로수바스타틴칼슘)",
+   "company": "(주)알피바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603489"
+  },
+  {
+   "itemSeq": "201603490",
+   "name": "로스타정5mg(로수바스타틴칼슘)",
+   "company": "(주)알피바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603490"
+  },
+  {
+   "itemSeq": "201603595",
+   "name": "로슈바정10mg(로수바스타틴칼슘)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603595"
+  },
+  {
+   "itemSeq": "201603594",
+   "name": "로슈바정20mg(로수바스타틴칼슘)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603594"
+  },
+  {
+   "itemSeq": "201603585",
+   "name": "크레로스정10mg(로수바스타틴칼슘)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603585"
+  },
+  {
+   "itemSeq": "201603663",
+   "name": "슈바스타틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603663"
+  },
+  {
+   "itemSeq": "201603805",
+   "name": "록스바정5mg(로수바스타틴칼슘)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603805"
+  },
+  {
+   "itemSeq": "201603999",
+   "name": "뉴로스틴정(로수바스타틴칼슘)",
+   "company": "에스에스팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603999"
+  },
+  {
+   "itemSeq": "201604059",
+   "name": "로수토바정10밀리그램(로수바스타틴칼슘)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604059"
+  },
+  {
+   "itemSeq": "201604060",
+   "name": "로수토바정20밀리그램(로수바스타틴칼슘)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604060"
+  },
+  {
+   "itemSeq": "201604058",
+   "name": "로수토바정5밀리그램(로수바스타틴칼슘)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604058"
+  },
+  {
+   "itemSeq": "201604100",
+   "name": "크레로스정5mg(로수바스타틴칼슘)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604100"
+  },
+  {
+   "itemSeq": "201604209",
+   "name": "크레토정5밀리그램\n\n(로수바스타틴칼슘)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604209"
+  },
+  {
+   "itemSeq": "201605331",
+   "name": "유니로바정5mg(로수바스타틴칼슘)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605331"
+  },
+  {
+   "itemSeq": "201607042",
+   "name": "로수타틴정10mg(로수바스타틴칼슘)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201607042"
+  },
+  {
+   "itemSeq": "201607043",
+   "name": "로수타틴정20mg(로수바스타틴칼슘)(수출용)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201607043"
+  },
+  {
+   "itemSeq": "201607041",
+   "name": "슈바스틴정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201607041"
+  },
+  {
+   "itemSeq": "201700506",
+   "name": "피엠에스로수바스타틴정5밀리그램(로수바스타틴칼슘)",
+   "company": "파마사이언스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.21",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700506"
+  },
+  {
+   "itemSeq": "201700504",
+   "name": "피엠에스로수바스타틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "파마사이언스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.419",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700504"
+  },
+  {
+   "itemSeq": "201700505",
+   "name": "피엠에스로수바스타틴정20밀리그램(로수바스타틴칼슘)",
+   "company": "파마사이언스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.838",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700505"
+  },
+  {
+   "itemSeq": "201701549",
+   "name": "케이로틴정10mg(로수바스타틴칼슘)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701549"
+  },
+  {
+   "itemSeq": "201702135",
+   "name": "로스바탄정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702135"
+  },
+  {
+   "itemSeq": "201702134",
+   "name": "로스바탄정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702134"
+  },
+  {
+   "itemSeq": "201702136",
+   "name": "크레스바정5mg(로수바스타틴칼슘)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702136"
+  },
+  {
+   "itemSeq": "201702528",
+   "name": "제이로수정10밀리그램(로수바스타틴칼슘)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702528"
+  },
+  {
+   "itemSeq": "201702526",
+   "name": "제이로수정20밀리그램(로수바스타틴칼슘)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702526"
+  },
+  {
+   "itemSeq": "201702527",
+   "name": "제이로수정5밀리그램(로수바스타틴칼슘)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702527"
+  },
+  {
+   "itemSeq": "201702789",
+   "name": "동광로수바스타틴칼슘정5mg",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702789"
+  },
+  {
+   "itemSeq": "201704835",
+   "name": "케이로틴정5mg(로수바스타틴칼슘)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704835"
+  },
+  {
+   "itemSeq": "201706842",
+   "name": "로수넥스정5mg(로수바스타틴칼슘)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706842"
+  },
+  {
+   "itemSeq": "201707148",
+   "name": "제이바수정10밀리그램(로수바스타틴칼슘)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707148"
+  },
+  {
+   "itemSeq": "201707147",
+   "name": "제이바수정20밀리그램(로수바스타틴칼슘)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707147"
+  },
+  {
+   "itemSeq": "201707146",
+   "name": "제이바수정5밀리그램(로수바스타틴칼슘)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707146"
+  },
+  {
+   "itemSeq": "201707534",
+   "name": "크로스틴정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707534"
+  },
+  {
+   "itemSeq": "201707535",
+   "name": "크로스틴정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707535"
+  },
+  {
+   "itemSeq": "201707674",
+   "name": "로수민정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707674"
+  },
+  {
+   "itemSeq": "201707675",
+   "name": "로수민정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707675"
+  },
+  {
+   "itemSeq": "201707673",
+   "name": "로수민정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707673"
+  },
+  {
+   "itemSeq": "201800670",
+   "name": "로수반정20mg(로수바스타틴칼슘)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800670"
+  },
+  {
+   "itemSeq": "201800813",
+   "name": "에이프로젠로수바스타틴칼슘정5밀리그램",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800813"
+  },
+  {
+   "itemSeq": "201801342",
+   "name": "크레고정5밀리그램(로수바스타틴칼슘)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801342"
+  },
+  {
+   "itemSeq": "201802674",
+   "name": "뉴슈바틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802674"
+  },
+  {
+   "itemSeq": "201802673",
+   "name": "뉴슈바틴정5밀리그램(로수바스타틴칼슘)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802673"
+  },
+  {
+   "itemSeq": "201803054",
+   "name": "로수탑정10밀리그램(로수바스타틴칼슘)",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803054"
+  },
+  {
+   "itemSeq": "201803165",
+   "name": "동성로수바스타틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "동성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803165"
+  },
+  {
+   "itemSeq": "201803162",
+   "name": "로수반정5mg(로수바스타틴칼슘)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803162"
+  },
+  {
+   "itemSeq": "201803838",
+   "name": "로수틴엠정10mg(로수바스타틴칼슘)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803838"
+  },
+  {
+   "itemSeq": "201804175",
+   "name": "로수잘정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)새한제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804175"
+  },
+  {
+   "itemSeq": "201804174",
+   "name": "로수잘정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)새한제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804174"
+  },
+  {
+   "itemSeq": "201804841",
+   "name": "뉴스토정20mg(로수바스타틴칼슘)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804841"
+  },
+  {
+   "itemSeq": "201804898",
+   "name": "메가로수틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804898"
+  },
+  {
+   "itemSeq": "201804899",
+   "name": "메가로수틴정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804899"
+  },
+  {
+   "itemSeq": "201900332",
+   "name": "삼성로수바스타틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900332"
+  },
+  {
+   "itemSeq": "201900333",
+   "name": "삼성로수바스타틴정20밀리그램(로수바스타틴칼슘)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900333"
+  },
+  {
+   "itemSeq": "201900331",
+   "name": "삼성로수바스타틴정5밀리그램(로수바스타틴칼슘)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900331"
+  },
+  {
+   "itemSeq": "201900602",
+   "name": "크레라토정10mg(로수바스타틴칼슘)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900602"
+  },
+  {
+   "itemSeq": "201901009",
+   "name": "크레라토정20mg(로수바스타틴칼슘)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901009"
+  },
+  {
+   "itemSeq": "201901008",
+   "name": "크레라토정5mg(로수바스타틴칼슘)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901008"
+  },
+  {
+   "itemSeq": "201901250",
+   "name": "로슈바정5mg(로수바스타틴칼슘)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901250"
+  },
+  {
+   "itemSeq": "201901569",
+   "name": "로수박정10mg(로수바스타틴칼슘)",
+   "company": "(주)킴스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901569"
+  },
+  {
+   "itemSeq": "201901570",
+   "name": "로수박정5mg(로수바스타틴칼슘)",
+   "company": "(주)킴스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901570"
+  },
+  {
+   "itemSeq": "201903039",
+   "name": "로수그린정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903039"
+  },
+  {
+   "itemSeq": "201903080",
+   "name": "로수그린정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903080"
+  },
+  {
+   "itemSeq": "201903083",
+   "name": "로수그린정5밀리그램(로수바스타틴캍슘)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903083"
+  },
+  {
+   "itemSeq": "201903289",
+   "name": "로수맥스정10밀리그램(로수바스타틴칼슘)",
+   "company": "정우신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903289"
+  },
+  {
+   "itemSeq": "201903719",
+   "name": "로수바정5밀리그램(로수바스타틴칼슘)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903719"
+  },
+  {
+   "itemSeq": "201903849",
+   "name": "크레로우정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903849"
+  },
+  {
+   "itemSeq": "201903848",
+   "name": "크레로우정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903848"
+  },
+  {
+   "itemSeq": "201903850",
+   "name": "크레로우정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903850"
+  },
+  {
+   "itemSeq": "201904447",
+   "name": "로수바신정10mg(로수바스타틴칼슘)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904447"
+  },
+  {
+   "itemSeq": "201904448",
+   "name": "로수바신정20mg(로수바스타틴칼슘)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904448"
+  },
+  {
+   "itemSeq": "201904445",
+   "name": "로수바신정5mg(로수바스타틴칼슘)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904445"
+  },
+  {
+   "itemSeq": "201904551",
+   "name": "로바트정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904551"
+  },
+  {
+   "itemSeq": "201904552",
+   "name": "로바트정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904552"
+  },
+  {
+   "itemSeq": "201904550",
+   "name": "로바트정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904550"
+  },
+  {
+   "itemSeq": "201904801",
+   "name": "로수틴엠정20mg(로수바스타틴칼슘)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904801"
+  },
+  {
+   "itemSeq": "201905441",
+   "name": "로바타린정5밀리그램(로수바스타틴칼슘)",
+   "company": "독립바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905441"
+  },
+  {
+   "itemSeq": "201905537",
+   "name": "로바타린정20밀리그램(로수바스타틴칼슘)",
+   "company": "독립바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905537"
+  },
+  {
+   "itemSeq": "201905604",
+   "name": "이텍스로수바스타틴칼슘정20mg(수출용)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905604"
+  },
+  {
+   "itemSeq": "201905855",
+   "name": "로바테롤정5mg(로수바스타틴칼슘)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905855"
+  },
+  {
+   "itemSeq": "201905929",
+   "name": "로바타린정10밀리그램(로수바스타틴칼슘)",
+   "company": "독립바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905929"
+  },
+  {
+   "itemSeq": "201906242",
+   "name": "로수틴엠정5mg(로수바스타틴칼슘)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906242"
+  },
+  {
+   "itemSeq": "201906545",
+   "name": "로트로반정5밀리그램(로수바스타틴칼슘)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906545"
+  },
+  {
+   "itemSeq": "201906517",
+   "name": "엘로수바정5밀리그램(로수바스타틴칼슘(미분화))",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906517"
+  },
+  {
+   "itemSeq": "201906578",
+   "name": "로수바트정10mg(로수바스타틴칼슘)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906578"
+  },
+  {
+   "itemSeq": "201906577",
+   "name": "로수바트정20mg(로수바스타틴칼슘)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906577"
+  },
+  {
+   "itemSeq": "201906579",
+   "name": "로수바트정5mg(로수바스타틴칼슘)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906579"
+  },
+  {
+   "itemSeq": "201906607",
+   "name": "로바칸정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)서흥",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906607"
+  },
+  {
+   "itemSeq": "201906608",
+   "name": "로바칸정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)서흥",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906608"
+  },
+  {
+   "itemSeq": "201906849",
+   "name": "로바가정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)아리제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906849"
+  },
+  {
+   "itemSeq": "201906848",
+   "name": "로바가정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)아리제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906848"
+  },
+  {
+   "itemSeq": "201906882",
+   "name": "탑스타틴정5밀리그램(로수바스타틴칼슘)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906882"
+  },
+  {
+   "itemSeq": "201906900",
+   "name": "크로원정10mg(로수바스타틴칼슘)",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906900"
+  },
+  {
+   "itemSeq": "201906901",
+   "name": "크로원정5mg(로수바스타틴칼슘)",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906901"
+  },
+  {
+   "itemSeq": "201908080",
+   "name": "이로스타정5밀리그램(로수바스타틴칼슘)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908080"
+  },
+  {
+   "itemSeq": "201908153",
+   "name": "로바케이정10밀리그램(로수바스타틴칼슘)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908153"
+  },
+  {
+   "itemSeq": "201908152",
+   "name": "로바케이정20밀리그램(로수바스타틴칼슘)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908152"
+  },
+  {
+   "itemSeq": "201908151",
+   "name": "로바케이정5밀리그램(로수바스타틴칼슘)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908151"
+  },
+  {
+   "itemSeq": "201908417",
+   "name": "로수메디정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)텔콘알에프제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908417"
+  },
+  {
+   "itemSeq": "201908546",
+   "name": "로수메디정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)텔콘알에프제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908546"
+  },
+  {
+   "itemSeq": "202000540",
+   "name": "레스타정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000540"
+  },
+  {
+   "itemSeq": "202000554",
+   "name": "로바원정10밀리그램(로수바스타틴칼슘)",
+   "company": "원광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000554"
+  },
+  {
+   "itemSeq": "202000555",
+   "name": "로바원정5밀리그램(로수바스타틴칼슘)",
+   "company": "원광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000555"
+  },
+  {
+   "itemSeq": "202000660",
+   "name": "로바스토정20밀리그램(로수바스타틴칼슘)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000660"
+  },
+  {
+   "itemSeq": "202000698",
+   "name": "메가로수틴정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000698"
+  },
+  {
+   "itemSeq": "202001508",
+   "name": "로바원정20밀리그램(로수바스타틴칼슘)",
+   "company": "원광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001508"
+  },
+  {
+   "itemSeq": "202002283",
+   "name": "동화로수바스타틴정10밀리그램(로수바스타틴칼슘)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002283"
+  },
+  {
+   "itemSeq": "202002281",
+   "name": "동화로수바스타틴정20밀리그램(로수바스타틴칼슘)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002281"
+  },
+  {
+   "itemSeq": "202002282",
+   "name": "동화로수바스타틴정5밀리그램(로수바스타틴칼슘)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002282"
+  },
+  {
+   "itemSeq": "202002303",
+   "name": "크바스틴정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002303"
+  },
+  {
+   "itemSeq": "202002664",
+   "name": "로수바엘정10밀리그램(로수바스타틴칼슘)",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002664"
+  },
+  {
+   "itemSeq": "202002666",
+   "name": "로수바엘정20밀리그램(로수바스타틴칼슘)",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002666"
+  },
+  {
+   "itemSeq": "202002665",
+   "name": "로스틴정5밀리그램(로수바스타틴칼슘)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002665"
+  },
+  {
+   "itemSeq": "202002683",
+   "name": "크레스틴정5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002683"
+  },
+  {
+   "itemSeq": "202003216",
+   "name": "넬라스토정10밀리그램(로수바스타틴칼슘)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003216"
+  },
+  {
+   "itemSeq": "202003263",
+   "name": "넬라스토정20밀리그램(로수바스타틴칼슘)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003263"
+  },
+  {
+   "itemSeq": "202003604",
+   "name": "로스타정20밀리그램(로수바스타틴칼슘)",
+   "company": "(주)알피바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003604"
+  },
+  {
+   "itemSeq": "202003845",
+   "name": "로수잘정10밀리그램(로수바스타틴칼슘)",
+   "company": "(주)새한제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003845"
+  },
+  {
+   "itemSeq": "202005179",
+   "name": "로슈타정5밀리그램(로수바스타틴칼슘)",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005179"
+  },
+  {
+   "itemSeq": "202005250",
+   "name": "로수바엠정5밀리그램(로수바스타틴칼슘)",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005250"
+  },
+  {
+   "itemSeq": "202105987",
+   "name": "수바스트정2.5밀리그램(로수바스타틴칼슘)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "2.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105987"
+  },
+  {
+   "itemSeq": "202107781",
+   "name": "수바로오디정10밀리그램(로수바스타틴칼슘(미분화))",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107781"
+  },
+  {
+   "itemSeq": "202107782",
+   "name": "수바로오디정20밀리그램(로수바스타틴칼슘(미분화))",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107782"
+  },
+  {
+   "itemSeq": "202107780",
+   "name": "수바로오디정5밀리그램(로수바스타틴칼슘(미분화))",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107780"
+  },
+  {
+   "itemSeq": "202107841",
+   "name": "로수바로오디정10밀리그램(로수바스타틴칼슘(미분화))",
+   "company": "(주)비씨월드헬스케어",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107841"
+  },
+  {
+   "itemSeq": "202107840",
+   "name": "로수바로오디정20밀리그램(로수바스타틴칼슘(미분화))",
+   "company": "(주)비씨월드헬스케어",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107840"
+  },
+  {
+   "itemSeq": "202107839",
+   "name": "로수바로오디정5밀리그램(로수바스타틴칼슘(미분화))",
+   "company": "(주)비씨월드헬스케어",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107839"
+  },
+  {
+   "itemSeq": "202202878",
+   "name": "대웅로수바스타틴정2.5밀리그램(로수바스타틴칼슘(미분화))",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "2.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202878"
+  },
+  {
+   "itemSeq": "202300974",
+   "name": "뉴스타틴알정2.5밀리그램(로수바스타틴칼슘)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "2.60",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300974"
+  },
+  {
+   "itemSeq": "202301094",
+   "name": "콜로스타정2.5밀리그램(로수바스타틴칼슘)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "2.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301094"
+  },
+  {
+   "itemSeq": "202301248",
+   "name": "로수틴정2.5밀리그램(로수바스타틴칼슘)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "2.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-04-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301248"
+  },
+  {
+   "itemSeq": "202302170",
+   "name": "로수로드정2.5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "2.60",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302170"
+  },
+  {
+   "itemSeq": "202400207",
+   "name": "크라틴정2.5밀리그램(로수바스타틴칼슘(미분화))",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "2.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400207"
+  },
+  {
+   "itemSeq": "202401298",
+   "name": "로레스토정2.5밀리그램(로수바스타틴칼슘(미분화))",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "2.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401298"
+  },
+  {
+   "itemSeq": "202401442",
+   "name": "메가로수틴정2.5밀리그램(로수바스타틴칼슘)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "2.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-06-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401442"
+  },
+  {
+   "itemSeq": "202401796",
+   "name": "크레스바정2.5밀리그램(로수바스타틴칼슘)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "2.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401796"
+  },
+  {
+   "itemSeq": "202402817",
+   "name": "크레첵정2.5밀리그램(로수바스타틴칼슘)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "2.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402817"
+  },
+  {
+   "itemSeq": "202501436",
+   "name": "슈스타정2.5밀리그램(로수바스타틴칼슘)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "2.600",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501436"
+  },
+  {
+   "itemSeq": "202600097",
+   "name": "크레스정2.5밀리그램(로수바스타틴칼슘)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "2.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600097"
+  },
+  {
+   "itemSeq": "202601815",
+   "name": "크레지정2.5밀리그램(로수바스타틴칼슘)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "2.60",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601815"
+  },
+  {
+   "itemSeq": "201308099",
+   "name": "올로스타정40/20밀리그램(올메사르탄메독소밀, 로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308099"
+  },
+  {
+   "itemSeq": "201308278",
+   "name": "올로스타정20/10밀리그램(올메사르탄메독소밀, 로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308278"
+  },
+  {
+   "itemSeq": "201309654",
+   "name": "로바티탄정10/160밀리그램",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발사르탄",
+     "amount": "160.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309654"
+  },
+  {
+   "itemSeq": "201309655",
+   "name": "로바티탄정10/80밀리그램",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발사르탄",
+     "amount": "80.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309655"
+  },
+  {
+   "itemSeq": "201309652",
+   "name": "로바티탄정20/160밀리그램",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발사르탄",
+     "amount": "160.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309652"
+  },
+  {
+   "itemSeq": "201309653",
+   "name": "로바티탄정20/80밀리그램",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발사르탄",
+     "amount": "80.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309653"
+  },
+  {
+   "itemSeq": "201400426",
+   "name": "올로스타정20/20밀리그램(올메사르탄메독소밀, 로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400426"
+  },
+  {
+   "itemSeq": "201400806",
+   "name": "올로스타정20/5밀리그램(올메사르탄메독소밀, 로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400806"
+  },
+  {
+   "itemSeq": "201404745",
+   "name": "로바티탄정5/80밀리그램",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발사르탄",
+     "amount": "80.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404745"
+  },
+  {
+   "itemSeq": "201404990",
+   "name": "로바티탄정5/160밀리그램",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발사르탄",
+     "amount": "160.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404990"
+  },
+  {
+   "itemSeq": "201405123",
+   "name": "듀오웰정40/10밀리그램",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405123"
+  },
+  {
+   "itemSeq": "201405121",
+   "name": "듀오웰정40/20밀리그램",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405121"
+  },
+  {
+   "itemSeq": "201405122",
+   "name": "듀오웰정80/10밀리그램",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "80",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405122"
+  },
+  {
+   "itemSeq": "201405120",
+   "name": "듀오웰정80/20밀리그램",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "80",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405120"
+  },
+  {
+   "itemSeq": "201405403",
+   "name": "듀오웰정40/5밀리그램",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405403"
+  },
+  {
+   "itemSeq": "201405404",
+   "name": "듀오웰정80/5밀리그램",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "80",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405404"
+  },
+  {
+   "itemSeq": "201503659",
+   "name": "로수젯정10/10밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503659"
+  },
+  {
+   "itemSeq": "201503660",
+   "name": "로수젯정10/20밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503660"
+  },
+  {
+   "itemSeq": "201503658",
+   "name": "로수젯정10/5밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503658"
+  },
+  {
+   "itemSeq": "201504095",
+   "name": "텔로스톱정40/10밀리그램",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504095"
+  },
+  {
+   "itemSeq": "201504096",
+   "name": "텔로스톱정40/20밀리그램",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504096"
+  },
+  {
+   "itemSeq": "201504097",
+   "name": "텔로스톱정80/10밀리그램",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "80.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504097"
+  },
+  {
+   "itemSeq": "201504098",
+   "name": "텔로스톱정80/20밀리그램",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "80.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504098"
+  },
+  {
+   "itemSeq": "201504135",
+   "name": "트루스타정40/10밀리그램",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504135"
+  },
+  {
+   "itemSeq": "201504137",
+   "name": "트루스타정80/10밀리그램",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "80.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504137"
+  },
+  {
+   "itemSeq": "201505196",
+   "name": "텔로스톱정40/5밀리그램",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505196"
+  },
+  {
+   "itemSeq": "201505197",
+   "name": "텔로스톱정80/5밀리그램",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "80.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505197"
+  },
+  {
+   "itemSeq": "201505198",
+   "name": "트루스타정40/5밀리그램",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505198"
+  },
+  {
+   "itemSeq": "201505199",
+   "name": "트루스타정80/5밀리그램",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "80.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505199"
+  },
+  {
+   "itemSeq": "201506798",
+   "name": "듀오논정10/10밀리그램",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506798"
+  },
+  {
+   "itemSeq": "201506799",
+   "name": "듀오논정10/20밀리그램",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506799"
+  },
+  {
+   "itemSeq": "201506797",
+   "name": "듀오논정10/5밀리그램",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506797"
+  },
+  {
+   "itemSeq": "201506789",
+   "name": "로수에지정10/10밀리그램",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506789"
+  },
+  {
+   "itemSeq": "201506790",
+   "name": "로수에지정10/20밀리그램",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506790"
+  },
+  {
+   "itemSeq": "201506788",
+   "name": "로수에지정10/5밀리그램",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506788"
+  },
+  {
+   "itemSeq": "201506795",
+   "name": "로제듀오정10/10밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506795"
+  },
+  {
+   "itemSeq": "201506796",
+   "name": "로제듀오정10/20밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506796"
+  },
+  {
+   "itemSeq": "201506794",
+   "name": "로제듀오정10/5밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506794"
+  },
+  {
+   "itemSeq": "201506784",
+   "name": "로제티브정10/10밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506784"
+  },
+  {
+   "itemSeq": "201506785",
+   "name": "로제티브정10/20밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506785"
+  },
+  {
+   "itemSeq": "201506783",
+   "name": "로제티브정10/5밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506783"
+  },
+  {
+   "itemSeq": "201506792",
+   "name": "메가로젯정10/10밀리그램",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506792"
+  },
+  {
+   "itemSeq": "201506791",
+   "name": "메가로젯정10/20밀리그램",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506791"
+  },
+  {
+   "itemSeq": "201506793",
+   "name": "메가로젯정10/5밀리그램",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506793"
+  },
+  {
+   "itemSeq": "201506786",
+   "name": "크레젯정10/10밀리그램(에제티미브,로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506786"
+  },
+  {
+   "itemSeq": "201506787",
+   "name": "크레젯정10/20밀리그램(에제티미브,로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506787"
+  },
+  {
+   "itemSeq": "201506800",
+   "name": "크레젯정10/5밀리그램(에제티미브,로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506800"
+  },
+  {
+   "itemSeq": "201506820",
+   "name": "로스텔정40/10밀리그램",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506820"
+  },
+  {
+   "itemSeq": "201506819",
+   "name": "로스텔정40/5밀리그램",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506819"
+  },
+  {
+   "itemSeq": "201506818",
+   "name": "로스텔정80/10밀리그램",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "80.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506818"
+  },
+  {
+   "itemSeq": "201506817",
+   "name": "로스텔정80/5밀리그램",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "텔미사르탄",
+     "amount": "80.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506817"
+  },
+  {
+   "itemSeq": "201506871",
+   "name": "올로스타정10/10밀리그램(올메사르탄메독소밀, 로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506871"
+  },
+  {
+   "itemSeq": "201506872",
+   "name": "올로스타정10/5밀리그램(올메사르탄메독소밀, 로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506872"
+  },
+  {
+   "itemSeq": "201600317",
+   "name": "로수바미브정10/10밀리그램",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600317"
+  },
+  {
+   "itemSeq": "201600318",
+   "name": "로수바미브정10/20밀리그램",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600318"
+  },
+  {
+   "itemSeq": "201600316",
+   "name": "로수바미브정10/5밀리그램",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600316"
+  },
+  {
+   "itemSeq": "201601226",
+   "name": "다비듀오정10/10밀리그램(에제티미브, 로수바스타틴칼슘)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601226"
+  },
+  {
+   "itemSeq": "201601227",
+   "name": "다비듀오정10/20밀리그램(에제티미브, 로수바스타틴칼슘)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601227"
+  },
+  {
+   "itemSeq": "201601225",
+   "name": "다비듀오정10/5밀리그램(에제티미브, 로수바스타틴칼슘)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601225"
+  },
+  {
+   "itemSeq": "201601223",
+   "name": "듀오로반정10/10밀리그램(에제티미브(미분화), 로수바스타틴칼슘)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601223"
+  },
+  {
+   "itemSeq": "201601224",
+   "name": "듀오로반정10/20밀리그램(에제티미브(미분화), 로수바스타틴칼슘)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601224"
+  },
+  {
+   "itemSeq": "201601222",
+   "name": "듀오로반정10/5밀리그램(에제티미브(미분화), 로수바스타틴칼슘)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601222"
+  },
+  {
+   "itemSeq": "201601195",
+   "name": "로바젯정10/10밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601195"
+  },
+  {
+   "itemSeq": "201601197",
+   "name": "로바젯정10/20밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601197"
+  },
+  {
+   "itemSeq": "201601196",
+   "name": "로바젯정10/5밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601196"
+  },
+  {
+   "itemSeq": "201601220",
+   "name": "로스토린정10/10밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601220"
+  },
+  {
+   "itemSeq": "201601221",
+   "name": "로스토린정10/20밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601221"
+  },
+  {
+   "itemSeq": "201601219",
+   "name": "로스토린정10/5밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601219"
+  },
+  {
+   "itemSeq": "201601217",
+   "name": "로젯정10/10밀리그램",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601217"
+  },
+  {
+   "itemSeq": "201601218",
+   "name": "로젯정10/20밀리그램",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601218"
+  },
+  {
+   "itemSeq": "201601216",
+   "name": "로젯정10/5밀리그램",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601216"
+  },
+  {
+   "itemSeq": "201601199",
+   "name": "로티미브정10/10밀리그램",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601199"
+  },
+  {
+   "itemSeq": "201601198",
+   "name": "로티미브정10/20밀리그램",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601198"
+  },
+  {
+   "itemSeq": "201601200",
+   "name": "로티미브정10/5밀리그램",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601200"
+  },
+  {
+   "itemSeq": "201601202",
+   "name": "에슈바정10/10밀리그램(에제티미브, 로수바스타틴)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601202"
+  },
+  {
+   "itemSeq": "201601203",
+   "name": "에슈바정10/20밀리그램(에제티미브, 로수바스타틴)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601203"
+  },
+  {
+   "itemSeq": "201601201",
+   "name": "에슈바정10/5밀리그램(에제티미브, 로수바스타틴)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601201"
+  },
+  {
+   "itemSeq": "201601193",
+   "name": "에제로수정10/10밀리그램",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601193"
+  },
+  {
+   "itemSeq": "201601192",
+   "name": "에제로수정10/20밀리그램",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601192"
+  },
+  {
+   "itemSeq": "201601194",
+   "name": "에제로수정10/5밀리그램",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601194"
+  },
+  {
+   "itemSeq": "201601211",
+   "name": "이지산트정10/10밀리그램(에제티미브, 로수바스타틴)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601211"
+  },
+  {
+   "itemSeq": "201601212",
+   "name": "이지산트정10/20밀리그램(에제티미브, 로수바스타틴)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601212"
+  },
+  {
+   "itemSeq": "201601210",
+   "name": "이지산트정10/5밀리그램(에제티미브, 로수바스타틴)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601210"
+  },
+  {
+   "itemSeq": "201601208",
+   "name": "크레더블정10/10밀리그램(에제티미브, 로수바스타틴칼슘)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601208"
+  },
+  {
+   "itemSeq": "201601209",
+   "name": "크레더블정10/20밀리그램(에제티미브, 로수바스타틴칼슘)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601209"
+  },
+  {
+   "itemSeq": "201601207",
+   "name": "크레더블정10/5밀리그램(에제티미브, 로수바스타틴칼슘)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601207"
+  },
+  {
+   "itemSeq": "201601214",
+   "name": "크레스티브정10/10mg",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601214"
+  },
+  {
+   "itemSeq": "201601215",
+   "name": "크레스티브정10/20mg",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601215"
+  },
+  {
+   "itemSeq": "201601213",
+   "name": "크레스티브정10/5mg",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601213"
+  },
+  {
+   "itemSeq": "201601206",
+   "name": "크레아진플러스정10/20mg",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601206"
+  },
+  {
+   "itemSeq": "201601205",
+   "name": "크레아진플러스정10/10mg",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601205"
+  },
+  {
+   "itemSeq": "201601204",
+   "name": "크레아진플러스정10/5mg",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601204"
+  },
+  {
+   "itemSeq": "201601232",
+   "name": "크레트롤정10/10밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601232"
+  },
+  {
+   "itemSeq": "201601233",
+   "name": "크레트롤정10/20밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601233"
+  },
+  {
+   "itemSeq": "201601231",
+   "name": "크레트롤정10/5밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601231"
+  },
+  {
+   "itemSeq": "201601230",
+   "name": "탑스타틴에프정10/20밀리그램",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601230"
+  },
+  {
+   "itemSeq": "201601229",
+   "name": "탑스타틴에프정10/10밀리그램",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601229"
+  },
+  {
+   "itemSeq": "201601228",
+   "name": "탑스타틴에프정10/5밀리그램",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601228"
+  },
+  {
+   "itemSeq": "201604125",
+   "name": "올로스타정40/10밀리그램(올메사르탄메독소밀, 로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604125"
+  },
+  {
+   "itemSeq": "201605335",
+   "name": "투베로정120/20밀리그램",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피마사르탄칼륨삼수화물과립",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605335"
+  },
+  {
+   "itemSeq": "201605336",
+   "name": "투베로정30/10밀리그램(피마사르탄칼륨,로수바스타틴)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피마사르탄칼륨삼수화물과립",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605336"
+  },
+  {
+   "itemSeq": "201605337",
+   "name": "투베로정30/5밀리그램(피마사르탄칼륨,로수바스타틴)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피마사르탄칼륨삼수화물과립",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605337"
+  },
+  {
+   "itemSeq": "201605333",
+   "name": "투베로정60/10밀리그램(피마사르탄칼륨,로수바스타틴)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피마사르탄칼륨삼수화물과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605333"
+  },
+  {
+   "itemSeq": "201605334",
+   "name": "투베로정60/5밀리그램(피마사르탄칼륨,로수바스타틴)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피마사르탄칼륨삼수화물과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605334"
+  },
+  {
+   "itemSeq": "201606049",
+   "name": "로수탄젯정10/10밀리그램",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606049"
+  },
+  {
+   "itemSeq": "201606051",
+   "name": "로수탄젯정10/20밀리그램",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606051"
+  },
+  {
+   "itemSeq": "201606050",
+   "name": "로수탄젯정10/5밀리그램",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606050"
+  },
+  {
+   "itemSeq": "201606041",
+   "name": "로제로우정10/10밀리그램",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606041"
+  },
+  {
+   "itemSeq": "201606042",
+   "name": "로제로우정10/20밀리그램",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606042"
+  },
+  {
+   "itemSeq": "201606040",
+   "name": "로제로우정10/5밀리그램",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606040"
+  },
+  {
+   "itemSeq": "201606047",
+   "name": "슈바젯정10/10밀리그램(에제티미브, 로수바스타틴)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606047"
+  },
+  {
+   "itemSeq": "201606048",
+   "name": "슈바젯정10/20밀리그램(에제티미브, 로수바스타틴)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606048"
+  },
+  {
+   "itemSeq": "201606046",
+   "name": "슈바젯정10/5밀리그램(에제티미브, 로수바스타틴)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606046"
+  },
+  {
+   "itemSeq": "201606044",
+   "name": "에제로바정10/10밀리그램",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606044"
+  },
+  {
+   "itemSeq": "201606043",
+   "name": "에제로바정10/20밀리그램",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606043"
+  },
+  {
+   "itemSeq": "201606045",
+   "name": "에제로바정10/5밀리그램",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606045"
+  },
+  {
+   "itemSeq": "201606053",
+   "name": "크로우젯정10/10밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606053"
+  },
+  {
+   "itemSeq": "201606052",
+   "name": "크로우젯정10/20밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606052"
+  },
+  {
+   "itemSeq": "201606054",
+   "name": "크로우젯정10/5밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606054"
+  },
+  {
+   "itemSeq": "201700493",
+   "name": "로카브정120/20밀리그램",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피마사르탄칼륨삼수화물과립",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700493"
+  },
+  {
+   "itemSeq": "201700489",
+   "name": "로카브정30/10밀리그램",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피마사르탄칼륨삼수화물과립",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700489"
+  },
+  {
+   "itemSeq": "201700490",
+   "name": "로카브정30/5밀리그램",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피마사르탄칼륨삼수화물과립",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700490"
+  },
+  {
+   "itemSeq": "201700491",
+   "name": "로카브정60/10밀리그램",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피마사르탄칼륨삼수화물과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700491"
+  },
+  {
+   "itemSeq": "201700492",
+   "name": "로카브정60/5밀리그램",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피마사르탄칼륨삼수화물과립",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700492"
+  },
+  {
+   "itemSeq": "201702397",
+   "name": "로칸듀오정 5/8밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702397"
+  },
+  {
+   "itemSeq": "201702399",
+   "name": "로칸듀오정10/16밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702399"
+  },
+  {
+   "itemSeq": "201702400",
+   "name": "로칸듀오정10/8밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702400"
+  },
+  {
+   "itemSeq": "201702398",
+   "name": "로칸듀오정20/32밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "32.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702398"
+  },
+  {
+   "itemSeq": "201702405",
+   "name": "로타칸정 10/16밀리그램",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702405"
+  },
+  {
+   "itemSeq": "201702406",
+   "name": "로타칸정 10/8밀리그램",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702406"
+  },
+  {
+   "itemSeq": "201702408",
+   "name": "로타칸정 20/32밀리그램",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "32.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702408"
+  },
+  {
+   "itemSeq": "201702407",
+   "name": "로타칸정 5/8밀리그램",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702407"
+  },
+  {
+   "itemSeq": "201702401",
+   "name": "콤비로칸정10/16밀리그램",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702401"
+  },
+  {
+   "itemSeq": "201702402",
+   "name": "콤비로칸정10/8밀리그램",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702402"
+  },
+  {
+   "itemSeq": "201702404",
+   "name": "콤비로칸정20/32밀리그램",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "32.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702404"
+  },
+  {
+   "itemSeq": "201702403",
+   "name": "콤비로칸정5/8밀리그램",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702403"
+  },
+  {
+   "itemSeq": "201702409",
+   "name": "투게논정10/16밀리그램",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702409"
+  },
+  {
+   "itemSeq": "201702410",
+   "name": "투게논정10/8밀리그램",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702410"
+  },
+  {
+   "itemSeq": "201702412",
+   "name": "투게논정20/32밀리그램",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "32.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702412"
+  },
+  {
+   "itemSeq": "201702411",
+   "name": "투게논정5/8밀리그램",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702411"
+  },
+  {
+   "itemSeq": "201705684",
+   "name": "아모잘탄큐정5/100/10밀리그램(암로디핀,로사르탄,로수바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705684"
+  },
+  {
+   "itemSeq": "201705686",
+   "name": "아모잘탄큐정5/100/20밀리그램(암로디핀,로사르탄,로수바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705686"
+  },
+  {
+   "itemSeq": "201705687",
+   "name": "아모잘탄큐정5/100/5밀리그램(암로디핀,로사르탄,로수바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705687"
+  },
+  {
+   "itemSeq": "201705685",
+   "name": "아모잘탄큐정5/50/10밀리그램(암로디핀,로사르탄,로수바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705685"
+  },
+  {
+   "itemSeq": "201705689",
+   "name": "아모잘탄큐정5/50/20밀리그램(암로디핀,로사르탄,로수바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705689"
+  },
+  {
+   "itemSeq": "201705688",
+   "name": "아모잘탄큐정5/50/5밀리그램(암로디핀,로사르탄,로수바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705688"
+  },
+  {
+   "itemSeq": "201706394",
+   "name": "로수메가연질캡슐",
+   "company": "건일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메가3산에틸에스테르90",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706394"
+  },
+  {
+   "itemSeq": "201706395",
+   "name": "제미로우정50/10밀리그램",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "제미글립틴타르타르산염1.5수화물",
+     "amount": "68.9",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706395"
+  },
+  {
+   "itemSeq": "201706397",
+   "name": "제미로우정50/20밀리그램",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "제미글립틴타르타르산염1.5수화물",
+     "amount": "68.9",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706397"
+  },
+  {
+   "itemSeq": "201706396",
+   "name": "제미로우정50/5밀리그램",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "제미글립틴타르타르산염1.5수화물",
+     "amount": "68.9",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706396"
+  },
+  {
+   "itemSeq": "201708317",
+   "name": "드롭탑정10/10밀리그램",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708317"
+  },
+  {
+   "itemSeq": "201708316",
+   "name": "드롭탑정10/20밀리그램",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708316"
+  },
+  {
+   "itemSeq": "201708318",
+   "name": "드롭탑정10/5밀리그램",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708318"
+  },
+  {
+   "itemSeq": "201708320",
+   "name": "립스타플러스정10/10밀리그램(에제티미브, 로수바스타틴칼슘)",
+   "company": "한국애보트(유)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708320"
+  },
+  {
+   "itemSeq": "201708321",
+   "name": "립스타플러스정10/5밀리그램(에제티미브, 로수바스타틴칼슘)",
+   "company": "한국애보트(유)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708321"
+  },
+  {
+   "itemSeq": "201708319",
+   "name": "립스타플러스정10/20밀리그램(에제티미브, 로수바스타틴칼슘)",
+   "company": "한국애보트(유)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708319"
+  }
+ ]
+}

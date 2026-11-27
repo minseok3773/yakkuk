@@ -1,0 +1,213 @@
+{
+ "id": "ketorolac",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "ketorolac"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "aceclofenac",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "aspirin",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "aspirin(enteric coated) (as aspirin)",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "celecoxib",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "dexibuprofen",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "dexketoprofen trometamol (as dexketoprofen)",
+   "reason": "상가적인 위장관 궤양, 출혈의 위험",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "diclofenac sodium",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "diclofenac-β-dimethyl-aminoethanol",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "etodolac",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "ibuprofen",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "ketoprofen",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "loxoprofen sodium hydrate (as loxoprofen sodium)",
+   "reason": "상가적인 위장관 궤양, 출혈의 위험",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "meloxicam",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "nabumetone",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "naproxen",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "naproxen sodium",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "nimesulide",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "pentoxifylline",
+   "reason": "출혈 및 프로트롬빈시간 연장",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "piroxicam",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "piroxicam β-cyclodextrin (as piroxicam)",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "zaltoprofen",
+   "reason": "상가적인 위장관 궤양, 출혈의 위험",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "aspirin lysine",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "clonixin lysinate",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "dexibuprofen d.c.",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "flurbiprofen",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "ibuprofen arginine",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "ibuprofen arginine (as ibuprofen)",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "ibuprofen lysine (as ibuprofen)",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "indomethacin",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "loxoprofen hydrochloride",
+   "reason": "상가적인 위장관 궤양, 출혈의 위험",
+   "self": "ketorolac tromethamine"
+  },
+  {
+   "ingredient": "piroxicam potassium (as piroxicam)",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ketorolac tromethamine"
+  }
+ ],
+ "age": [
+  {
+   "text": "16세 이하: 안전성 및 유효성 미확립",
+   "ingredient": "ketorolac tromethamine"
+  },
+  {
+   "text": "2세 미만: 안전성 및 유효성 미확립",
+   "ingredient": "ketorolac tromethamine"
+  }
+ ],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립.임신 말기에 투여시 태아의 동맥관조기폐쇄 가능성.동물실험에서 난산발생빈도 증가, 분만지연, 태아 생존율 감소 보고.",
+   "ingredient": "ketorolac"
+  }
+ ],
+ "elderly": [
+  {
+   "reason": "",
+   "ingredient": "ketorolac tromethamine"
+  }
+ ],
+ "dose": [
+  {
+   "text": "1일 최대투여량: 케토롤락트로메타민염 90mg"
+  },
+  {
+   "text": "1일 최대투여량: 케토롤락트로메타민염 40mg"
+  }
+ ],
+ "duration": [
+  {
+   "text": "최대투여기간: 2일"
+  },
+  {
+   "text": "최대투여기간: 7일"
+  }
+ ],
+ "class_duplication": [
+  {
+   "group": "해열진통소염제",
+   "subgroup": "Group 1",
+   "code": "114A0023"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

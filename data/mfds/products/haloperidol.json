@@ -1,0 +1,210 @@
+{
+ "id": "haloperidol",
+ "query": [
+  "할로페리돌"
+ ],
+ "fetched": "2026-11-26",
+ "total": 13,
+ "kept": 13,
+ "mfdsName": [
+  "할로페리돌",
+  "할로페리돌데카노에이트"
+ ],
+ "items": [
+  {
+   "itemSeq": "198100257",
+   "name": "페리돌정1.5밀리그램(할로페리돌)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "할로페리돌",
+     "amount": "1.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1981-06-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198100257"
+  },
+  {
+   "itemSeq": "198200323",
+   "name": "페리돌정5밀리그램(할로페리돌)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "할로페리돌",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1982-09-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198200323"
+  },
+  {
+   "itemSeq": "198301325",
+   "name": "페리돌주(할로페리돌)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "할로페리돌",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1983-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198301325"
+  },
+  {
+   "itemSeq": "198400475",
+   "name": "페리돌정10밀리그램(할로페리돌)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "할로페리돌",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1984-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198400475"
+  },
+  {
+   "itemSeq": "198500618",
+   "name": "명인할로페리돌정1.5밀리그램",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "할로페리돌",
+     "amount": "1.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500618"
+  },
+  {
+   "itemSeq": "198500617",
+   "name": "명인할로페리돌정10밀리그램(수출명:로펠-엠정(할로페리돌))",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "할로페리돌",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500617"
+  },
+  {
+   "itemSeq": "198500625",
+   "name": "명인할로페리돌정3밀리그램",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "할로페리돌",
+     "amount": "3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500625"
+  },
+  {
+   "itemSeq": "198500632",
+   "name": "명인할로페리돌정5밀리그램",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "할로페리돌",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500632"
+  },
+  {
+   "itemSeq": "198500715",
+   "name": "페리돌정3밀리그램(할로페리돌)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "할로페리돌",
+     "amount": "3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500715"
+  },
+  {
+   "itemSeq": "198700673",
+   "name": "명인할로페리돌주사",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "할로페리돌",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1987-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700673"
+  },
+  {
+   "itemSeq": "198900927",
+   "name": "명인할로페리돌정20밀리그램",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "할로페리돌",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900927"
+  },
+  {
+   "itemSeq": "198902844",
+   "name": "페리돌정20밀리그램(할로페리돌)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "할로페리돌",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198902844"
+  },
+  {
+   "itemSeq": "199304188",
+   "name": "할돌데카노아스주사(할로페리돌데카노에이트)",
+   "company": "클리니젠코리아(유)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "할로페리돌데카노에이트",
+     "amount": "70.52",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1993-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199304188"
+  }
+ ]
+}

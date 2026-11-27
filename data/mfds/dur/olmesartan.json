@@ -1,0 +1,103 @@
+{
+ "id": "olmesartan",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "olmesartan"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "cyclosporine",
+   "reason": "근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+   "self": "amlodipine besylate (as amlodipine)+olmesartan medoxomil+rosuvastatin calcium (as rosuvastatin)"
+  },
+  {
+   "ingredient": "ledipasvir+sofosbuvir",
+   "reason": "횡문근융해증을 포함한 근육병증 위험 증가 가능",
+   "self": "amlodipine besylate (as amlodipine)+olmesartan medoxomil+rosuvastatin calcium (as rosuvastatin)"
+  },
+  {
+   "ingredient": "microemulsion cyclosporine",
+   "reason": "근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+   "self": "amlodipine besylate (as amlodipine)+olmesartan medoxomil+rosuvastatin calcium (as rosuvastatin)"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임신 제2 및 3기에 ACE 저해제 복용시 저혈압, 신생아 두개골발육부전, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐발육부진과 관련) 및 사망 보고.",
+   "ingredient": "olmesartan"
+  },
+  {
+   "grade": "2",
+   "reason": "amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남./olmesartan: 임신 제2 및 3기에 ACE 저해제 복용시 저혈압, 신생아 두개골발육부전, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐발육부진과 관련) 및 사망 보고.",
+   "ingredient": "amlodipine+olmesartan"
+  },
+  {
+   "grade": "2",
+   "reason": "olmesartan: 임신 제2 및 3기에 ACE 저해제 복용시 저혈압, 신생아 두개골발육부전, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐발육부진과 관련) 및 사망 보고.",
+   "ingredient": "olmesartan+hydrochlorothiazide"
+  },
+  {
+   "grade": "1",
+   "reason": "olmesartan: 임신 제2 및 3기에 ACE 저해제 복용시 저혈압, 신생아 두개골발육부전, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐발육부진과 관련) 및 사망 보고. rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "olmesartan medoxomil, rosuvastatin calcium (as rosuvastatin)"
+  },
+  {
+   "grade": "2",
+   "reason": "S-amlodipine: 인체에 대한 최대권장용량의 50배에 해당하는 용량의 이 약을 투여한 랫트에서 분만지연 및 연장 나타남. 동물실험 중 고용량에서 생식독성 나타남./ Olmesartan: 임신 제2 및 3기에 ACE 저해제 복용시 저혈압, 신생아 두개골발육부전, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐발육부진과 관련) 및 사망 보고.",
+   "ingredient": "s-amlodipine nicotinate(as s-amlodipine), olmesartan medoxomil"
+  },
+  {
+   "grade": "2",
+   "reason": "amlodipine: 임부에 대한 안전성 미확립.olmesartan: 임신 제2 및 3기에 ACE 저해제 복용시 저혈압, 신생아 두개골발육부전, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐발육부진과 관련) 및 사망 보고.",
+   "ingredient": "olmesartan medoxomil + amlodipine besylate"
+  },
+  {
+   "grade": "1",
+   "reason": "amlodipine:임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. olmesartan:임신 제2 및 3기에 ACE 저해제 복용시 저혈압, 신생아 두개골발육부전, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐발육부진과 관련) 및 사망 보고. Rosuvastatin:태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "amlodipine+olmesartan+rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. olmesartan:임신 제2 및 3기에 ACE 저해제 복용시 저혈압, 신생아 두개골발육부전, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐발육부진과 관련) 및 사망 보고. Rosuvastatin:태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "amlodipine+olmesartan+rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "(amlodipine)임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. (olmesartan) 임신 제2 및 3기에 ACE 저해제 복용시 저혈압, 신생아 두개골발육부전, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐발육부진과 관련) 및 사망 보고. (rosuvastatin) 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "amlodipine + olmesartan + rosuvastatin"
+  },
+  {
+   "grade": "2",
+   "reason": "S-Amlodipine: 인체에 대한 최대권장용량의 50배에 해당하는 용량의 이 약을 투여한 랫트에서 분만지연 및 연장 나타남. 동물실험 중 고용량에서 생식독성 나타남. / olmesartan: 임신 제2 및 3기에 ACE 저해제 복용시 저혈압, 신생아 두개골발육부전, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐발육부진과 관련) 및 사망 보고.",
+   "ingredient": "S-amlodipine + olmesartan"
+  }
+ ],
+ "elderly": [],
+ "dose": [
+  {
+   "text": "1일 최대투여량: 올메사르탄메독소밀 40mg"
+  },
+  {
+   "text": "1일 최대투여량: 암로디핀 10mg/올메사르탄메독소밀 40mg"
+  },
+  {
+   "text": "1일 최대투여량: 암로디핀 10mg/올메사르탄메독소밀 40mg/히드로클로로티아지드 25mg"
+  },
+  {
+   "text": "1일 최대투여량: 올메사르탄메독소밀 40mg/로수바스타틴 20mg"
+  }
+ ],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "혈압강하작용의약품",
+   "subgroup": "Group 10",
+   "code": "214I0024"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

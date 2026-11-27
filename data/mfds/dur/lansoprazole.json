@@ -1,0 +1,50 @@
+{
+ "id": "lansoprazole",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "lansoprazole"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "calcium carbonate(precipitated)+lansoprazole"
+  },
+  {
+   "ingredient": "rilpivirine hydrochloride (as rilpivirine)",
+   "reason": "위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소",
+   "self": "lansoprazole"
+  },
+  {
+   "ingredient": "neratinib maleate (as neratinib)",
+   "reason": "위산 억제제와의 병용으로 Neratinib의 혈중 농도 감소",
+   "self": "calcium carbonate(precipitated)+lansoprazole"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립. 토끼(경구 30 mg/kg)에서 태자사망율의 증가가 인정됨. 임신 랫트를 대상으로 모체에 이 약을 투여한 태아에서 골성장 지연이 보고됨.",
+   "ingredient": "lansoprazole"
+  },
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립 토끼(경구 30 mg/kg)에서 태자사망율의 증가가 인정됨. 임신 랫트를 대상으로 모체에 이 약을 투약한 태아에서 골성장 지연이 보고됨",
+   "ingredient": "lansoprazole"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "소화성궤양용제",
+   "subgroup": "Group 2",
+   "code": "232B0002"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

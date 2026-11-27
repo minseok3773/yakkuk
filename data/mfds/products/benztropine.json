@@ -1,0 +1,75 @@
+{
+ "id": "benztropine",
+ "query": [
+  "벤즈트로핀",
+  "벤즈트로핀메실산염"
+ ],
+ "fetched": "2026-11-26",
+ "total": 4,
+ "kept": 4,
+ "mfdsName": [
+  "벤즈트로핀메실산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "197100097",
+   "name": "환인벤즈트로핀정(벤즈트로핀메실산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤즈트로핀메실산염",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1971-02-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197100097"
+  },
+  {
+   "itemSeq": "198500629",
+   "name": "명인벤즈트로핀메실산염정2밀리그램",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤즈트로핀메실산염",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500629"
+  },
+  {
+   "itemSeq": "198600614",
+   "name": "명인벤즈트로핀메실산염정1밀리그램",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤즈트로핀메실산염",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1986-02-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198600614"
+  },
+  {
+   "itemSeq": "198700736",
+   "name": "환인벤즈트로핀정1밀리그램(벤즈트로핀메실산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤즈트로핀메실산염",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1987-04-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700736"
+  }
+ ]
+}

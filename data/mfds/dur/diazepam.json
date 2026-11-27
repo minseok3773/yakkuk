@@ -1,0 +1,47 @@
+{
+ "id": "diazepam",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "diazepam"
+ ],
+ "contraindicated_with": [],
+ "age": [
+  {
+   "text": "6개월 이하: 안전성 유효성 미확립",
+   "ingredient": "diazepam"
+  },
+  {
+   "text": "4주 미만: (벤질알코올 함유 제품에 한함) 벤질알코올은 조숙아에서 치명적인 가쁜 호흡증상과 연관이 있는 것으로 보고됨",
+   "ingredient": "diazepam"
+  }
+ ],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "최기형성 사례(대조군에 비해 높음) 및 신생아 포유곤란, 근긴장저하, 졸음, 황달 증가 보고.분만전 연용시 신생아 금단증상(신경과민, 진전, 과다긴장 등) 보고.분만 중 정맥 주입시 sleeping baby 보고.임신중 지속적 복용시 신생아 저혈압, 호흡기능저하, 체온저하 가능성.",
+   "ingredient": "diazepam"
+  }
+ ],
+ "elderly": [
+  {
+   "reason": "",
+   "ingredient": "diazepam"
+  }
+ ],
+ "dose": [],
+ "duration": [
+  {
+   "text": "최대투여기간: 92일"
+  }
+ ],
+ "class_duplication": [
+  {
+   "group": "정신신경용제",
+   "subgroup": "Group 10",
+   "code": "117J0001"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

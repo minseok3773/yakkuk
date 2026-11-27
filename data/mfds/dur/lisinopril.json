@@ -1,0 +1,29 @@
+{
+ "id": "lisinopril",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "lisinopril"
+ ],
+ "contraindicated_with": [],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임신 제2 및 3기에 ACE 저해제 투여시 태아 및 신생아에 저혈압, 고칼륨혈증, 신생아 두골형성부전, 양수과소증(태아사지경축, 두개안면변형, 폐발육형성부전과 관련), 무뇨, 신부전 및 사망 가능성.임신 제1기에 임부에 대한 안전성 미확립.",
+   "ingredient": "lisinopril"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "혈압강하작용의약품",
+   "subgroup": "Group 9",
+   "code": "214I0003"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

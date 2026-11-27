@@ -1,0 +1,819 @@
+{
+ "id": "irbesartan",
+ "query": [
+  "이르베사르탄"
+ ],
+ "fetched": "2026-11-26",
+ "total": 45,
+ "kept": 45,
+ "mfdsName": [
+  "이르베사르탄"
+ ],
+ "items": [
+  {
+   "itemSeq": "200701725",
+   "name": "아프로벨정150밀리그램(이르베사르탄)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701725"
+  },
+  {
+   "itemSeq": "200701738",
+   "name": "아프로벨정300밀리그램(이르베사르탄)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701738"
+  },
+  {
+   "itemSeq": "200703851",
+   "name": "이르벨정(이르베사르탄)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703851"
+  },
+  {
+   "itemSeq": "200703852",
+   "name": "이베스딜정150밀리그램(이르베사르탄)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703852"
+  },
+  {
+   "itemSeq": "200800296",
+   "name": "이베로정150밀리그램(이르베사르탄)",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200800296"
+  },
+  {
+   "itemSeq": "200800336",
+   "name": "이베르탄정(이르베사르탄)",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200800336"
+  },
+  {
+   "itemSeq": "200800339",
+   "name": "이베텔정(이르베사르탄)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200800339"
+  },
+  {
+   "itemSeq": "200800338",
+   "name": "이베프로정150밀리그램(이르베사르탄)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200800338"
+  },
+  {
+   "itemSeq": "200808562",
+   "name": "이노엔아벨탄정150밀리그램(이르베사르탄)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808562"
+  },
+  {
+   "itemSeq": "200907798",
+   "name": "아이살탄정150mg(이르베사르탄)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200907798"
+  },
+  {
+   "itemSeq": "201101761",
+   "name": "이노엔아벨탄정300밀리그램(이르베사르탄)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101761"
+  },
+  {
+   "itemSeq": "201101755",
+   "name": "이잘탄정150밀리그램(이르베사르탄)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101755"
+  },
+  {
+   "itemSeq": "201101756",
+   "name": "이잘탄정300밀리그램(이르베사르탄)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101756"
+  },
+  {
+   "itemSeq": "201102328",
+   "name": "이베라정150밀리그램(이르베사르탄)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-04-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201102328"
+  },
+  {
+   "itemSeq": "201102329",
+   "name": "이베라정300밀리그램(이르베사르탄)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-04-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201102329"
+  },
+  {
+   "itemSeq": "201400014",
+   "name": "이벨탄정150mg(이르베사르탄)(수출용)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400014"
+  },
+  {
+   "itemSeq": "201400013",
+   "name": "이벨탄정300mg(이르베사르탄)(수출용)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400013"
+  },
+  {
+   "itemSeq": "201404443",
+   "name": "아이살탄정300mg(이르베사르탄)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404443"
+  },
+  {
+   "itemSeq": "201707330",
+   "name": "셀프로벨정150밀리그램(이르베사르탄)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707330"
+  },
+  {
+   "itemSeq": "200702137",
+   "name": "코아프로벨정150/12.5밀리그램",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702137"
+  },
+  {
+   "itemSeq": "200702136",
+   "name": "코아프로벨정300/12.5밀리그램",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702136"
+  },
+  {
+   "itemSeq": "200705219",
+   "name": "이베프정150/12.5밀리그램",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705219"
+  },
+  {
+   "itemSeq": "200805148",
+   "name": "아이살탄플러스정150/12.5밀리그램",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805148"
+  },
+  {
+   "itemSeq": "200805178",
+   "name": "아이살탄플러스정300/12.5밀리그램",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805178"
+  },
+  {
+   "itemSeq": "200805819",
+   "name": "코이베스딜정150/12.5밀리그램",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805819"
+  },
+  {
+   "itemSeq": "200807418",
+   "name": "코이베스딜정300/12.5밀리그램",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807418"
+  },
+  {
+   "itemSeq": "200807710",
+   "name": "이베르탄듀오정150/12.5mg",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807710"
+  },
+  {
+   "itemSeq": "200808749",
+   "name": "이베프정300/12.5밀리그램",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808749"
+  },
+  {
+   "itemSeq": "200809587",
+   "name": "이잘탄플러스정150/12.5밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809587"
+  },
+  {
+   "itemSeq": "200809588",
+   "name": "이잘탄플러스정300/12.5밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809588"
+  },
+  {
+   "itemSeq": "201005699",
+   "name": "이노엔아벨탄플러스정150/12.5밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-09-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201005699"
+  },
+  {
+   "itemSeq": "201005771",
+   "name": "이노엔아벨탄플러스정300/12.5밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201005771"
+  },
+  {
+   "itemSeq": "201101753",
+   "name": "이베라플러스정150/12.5밀리그램",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101753"
+  },
+  {
+   "itemSeq": "201205244",
+   "name": "이벨탄플러스정150/12.5밀리그램",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205244"
+  },
+  {
+   "itemSeq": "201205245",
+   "name": "이벨탄플러스정300/12.5밀리그램",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205245"
+  },
+  {
+   "itemSeq": "201307384",
+   "name": "아티라타정300/12.5밀리그램(수출용)",
+   "company": "대한약품공업(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307384"
+  },
+  {
+   "itemSeq": "201309481",
+   "name": "로벨리토정150/10밀리그램(이르베사르탄,아토르바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이르베사르탄",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309481"
+  },
+  {
+   "itemSeq": "201309480",
+   "name": "로벨리토정150/20밀리그램(이르베사르탄,아토르바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이르베사르탄",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309480"
+  },
+  {
+   "itemSeq": "201401984",
+   "name": "로벨리토정300/10밀리그램(이르베사르탄,아토르바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이르베사르탄",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401984"
+  },
+  {
+   "itemSeq": "201401985",
+   "name": "로벨리토정300/20밀리그램(이르베사르탄,아토르바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토르바스타틴칼슘삼수화물",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이르베사르탄",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401985"
+  },
+  {
+   "itemSeq": "201707500",
+   "name": "셀프로벨플러스정150/12.5밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707500"
+  },
+  {
+   "itemSeq": "201707499",
+   "name": "셀프로벨플러스정300/12.5밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707499"
+  },
+  {
+   "itemSeq": "202303234",
+   "name": "아프로바스크정150/10밀리그램(이르베사르탄,암로디핀베실산염)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "14.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303234"
+  },
+  {
+   "itemSeq": "202303233",
+   "name": "아프로바스크정150/5밀리그램(이르베사르탄,암로디핀베실산염)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "7.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303233"
+  },
+  {
+   "itemSeq": "202303235",
+   "name": "아프로바스크정300/5밀리그램(이르베사르탄,암로디핀베실산염)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이르베사르탄",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "7.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303235"
+  }
+ ]
+}

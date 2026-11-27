@@ -1,0 +1,60 @@
+{
+ "id": "spironolactone",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "spironolactone"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "lithium carbonate",
+   "reason": "이뇨제는 Lithium의 신청소율을 감소시켜 Lithium 독성의 위험성 증가",
+   "self": "spironolactone"
+  },
+  {
+   "ingredient": "amiloride hydrochloride",
+   "reason": "고칼륨혈증 위험 증가",
+   "self": "spironolactone"
+  },
+  {
+   "ingredient": "potassium chloride",
+   "reason": "고칼륨혈증",
+   "self": "spironolactone"
+  },
+  {
+   "ingredient": "tacrolimus hydrate (as tacrolimus)",
+   "reason": "고칼륨혈증",
+   "self": "spironolactone"
+  },
+  {
+   "ingredient": "mitotane",
+   "reason": "Spironolactone은 Mitotane 혈장농도 저하 가능",
+   "self": "hydrochlorothiazide+spironolactone"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "동물실험에서 기형발생 가능성 보고.",
+   "ingredient": "spironolactone"
+  },
+  {
+   "grade": "2",
+   "reason": "spironolactone: 동물실험에서 기형발생 가능성 보고.",
+   "ingredient": "spironolactone, hydrochlorothiazide"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "혈압강하작용의약품",
+   "subgroup": "Group 2",
+   "code": "214B0002"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

@@ -1,0 +1,160 @@
+{
+ "id": "simvastatin",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "simvastatin"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)",
+   "reason": "횡문근융해를 포함한 근육병증 위험 가능",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)",
+   "reason": "횡문근 융해를 포함한 근육병과 같은 중대한 반응 가능",
+   "self": "simvastatin"
+  },
+  {
+   "ingredient": "clarithromycin",
+   "reason": "근육병증의 위험 증가 가능",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "clarithromycin",
+   "reason": "근병증, 횡문근융해의 위험증가",
+   "self": "simvastatin"
+  },
+  {
+   "ingredient": "cobicistat silicon dioxide (as cobicistat )+darunavir ethanolate (as darunavir)",
+   "reason": "근병증의 위험 증가 가능",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "cobicistat silicon dioxide (as cobicistat )+darunavir ethanolate (as darunavir)",
+   "reason": "근육병증과 같은 이상사례 초래 가능",
+   "self": "simvastatin"
+  },
+  {
+   "ingredient": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)",
+   "reason": "횡문근융해를 포함한 근육병증 위험 가능",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "cyclosporine",
+   "reason": "근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "cyclosporine",
+   "reason": "혈중농도 상승 및 근육병증/횡문근융해증 위험성 증가",
+   "self": "simvastatin"
+  },
+  {
+   "ingredient": "darunavir ethanolate (as darunavir)",
+   "reason": "근증/횡문근변성의 위험성이 증가",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "darunavir ethanolate (as darunavir)",
+   "reason": "근병증/횡문근융해",
+   "self": "simvastatin"
+  },
+  {
+   "ingredient": "nirmatrelvir+ritonavir",
+   "reason": "횡문근융해증을 포함하는 근육병증의 잠재적인 가능성. 이 약의 투여 시작으로부터 최소 12시간 전, 투여 중 5일동안 및 투여완료 후 5일동안 심바스타틴의 사용을 중단할 것",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "glecaprevir+pibrentasvir",
+   "reason": "근병증의 위험 증가 가능",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "itraconazole",
+   "reason": "근육병증, 횡문근융해증의 위험성 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "microemulsion cyclosporine",
+   "reason": "근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "microemulsion cyclosporine",
+   "reason": "혈중농도 상승 및 근육병증/횡문근융해증 위험성 증가",
+   "self": "simvastatin"
+  },
+  {
+   "ingredient": "posaconazole(micronized)",
+   "reason": "근육병증의 위험 증가 가능",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "ritonavir",
+   "reason": "근육병증의 위험 증가 가능",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "ritonavir",
+   "reason": "횡문근융해증을 비롯한 근육질환 등 중증 이상반응",
+   "self": "simvastatin"
+  },
+  {
+   "ingredient": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)",
+   "reason": "Simvastatin 혈중농도 증가, 횡문근융해를 비롯한 근육병증",
+   "self": "simvastatin"
+  },
+  {
+   "ingredient": "glecaprevir+pibrentasvir",
+   "reason": "횡문근융해증을 비롯한 근육질환 등 중증 이상반응",
+   "self": "simvastatin"
+  },
+  {
+   "ingredient": "itraconazole",
+   "reason": "근육병증, 횡문근융해증, 간효소이상 같은 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "simvastatin"
+  },
+  {
+   "ingredient": "nirmatrelvir+ritonavir",
+   "reason": "횡문근융해증을 포함하는 근육병증의 잠재적인 가능성. 이 약의 투여 시작으로부터 최소 12시간 전, 투여 중 5일동안 및 투여완료 후 5일동안 Simvastatin 사용을 중단할 것",
+   "self": "simvastatin"
+  },
+  {
+   "ingredient": "posaconazole(micronized)",
+   "reason": "근병증 및 횡문근융해",
+   "self": "simvastatin"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "1",
+   "reason": "태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성.",
+   "ingredient": "simvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "simvastatin: 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성.",
+   "ingredient": "simvastatin+ezetimib"
+  },
+  {
+   "grade": "1",
+   "reason": "fenofibrate: 임신 3개월 이후 투여시 태아에 축적되어 태아독성 유발 가능성.simvastatin: 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성.",
+   "ingredient": "fenofibrate, simvastatin"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "지질저하제",
+   "subgroup": "Group 1",
+   "code": "218A0001"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

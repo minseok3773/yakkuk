@@ -1,0 +1,44 @@
+{
+ "id": "trihexyphenidyl",
+ "query": [
+  "트리헥시페니딜"
+ ],
+ "fetched": "2026-11-26",
+ "total": 2,
+ "kept": 2,
+ "mfdsName": [
+  "트리헥시페니딜염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "199301084",
+   "name": "트리헥신정(트리헥시페니딜염산염)",
+   "company": "태극제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트리헥시페니딜염산염",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1993-10-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199301084"
+  },
+  {
+   "itemSeq": "202501896",
+   "name": "파킨정(트리헥시페니딜염산염)(수출용)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트리헥시페니딜염산염",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501896"
+  }
+ ]
+}

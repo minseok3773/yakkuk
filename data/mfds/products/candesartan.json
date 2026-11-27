@@ -1,0 +1,2809 @@
+{
+ "id": "candesartan",
+ "query": [
+  "칸데사르탄"
+ ],
+ "fetched": "2026-11-26",
+ "total": 151,
+ "kept": 151,
+ "mfdsName": [
+  "칸데사르탄실렉세틸"
+ ],
+ "items": [
+  {
+   "itemSeq": "199800723",
+   "name": "아타칸정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-07-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199800723"
+  },
+  {
+   "itemSeq": "199800725",
+   "name": "아타칸정8밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-07-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199800725"
+  },
+  {
+   "itemSeq": "200511255",
+   "name": "아타칸정32밀리그램(칸데사르탄실렉세틸)",
+   "company": "디케이에스에이치코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "32.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511255"
+  },
+  {
+   "itemSeq": "200807205",
+   "name": "칸데모어정8밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807205"
+  },
+  {
+   "itemSeq": "200903974",
+   "name": "칸데모어정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-06-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903974"
+  },
+  {
+   "itemSeq": "200905218",
+   "name": "아나탄정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905218"
+  },
+  {
+   "itemSeq": "200907796",
+   "name": "칸데산정16mg(칸데사르탄실렉세틸)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200907796"
+  },
+  {
+   "itemSeq": "200907782",
+   "name": "칸세틸정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200907782"
+  },
+  {
+   "itemSeq": "200908348",
+   "name": "칸데산정8mg(칸데사르탄실렉세틸)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200908348"
+  },
+  {
+   "itemSeq": "200908349",
+   "name": "칸세틸정8밀리그램(칸데사르탄실렉세틸)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200908349"
+  },
+  {
+   "itemSeq": "200908367",
+   "name": "고려칸데사르탄정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200908367"
+  },
+  {
+   "itemSeq": "200909377",
+   "name": "칸델탄정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200909377"
+  },
+  {
+   "itemSeq": "201005235",
+   "name": "아나탄정8밀리그램(칸데사르탄실렉세틸)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201005235"
+  },
+  {
+   "itemSeq": "201007652",
+   "name": "칸사타정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-12-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007652"
+  },
+  {
+   "itemSeq": "201007750",
+   "name": "칸데모어정32밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "32.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007750"
+  },
+  {
+   "itemSeq": "201100216",
+   "name": "칸살탄정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-01-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100216"
+  },
+  {
+   "itemSeq": "201100215",
+   "name": "칸살탄정8밀리그램(칸데사르탄실렉세틸)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-01-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100215"
+  },
+  {
+   "itemSeq": "201100298",
+   "name": "칸데로탄정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-01-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100298"
+  },
+  {
+   "itemSeq": "201100299",
+   "name": "칸데로탄정8밀리그램(칸데사르탄실렉세틸)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-01-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100299"
+  },
+  {
+   "itemSeq": "201101018",
+   "name": "칸사타정8밀리그램(칸데사르탄실렉세틸)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101018"
+  },
+  {
+   "itemSeq": "201101757",
+   "name": "데잘탄정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101757"
+  },
+  {
+   "itemSeq": "201101758",
+   "name": "데잘탄정8밀리그램(칸데사르탄실렉세틸)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101758"
+  },
+  {
+   "itemSeq": "201207587",
+   "name": "글로아타정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207587"
+  },
+  {
+   "itemSeq": "201401129",
+   "name": "칸데타정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401129"
+  },
+  {
+   "itemSeq": "201403335",
+   "name": "하이살탄정8mg(칸데사르탄실렉세틸)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403335"
+  },
+  {
+   "itemSeq": "201403519",
+   "name": "칸데라정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403519"
+  },
+  {
+   "itemSeq": "201403518",
+   "name": "칸데라정8밀리그램(칸데사르탄실렉세틸)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403518"
+  },
+  {
+   "itemSeq": "201500209",
+   "name": "네오칸데정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500209"
+  },
+  {
+   "itemSeq": "201500208",
+   "name": "네오칸데정8밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500208"
+  },
+  {
+   "itemSeq": "201506686",
+   "name": "칸타칸정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506686"
+  },
+  {
+   "itemSeq": "201506685",
+   "name": "칸타칸정8밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506685"
+  },
+  {
+   "itemSeq": "201704762",
+   "name": "아칸데정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704762"
+  },
+  {
+   "itemSeq": "201704761",
+   "name": "아칸데정8밀리그램(칸데사르탄실렉세틸)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704761"
+  },
+  {
+   "itemSeq": "201706149",
+   "name": "휴테칸정16mg(칸데사르탄실렉세틸)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706149"
+  },
+  {
+   "itemSeq": "201706148",
+   "name": "휴테칸정8mg(칸데사르탄실렉세틸)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706148"
+  },
+  {
+   "itemSeq": "201706680",
+   "name": "하이살탄정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706680"
+  },
+  {
+   "itemSeq": "201903457",
+   "name": "칸데큐어정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903457"
+  },
+  {
+   "itemSeq": "201903456",
+   "name": "칸데큐어정8밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903456"
+  },
+  {
+   "itemSeq": "201904230",
+   "name": "데카르탄정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904230"
+  },
+  {
+   "itemSeq": "201904229",
+   "name": "데카르탄정8밀리그램(칸데사르탄실렉세틸)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904229"
+  },
+  {
+   "itemSeq": "201905791",
+   "name": "칸데르탄정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905791"
+  },
+  {
+   "itemSeq": "201905790",
+   "name": "칸데르탄정8밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905790"
+  },
+  {
+   "itemSeq": "201906420",
+   "name": "칸데칸정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906420"
+  },
+  {
+   "itemSeq": "201906419",
+   "name": "칸데칸정8밀리그램(칸데사르탄실렉세틸)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906419"
+  },
+  {
+   "itemSeq": "201907938",
+   "name": "칸데탄정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907938"
+  },
+  {
+   "itemSeq": "201907939",
+   "name": "칸데탄정8밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907939"
+  },
+  {
+   "itemSeq": "202001795",
+   "name": "칸데살탄정16밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001795"
+  },
+  {
+   "itemSeq": "202001794",
+   "name": "칸데살탄정8밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001794"
+  },
+  {
+   "itemSeq": "202403022",
+   "name": "네오칸데정32밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "32.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403022"
+  },
+  {
+   "itemSeq": "202500590",
+   "name": "네오칸데정4밀리그램(칸데사르탄실렉세틸)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500590"
+  },
+  {
+   "itemSeq": "200109104",
+   "name": "아타칸플러스정16/12.5mg",
+   "company": "디케이에스에이치코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-10-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109104"
+  },
+  {
+   "itemSeq": "200901207",
+   "name": "칸데모어플러스정16/12.5밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901207"
+  },
+  {
+   "itemSeq": "200902089",
+   "name": "휴테칸플러스정",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902089"
+  },
+  {
+   "itemSeq": "200902149",
+   "name": "칸데산플러스정",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902149"
+  },
+  {
+   "itemSeq": "200902279",
+   "name": "칸데탄플러스정",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902279"
+  },
+  {
+   "itemSeq": "200903842",
+   "name": "비알칸다플러스정",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903842"
+  },
+  {
+   "itemSeq": "200904163",
+   "name": "칸단테플러스정16/12.5mg",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904163"
+  },
+  {
+   "itemSeq": "200904162",
+   "name": "칸데플러스정",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904162"
+  },
+  {
+   "itemSeq": "200904234",
+   "name": "아나탄플러스정",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904234"
+  },
+  {
+   "itemSeq": "200904235",
+   "name": "칸세틸플러스정",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904235"
+  },
+  {
+   "itemSeq": "200904344",
+   "name": "고려칸데사르탄플러스정(칸데사르탄실렉세틸,히드로클로로티아지드)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904344"
+  },
+  {
+   "itemSeq": "200904343",
+   "name": "카바딜플러스정16/12.5mg",
+   "company": "삼아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904343"
+  },
+  {
+   "itemSeq": "200905876",
+   "name": "칸데사플러스정",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905876"
+  },
+  {
+   "itemSeq": "200906926",
+   "name": "데잘탄플러스정16/12.5밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-09-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906926"
+  },
+  {
+   "itemSeq": "201007708",
+   "name": "칸사타플러스정(칸데사르탄실렉세틸,히드로클로로티아지드)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-12-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007708"
+  },
+  {
+   "itemSeq": "201007774",
+   "name": "칸데로탄플러스정",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007774"
+  },
+  {
+   "itemSeq": "201100879",
+   "name": "칸살탄플러스정16/12.5mg",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100879"
+  },
+  {
+   "itemSeq": "201208433",
+   "name": "글로아타플러스정",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208433"
+  },
+  {
+   "itemSeq": "201403387",
+   "name": "하이살탄플러스정16/12.5mg",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403387"
+  },
+  {
+   "itemSeq": "201403533",
+   "name": "칸데라플러스정16/12.5밀리그램(칸데사르탄실렉세틸, 히드로클로로티아지드)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403533"
+  },
+  {
+   "itemSeq": "201500210",
+   "name": "네오칸데플러스정",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500210"
+  },
+  {
+   "itemSeq": "201501316",
+   "name": "암데시아배합정HD(수출용)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.93",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501316"
+  },
+  {
+   "itemSeq": "201501317",
+   "name": "암데시아배합정LD(수출용)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "3.47",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501317"
+  },
+  {
+   "itemSeq": "201503234",
+   "name": "휴니즈칸데르플러스정",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503234"
+  },
+  {
+   "itemSeq": "201504333",
+   "name": "칸타칸플러스정16/12.5밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504333"
+  },
+  {
+   "itemSeq": "201603604",
+   "name": "칸타플러스정16/12.5mg",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603604"
+  },
+  {
+   "itemSeq": "201603936",
+   "name": "마하칸정16/10밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.87",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603936"
+  },
+  {
+   "itemSeq": "201603937",
+   "name": "마하칸정16/5밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.935",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603937"
+  },
+  {
+   "itemSeq": "201603935",
+   "name": "마하칸정8/5밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.935",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603935"
+  },
+  {
+   "itemSeq": "201603932",
+   "name": "칸데암로정16/10밀리그램",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.87",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603932"
+  },
+  {
+   "itemSeq": "201603933",
+   "name": "칸데암로정16/5밀리그램",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.935",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603933"
+  },
+  {
+   "itemSeq": "201603934",
+   "name": "칸데암로정8/5밀리그램",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.935",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603934"
+  },
+  {
+   "itemSeq": "201604622",
+   "name": "칸타벨정16/10밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.88",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604622"
+  },
+  {
+   "itemSeq": "201604623",
+   "name": "칸타벨정16/5밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604623"
+  },
+  {
+   "itemSeq": "201604621",
+   "name": "칸타벨정8/5밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604621"
+  },
+  {
+   "itemSeq": "201702397",
+   "name": "로칸듀오정 5/8밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702397"
+  },
+  {
+   "itemSeq": "201702399",
+   "name": "로칸듀오정10/16밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702399"
+  },
+  {
+   "itemSeq": "201702400",
+   "name": "로칸듀오정10/8밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702400"
+  },
+  {
+   "itemSeq": "201702398",
+   "name": "로칸듀오정20/32밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "32.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702398"
+  },
+  {
+   "itemSeq": "201702405",
+   "name": "로타칸정 10/16밀리그램",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702405"
+  },
+  {
+   "itemSeq": "201702406",
+   "name": "로타칸정 10/8밀리그램",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702406"
+  },
+  {
+   "itemSeq": "201702408",
+   "name": "로타칸정 20/32밀리그램",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "32.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702408"
+  },
+  {
+   "itemSeq": "201702407",
+   "name": "로타칸정 5/8밀리그램",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702407"
+  },
+  {
+   "itemSeq": "201702401",
+   "name": "콤비로칸정10/16밀리그램",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702401"
+  },
+  {
+   "itemSeq": "201702402",
+   "name": "콤비로칸정10/8밀리그램",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702402"
+  },
+  {
+   "itemSeq": "201702404",
+   "name": "콤비로칸정20/32밀리그램",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "32.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702404"
+  },
+  {
+   "itemSeq": "201702403",
+   "name": "콤비로칸정5/8밀리그램",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702403"
+  },
+  {
+   "itemSeq": "201702409",
+   "name": "투게논정10/16밀리그램",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702409"
+  },
+  {
+   "itemSeq": "201702410",
+   "name": "투게논정10/8밀리그램",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702410"
+  },
+  {
+   "itemSeq": "201702412",
+   "name": "투게논정20/32밀리그램",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "32.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702412"
+  },
+  {
+   "itemSeq": "201702411",
+   "name": "투게논정5/8밀리그램",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702411"
+  },
+  {
+   "itemSeq": "201803500",
+   "name": "로칸듀오정5/16밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803500"
+  },
+  {
+   "itemSeq": "201803503",
+   "name": "로타칸정 5/16밀리그램",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803503"
+  },
+  {
+   "itemSeq": "201803502",
+   "name": "콤비로칸정5/16밀리그램",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803502"
+  },
+  {
+   "itemSeq": "201803501",
+   "name": "투게논정 5/16밀리그램",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803501"
+  },
+  {
+   "itemSeq": "202000970",
+   "name": "칸데디핀정16/10밀리그램",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.88",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000970"
+  },
+  {
+   "itemSeq": "202000968",
+   "name": "칸데디핀정16/5밀리그램",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000968"
+  },
+  {
+   "itemSeq": "202000969",
+   "name": "칸데디핀정8/5밀리그램",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000969"
+  },
+  {
+   "itemSeq": "202003552",
+   "name": "칸데칸플러스정16/12.5밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003552"
+  },
+  {
+   "itemSeq": "202008720",
+   "name": "칸데로원정10/16밀리그램(로수바스타틴, 칸데사르탄)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008720"
+  },
+  {
+   "itemSeq": "202008719",
+   "name": "칸데로원정10/8밀리그램(로수바스타틴, 칸데사르탄)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008719"
+  },
+  {
+   "itemSeq": "202008718",
+   "name": "칸데로원정20/32밀리그램(로수바스타틴, 칸데사르탄)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "32.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008718"
+  },
+  {
+   "itemSeq": "202008717",
+   "name": "칸데로원정5/16밀리그램(로수바스타틴, 칸데사르탄)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008717"
+  },
+  {
+   "itemSeq": "202008716",
+   "name": "칸데로원정5/8밀리그램(로수바스타틴, 칸데사르탄)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008716"
+  },
+  {
+   "itemSeq": "202008725",
+   "name": "크레칸데정10/16밀리그램",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008725"
+  },
+  {
+   "itemSeq": "202008724",
+   "name": "크레칸데정10/8밀리그램",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008724"
+  },
+  {
+   "itemSeq": "202008723",
+   "name": "크레칸데정20/32밀리그램",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "32.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008723"
+  },
+  {
+   "itemSeq": "202008722",
+   "name": "크레칸데정5/16밀리그램",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008722"
+  },
+  {
+   "itemSeq": "202008721",
+   "name": "크레칸데정5/8밀리그램",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008721"
+  },
+  {
+   "itemSeq": "202107115",
+   "name": "로수칸데정10/16밀리그램",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107115"
+  },
+  {
+   "itemSeq": "202107118",
+   "name": "로수칸데정10/8밀리그램",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107118"
+  },
+  {
+   "itemSeq": "202107116",
+   "name": "로수칸데정20/32밀리그램",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "32.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107116"
+  },
+  {
+   "itemSeq": "202107119",
+   "name": "로수칸데정5/16밀리그램",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107119"
+  },
+  {
+   "itemSeq": "202107117",
+   "name": "로수칸데정5/8밀리그램",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107117"
+  },
+  {
+   "itemSeq": "202107121",
+   "name": "칸데칸듀오정10/16밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107121"
+  },
+  {
+   "itemSeq": "202107120",
+   "name": "칸데칸듀오정10/8밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107120"
+  },
+  {
+   "itemSeq": "202107122",
+   "name": "칸데칸듀오정20/32밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "32.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107122"
+  },
+  {
+   "itemSeq": "202107089",
+   "name": "칸데칸듀오정5/16밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107089"
+  },
+  {
+   "itemSeq": "202107090",
+   "name": "칸데칸듀오정5/8밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107090"
+  },
+  {
+   "itemSeq": "202200400",
+   "name": "칸타벨에이정16/10/40밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.88",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "43.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200400"
+  },
+  {
+   "itemSeq": "202200403",
+   "name": "칸타벨에이정16/5/10밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200403"
+  },
+  {
+   "itemSeq": "202200399",
+   "name": "칸타벨에이정16/5/20밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200399"
+  },
+  {
+   "itemSeq": "202200398",
+   "name": "칸타벨에이정8/5/10밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200398"
+  },
+  {
+   "itemSeq": "202200402",
+   "name": "칸타벨에이정8/5/20밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아토르바스타틴칼슘",
+     "amount": "21.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200402"
+  },
+  {
+   "itemSeq": "202301657",
+   "name": "한화로칸정 10/16밀리그램(로수바스타틴칼슘, 칸데사르탄실렉세틸)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301657"
+  },
+  {
+   "itemSeq": "202301658",
+   "name": "한화로칸정 10/8밀리그램(로수바스타틴칼슘, 칸데사르탄실렉세틸)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301658"
+  },
+  {
+   "itemSeq": "202301656",
+   "name": "한화로칸정 20/32밀리그램(로수바스타틴칼슘, 칸데사르탄실렉세틸)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "32.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301656"
+  },
+  {
+   "itemSeq": "202301660",
+   "name": "한화로칸정 5/16밀리그램(로수바스타틴칼슘, 칸데사르탄실렉세틸)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301660"
+  },
+  {
+   "itemSeq": "202301659",
+   "name": "한화로칸정 5/8밀리그램(로수바스타틴칼슘, 칸데사르탄실렉세틸)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301659"
+  },
+  {
+   "itemSeq": "202501848",
+   "name": "칸데산에스정16/2.5밀리그램(칸데사르탄,에스암로디핀)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "S-암로디핀베실산염2.5수화물",
+     "amount": "3.74",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501848"
+  },
+  {
+   "itemSeq": "202501847",
+   "name": "칸데산에스정16/5밀리그램(칸데사르탄,에스암로디핀)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "S-암로디핀베실산염2.5수화물",
+     "amount": "7.48",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501847"
+  },
+  {
+   "itemSeq": "202501846",
+   "name": "칸데산에스정8/2.5밀리그램(칸데사르탄,에스암로디핀)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "S-암로디핀베실산염2.5수화물",
+     "amount": "3.74",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501846"
+  },
+  {
+   "itemSeq": "202501885",
+   "name": "칸데바로정16/2.5mg(칸데사르탄실렉세틸,에스암로디핀베실산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "S-암로디핀베실산염2.5수화물",
+     "amount": "3.74",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501885"
+  },
+  {
+   "itemSeq": "202501884",
+   "name": "칸데바로정16/5mg(칸데사르탄실렉세틸,에스암로디핀베실산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "S-암로디핀베실산염2.5수화물",
+     "amount": "7.48",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501884"
+  },
+  {
+   "itemSeq": "202501883",
+   "name": "칸데바로정8/2.5mg(칸데사르탄실렉세틸,에스암로디핀베실산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "S-암로디핀베실산염2.5수화물",
+     "amount": "3.74",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501883"
+  },
+  {
+   "itemSeq": "202503323",
+   "name": "암로칸데정16/2.5밀리그램(칸데사르탄실렉세틸,에스암로디핀베실산염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "S-암로디핀베실산염2.5수화물",
+     "amount": "3.74",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503323"
+  },
+  {
+   "itemSeq": "202503324",
+   "name": "암로칸데정16/5밀리그램(칸데사르탄실렉세틸,에스암로디핀베실산염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "S-암로디핀베실산염2.5수화물",
+     "amount": "7.48",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503324"
+  },
+  {
+   "itemSeq": "202503322",
+   "name": "암로칸데정8/2.5밀리그램(칸데사르탄실렉세틸,에스암로디핀베실산염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "S-암로디핀베실산염2.5수화물",
+     "amount": "3.74",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503322"
+  },
+  {
+   "itemSeq": "202600579",
+   "name": "에스칸데정16/2.5밀리그램(칸데사르탄, 에스암로디핀)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "S-암로디핀베실산염2.5수화물",
+     "amount": "3.74",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600579"
+  },
+  {
+   "itemSeq": "202600580",
+   "name": "에스칸데정16/5밀리그램(칸데사르탄, 에스암로디핀)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "16",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "S-암로디핀베실산염2.5수화물",
+     "amount": "7.48",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600580"
+  },
+  {
+   "itemSeq": "202600578",
+   "name": "에스칸데정8/2.5밀리그램(칸데사르탄, 에스암로디핀)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "칸데사르탄실렉세틸",
+     "amount": "8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "S-암로디핀베실산염2.5수화물",
+     "amount": "3.74",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600578"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "valproate",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "valproate",
+  "valproic acid",
+  "divalproex",
+  "sodium valproate"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "cilastatin sodium (as cilastatin)+imipenem hydrate (as imipenem)",
+   "reason": "간질 발작 재발",
+   "self": "divalproex sodium (as divalproex)"
+  },
+  {
+   "ingredient": "doripenem monohydrate (as doripenem)",
+   "reason": "발프론산의 혈중농도를 감소시켜 간질발작 재발의 위험 증가",
+   "self": "divalproex sodium (as divalproex)"
+  },
+  {
+   "ingredient": "mefloquine hydrochloride",
+   "reason": "메플로퀸은 발프로산의 대사를 증가시키며 경련 효과를 가지고 있으므로 병용투여 시 간질성 발작이 일어날 수 있음",
+   "self": "divalproex sodium (as divalproex)"
+  },
+  {
+   "ingredient": "meropenem",
+   "reason": "발프론산의 작용 감약",
+   "self": "divalproex sodium (as divalproex)"
+  },
+  {
+   "ingredient": "meropenem",
+   "reason": "간질발작 재발",
+   "self": "sodium valproate"
+  },
+  {
+   "ingredient": "meropenem",
+   "reason": "간질 발작 재발",
+   "self": "sodium valproate"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "신경관 결함(척수수막류, 척추갈림증 등) 안면 형태 이상, 구개열, 심혈관계, 신장, 비뇨생식기계 이상, 사지 기형(요골의 양측 요골무형성을 포함한 다양한 이상) 보고.양측 요골무형성은 드물게 나타나나 발프로산 함유제제의 특이효과임.시력에 영향을 줄 수 있는 눈 기형(결손, 소안구증 포함) 보고.신생아에서 예외적인 출혈증상, 사망을 초래하는 간부전, 금단증상(초조, 과민성, 과잉흥분,안절부절못함, 운동과다증, 긴장성(tonicity) 이상, 떨림, 경련 및 섭식장애, 저혈당, 갑상선기능저하증보고.자궁 내 노출은 성장지연, IQ저하, 정신적·육체적 발달에 부정적 영향을 미칠 수 있음.주의력 결핍/과잉 행동 장애(ADHD)의 위험이 증가.선천적 기형률이 다른 항뇌전증약을 단독 투여 받고 뇌전증이 있는 산모에서 태어난 아이에 비해 약 4배 더 높음. 남자 환자: 치료 중 및 치료 중단 후 3개월 동안 정자 기증 제한 및 피임 권고(임신 전 3개월 이내에 치료받은 남성에서 태어난 소아에서 신경발달장애 위험 증가 보고)",
+   "ingredient": "divalproex."
+  }
+ ],
+ "elderly": [],
+ "dose": [
+  {
+   "text": "1일 최대투여량: 발프로산나트륨 3,000mg"
+  },
+  {
+   "text": "1일 최대투여량: 발프로산나트륨 2,500mg"
+  }
+ ],
+ "duration": [],
+ "class_duplication": [],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

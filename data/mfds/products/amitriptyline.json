@@ -1,0 +1,89 @@
+{
+ "id": "amitriptyline",
+ "query": [
+  "아미트리프틸린"
+ ],
+ "fetched": "2026-11-26",
+ "total": 5,
+ "kept": 5,
+ "mfdsName": [
+  "아미트리프틸린염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "197000079",
+   "name": "에나폰정10밀리그램(아미트리프틸린염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아미트리프틸린염산염",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1970-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197000079"
+  },
+  {
+   "itemSeq": "197500186",
+   "name": "에트라빌10밀리그램정(아미트리프틸린염산염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아미트리프틸린염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1975-02-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197500186"
+  },
+  {
+   "itemSeq": "197500188",
+   "name": "에트라빌25밀리그램정(아미트리프틸린염산염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아미트리프틸린염산염",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1975-02-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197500188"
+  },
+  {
+   "itemSeq": "198500626",
+   "name": "명인아미트리프틸린염산염정10밀리그램",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아미트리프틸린염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500626"
+  },
+  {
+   "itemSeq": "201309959",
+   "name": "에나폰정5밀리그램(아미트리프틸린염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아미트리프틸린염산염",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309959"
+  }
+ ]
+}

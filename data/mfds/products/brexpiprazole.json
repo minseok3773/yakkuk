@@ -1,0 +1,104 @@
+{
+ "id": "brexpiprazole",
+ "query": [
+  "브렉스피프라졸"
+ ],
+ "fetched": "2026-11-26",
+ "total": 6,
+ "kept": 6,
+ "mfdsName": [
+  "브렉스피프라졸"
+ ],
+ "items": [
+  {
+   "itemSeq": "201800748",
+   "name": "렉설티정0.25밀리그램(브렉스피프라졸)(수출용)",
+   "company": "한국오츠카제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "브렉스피프라졸",
+     "amount": "0.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800748"
+  },
+  {
+   "itemSeq": "201800749",
+   "name": "렉설티정0.5밀리그램(브렉스피프라졸)(수출용)",
+   "company": "한국오츠카제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "브렉스피프라졸",
+     "amount": "0.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800749"
+  },
+  {
+   "itemSeq": "201800750",
+   "name": "렉설티정1밀리그램(브렉스피프라졸)(수출용)",
+   "company": "한국오츠카제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "브렉스피프라졸",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800750"
+  },
+  {
+   "itemSeq": "201800751",
+   "name": "렉설티정2밀리그램(브렉스피프라졸)(수출용)",
+   "company": "한국오츠카제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "브렉스피프라졸",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800751"
+  },
+  {
+   "itemSeq": "201800752",
+   "name": "렉설티정3밀리그램(브렉스피프라졸)(수출용)",
+   "company": "한국오츠카제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "브렉스피프라졸",
+     "amount": "3.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800752"
+  },
+  {
+   "itemSeq": "201800753",
+   "name": "렉설티정4밀리그램(브렉스피프라졸)(수출용)",
+   "company": "한국오츠카제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "브렉스피프라졸",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800753"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "id": "nortriptyline",
+ "query": [
+  "노르트립틸린"
+ ],
+ "fetched": "2026-11-26",
+ "total": 2,
+ "kept": 2,
+ "mfdsName": [
+  "염산노르트립틸린"
+ ],
+ "items": [
+  {
+   "itemSeq": "197300150",
+   "name": "센시발정10밀리그램(염산노르트립틸린)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "염산노르트립틸린",
+     "amount": "11.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1973-01-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197300150"
+  },
+  {
+   "itemSeq": "197300151",
+   "name": "센시발정25밀리그램(염산노르트립틸린)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "염산노르트립틸린",
+     "amount": "28.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1973-01-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197300151"
+  }
+ ]
+}

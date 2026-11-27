@@ -1,0 +1,28 @@
+{
+ "id": "acamprosate",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "acamprosate"
+ ],
+ "contraindicated_with": [],
+ "age": [
+  {
+   "text": "65세 이상: 65세 이상에서 안전성 및 유효성 미확립. 연령이 높아질수록 신장기능이 저하되어 이 약이 축적될 수 있음.",
+   "ingredient": "acamprosate"
+  }
+ ],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립.",
+   "ingredient": "acamprosate"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

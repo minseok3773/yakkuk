@@ -1,0 +1,59 @@
+{
+ "id": "clonazepam",
+ "query": [
+  "클로나제팜"
+ ],
+ "fetched": "2026-11-26",
+ "total": 3,
+ "kept": 3,
+ "mfdsName": [
+  "클로나제팜"
+ ],
+ "items": [
+  {
+   "itemSeq": "200610884",
+   "name": "리보트릴정(클로나제팜)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로나제팜",
+     "amount": "0.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-11-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200610884"
+  },
+  {
+   "itemSeq": "201400403",
+   "name": "환인클로나제팜정0.5밀리그램",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로나제팜",
+     "amount": "0.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400403"
+  },
+  {
+   "itemSeq": "201901158",
+   "name": "환인클로나제팜정0.5밀리그램(WhanIn Clonazepam Tab. 0.5mg)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로나제팜",
+     "amount": "0.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901158"
+  }
+ ]
+}

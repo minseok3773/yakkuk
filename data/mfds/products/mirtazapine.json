@@ -1,0 +1,495 @@
+{
+ "id": "mirtazapine",
+ "query": [
+  "미르타자핀"
+ ],
+ "fetched": "2026-11-26",
+ "total": 32,
+ "kept": 32,
+ "mfdsName": [
+  "미르타자핀",
+  "제피미르타자핀"
+ ],
+ "items": [
+  {
+   "itemSeq": "200307847",
+   "name": "레메론솔탭정15밀리그램(제피미르타자핀)",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "제피미르타자핀",
+     "amount": "62.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307847"
+  },
+  {
+   "itemSeq": "200307848",
+   "name": "레메론솔탭정30밀리그램(제피미르타자핀)",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "제피미르타자핀",
+     "amount": "125.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307848"
+  },
+  {
+   "itemSeq": "200603875",
+   "name": "레메론정15밀리그램(미르타자핀)",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200603875"
+  },
+  {
+   "itemSeq": "200706541",
+   "name": "미르탁스정30밀리그램(미르타자핀)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706541"
+  },
+  {
+   "itemSeq": "200803427",
+   "name": "미르탁스오디티정30밀리그램(미르타자핀)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803427"
+  },
+  {
+   "itemSeq": "200804995",
+   "name": "미르탁스정15mg(미르타자핀)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804995"
+  },
+  {
+   "itemSeq": "200808414",
+   "name": "레메론정30밀리그램(미르타자핀)",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808414"
+  },
+  {
+   "itemSeq": "200901546",
+   "name": "미르탁스오디티정15밀리그램(미르타자핀)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901546"
+  },
+  {
+   "itemSeq": "201205950",
+   "name": "멀타핀정15밀리그램(미르타자핀)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205950"
+  },
+  {
+   "itemSeq": "201205951",
+   "name": "멀타핀정30밀리그램(미르타자핀)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205951"
+  },
+  {
+   "itemSeq": "201205974",
+   "name": "멀타핀정7.5밀리그램(미르타자핀)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205974"
+  },
+  {
+   "itemSeq": "201400120",
+   "name": "밀타정15밀리그램(미르타자핀)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400120"
+  },
+  {
+   "itemSeq": "201404690",
+   "name": "밀타정30밀리그램(미르타자핀)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404690"
+  },
+  {
+   "itemSeq": "201405634",
+   "name": "밀타오디정15밀리그램(미르타자핀)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405634"
+  },
+  {
+   "itemSeq": "201405633",
+   "name": "밀타오디정30밀리그램(미르타자핀)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405633"
+  },
+  {
+   "itemSeq": "201601663",
+   "name": "밀타오디정7.5밀리그램(미르타자핀)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601663"
+  },
+  {
+   "itemSeq": "201701437",
+   "name": "영진멀타자핀정15밀리그램(미르타자핀)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "15.51",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701437"
+  },
+  {
+   "itemSeq": "201701436",
+   "name": "영진멀타자핀정30밀리그램(미르타자핀)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "31.02",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701436"
+  },
+  {
+   "itemSeq": "201701438",
+   "name": "영진멀타자핀정7.5밀리그램(미르타자핀)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "7.755",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701438"
+  },
+  {
+   "itemSeq": "201706845",
+   "name": "밀타정7.5밀리그램(미르타자핀)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706845"
+  },
+  {
+   "itemSeq": "201706900",
+   "name": "명문미르타오디정15밀리그램(미르타자핀)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706900"
+  },
+  {
+   "itemSeq": "201707054",
+   "name": "미르젠탁정15밀리그램(미르타자핀)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707054"
+  },
+  {
+   "itemSeq": "201707055",
+   "name": "미르젠탁정30밀리그램(미르타자핀)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707055"
+  },
+  {
+   "itemSeq": "201707056",
+   "name": "미르젠탁정7.5밀리그램(미르타자핀)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "7.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707056"
+  },
+  {
+   "itemSeq": "201800907",
+   "name": "명문미르타오디정30밀리그램(미르타자핀)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800907"
+  },
+  {
+   "itemSeq": "202008509",
+   "name": "미르젠탁오디정15밀리그램(미르타자핀)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008509"
+  },
+  {
+   "itemSeq": "202009229",
+   "name": "미르젠탁오디정30밀리그램(미르타자핀)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009229"
+  },
+  {
+   "itemSeq": "202009438",
+   "name": "미르젠탁오디정7.5밀리그램(미르타자핀)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "7.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009438"
+  },
+  {
+   "itemSeq": "202201970",
+   "name": "밀타정45밀리그램(미르타자핀)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "45.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201970"
+  },
+  {
+   "itemSeq": "202402770",
+   "name": "파마멀타자핀정15밀리그램(미르타자핀)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402770"
+  },
+  {
+   "itemSeq": "202402772",
+   "name": "파마멀타자핀정30밀리그램(미르타자핀)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402772"
+  },
+  {
+   "itemSeq": "202402771",
+   "name": "파마멀타자핀정7.5밀리그램(미르타자핀)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미르타자핀",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402771"
+  }
+ ]
+}

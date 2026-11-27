@@ -1,0 +1,116 @@
+{
+ "id": "metoclopramide",
+ "query": [
+  "메토클로프라미드"
+ ],
+ "fetched": "2026-11-27",
+ "total": 6,
+ "kept": 6,
+ "mfdsName": [
+  "메토클로프라미드염산염수화물",
+  "메토클로프라미드",
+  "염산메토클로프라미드"
+ ],
+ "items": [
+  {
+   "itemSeq": "197200484",
+   "name": "맥페란정(메토클로프라미드)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메토클로프라미드",
+     "amount": "3.84",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1972-02-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197200484"
+  },
+  {
+   "itemSeq": "198800560",
+   "name": "맥페란주사액2밀리리터(메토클로프라미드염산염수화물)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메토클로프라미드염산염수화물",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1988-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800560"
+  },
+  {
+   "itemSeq": "199500497",
+   "name": "멕쿨주(메토클로프라미드염산염)",
+   "company": "(주)제일제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메토클로프라미드염산염수화물",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1995-04-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199500497"
+  },
+  {
+   "itemSeq": "201705482",
+   "name": "가스트로메토주(메토클로프라미드염산염수화물)",
+   "company": "대한약품공업(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메토클로프라미드염산염수화물",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705482"
+  },
+  {
+   "itemSeq": "202104009",
+   "name": "제일약품메토클로프라미드염산염수화물주(수출용)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메토클로프라미드염산염수화물",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104009"
+  },
+  {
+   "itemSeq": "200705123",
+   "name": "메토라제정(수출용)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "염산메토클로프라미드",
+     "amount": "6.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시메치콘",
+     "amount": "14.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다이제트100",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705123"
+  }
+ ]
+}

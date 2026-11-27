@@ -1,0 +1,326 @@
+{
+ "id": "rosuvastatin",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "rosuvastatin"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "cyclosporine",
+   "reason": "근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+   "self": "amlodipine besylate (as amlodipine   5mg)+ezetimibe+losartan potassium (as losartan   45.8mg)+rosuvastatin calcium (as rosuvastatin   2.5mg)"
+  },
+  {
+   "ingredient": "cyclosporine",
+   "reason": "혈중농도 상승 및 근육병증/횡문근융해증 위험성 증가",
+   "self": "rosuvastatin calcium (as rosuvastatin)"
+  },
+  {
+   "ingredient": "ledipasvir+sofosbuvir",
+   "reason": "횡문근융해증을 포함한 근육병증 위험 증가 가능",
+   "self": "amlodipine besylate (as amlodipine   5mg)+ezetimibe+losartan potassium (as losartan   45.8mg)+rosuvastatin calcium (as rosuvastatin   2.5mg)"
+  },
+  {
+   "ingredient": "ledipasvir+sofosbuvir",
+   "reason": "로수바스타틴 농도를 현저하게 증가시킬 수 있으며, 이는 횡문근융해증을 포함하여 근육병증의 위험 증가",
+   "self": "rosuvastatin calcium (as rosuvastatin)"
+  },
+  {
+   "ingredient": "ethyl esters of the iodised fatty acids of poppyseed oil",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "metformin hydrochloride+rosuvastatin calcium (as rosuvastatin)",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iobitridol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "metformin hydrochloride+rosuvastatin calcium (as rosuvastatin)",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iodixanol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "metformin hydrochloride+rosuvastatin calcium (as rosuvastatin)",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iohexol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "metformin hydrochloride+rosuvastatin calcium (as rosuvastatin)",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iomeprol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "metformin hydrochloride+rosuvastatin calcium (as rosuvastatin)",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iopamidol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "metformin hydrochloride+rosuvastatin calcium (as rosuvastatin)",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iopromide",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "metformin hydrochloride+rosuvastatin calcium (as rosuvastatin)",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "ioversol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "metformin hydrochloride+rosuvastatin calcium (as rosuvastatin)",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "microemulsion cyclosporine",
+   "reason": "근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+   "self": "amlodipine besylate (as amlodipine   5mg)+ezetimibe+losartan potassium (as losartan   45.8mg)+rosuvastatin calcium (as rosuvastatin   2.5mg)"
+  },
+  {
+   "ingredient": "microemulsion cyclosporine",
+   "reason": "혈중농도 상승 및 근육병증/횡문근융해증 위험성 증가",
+   "self": "rosuvastatin calcium (as rosuvastatin)"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "1",
+   "reason": "임부에 대한 안전성 미확립.태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성.동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.valsartan: 임신 2~3기에 ACE저해제 투여시 태아 및 신생아의 저혈압, 고칼륨혈증, 신생아 두개골 발육부전, 무뇨증, 신부전, 양수과소증(태아사지구축, 두개안면기형, 폐발육부전과 관련 있음) 및 사망과 관련됨.",
+   "ingredient": "rosuvastatin calcium, valsartan"
+  },
+  {
+   "grade": "1",
+   "reason": "olmesartan: 임신 제2 및 3기에 ACE 저해제 복용시 저혈압, 신생아 두개골발육부전, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐발육부진과 관련) 및 사망 보고. rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "olmesartan medoxomil, rosuvastatin calcium (as rosuvastatin)"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립.태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성.동물실험에서 제한된 생식독성 보고. valsartan: 임신 2~3기에 ACE저해제 투여시 태아 및 신생아의 저혈압, 고칼륨혈증, 신생아 두개골 발육부전, 무뇨증, 신부전, 양수과소증(태아사지구축, 두개안면기형, 폐발육부전과 관련 있음) 및 사망과 관련됨.",
+   "ingredient": "rosuvastatin calcium(as rosuvastatin), valsartan"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립.태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성.동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "telmisartan, rosuvastatin calcium(as rosuvastatin)"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고. ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰.",
+   "ingredient": "ezetimibe, rosuvastatin calcium (as rosuvastatin)"
+  },
+  {
+   "grade": "1",
+   "reason": "fimasartan: 임신 2~3기에 투여시 태아 및 신생아 저혈압, 신생아 두개골형성저하증, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐형성저하증과 관련), 및 사망 보고. rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "fimasartan + rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "candesartan : 임신 2~3기중 투여시 태아 및 신생아 손상(저혈압, 신기능부전, 핍뇨 그리고/또는 무뇨, 양수과소증, 두개골발육부전, 자궁내 성장지체), 폐부전, 안면비정상, 사지연축 및 사망 가능성. rosuvastatin : 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "candesartan + rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin : 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "amlodipine : 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. losartan : 임신 제 2~3기에 ACE 저해제 투여시 태아와 신생아의 저혈압, 고칼륨혈증, 신생아 두개골발육부전, 무뇨증, 신부전, 자궁내 성장지체, 양수과소증(사지구축, 두개안면기형, 폐발육부전과 관련) 및 사망 등 보고. 임신 1기에 투여시 출생결함의 잠재적 위험과 관련됨. rosuvastatin : 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "amlodipine, losartan, rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "amlodipine :임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. losartan : 임신 제 2~3기에 ACE 저해제 투여시 태아와 신생아의 저혈압, 고칼륨혈증, 신생아 두개골발육부전, 무뇨증, 신부전, 자궁내 성장지체, 양수과소증(사지구축, 두개안면기형, 폐발육부전과 관련) 및 사망 등 보고. 임신 1기에 투여시 출생결함의 잠재적 위험과 관련됨. rosuvastatin : 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "amlodipine, losartan, rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "gemigliptin : 임부에 대한 안전성 미확립. 동물실험에서 태반통과 보고. rosuvastatin : 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "gemigliptin, rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "amlodipine :임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. rosuvastatin : 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.telmisartan : 임신 2기 및 3기에 투여시 태아 및 신생아에 저혈압, 신생아 두골형성부전, 무뇨, 신부전, 양수과소증(태아사지경축, 두개안면기형, 폐형성저하증과 관련) 및 사망과 관련됨.",
+   "ingredient": "amlodipine + rosuvastatin +telmisartan"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함.",
+   "ingredient": "metformin hydrochloride + rosuvastatin calcium"
+  },
+  {
+   "grade": "1",
+   "reason": "임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고. 임신 2~3기중 투여시 태아 및 신생아 손상(저혈압, 신기능부전, 핍뇨 그리고/또는 무뇨, 양수과소증, 두개골발육부전, 자궁내 성장지체), 폐부전, 안면비정상, 사지연축 및 사망 가능성.",
+   "ingredient": "candesartan + rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고. 임부에 대한 안전성 미확립.",
+   "ingredient": "rosuvastatin + amlodipine"
+  },
+  {
+   "grade": "1",
+   "reason": "amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. rosuvastatin: 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고. telmisartan:임신 2기 및 3기에 투여시 태아 및 신생아에 저혈압, 신생아 두골형성부전, 무뇨, 신부전, 양수과소증(태아사지경축, 두개안면기형, 폐형성저하증과 관련) 및 사망과 관련됨.",
+   "ingredient": "amlodipine+rosuvastatin+telmisartan"
+  },
+  {
+   "grade": "1",
+   "reason": "amlodipine:임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. olmesartan:임신 제2 및 3기에 ACE 저해제 복용시 저혈압, 신생아 두개골발육부전, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐발육부진과 관련) 및 사망 보고. Rosuvastatin:태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "amlodipine+olmesartan+rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. olmesartan:임신 제2 및 3기에 ACE 저해제 복용시 저혈압, 신생아 두개골발육부전, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐발육부진과 관련) 및 사망 보고. Rosuvastatin:태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "amlodipine+olmesartan+rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고. amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남.",
+   "ingredient": "amlodipine + rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고, valsartan: 임신 2~3기에 ACE저해제 투여시 태아 및 신생아의 저혈압, 고칼륨혈증, 신생아 두개골 발육부전, 무뇨증, 신부전, 양수과소증(태아사지구축, 두개안면기형, 폐발육부전과 관련 있음) 및 사망과 관련됨",
+   "ingredient": "amlodipine 5mg+rosuvastatin 10mg+valsartan 80mg"
+  },
+  {
+   "grade": "1",
+   "reason": "amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. rosuvastatin:임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고/valsartan:임신 2~3기에 ACE저해제 투여시 태아 및 신생아의 저혈압, 고칼륨혈증, 신생아 두개골 발육부전, 무뇨증, 신부전, 양수과소증(태아사지구축, 두개안면기형, 폐발육부전과 관련 있음) 및 사망과 관련됨",
+   "ingredient": "amlodipine besylate+rosuvastatin calcium+valsartan"
+  },
+  {
+   "grade": "1",
+   "reason": "(rosuvastatin) 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고. (nebivolol) 임부에 대한 안전성 미확립. 베타차단제는 태반환류를 감소시켜 태아 사망과 미숙 및 조숙 분만 초래 가능성. 태아와 신생아에서 저혈당, 서맥 가능성 및 신생아의 심폐합병증 위험성 증가.",
+   "ingredient": "nebivolol + rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "(amlodipine)임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. (fimasartan) 임신 2~3기에 투여시 태아 및 신생아 저혈압, 신생아 두개골형성저하증, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐형성저하증과 관련), 및 사망 보고. (rosuvastatin) 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "amlodipine + fimasartan + rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "(amlodipine)임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. (olmesartan) 임신 제2 및 3기에 ACE 저해제 복용시 저혈압, 신생아 두개골발육부전, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐발육부진과 관련) 및 사망 보고. (rosuvastatin) 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "amlodipine + olmesartan + rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고/ amlodipine: 임부에 대한 안전성 미확립.인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남./valsartan: 임신 2~3기에 ACE저해제 투여시 태아 및 신생아의 저혈압, 고칼륨혈증, 신생아 두개골 발육부전, 무뇨증, 신부전, 양수과소증(태아사지구축, 두개안면기형, 폐발육부전과 관련 있음) 및 사망과 관련됨.",
+   "ingredient": "amlodipine+ rosuvastatin + valsartan"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin:임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고./ amlodipine:임부에 대한 안전성 미확립.인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남./ezetimibe:동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰./losartan:임신 제 2~3기에 ACE 저해제 투여시 태아와 신생아의 저혈압, 고칼륨혈증, 신생아 두개골발육부전, 무뇨증, 신부전, 자궁내 성장지체, 양수과소증(사지구축, 두개안면기형, 폐발육부전과 관련) 및 사망 등 보고. 임신 1기에 투여시 출생결함의 잠재적 위험과 관련됨.",
+   "ingredient": "amlodipine+ezetimibe+losartan+rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "rrosuvastatin:임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고./ amlodipine:임부에 대한 안전성 미확립.인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남./ezetimibe:동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰./losartan:임신 제 2~3기에 ACE 저해제 투여시 태아와 신생아의 저혈압, 고칼륨혈증, 신생아 두개골발육부전, 무뇨증, 신부전, 자궁내 성장지체, 양수과소증(사지구축, 두개안면기형, 폐발육부전과 관련) 및 사망 등 보고. 임신 1기에 투여시 출생결함의 잠재적 위험과 관련됨.",
+   "ingredient": "amlodipine+ezetimibe+losartan+rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "nebivolol :임부에 대한 안전성 미확립. 베타차단제는 태반환류를 감소시켜 태아 사망과 미숙 및 조숙 분만 초래 가능성. 태아와 신생아에서 저혈당, 서맥 가능성 및 신생아의 심폐합병증 위험성 증가. / rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "nebivolol + rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고./ ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰",
+   "ingredient": "ezetimibe+rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고/ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰/telmisartan: 임신 2기 및 3기에 투여시 태아 및 신생아에 저혈압, 신생아 두골형성부전, 무뇨, 신부전, 양수과소증(태아사지경축, 두개안면기형, 폐형성저하증과 관련) 및 사망과 관련됨.",
+   "ingredient": "rosuvastatin + ezetimibe + telmisartan"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고/nebivolol: 임부에 대한 안전성 미확립. 베타차단제는 태반환류를 감소시켜 태아 사망과 미숙 및 조숙 분만 초래 가능성. 태아와 신생아에서 저혈당, 서맥 가능성 및 신생아의 심폐합병증 위험성 증가.",
+   "ingredient": "nebivolol + rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고/amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남/ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰/telmisartan: 임신 2기 및 3기에 투여시 태아 및 신생아에 저혈압, 신생아 두골형성부전, 무뇨, 신부전, 양수과소증(태아사지경축, 두개안면기형, 폐형성저하증과 관련) 및 사망과 관련됨.",
+   "ingredient": "amlodipine + ezetimibe + rosuvastatin + telmisartan"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고/ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰/S-Amlodipine: 인체에 대한 최대권장용량의 50배에 해당하는 용량의 이 약을 투여한 랫트에서 분만지연 및 연장 나타남. 동물실험 중 고용량에서 생식독성 나타남/telmisartan: 임신 2기 및 3기에 투여시 태아 및 신생아에 저혈압, 신생아 두골형성부전, 무뇨, 신부전, 양수과소증(태아사지경축, 두개안면기형, 폐형성저하증과 관련) 및 사망과 관련됨",
+   "ingredient": "ezetimibe + rosuvastatin + s-amlodipine + telmisartan"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고./ Amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남./ valsartan: 임신 2~3기에 ACE저해제 투여시 태아 및 신생아의 저혈압, 고칼륨혈증, 신생아 두개골 발육부전, 무뇨증, 신부전, 양수과소증(태아사지구축, 두개안면기형, 폐발육부전과 관련 있음) 및 사망과 관련됨.",
+   "ingredient": "amlodipine + rosuvastatin + valsartan"
+  },
+  {
+   "grade": "1",
+   "reason": "nebivolol:임부에 대한 안전성 미확립. 베타차단제는 태반환류를 감소시켜 태아 사망과 미숙 및 조숙 분만 초래 가능성. 태아와 신생아에서 저혈당, 서맥 가능성 및 신생아의 심폐합병증 위험성 증가./ rosuvastatin:임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "nebivolol + rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고. / amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. / ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰.",
+   "ingredient": "amlodipine + ezetimibe + rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "ezetimibe : 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰. / rosuvastatin : 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고. / S-amlodipine : 인체에 대한 최대권장용량의 50배에 해당하는 용량의 이 약을 투여한 랫트에서 분만지연 및 연장 나타남. 동물실험 중 고용량에서 생식독성 나타남. / telmisartan : 임신 2기 및 3기에 투여시 태아 및 신생아에 저혈압, 신생아 두골형성부전, 무뇨, 신부전, 양수과소증(태아사지경축, 두개안면기형, 폐형성저하증과 관련) 및 사망과 관련됨.",
+   "ingredient": "ezetimibe + rosuvastatin + S-amlodipine + telmisartan"
+  },
+  {
+   "grade": "1",
+   "reason": "amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. / ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰. / losartan: 임신 제 2~3기에 ACE 저해제 투여시 태아와 신생아의 저혈압, 고칼륨혈증, 신생아 두개골발육부전, 무뇨증, 신부전, 자궁내 성장지체, 양수과소증(사지구축, 두개안면기형, 폐발육부전과 관련) 및 사망 등 보고. 임신 1기에 투여시 출생결함의 잠재적 위험과 관련됨. / rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "amlodipine + ezetimibe + losartan + rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "cilostazol: 동물실험에서 이상태자의 증가 및 출생시의 저체중, 사망 증가 보고. / rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "cilostazol + rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin:임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "rosuvastatin"
+  }
+ ],
+ "elderly": [],
+ "dose": [
+  {
+   "text": "1일 최대투여량: 로수바스타틴 20mg"
+  },
+  {
+   "text": "1일 최대투여량: 에제티미브 10mg/로수바스타틴 20mg"
+  },
+  {
+   "text": "1일 최대투여량: 올메사르탄메독소밀 40mg/로수바스타틴 20mg"
+  },
+  {
+   "text": "1일 최대투여량: 로수바스타틴 20mg/발사르탄 320mg"
+  }
+ ],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "지질저하제",
+   "subgroup": "Group 1",
+   "code": "218A0006"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

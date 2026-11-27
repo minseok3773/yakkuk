@@ -1,0 +1,48 @@
+{
+ "id": "scopolamine",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "scopolamine"
+ ],
+ "contraindicated_with": [],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "태아에 대한 부작용 위험성. 동물 실험에서 기형 보고",
+   "ingredient": "Scopolamine hydrobromide"
+  },
+  {
+   "grade": "2",
+   "reason": "Dimenhydrinate : 유사 화합물의 동물실험(랫트)에서 기형발생 보고/ Scopolamine hydrobromide :태아에 대한 부작용 위험성. 동물 실험에서 기형 보고",
+   "ingredient": "Dimenhydrinate, Scopolamine hydrobromide"
+  },
+  {
+   "grade": "2",
+   "reason": "dimenhydrinate: 유사 화합물의 동물실험(랫트)에서 기형발생 보고/ scopolamine hydrobromide: 태아에 대한 부작용 위험성. 동물 실험에서 기형 보고",
+   "ingredient": "dimenhydrinate+scopolamine hydrobromide"
+  },
+  {
+   "grade": "2",
+   "reason": "dimenhydrinate:유사 화합물의 동물실험(랫트)에서 기형발생 보고/scopolamine hydrobromide:태아에 대한 부작용 위험성. 동물 실험에서 기형 보고",
+   "ingredient": "dimenhydrinate, scopolamine hydrobromide"
+  }
+ ],
+ "elderly": [],
+ "dose": [
+  {
+   "text": "1일 최대투여량: 디멘히드리네이트 80mg /스코폴라민브롬화수소산염수화물 0.5mg"
+  },
+  {
+   "text": "1일 최대투여량: 디멘히드리네이트 70mg/카페인무수물 60mg/니코틴산아미드 40mg/피리독신염산염 10mg/스코폴라민브롬화수소산염수화물 0.5mg"
+  },
+  {
+   "text": "1일 최대투여량: 메클리진염산염수화물 50mg/카페인무수물 40mg/스코폴라민브롬화수소산염수화물 0.4mg"
+  }
+ ],
+ "duration": [],
+ "class_duplication": [],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

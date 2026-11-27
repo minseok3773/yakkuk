@@ -1,0 +1,50 @@
+{
+ "id": "morphine",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "morphine"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "buprenorphine",
+   "reason": "진통효과 감소, 금단증상 위험",
+   "self": "morphine hydrochloride"
+  },
+  {
+   "ingredient": "selegiline hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "morphine hydrochloride"
+  }
+ ],
+ "age": [
+  {
+   "text": "18세 미만:",
+   "ingredient": "morphine sulfate"
+  }
+ ],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "동물실험에서 고용량 투여시 저산소증으로 인한 기형 유발, 새끼의 사망률 및 발달장애 증가 보고.신생아에서 마약금단증상(신경과민, 과도한 움직임, 울음, 불면, 떨림, 발열 등) 가능성. 출산/분만 중 투여시 신생아 호흡억제 유발 가능성.",
+   "ingredient": "morphine hydrochloride   5mg(10mg/mL)"
+  },
+  {
+   "grade": "2",
+   "reason": "동물실험에서 고용량 투여시 저산소증으로 인한 기형 유발, 새끼의 사망률 및 발달장애 증가 보고. 신생아에서 마약금단증상(신경과민, 과도한 움직임, 울음, 불면, 떨림, 발열 등) 가능성. 출산/분만 중 투여시 신생아 호흡억제 유발 가능성.",
+   "ingredient": "morphine"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "마약류 아편유사제",
+   "subgroup": "Group 1.",
+   "code": "811A0008"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

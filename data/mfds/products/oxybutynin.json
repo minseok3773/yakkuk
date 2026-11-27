@@ -1,0 +1,59 @@
+{
+ "id": "oxybutynin",
+ "query": [
+  "옥시부티닌"
+ ],
+ "fetched": "2026-11-27",
+ "total": 3,
+ "kept": 3,
+ "mfdsName": [
+  "옥시부티닌염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "198600437",
+   "name": "동화디트로판정(옥시부티닌염산염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "옥시부티닌염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1986-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198600437"
+  },
+  {
+   "itemSeq": "200902710",
+   "name": "유로티닌정(옥시부티닌염산염)(수출용)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "옥시부티닌염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902710"
+  },
+  {
+   "itemSeq": "201506765",
+   "name": "오부틴정(옥시부티닌염산염)(수출용)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "옥시부티닌염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506765"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "id": "perphenazine",
+ "query": [
+  "퍼페나진",
+  "perphenazine"
+ ],
+ "fetched": "2026-11-26",
+ "total": 2,
+ "kept": 2,
+ "mfdsName": [
+  "페르페나진",
+  "페르페나진염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "198500622",
+   "name": "명인페르페나진정4밀리그램",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "페르페나진",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500622"
+  },
+  {
+   "itemSeq": "199600631",
+   "name": "페로친주(페르페나진염산염)(수출용)",
+   "company": "(주)제일제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "페르페나진염산염",
+     "amount": "3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1996-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199600631"
+  }
+ ]
+}

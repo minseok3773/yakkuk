@@ -1,0 +1,2875 @@
+{
+ "id": "pitavastatin",
+ "query": [
+  "피타바스타틴"
+ ],
+ "fetched": "2026-11-27",
+ "total": 164,
+ "kept": 164,
+ "mfdsName": [
+  "피타바스타틴칼슘",
+  "피타바스타틴칼슘수화물"
+ ],
+ "items": [
+  {
+   "itemSeq": "200500287",
+   "name": "리바로정1밀리그램(피타바스타틴칼슘수화물)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "1.102",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500287"
+  },
+  {
+   "itemSeq": "200500288",
+   "name": "리바로정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500288"
+  },
+  {
+   "itemSeq": "201103416",
+   "name": "타바로우정(피타바스타틴칼슘)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103416"
+  },
+  {
+   "itemSeq": "201103415",
+   "name": "피큐로우정2밀리그램(피타바스타틴칼슘)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103415"
+  },
+  {
+   "itemSeq": "201103424",
+   "name": "피타로우정2밀리그램(피타바스타틴칼슘)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103424"
+  },
+  {
+   "itemSeq": "201103425",
+   "name": "피타바로틴정2밀리그램(피타바스타틴칼슘)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103425"
+  },
+  {
+   "itemSeq": "201103421",
+   "name": "피타정2밀리그램(피타바스타틴칼슘)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103421"
+  },
+  {
+   "itemSeq": "201103422",
+   "name": "피타큐정2밀리그램(피타바스타틴칼슘)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103422"
+  },
+  {
+   "itemSeq": "201103419",
+   "name": "피타틴정(피타바스타틴칼슘)",
+   "company": "삼남제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103419"
+  },
+  {
+   "itemSeq": "201103475",
+   "name": "케이바로정(피타바스타틴칼슘수화물)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103475"
+  },
+  {
+   "itemSeq": "201103472",
+   "name": "타스틴정2밀리그램(피타바스타틴칼슘)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103472"
+  },
+  {
+   "itemSeq": "201103473",
+   "name": "피스타정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103473"
+  },
+  {
+   "itemSeq": "201103469",
+   "name": "피타넥스정(피타바스타틴칼슘)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103469"
+  },
+  {
+   "itemSeq": "201103466",
+   "name": "피타에스정2밀리그램(피타바스타틴칼슘)",
+   "company": "삼아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103466"
+  },
+  {
+   "itemSeq": "201103562",
+   "name": "동광피타바스타틴정2밀리그램(피타바스타틴칼슘)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103562"
+  },
+  {
+   "itemSeq": "201103565",
+   "name": "피타바스정2밀리그램(피타바스타틴칼슘)",
+   "company": "초당약품공업(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103565"
+  },
+  {
+   "itemSeq": "201103569",
+   "name": "피타바정(피타바스타틴칼슘수화물)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103569"
+  },
+  {
+   "itemSeq": "201103563",
+   "name": "피타테롤정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103563"
+  },
+  {
+   "itemSeq": "201103617",
+   "name": "리파틴정2밀리그램(피타바스타틴칼슘)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103617"
+  },
+  {
+   "itemSeq": "201205253",
+   "name": "리바로정4밀리그램(피타바스타틴칼슘수화물)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.409",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205253"
+  },
+  {
+   "itemSeq": "201208724",
+   "name": "피타듀스정2밀리그램(피타바스타틴칼슘)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208724"
+  },
+  {
+   "itemSeq": "201306451",
+   "name": "메가스타틴정2mg(피타바스타틴칼슘)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306451"
+  },
+  {
+   "itemSeq": "201308977",
+   "name": "피타큐정4밀리그램(피타바스타틴칼슘)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308977"
+  },
+  {
+   "itemSeq": "201310714",
+   "name": "피타듀스정4밀리그램(피타바스타틴칼슘)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310714"
+  },
+  {
+   "itemSeq": "201405925",
+   "name": "씨엠지피타바스타틴정2mg(피타바스타틴칼슘수화물)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405925"
+  },
+  {
+   "itemSeq": "201500067",
+   "name": "피타바스정4밀리그램(피타바스타틴칼슘)",
+   "company": "초당약품공업(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500067"
+  },
+  {
+   "itemSeq": "201502462",
+   "name": "로바로우정2밀리그램(피타바스타틴칼슘)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502462"
+  },
+  {
+   "itemSeq": "201507597",
+   "name": "뉴바로정2mg(피타바스타틴칼슘수화물)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507597"
+  },
+  {
+   "itemSeq": "201601147",
+   "name": "타바스타정2밀리그램(피타바스타틴칼슘)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601147"
+  },
+  {
+   "itemSeq": "201603044",
+   "name": "피타로틴정2밀리그램(피타바스타틴칼슘)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603044"
+  },
+  {
+   "itemSeq": "201603045",
+   "name": "피타로틴정4밀리그램(피타바스타틴칼슘)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603045"
+  },
+  {
+   "itemSeq": "201701318",
+   "name": "피타스틴정2밀리그램(피타바스타틴칼슘)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701318"
+  },
+  {
+   "itemSeq": "201801826",
+   "name": "로피타정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801826"
+  },
+  {
+   "itemSeq": "201802146",
+   "name": "피타론정(피타바스타틴칼슘)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802146"
+  },
+  {
+   "itemSeq": "201805361",
+   "name": "페바로정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805361"
+  },
+  {
+   "itemSeq": "201901224",
+   "name": "피바글로정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901224"
+  },
+  {
+   "itemSeq": "201901754",
+   "name": "디엠타틴정(피타바스타틴칼슘수화물)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901754"
+  },
+  {
+   "itemSeq": "201901751",
+   "name": "피타틴엠정2밀리그램(피타바스타틴칼슘)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901751"
+  },
+  {
+   "itemSeq": "201903527",
+   "name": "건피타정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903527"
+  },
+  {
+   "itemSeq": "201907243",
+   "name": "리피타파정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "건일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907243"
+  },
+  {
+   "itemSeq": "201907395",
+   "name": "피트로반정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907395"
+  },
+  {
+   "itemSeq": "201907500",
+   "name": "피타스토정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907500"
+  },
+  {
+   "itemSeq": "201907609",
+   "name": "피타스틴정4밀리그램(피타바스타틴칼슘)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907609"
+  },
+  {
+   "itemSeq": "201908040",
+   "name": "엘제로정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908040"
+  },
+  {
+   "itemSeq": "202000487",
+   "name": "이바틴정2밀리그램(피타바스타틴칼슘)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000487"
+  },
+  {
+   "itemSeq": "202000700",
+   "name": "리바피타정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000700"
+  },
+  {
+   "itemSeq": "202001532",
+   "name": "리바타로정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001532"
+  },
+  {
+   "itemSeq": "202002656",
+   "name": "피타렌정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002656"
+  },
+  {
+   "itemSeq": "202002753",
+   "name": "리바스타정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002753"
+  },
+  {
+   "itemSeq": "202003208",
+   "name": "피타스탄정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003208"
+  },
+  {
+   "itemSeq": "202003706",
+   "name": "피타스틴정1밀리그램(피타바스타틴칼슘)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003706"
+  },
+  {
+   "itemSeq": "202007583",
+   "name": "피타테롤정4밀리그램(피타바스타틴칼슘수화물)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.41",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007583"
+  },
+  {
+   "itemSeq": "202008230",
+   "name": "엘제로정4밀리그램(피타바스타틴칼슘)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008230"
+  },
+  {
+   "itemSeq": "202100045",
+   "name": "동광피타바스타틴정4밀리그램(피타바스타틴칼슘)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100045"
+  },
+  {
+   "itemSeq": "202100246",
+   "name": "피타론정4밀리그램(피타바스타틴칼슘)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "4.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100246"
+  },
+  {
+   "itemSeq": "202102394",
+   "name": "케이바로정1밀리그램(피타바스타틴칼슘수화물)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "1.102",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102394"
+  },
+  {
+   "itemSeq": "202102639",
+   "name": "건피타정1밀리그램(피타바스타틴칼슘수화물)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "1.102",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102639"
+  },
+  {
+   "itemSeq": "202102605",
+   "name": "리바피타정1밀리그램(피타바스타틴칼슘수화물)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "1.102",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102605"
+  },
+  {
+   "itemSeq": "202102718",
+   "name": "이바틴정1밀리그램(피타바스타틴칼슘수화물)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "1.102",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102718"
+  },
+  {
+   "itemSeq": "202102776",
+   "name": "리피타파정1밀리그램(피타바스타틴칼슘수화물)",
+   "company": "건일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "1.102",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102776"
+  },
+  {
+   "itemSeq": "202102817",
+   "name": "타스틴정1밀리그램(피타바스타틴칼슘수화물)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "1.102",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102817"
+  },
+  {
+   "itemSeq": "202102808",
+   "name": "페바로정1밀리그램(피타바스타틴칼슘수화물)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "1.102",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102808"
+  },
+  {
+   "itemSeq": "202102918",
+   "name": "피타스탄정1밀리그램(피타바스타틴칼슘수화물)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "1.102",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102918"
+  },
+  {
+   "itemSeq": "202103313",
+   "name": "케이바로정4밀리그램(피타바스타틴칼슘수화물)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.409",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103313"
+  },
+  {
+   "itemSeq": "202103367",
+   "name": "건피타정4밀리그램(피타바스타틴칼슘수화물)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.409",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103367"
+  },
+  {
+   "itemSeq": "202103365",
+   "name": "리피타파정4밀리그램(피타바스타틴칼슘수화물)",
+   "company": "건일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.409",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103365"
+  },
+  {
+   "itemSeq": "202103366",
+   "name": "이바틴정4밀리그램(피타바스타틴칼슘수화물)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.409",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103366"
+  },
+  {
+   "itemSeq": "202103510",
+   "name": "리바피타정4밀리그램(피타바스타틴칼슘수화물)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.409",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103510"
+  },
+  {
+   "itemSeq": "202103491",
+   "name": "타스틴정4밀리그램(피타바스타틴칼슘수화물)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.409",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103491"
+  },
+  {
+   "itemSeq": "202103521",
+   "name": "페바로정4밀리그램(피타바스타틴칼슘수화물)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.409",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103521"
+  },
+  {
+   "itemSeq": "202103533",
+   "name": "피타스탄정4밀리그램(피타바스타틴칼슘수화물)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.409",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103533"
+  },
+  {
+   "itemSeq": "202105022",
+   "name": "환인피타바스타틴정1밀리그램(피타바스타틴칼슘)(수출용)(수출명: WIE-1906)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "1.045",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105022"
+  },
+  {
+   "itemSeq": "202105023",
+   "name": "환인피타바스타틴정2밀리그램(피타바스타틴칼슘)(수출용)(수출명: WIE-1906)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.09",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105023"
+  },
+  {
+   "itemSeq": "202105021",
+   "name": "환인피타바스타틴정4밀리그램(피타바스타틴칼슘)(수출용)(수출명: WIE-1906)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "4.18",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105021"
+  },
+  {
+   "itemSeq": "202105501",
+   "name": "피타틴엠정1밀리그램(피타바스타틴칼슘)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105501"
+  },
+  {
+   "itemSeq": "202105502",
+   "name": "피타틴엠정4밀리그램(피타바스타틴칼슘)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105502"
+  },
+  {
+   "itemSeq": "202200600",
+   "name": "피타로우정4밀리그램(피타바스타틴칼슘)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "4.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-02-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200600"
+  },
+  {
+   "itemSeq": "202201915",
+   "name": "로바로우정4밀리그램(피타바스타틴칼슘)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201915"
+  },
+  {
+   "itemSeq": "202202169",
+   "name": "로바로우정1밀리그램(피타바스타틴칼슘)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202169"
+  },
+  {
+   "itemSeq": "202202466",
+   "name": "피타테롤정1밀리그램(피타바스타틴칼슘)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202466"
+  },
+  {
+   "itemSeq": "202600914",
+   "name": "피타바정1mg(피타바스타틴칼슘수화물)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "1.102",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600914"
+  },
+  {
+   "itemSeq": "202601830",
+   "name": "피타넥스정1밀리그램(피타바스타틴칼슘)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601830"
+  },
+  {
+   "itemSeq": "202602166",
+   "name": "피타엘구강붕해정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602166"
+  },
+  {
+   "itemSeq": "202602165",
+   "name": "피타엘구강붕해정4밀리그램(피타바스타틴칼슘수화물)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.409",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602165"
+  },
+  {
+   "itemSeq": "202602222",
+   "name": "국제피타바스타틴구강붕해정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602222"
+  },
+  {
+   "itemSeq": "202602223",
+   "name": "국제피타바스타틴구강붕해정4밀리그램(피타바스타틴칼슘수화물)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.409",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602223"
+  },
+  {
+   "itemSeq": "202602218",
+   "name": "피타젠구강붕해정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602218"
+  },
+  {
+   "itemSeq": "202602219",
+   "name": "피타젠구강붕해정4밀리그램(피타바스타틴칼슘수화물)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.409",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602219"
+  },
+  {
+   "itemSeq": "202602220",
+   "name": "휴타바구강붕해정2밀리그램(피타바스타틴칼슘수화물)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602220"
+  },
+  {
+   "itemSeq": "202602221",
+   "name": "휴타바구강붕해정4밀리그램(피타바스타틴칼슘수화물)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.409",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602221"
+  },
+  {
+   "itemSeq": "201500966",
+   "name": "리바로브이정2/160밀리그램",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "발사르탄",
+     "amount": "160.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500966"
+  },
+  {
+   "itemSeq": "201500967",
+   "name": "리바로브이정2/80밀리그램",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "발사르탄",
+     "amount": "80.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500967"
+  },
+  {
+   "itemSeq": "201500964",
+   "name": "리바로브이정4/160밀리그램",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.409",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "발사르탄",
+     "amount": "160.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500964"
+  },
+  {
+   "itemSeq": "201500965",
+   "name": "리바로브이정4/80밀리그램",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.409",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "발사르탄",
+     "amount": "80.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500965"
+  },
+  {
+   "itemSeq": "201902024",
+   "name": "뉴스타틴듀오캡슐",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트과립",
+     "amount": "241.51",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902024"
+  },
+  {
+   "itemSeq": "201902027",
+   "name": "리로우펜캡슐",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트과립",
+     "amount": "241.51",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902027"
+  },
+  {
+   "itemSeq": "201902028",
+   "name": "리페스틴캡슐",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트과립",
+     "amount": "241.51",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902028"
+  },
+  {
+   "itemSeq": "201902030",
+   "name": "스타펜캡슐",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트과립",
+     "amount": "241.51",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902030"
+  },
+  {
+   "itemSeq": "201902029",
+   "name": "업타바캡슐",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트과립",
+     "amount": "241.51",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902029"
+  },
+  {
+   "itemSeq": "201902026",
+   "name": "페바로에프캡슐",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트과립",
+     "amount": "241.51",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902026"
+  },
+  {
+   "itemSeq": "201902031",
+   "name": "피에프캡슐",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트과립",
+     "amount": "241.51",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902031"
+  },
+  {
+   "itemSeq": "201902025",
+   "name": "피타론에프캡슐",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트과립",
+     "amount": "241.51",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902025"
+  },
+  {
+   "itemSeq": "202105578",
+   "name": "리바로젯정2/10밀리그램",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105578"
+  },
+  {
+   "itemSeq": "202105579",
+   "name": "리바로젯정4/10밀리그램",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.409",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105579"
+  },
+  {
+   "itemSeq": "202301662",
+   "name": "페바로젯정2/10밀리그램",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301662"
+  },
+  {
+   "itemSeq": "202301661",
+   "name": "페바로젯정4/10밀리그램",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301661"
+  },
+  {
+   "itemSeq": "202301668",
+   "name": "스타젯정2/10밀리그램(피타바스타틴칼슘, 에제티미브)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301668"
+  },
+  {
+   "itemSeq": "202301667",
+   "name": "스타젯정4/10밀리그램(피타바스타틴칼슘, 에제티미브)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301667"
+  },
+  {
+   "itemSeq": "202301674",
+   "name": "엘제로젯정2/10밀리그램",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301674"
+  },
+  {
+   "itemSeq": "202301673",
+   "name": "엘제로젯정4/10밀리그램",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301673"
+  },
+  {
+   "itemSeq": "202301672",
+   "name": "타바로젯정2/10밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301672"
+  },
+  {
+   "itemSeq": "202301671",
+   "name": "타바로젯정4/10밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301671"
+  },
+  {
+   "itemSeq": "202301670",
+   "name": "피제트정2/10밀리그램",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301670"
+  },
+  {
+   "itemSeq": "202301669",
+   "name": "피제트정4/10밀리그램",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301669"
+  },
+  {
+   "itemSeq": "202501069",
+   "name": "리바펜캡슐(피타바스타틴칼슘, 페노피브레이트)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트 과립",
+     "amount": "241.51",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501069"
+  },
+  {
+   "itemSeq": "202501049",
+   "name": "바로페노정2/160밀리그램(피타바스타틴칼슘,페노피브레이트)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미분화페노피브레이트",
+     "amount": "160.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501049"
+  },
+  {
+   "itemSeq": "202501046",
+   "name": "스타페노캡슐(피타바스타틴칼슘,페노피브레이트)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트 과립",
+     "amount": "241.51",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501046"
+  },
+  {
+   "itemSeq": "202501045",
+   "name": "제피노정2/160밀리그램(피타바스타틴칼슘, 페노피브레이트)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미분화페노피브레이트",
+     "amount": "160.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501045"
+  },
+  {
+   "itemSeq": "202501059",
+   "name": "타스페노캡슐(피타바스타틴칼슘,페노피브레이트)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트 과립",
+     "amount": "241.51",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501059"
+  },
+  {
+   "itemSeq": "202501060",
+   "name": "피바펜캡슐(피타바스타틴칼슘, 페노피브레이트)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트 과립",
+     "amount": "241.51",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501060"
+  },
+  {
+   "itemSeq": "202501048",
+   "name": "피타로우에프정2/160밀리그램(피타바스타틴,페노피브레이트)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미분화페노피브레이트",
+     "amount": "160.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501048"
+  },
+  {
+   "itemSeq": "202501047",
+   "name": "피타스론정2/160밀리그램(피타바스타틴칼슘,페노피브레이트)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미분화페노피브레이트",
+     "amount": "160.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501047"
+  },
+  {
+   "itemSeq": "202501340",
+   "name": "리바로페노캡슐2/110밀리그램(피타바스타틴칼슘수화물, 페노피브릭산)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "페노피브릭산",
+     "amount": "110.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501340"
+  },
+  {
+   "itemSeq": "202501335",
+   "name": "피타릭캡슐(피타바스타틴칼슘, 페노피브릭산)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "페노피브릭산",
+     "amount": "110.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501335"
+  },
+  {
+   "itemSeq": "202501341",
+   "name": "피타브릭캡슐(피타바스타틴칼슘, 페노피브릭산)",
+   "company": "한국바이오켐제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "페노피브릭산",
+     "amount": "110.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501341"
+  },
+  {
+   "itemSeq": "202501757",
+   "name": "리바페논캡슐2/160밀리그램(피타바스타틴칼슘, 페노피브레이트)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트 과립",
+     "amount": "241.51",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501757"
+  },
+  {
+   "itemSeq": "202501758",
+   "name": "셀타펜캡슐(피타바스타틴,페노피브레이트)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트 과립",
+     "amount": "241.51",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501758"
+  },
+  {
+   "itemSeq": "202501756",
+   "name": "피타뉴펜캡슐(피타바스타틴칼슘, 페노피브레이트과립)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트 과립",
+     "amount": "241.51",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501756"
+  },
+  {
+   "itemSeq": "202502259",
+   "name": "페타바정(피타바스타틴,페노피브레이트)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "페노피브레이트(미분화)",
+     "amount": "160.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502259"
+  },
+  {
+   "itemSeq": "202502258",
+   "name": "피타렛정2/160밀리그램(피타바스타틴칼슘수화물, 페노피브레이트)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트",
+     "amount": "160.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502258"
+  },
+  {
+   "itemSeq": "202502272",
+   "name": "리파틴듀오정2/160밀리그램(피타바스타틴칼슘, 페노피브레이트)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트",
+     "amount": "160.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502272"
+  },
+  {
+   "itemSeq": "202502274",
+   "name": "스타피브정2/160밀리그램(피타바스타틴칼슘수화물,페노피브레이트)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트",
+     "amount": "160.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502274"
+  },
+  {
+   "itemSeq": "202502271",
+   "name": "페노피타정(피타바스타틴칼슘, 페노피브레이트)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트",
+     "amount": "160.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502271"
+  },
+  {
+   "itemSeq": "202502269",
+   "name": "페바로에프정(피타바스타틴칼슘, 페노피브레이트)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "페노피브레이트(미분화)",
+     "amount": "160.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502269"
+  },
+  {
+   "itemSeq": "202502270",
+   "name": "피타에프정(피타바스타틴칼슘, 페노피브레이트)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "페노피브레이트(미분화)",
+     "amount": "160.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502270"
+  },
+  {
+   "itemSeq": "202502273",
+   "name": "피펜정(피타바스타틴,페노피브레이트)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "페노피브레이트(미분화)",
+     "amount": "160.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502273"
+  },
+  {
+   "itemSeq": "202502533",
+   "name": "리바로하이정2/80/5밀리그램(피타바스타틴칼슘수화물,발사르탄,암로디핀베실산염)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발사르탄",
+     "amount": "80.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502533"
+  },
+  {
+   "itemSeq": "202502532",
+   "name": "리바로하이정4/160/10밀리그램(피타바스타틴칼슘수화물,발사르탄,암로디핀베실산염)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발사르탄",
+     "amount": "160.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.87",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.409",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502532"
+  },
+  {
+   "itemSeq": "202502534",
+   "name": "리바로하이정4/160/5밀리그램(피타바스타틴칼슘수화물,발사르탄,암로디핀베실산염)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발사르탄",
+     "amount": "160.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.409",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502534"
+  },
+  {
+   "itemSeq": "202502535",
+   "name": "리바로하이정4/80/5밀리그램(피타바스타틴칼슘수화물,발사르탄,암로디핀베실산염)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발사르탄",
+     "amount": "80.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "4.409",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502535"
+  },
+  {
+   "itemSeq": "202502593",
+   "name": "리바로하이정2/160/10밀리그램(피타바스타틴칼슘수화물,발사르탄,암로디핀베실산염)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발사르탄",
+     "amount": "160.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.87",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502593"
+  },
+  {
+   "itemSeq": "202502594",
+   "name": "리바로하이정2/160/5밀리그램(피타바스타틴칼슘수화물,발사르탄,암로디핀베실산염)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발사르탄",
+     "amount": "160.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "2.205",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502594"
+  },
+  {
+   "itemSeq": "202503209",
+   "name": "페노로반정2/145밀리그램(피타바스타틴칼슘, 페노피브레이트)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "페노피브레이트",
+     "amount": "145",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503209"
+  },
+  {
+   "itemSeq": "202503282",
+   "name": "글리펜슈프림플러스정(피타바스타틴칼슘, 페노피브레이트)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "페노피브레이트",
+     "amount": "145",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-12-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503282"
+  },
+  {
+   "itemSeq": "202503281",
+   "name": "피타노펜정2/145밀리그램(피타바스타틴칼슘,페노피브레이트)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "페노피브레이트",
+     "amount": "145",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-12-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503281"
+  },
+  {
+   "itemSeq": "202503295",
+   "name": "유한피타바노정2/145밀리그램(피타바스타틴칼슘, 페노피브레이트)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "페노피브레이트",
+     "amount": "145",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-12-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503295"
+  },
+  {
+   "itemSeq": "202600266",
+   "name": "바로에젯정1/10밀리그램(피타바스타틴칼슘수화물,에제티미브)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "1.102",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600266"
+  },
+  {
+   "itemSeq": "202600264",
+   "name": "스타젯정1/10밀리그램(피타바스타틴칼슘수화물,에제티미브)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "1.102",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600264"
+  },
+  {
+   "itemSeq": "202600262",
+   "name": "피에젯타정1/10밀리그램(피타바스타틴칼슘수화물,에제티미브)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "1.102",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600262"
+  },
+  {
+   "itemSeq": "202600265",
+   "name": "피타큐젯정1/10밀리그램(피타바스타틴칼슘수화물, 에제티미브)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "1.102",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600265"
+  },
+  {
+   "itemSeq": "202600577",
+   "name": "업타바서방정(피타바스타틴칼슘, 페노피브레이트콜린)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트콜린",
+     "amount": "178.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600577"
+  },
+  {
+   "itemSeq": "202600585",
+   "name": "타바페노서방정(피타바스타틴칼슘, 페노피브레이트콜린)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트콜린",
+     "amount": "178.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600585"
+  },
+  {
+   "itemSeq": "202600584",
+   "name": "피타콜린서방정(피타바스타틴칼슘, 페노피브레이트콜린)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트콜린",
+     "amount": "178.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600584"
+  },
+  {
+   "itemSeq": "202600583",
+   "name": "피타페노콜서방정(피타바스타틴칼슘,페노피브레이트콜린)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트콜린",
+     "amount": "178.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600583"
+  },
+  {
+   "itemSeq": "202600749",
+   "name": "리바로젯정1/10밀리그램(피타바스타틴칼슘, 에제티미브)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘수화물",
+     "amount": "1.102",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600749"
+  },
+  {
+   "itemSeq": "202600861",
+   "name": "스타피노정2/160밀리그램(피타바스타틴칼슘, 페노피브레이트)",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "페노피브레이트 펠렛",
+     "amount": "242.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600861"
+  },
+  {
+   "itemSeq": "202601147",
+   "name": "페바로젯정1/10밀리그램(피타바스타틴, 에제티미브)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601147"
+  },
+  {
+   "itemSeq": "202601209",
+   "name": "뉴팜피타에제정1/10밀리그램(피타바스타틴,에제티미브)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601209"
+  },
+  {
+   "itemSeq": "202601207",
+   "name": "에로젯정1/10밀리그램(피타바스타틴, 에제티미브)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601207"
+  },
+  {
+   "itemSeq": "202601206",
+   "name": "엘제로젯정1/10밀리그램(피타바스타틴칼슘, 에제티미브)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601206"
+  },
+  {
+   "itemSeq": "202601474",
+   "name": "타바로젯정1/10밀리그램(피타바스타틴칼슘, 에제티미브)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601474"
+  },
+  {
+   "itemSeq": "202601561",
+   "name": "피제트정1/10밀리그램(피타바스타틴칼슘, 에제티미브)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601561"
+  },
+  {
+   "itemSeq": "202602167",
+   "name": "피타이지정1/10밀리그램(피타바스타틴칼슘, 에제티미브)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602167"
+  },
+  {
+   "itemSeq": "202603423",
+   "name": "타스젯정1/10밀리그램(피타바스타틴칼슘, 에제티미브)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피타바스타틴칼슘",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-11-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603423"
+  }
+ ]
+}

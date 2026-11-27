@@ -1,0 +1,2506 @@
+{
+ "id": "clopidogrel",
+ "query": [
+  "클로피도그렐"
+ ],
+ "fetched": "2026-11-27",
+ "total": 158,
+ "kept": 158,
+ "mfdsName": [
+  "클로피도그렐황산염",
+  "클로피도그렐황산수소염",
+  "클로피도그렐캄실산염",
+  "베실산클로피도그렐",
+  "클로피도그렐베실산염",
+  "황산수소클로피도그렐",
+  "클로피도그렐레지네이트",
+  "클로피도그렐나파디실레이트일수화물"
+ ],
+ "items": [
+  {
+   "itemSeq": "200500249",
+   "name": "플라비톨정(클로피도그렐황산수소염)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500249"
+  },
+  {
+   "itemSeq": "200502869",
+   "name": "피도빅스정(클로피도그렐황산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502869"
+  },
+  {
+   "itemSeq": "200500494",
+   "name": "건일클로피도그렐정(클로피도그렐황산염)",
+   "company": "건일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500494"
+  },
+  {
+   "itemSeq": "200501593",
+   "name": "대원클로피도그렐정(클로피도그렐황산염)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501593"
+  },
+  {
+   "itemSeq": "200500965",
+   "name": "맥스그렐정(클로피도그렐황산수소염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500965"
+  },
+  {
+   "itemSeq": "200512335",
+   "name": "세레나데정(클로피도그렐황산수소염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512335"
+  },
+  {
+   "itemSeq": "200501208",
+   "name": "일양클로피도그렐정75밀리그램(클로피도그렐황산염)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501208"
+  },
+  {
+   "itemSeq": "200500585",
+   "name": "코빅스정75밀리그램(클로피도그렐황산수소염)",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500585"
+  },
+  {
+   "itemSeq": "200501380",
+   "name": "큐오렐정(클로피도그렐황산수소염)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501380"
+  },
+  {
+   "itemSeq": "200500873",
+   "name": "클로델정75밀리그램(클로피도그렐황산수소염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500873"
+  },
+  {
+   "itemSeq": "200500715",
+   "name": "클로피정(클로피도그렐황산수소염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500715"
+  },
+  {
+   "itemSeq": "200501568",
+   "name": "플래리스정(클로피도그렐황산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501568"
+  },
+  {
+   "itemSeq": "200500282",
+   "name": "유유클로피도그렐정(클로피도그렐황산염)(수출용)",
+   "company": "(주)유유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500282"
+  },
+  {
+   "itemSeq": "200501925",
+   "name": "영일클로피도그렐정(클로피도그렐황산염)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501925"
+  },
+  {
+   "itemSeq": "200501427",
+   "name": "크로피겔정(클로피도그렐황산염)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501427"
+  },
+  {
+   "itemSeq": "200503302",
+   "name": "클로피드정(클로피도그렐황산염)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200503302"
+  },
+  {
+   "itemSeq": "200501667",
+   "name": "클로피젠정(클로피도그렐황산염)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501667"
+  },
+  {
+   "itemSeq": "200501543",
+   "name": "프레토정(클로피도그렐황산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501543"
+  },
+  {
+   "itemSeq": "200500044",
+   "name": "하이빅스정(클로피도그렐황산수소염)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500044"
+  },
+  {
+   "itemSeq": "200600466",
+   "name": "프라빅정(클로피도그렐황산수소염)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600466"
+  },
+  {
+   "itemSeq": "200600522",
+   "name": "크라빅스정(클로피도그렐황산수소염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600522"
+  },
+  {
+   "itemSeq": "200604277",
+   "name": "인히플라정(클로피도그렐황산염)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-05-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604277"
+  },
+  {
+   "itemSeq": "200604239",
+   "name": "크리빅스정(클로피도그렐황산수소염)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604239"
+  },
+  {
+   "itemSeq": "200604227",
+   "name": "클로펙트정(클로피도그렐황산염)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604227"
+  },
+  {
+   "itemSeq": "200606996",
+   "name": "플라메드정(클로피도그렐황산수소염)[수출명:플라독스정(FLADOXTablet)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606996"
+  },
+  {
+   "itemSeq": "200608465",
+   "name": "클로본스정(클로피도그렐황산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608465"
+  },
+  {
+   "itemSeq": "200607699",
+   "name": "트롬빅스정(클로피도그렐황산수소염)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607699"
+  },
+  {
+   "itemSeq": "200607874",
+   "name": "큐로빅스정(클로피도그렐황산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-11-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607874"
+  },
+  {
+   "itemSeq": "200608038",
+   "name": "클로아트정(클로피도그렐황산염)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-11-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608038"
+  },
+  {
+   "itemSeq": "200701040",
+   "name": "휴로픽스정(클로피도그렐황산수소염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701040"
+  },
+  {
+   "itemSeq": "200700907",
+   "name": "플라빅스정75밀리그램(클로피도그렐황산염)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700907"
+  },
+  {
+   "itemSeq": "200701189",
+   "name": "플라벨정(클로피도그렐황산수소염)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701189"
+  },
+  {
+   "itemSeq": "200701809",
+   "name": "프리그렐정(클로피도그렐레지네이트)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐레지네이트",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701809"
+  },
+  {
+   "itemSeq": "200702138",
+   "name": "에이프로젠클로피도그렐정(클로피도그렐황산염)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702138"
+  },
+  {
+   "itemSeq": "200703654",
+   "name": "클로그렐정75밀리그램(클로피도그렐황산염)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703654"
+  },
+  {
+   "itemSeq": "200708091",
+   "name": "클로비드정(클로피도그렐베실산염)",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐베실산염",
+     "amount": "111.86",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708091"
+  },
+  {
+   "itemSeq": "200713517",
+   "name": "피도글정75밀리그램(클로피도그렐나파디실레이트일수화물)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐나파디실레이트일수화물",
+     "amount": "110.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-12-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200713517"
+  },
+  {
+   "itemSeq": "200713885",
+   "name": "클로베인정(클로피도그렐황산수소염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200713885"
+  },
+  {
+   "itemSeq": "200805211",
+   "name": "인히플라트정(클로피도그렐캄실산염)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐캄실산염",
+     "amount": "129.14",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805211"
+  },
+  {
+   "itemSeq": "200805936",
+   "name": "필그렐정(클로피도그렐황산수소염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805936"
+  },
+  {
+   "itemSeq": "200808253",
+   "name": "비알빅스정(클로피도그렐캄실산염)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐캄실산염",
+     "amount": "129.14",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808253"
+  },
+  {
+   "itemSeq": "200900447",
+   "name": "코빅스비정(베실산클로피도그렐)(수출용)",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "베실산클로피도그렐",
+     "amount": "111.86",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200900447"
+  },
+  {
+   "itemSeq": "200907189",
+   "name": "클라빅신정(클로피도그렐황산수소염)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200907189"
+  },
+  {
+   "itemSeq": "201006511",
+   "name": "클로피도정(클로피도그렐황산수소염)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006511"
+  },
+  {
+   "itemSeq": "201200603",
+   "name": "플빅스정(클로피도그렐황산염)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200603"
+  },
+  {
+   "itemSeq": "201206830",
+   "name": "프라임테보랄정(황산수소클로피도그렐)(수출용)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "황산수소클로피도그렐",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206830"
+  },
+  {
+   "itemSeq": "201206954",
+   "name": "클로렐정(클로피도그렐황산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206954"
+  },
+  {
+   "itemSeq": "201206952",
+   "name": "파비클렌정(클로피도그렐황산수소염)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206952"
+  },
+  {
+   "itemSeq": "201206953",
+   "name": "프라빅센정 (클로피도그렐황산염)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206953"
+  },
+  {
+   "itemSeq": "201207403",
+   "name": "에라빅스정(클로피도그렐황산수소염)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207403"
+  },
+  {
+   "itemSeq": "201207379",
+   "name": "클빅스정75밀리그램(클로피도그렐황산염)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207379"
+  },
+  {
+   "itemSeq": "201207459",
+   "name": "클리델정(클로피도그렐황산수소염)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207459"
+  },
+  {
+   "itemSeq": "201207517",
+   "name": "클로린정75밀리그램(클로피도그렐황산염)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207517"
+  },
+  {
+   "itemSeq": "201207510",
+   "name": "클로피나정(클로피도그렐황산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207510"
+  },
+  {
+   "itemSeq": "201207508",
+   "name": "프로빅스정(클로피도그렐황산수소염)",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207508"
+  },
+  {
+   "itemSeq": "201208077",
+   "name": "플라넥신정(클로피도그렐황산수소염)",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208077"
+  },
+  {
+   "itemSeq": "201209005",
+   "name": "현대클로피도그렐정(클로피도그렐황산수소염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201209005"
+  },
+  {
+   "itemSeq": "201300318",
+   "name": "경보클로피도그렐정(클로피도그렐황산염)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201300318"
+  },
+  {
+   "itemSeq": "201301376",
+   "name": "명문클로피도그렐정(클로피도그렐황산수소염)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201301376"
+  },
+  {
+   "itemSeq": "201301620",
+   "name": "클로제정(클로피도그렐황산염)",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201301620"
+  },
+  {
+   "itemSeq": "201306332",
+   "name": "뉴빅스정(클로피도그렐황산염)",
+   "company": "에스피씨(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306332"
+  },
+  {
+   "itemSeq": "201306342",
+   "name": "크로피렐정(클로피도그렐황산수소염)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306342"
+  },
+  {
+   "itemSeq": "201306377",
+   "name": "로피렐정(클로피도그렐황산염)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306377"
+  },
+  {
+   "itemSeq": "201306363",
+   "name": "아나빅스정(클로피도그렐황산수소염)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306363"
+  },
+  {
+   "itemSeq": "201306524",
+   "name": "알피클로피아정(클로피도그렐황산염)",
+   "company": "(주)알피바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306524"
+  },
+  {
+   "itemSeq": "201307490",
+   "name": "클로필정(클로피도그렐황산염)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307490"
+  },
+  {
+   "itemSeq": "201307537",
+   "name": "플라그렐정(클로피도그렐황산염)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307537"
+  },
+  {
+   "itemSeq": "201307935",
+   "name": "엘피도그렐정(클로피도그렐황산염)",
+   "company": "미래바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307935"
+  },
+  {
+   "itemSeq": "201308397",
+   "name": "이연클로피도그렐황산수소염정",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308397"
+  },
+  {
+   "itemSeq": "201308626",
+   "name": "바소빅스정(클로피도그렐황산수소염)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308626"
+  },
+  {
+   "itemSeq": "201308825",
+   "name": "클로젝스정(클로피도그렐황산염)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308825"
+  },
+  {
+   "itemSeq": "201309184",
+   "name": "글로그렐정75밀리그램(클로피도그렐황산염)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309184"
+  },
+  {
+   "itemSeq": "201309561",
+   "name": "아트크렐정(클로피도그렐황산염)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309561"
+  },
+  {
+   "itemSeq": "201309810",
+   "name": "클로피렌정(클로피도그렐황산염)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309810"
+  },
+  {
+   "itemSeq": "201309855",
+   "name": "글로피도그렐정(클로피도그렐황산염)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309855"
+  },
+  {
+   "itemSeq": "201310609",
+   "name": "클피도엠정(클로피도그렐황산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310609"
+  },
+  {
+   "itemSeq": "201310896",
+   "name": "피도그린정75mg(클로피도그렐황산염)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310896"
+  },
+  {
+   "itemSeq": "201402838",
+   "name": "케이그렐정(클로피도그렐황산염)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-06-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402838"
+  },
+  {
+   "itemSeq": "201403943",
+   "name": "일양바이오클로피도그렐황산염정75밀리그램",
+   "company": "일양바이오팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403943"
+  },
+  {
+   "itemSeq": "201404299",
+   "name": "피도겔정(클로피도그렐황산염)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404299"
+  },
+  {
+   "itemSeq": "201404538",
+   "name": "그로리정75밀리그램(클로피도그렐황산수소염)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404538"
+  },
+  {
+   "itemSeq": "201405255",
+   "name": "클로드정75밀리그램(클로피도그렐황산염)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405255"
+  },
+  {
+   "itemSeq": "201500929",
+   "name": "클로피오정(클로피도그렐황산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500929"
+  },
+  {
+   "itemSeq": "201502401",
+   "name": "한클로정(클로피도그렐황산염)",
+   "company": "(주)휴메딕스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502401"
+  },
+  {
+   "itemSeq": "201503157",
+   "name": "프로빅트정(클로피도그렐황산염)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503157"
+  },
+  {
+   "itemSeq": "201504255",
+   "name": "프래빅스정(클로피도그렐황산수소염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504255"
+  },
+  {
+   "itemSeq": "201505737",
+   "name": "클로피딜정(클로피도그렐황산염)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505737"
+  },
+  {
+   "itemSeq": "201506676",
+   "name": "뉴피도정(클로피도그렐황산수소염)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506676"
+  },
+  {
+   "itemSeq": "201507094",
+   "name": "크레빅스정(클로피도그렐황산염)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507094"
+  },
+  {
+   "itemSeq": "201507899",
+   "name": "클로첸스정(클로피도그렐황산염)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507899"
+  },
+  {
+   "itemSeq": "201601120",
+   "name": "클로피엘티정(클로피도그렐황산염)",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601120"
+  },
+  {
+   "itemSeq": "201602804",
+   "name": "우리빅스정(클로피도그렐황산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602804"
+  },
+  {
+   "itemSeq": "201603030",
+   "name": "아이클로정(클로피도그렐황산수소염)",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603030"
+  },
+  {
+   "itemSeq": "201603497",
+   "name": "클로큐어정75밀리그램(클로피도그렐황산염)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603497"
+  },
+  {
+   "itemSeq": "201603516",
+   "name": "클로스타정(클로피도그렐황산수소염)",
+   "company": "한국신텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603516"
+  },
+  {
+   "itemSeq": "201603691",
+   "name": "비보존클로피도그렐정75mg(클로피도그렐황산수소염)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603691"
+  },
+  {
+   "itemSeq": "201604022",
+   "name": "클로도렐정75mg(클로피도그렐황산염)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604022"
+  },
+  {
+   "itemSeq": "201701057",
+   "name": "네오빅스정(클로피도그렐황산수소염)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701057"
+  },
+  {
+   "itemSeq": "201701198",
+   "name": "셀라빅스정75밀리그램(클로피도그렐황산염)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701198"
+  },
+  {
+   "itemSeq": "201701565",
+   "name": "다림클로피도그렐정75mg(클로피도그렐황산수소염)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701565"
+  },
+  {
+   "itemSeq": "201703070",
+   "name": "이노엔클로피도그렐정(클로피도그렐황산수소염)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201703070"
+  },
+  {
+   "itemSeq": "201707646",
+   "name": "안티플라정(클로피도그렐황산수소염)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707646"
+  },
+  {
+   "itemSeq": "201707642",
+   "name": "유그렐정(클로피도그렐황산염)",
+   "company": "(주)유유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707642"
+  },
+  {
+   "itemSeq": "201800144",
+   "name": "플라비토르정(클로피도그렐황산수소염)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800144"
+  },
+  {
+   "itemSeq": "201800992",
+   "name": "클로메디정(클로피도그렐황산수소염)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800992"
+  },
+  {
+   "itemSeq": "201801536",
+   "name": "뉴클로파인정(클로피도그렐황산염)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801536"
+  },
+  {
+   "itemSeq": "201802008",
+   "name": "텔로그렐정(클로피도그렐황산수소염)",
+   "company": "(주)텔콘알에프제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802008"
+  },
+  {
+   "itemSeq": "201802536",
+   "name": "클피그렐정(클로피도그렐황산염)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802536"
+  },
+  {
+   "itemSeq": "201803080",
+   "name": "제이그렐정(클로피도그렐황산염)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803080"
+  },
+  {
+   "itemSeq": "201803777",
+   "name": "큐로벡스정(클로피도그렐황산수소염)",
+   "company": "정우신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803777"
+  },
+  {
+   "itemSeq": "201804600",
+   "name": "한빅스정75mg(클로피도그렐황산수소염)",
+   "company": "대한약품공업(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804600"
+  },
+  {
+   "itemSeq": "201804935",
+   "name": "오코도렐정(클로피도그렐황산염)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804935"
+  },
+  {
+   "itemSeq": "201900649",
+   "name": "케라픽스정(클로피도그렐황산수소염)",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900649"
+  },
+  {
+   "itemSeq": "201900676",
+   "name": "플라킴정75mg(클로피도그렐황산수소염)",
+   "company": "(주)킴스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900676"
+  },
+  {
+   "itemSeq": "201900807",
+   "name": "클로빅스정(클로피도그렐황산염)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900807"
+  },
+  {
+   "itemSeq": "201901894",
+   "name": "클로윈정(클로피도그렐황산염)",
+   "company": "코스맥스파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901894"
+  },
+  {
+   "itemSeq": "201902442",
+   "name": "동성클로피도그렐정(클로피도그렐황산염)",
+   "company": "동성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902442"
+  },
+  {
+   "itemSeq": "201902793",
+   "name": "클로픽정75밀리그램(클로피도그렐황산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902793"
+  },
+  {
+   "itemSeq": "201903079",
+   "name": "케이플라정(클로피도그렐황산염)",
+   "company": "(주)그린제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903079"
+  },
+  {
+   "itemSeq": "201903331",
+   "name": "클로디드정(클로피도그렐황산염)",
+   "company": "하이플생명과학(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903331"
+  },
+  {
+   "itemSeq": "201903445",
+   "name": "에스디클로정75mg(클로피도그렐황산염)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903445"
+  },
+  {
+   "itemSeq": "201903699",
+   "name": "클로텍정(클로피도그렐황산염)",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903699"
+  },
+  {
+   "itemSeq": "201904612",
+   "name": "클로핀정(클로피도그렐황산염)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904612"
+  },
+  {
+   "itemSeq": "201904721",
+   "name": "유빅스정(클로피도그렐황산수소염)",
+   "company": "에스에스팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904721"
+  },
+  {
+   "itemSeq": "201906125",
+   "name": "클로부스트정(클로피도그렐황산염)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906125"
+  },
+  {
+   "itemSeq": "201907066",
+   "name": "에이빅스정75밀리그램(클로피도그렐황산염)",
+   "company": "(주)아리제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907066"
+  },
+  {
+   "itemSeq": "201907075",
+   "name": "크로피도정(클로피도그렐황산수소염)",
+   "company": "(주)티디에스팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907075"
+  },
+  {
+   "itemSeq": "201907801",
+   "name": "메가클로피정75밀리그램(클로피도그렐황산수소염)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907801"
+  },
+  {
+   "itemSeq": "201908185",
+   "name": "클로드린정(클로피도그렐황산염)",
+   "company": "독립바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908185"
+  },
+  {
+   "itemSeq": "202000426",
+   "name": "클로드릴정(클로피도그렐황산수소염)",
+   "company": "(주)새한제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000426"
+  },
+  {
+   "itemSeq": "202000538",
+   "name": "메딕그렐정(클로피도그렐황산수소염)",
+   "company": "(주)유앤생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000538"
+  },
+  {
+   "itemSeq": "202000943",
+   "name": "클로리정(클로피도그렐황산수소염)",
+   "company": "(주)서흥",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000943"
+  },
+  {
+   "itemSeq": "202002145",
+   "name": "플라엠정(클로피도그렐황산수소염)",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002145"
+  },
+  {
+   "itemSeq": "202002176",
+   "name": "뉴프렐정(클로피도그렐황산수소염)",
+   "company": "(주)한국팜비오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002176"
+  },
+  {
+   "itemSeq": "202105592",
+   "name": "플래리스정300밀리그램(클로피도그렐황산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "391.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105592"
+  },
+  {
+   "itemSeq": "202107045",
+   "name": "비엘클로비스정(클로피도그렐황산수소염)",
+   "company": "성이바이오제약주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산수소염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107045"
+  },
+  {
+   "itemSeq": "201111150",
+   "name": "클라빅신듀오캡슐75/100밀리그램(클로피도그렐,아스피린)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201111150"
+  },
+  {
+   "itemSeq": "201111148",
+   "name": "클라스핀캡슐75/100밀리그램(클로피도그렐,아스피린)",
+   "company": "한국바이오켐제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201111148"
+  },
+  {
+   "itemSeq": "201111149",
+   "name": "클로스원캡슐",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201111149"
+  },
+  {
+   "itemSeq": "201200635",
+   "name": "슈퍼피린캡슐75/100밀리그램(클로피도그렐, 아스피린)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200635"
+  },
+  {
+   "itemSeq": "201200636",
+   "name": "아리그렐캡슐",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200636"
+  },
+  {
+   "itemSeq": "201200634",
+   "name": "클로피린캡슐",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200634"
+  },
+  {
+   "itemSeq": "201202398",
+   "name": "코프리그렐캡슐",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201202398"
+  },
+  {
+   "itemSeq": "201603148",
+   "name": "플라빅스에이정",
+   "company": "(주)사노피-아벤티스코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아스피린과립",
+     "amount": "111.111",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.880",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603148"
+  },
+  {
+   "itemSeq": "201605650",
+   "name": "아스피도캡슐",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린 장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605650"
+  },
+  {
+   "itemSeq": "201700400",
+   "name": "아스그렐캡슐(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700400"
+  },
+  {
+   "itemSeq": "201700402",
+   "name": "피도겔듀오캡슐",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700402"
+  },
+  {
+   "itemSeq": "201700540",
+   "name": "클로렌캡슐",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700540"
+  },
+  {
+   "itemSeq": "201700718",
+   "name": "클로본스에이캡슐",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-02-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700718"
+  },
+  {
+   "itemSeq": "201701038",
+   "name": "플빅스에이캡슐",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린 장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701038"
+  },
+  {
+   "itemSeq": "201701528",
+   "name": "에라빅스플러스캡슐",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701528"
+  },
+  {
+   "itemSeq": "201706909",
+   "name": "아나빅스듀오캡슐",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706909"
+  },
+  {
+   "itemSeq": "201706891",
+   "name": "클로아핀캡슐",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706891"
+  },
+  {
+   "itemSeq": "201708219",
+   "name": "슈퍼피린캡슐75/75밀리그램(클로피도그렐, 아스피린)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708219"
+  },
+  {
+   "itemSeq": "201708499",
+   "name": "클로스피린캡슐(클로피도그렐황산염, 아스피린장용펠렛)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708499"
+  },
+  {
+   "itemSeq": "201800668",
+   "name": "프래빅스듀오캡슐",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800668"
+  },
+  {
+   "itemSeq": "201800764",
+   "name": "클라빅신듀오캡슐75/75밀리그램",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800764"
+  },
+  {
+   "itemSeq": "201803083",
+   "name": "클라스핀캡슐75/75밀리그램",
+   "company": "한국바이오켐제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803083"
+  }
+ ]
+}

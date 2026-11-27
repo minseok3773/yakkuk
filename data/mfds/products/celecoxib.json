@@ -1,0 +1,3080 @@
+{
+ "id": "celecoxib",
+ "query": [
+  "세레콕시브",
+  "쎄레콕시브"
+ ],
+ "fetched": "2026-11-27",
+ "total": 197,
+ "kept": 197,
+ "mfdsName": [
+  "세레콕시브"
+ ],
+ "items": [
+  {
+   "itemSeq": "200603815",
+   "name": "쎄레브렉스캡슐100밀리그램(세레콕시브)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200603815"
+  },
+  {
+   "itemSeq": "200409930",
+   "name": "쎄레브렉스캡슐200밀리그램(세레콕시브)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200409930"
+  },
+  {
+   "itemSeq": "201005080",
+   "name": "콕시브캡슐200밀리그램(세레콕시브)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201005080"
+  },
+  {
+   "itemSeq": "201006790",
+   "name": "콕스비토캡슐200밀리그램(세레콕시브)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006790"
+  },
+  {
+   "itemSeq": "201100381",
+   "name": "엔쎄콕캡슐200mg(세레콕시브)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100381"
+  },
+  {
+   "itemSeq": "201100380",
+   "name": "크리콕스캡슐200밀리그램(세레콕시브)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100380"
+  },
+  {
+   "itemSeq": "201101845",
+   "name": "셀브렉캡슐(세레콕시브)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101845"
+  },
+  {
+   "itemSeq": "201101849",
+   "name": "쎄레캅캡슐200밀리그램(세레콕시브)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101849"
+  },
+  {
+   "itemSeq": "201101846",
+   "name": "쎌비트캡슐200밀리그램(세레콕시브)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101846"
+  },
+  {
+   "itemSeq": "201101850",
+   "name": "쎌스크캡슐200밀리그램(세레콕시브)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101850"
+  },
+  {
+   "itemSeq": "201101840",
+   "name": "제뉴원세레콕시브캡슐200밀리그램(세레콕시브)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101840"
+  },
+  {
+   "itemSeq": "201103995",
+   "name": "쎄렉스캡슐200밀리그램(세레콕시브)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103995"
+  },
+  {
+   "itemSeq": "201104111",
+   "name": "쎄레콕스캡슐200밀리그램(세레콕시브)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201104111"
+  },
+  {
+   "itemSeq": "201105487",
+   "name": "셀콕스캡슐200밀리그램(세레콕시브)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-08-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201105487"
+  },
+  {
+   "itemSeq": "201105488",
+   "name": "콕스2캡슐(세레콕시브)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-08-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201105488"
+  },
+  {
+   "itemSeq": "201110060",
+   "name": "쎄넥스캡슐(세레콕시브)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110060"
+  },
+  {
+   "itemSeq": "201110059",
+   "name": "쎄르펜캡슐(세레콕시브)",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110059"
+  },
+  {
+   "itemSeq": "201205823",
+   "name": "셀레콕스캡슐(세레콕시브)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205823"
+  },
+  {
+   "itemSeq": "201307578",
+   "name": "셀렉시브캡슐(세레콕시브)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307578"
+  },
+  {
+   "itemSeq": "201403889",
+   "name": "세레브캡슐200밀리그램(세레콕시브)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403889"
+  },
+  {
+   "itemSeq": "201404200",
+   "name": "쎄레시브캡슐200mg(세레콕시브)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404200"
+  },
+  {
+   "itemSeq": "201404318",
+   "name": "쎌레코캡슐200밀리그램(세레콕시브)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404318"
+  },
+  {
+   "itemSeq": "201404343",
+   "name": "콕스케어캡슐200밀리그램(세레콕시브)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404343"
+  },
+  {
+   "itemSeq": "201404378",
+   "name": "셀록스캡슐(세레콕시브)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404378"
+  },
+  {
+   "itemSeq": "201404415",
+   "name": "제이브렉스캡슐200밀리그램(세레콕시브)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404415"
+  },
+  {
+   "itemSeq": "201404485",
+   "name": "쎄레브이캡슐200밀리그램(세레콕시브)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404485"
+  },
+  {
+   "itemSeq": "201404569",
+   "name": "세레온캡슐(세레콕시브)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404569"
+  },
+  {
+   "itemSeq": "201404586",
+   "name": "쎄콕스캡슐200밀리그램(세레콕시브)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404586"
+  },
+  {
+   "itemSeq": "201404836",
+   "name": "아나콕스캡슐200밀리그램(세레콕시브)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404836"
+  },
+  {
+   "itemSeq": "201404857",
+   "name": "쎌빅캡슐(세레콕시브)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404857"
+  },
+  {
+   "itemSeq": "201404863",
+   "name": "휴렉스캡슐(세레콕시브)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404863"
+  },
+  {
+   "itemSeq": "201404983",
+   "name": "세콕시아캡슐200mg(세레콕시브)",
+   "company": "(주)킴스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404983"
+  },
+  {
+   "itemSeq": "201405027",
+   "name": "세렉스캡슐(세레콕시브)",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405027"
+  },
+  {
+   "itemSeq": "201405040",
+   "name": "셀비콕스캡슐200밀리그램(세레콕시브)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405040"
+  },
+  {
+   "itemSeq": "201405096",
+   "name": "쎄레메드캡슐200밀리그램(세레콕시브)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405096"
+  },
+  {
+   "itemSeq": "201405094",
+   "name": "쎄레민캡슐200밀리그램(세레콕시브)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405094"
+  },
+  {
+   "itemSeq": "201405233",
+   "name": "쎄르파캡슐(세레콕시브)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405233"
+  },
+  {
+   "itemSeq": "201405475",
+   "name": "동광세레콕시브캡슐200mg",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405475"
+  },
+  {
+   "itemSeq": "201405465",
+   "name": "세레콕스캡슐(세레콕시브)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405465"
+  },
+  {
+   "itemSeq": "201405473",
+   "name": "싸이브렉스캡슐200밀리그램(세레콕시브)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405473"
+  },
+  {
+   "itemSeq": "201405505",
+   "name": "투콕시브캡슐200mg(세레콕시브)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405505"
+  },
+  {
+   "itemSeq": "201405708",
+   "name": "세레벡스캡슐(세레콕시브)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405708"
+  },
+  {
+   "itemSeq": "201405736",
+   "name": "유콕스캡슐200밀리그램(세레콕시브)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405736"
+  },
+  {
+   "itemSeq": "201405779",
+   "name": "셀렉콕캡슐200mg(세레콕시브)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405779"
+  },
+  {
+   "itemSeq": "201405798",
+   "name": "쎄레브린캡슐200밀리그램(세레콕시브)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405798"
+  },
+  {
+   "itemSeq": "201405956",
+   "name": "콕시브캡슐100밀리그램(세레콕시브)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405956"
+  },
+  {
+   "itemSeq": "201406030",
+   "name": "세로콕캡슐200밀리그램(세레콕시브)",
+   "company": "(주)휴메딕스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406030"
+  },
+  {
+   "itemSeq": "201406048",
+   "name": "씨트렉스캡슐200밀리그램(세레콕시브)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406048"
+  },
+  {
+   "itemSeq": "201406102",
+   "name": "셀렉카정200밀리그램(세레콕시브)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406102"
+  },
+  {
+   "itemSeq": "201406103",
+   "name": "쎄레원정200밀리그램(세레콕시브)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406103"
+  },
+  {
+   "itemSeq": "201500093",
+   "name": "쎄레프로캡슐200mg(세레콕시브)",
+   "company": "초당약품공업(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500093"
+  },
+  {
+   "itemSeq": "201500101",
+   "name": "일양바이오세레콕시브캡슐200밀리그램",
+   "company": "일양바이오팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500101"
+  },
+  {
+   "itemSeq": "201500099",
+   "name": "콕스낙캡슐200mg(세레콕시브)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500099"
+  },
+  {
+   "itemSeq": "201500127",
+   "name": "쎄렉스타캡슐200mg(세레콕시브)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500127"
+  },
+  {
+   "itemSeq": "201500145",
+   "name": "유니브렉스캡슐200밀리그램(세레콕시브)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500145"
+  },
+  {
+   "itemSeq": "201500186",
+   "name": "조아세레콕시브캡슐200밀리그램",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500186"
+  },
+  {
+   "itemSeq": "201500241",
+   "name": "쎌브록스캡슐200mg(세레콕시브)",
+   "company": "건일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500241"
+  },
+  {
+   "itemSeq": "201500355",
+   "name": "콕스렌캡슐(세레콕시브)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500355"
+  },
+  {
+   "itemSeq": "201500439",
+   "name": "바로콕스캡슐200밀리그램(세레콕시브)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500439"
+  },
+  {
+   "itemSeq": "201500438",
+   "name": "쎄레코캡슐200mg(세레콕시브)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500438"
+  },
+  {
+   "itemSeq": "201500530",
+   "name": "쎄콕시브캡슐200밀리그램(세레콕시브)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500530"
+  },
+  {
+   "itemSeq": "201500554",
+   "name": "쎄브렉스캡슐200밀리그램(세레콕시브)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500554"
+  },
+  {
+   "itemSeq": "201500676",
+   "name": "쎄레본정200밀리그램(세레콕시브)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500676"
+  },
+  {
+   "itemSeq": "201500728",
+   "name": "쎌콕정200밀리그램(세레콕시브)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500728"
+  },
+  {
+   "itemSeq": "201500882",
+   "name": "랙시브캡슐200밀리그램(세레콕시브)",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500882"
+  },
+  {
+   "itemSeq": "201500902",
+   "name": "클록시브캡슐(세레콕시브)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500902"
+  },
+  {
+   "itemSeq": "201500931",
+   "name": "세렉실캡슐(세레콕시브)",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500931"
+  },
+  {
+   "itemSeq": "201500930",
+   "name": "씨콕스캡슐200mg(세레콕시브)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500930"
+  },
+  {
+   "itemSeq": "201500958",
+   "name": "한콕스캡슐200mg(세레콕시브)",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500958"
+  },
+  {
+   "itemSeq": "201501011",
+   "name": "브렉시브캡슐(세레콕시브)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501011"
+  },
+  {
+   "itemSeq": "201501083",
+   "name": "셀베스타캡슐(세레콕시브)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501083"
+  },
+  {
+   "itemSeq": "201501270",
+   "name": "콕스비토캡슐100밀리그램(세레콕시브)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501270"
+  },
+  {
+   "itemSeq": "201501279",
+   "name": "셀빅스캡슐(세레콕시브)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501279"
+  },
+  {
+   "itemSeq": "201501312",
+   "name": "셀티브캡슐200밀리그램(세레콕시브)",
+   "company": "(주)텔콘알에프제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501312"
+  },
+  {
+   "itemSeq": "201501429",
+   "name": "베아콕시브캡슐200밀리그램(세레콕시브)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501429"
+  },
+  {
+   "itemSeq": "201501494",
+   "name": "쎄레노직캡슐200밀리그램(세레콕시브)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501494"
+  },
+  {
+   "itemSeq": "201501549",
+   "name": "삼성세레콕시브캡슐200밀리그램",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501549"
+  },
+  {
+   "itemSeq": "201501508",
+   "name": "쎌레브캡슐200밀리그램(세레콕시브)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501508"
+  },
+  {
+   "itemSeq": "201501582",
+   "name": "쎄레티스캡슐200밀리그램(세레콕시브)",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501582"
+  },
+  {
+   "itemSeq": "201501572",
+   "name": "쎌브릭캡슐(세레콕시브)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501572"
+  },
+  {
+   "itemSeq": "201501603",
+   "name": "쎄레브이정200밀리그램(세레콕시브)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501603"
+  },
+  {
+   "itemSeq": "201501648",
+   "name": "세리브콕스캡슐200mg(세레콕시브)",
+   "company": "미래바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501648"
+  },
+  {
+   "itemSeq": "201501680",
+   "name": "위더콕스캡슐200밀리그램(세레콕시브)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501680"
+  },
+  {
+   "itemSeq": "201501655",
+   "name": "파마세레콕시브캡슐200mg",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501655"
+  },
+  {
+   "itemSeq": "201501733",
+   "name": "넬슨세레콕시브캡슐200밀리그램(세레콕시브)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501733"
+  },
+  {
+   "itemSeq": "201502257",
+   "name": "세레비스캡슐(세레콕시브)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502257"
+  },
+  {
+   "itemSeq": "201502295",
+   "name": "쎄렉시브캡슐200mg(세레콕시브)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502295"
+  },
+  {
+   "itemSeq": "201502333",
+   "name": "콕스그린캡슐200밀리그램(세레콕시브)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502333"
+  },
+  {
+   "itemSeq": "201502348",
+   "name": "세렉캡슐(세레콕시브)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502348"
+  },
+  {
+   "itemSeq": "201502397",
+   "name": "셀레록스캡슐200mg(세레콕시브)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502397"
+  },
+  {
+   "itemSeq": "201503251",
+   "name": "쎄레젠캡슐200mg(세레콕시브)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503251"
+  },
+  {
+   "itemSeq": "201504160",
+   "name": "크리콕스캡슐100밀리그램(세레콕시브)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504160"
+  },
+  {
+   "itemSeq": "201504176",
+   "name": "뉴브렉스캡슐200mg(세레콕시브)",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504176"
+  },
+  {
+   "itemSeq": "201505202",
+   "name": "셀코브렉스캡슐200mg(세레콕시브)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505202"
+  },
+  {
+   "itemSeq": "201506677",
+   "name": "쎄레브렉스캡슐400밀리그램(세레콕시브)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506677"
+  },
+  {
+   "itemSeq": "201507452",
+   "name": "쎄레노직캡슐100밀리그램(세레콕시브)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507452"
+  },
+  {
+   "itemSeq": "201507475",
+   "name": "쎄레스콕캡슐200mg(세레콕시브)",
+   "company": "태극제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507475"
+  },
+  {
+   "itemSeq": "201508507",
+   "name": "쎄넥스캡슐100mg(세레콕시브)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508507"
+  },
+  {
+   "itemSeq": "201508549",
+   "name": "쎄렉스타캡슐100mg(세레콕시브)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508549"
+  },
+  {
+   "itemSeq": "201600811",
+   "name": "셀코브렉스캡슐100밀리그램(세레콕시브)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600811"
+  },
+  {
+   "itemSeq": "201601081",
+   "name": "베아콕시브캡슐100밀리그램(세레콕시브)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601081"
+  },
+  {
+   "itemSeq": "201601704",
+   "name": "크리콕스캡슐400밀리그램(세레콕시브)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "400.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601704"
+  },
+  {
+   "itemSeq": "201601887",
+   "name": "픽콕스캡슐200mg(세레콕시브)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601887"
+  },
+  {
+   "itemSeq": "201602304",
+   "name": "세코브캡슐200밀리그램(세레콕시브)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602304"
+  },
+  {
+   "itemSeq": "201602409",
+   "name": "제이브렉스캡슐100밀리그램(세레콕시브)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602409"
+  },
+  {
+   "itemSeq": "201603412",
+   "name": "쎄브렉캡슐200밀리그램(세레콕시브)",
+   "company": "(주)바스칸바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603412"
+  },
+  {
+   "itemSeq": "201603482",
+   "name": "싸이브렉스캡슐100mg(세레콕시브)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603482"
+  },
+  {
+   "itemSeq": "201603732",
+   "name": "뉴셀콕캡슐100mg(세레콕시브)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603732"
+  },
+  {
+   "itemSeq": "201603731",
+   "name": "뉴셀콕캡슐200mg(세레콕시브)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603731"
+  },
+  {
+   "itemSeq": "201604056",
+   "name": "아이셀콕캡슐100밀리그램(세레콕시브)",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604056"
+  },
+  {
+   "itemSeq": "201604055",
+   "name": "아이셀콕캡슐200밀리그램(세레콕시브)",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604055"
+  },
+  {
+   "itemSeq": "201604942",
+   "name": "쎌콕정100밀리그램(세레콕시브)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604942"
+  },
+  {
+   "itemSeq": "201704834",
+   "name": "콕시원캡슐200밀리그램(세레콕시브)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704834"
+  },
+  {
+   "itemSeq": "201705172",
+   "name": "셀코빅스캡슐200밀리그램(세레콕시브)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705172"
+  },
+  {
+   "itemSeq": "201706790",
+   "name": "랙시브캡슐100밀리그램(세레콕시브)",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706790"
+  },
+  {
+   "itemSeq": "201706853",
+   "name": "셀브렉캡슐100밀리그램(세레콕시브)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706853"
+  },
+  {
+   "itemSeq": "201802512",
+   "name": "쎄레브이캡슐100밀리그램(세레콕시브)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802512"
+  },
+  {
+   "itemSeq": "201802747",
+   "name": "세레코브캡슐200밀리그램(세레콕시브)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802747"
+  },
+  {
+   "itemSeq": "201803009",
+   "name": "세코브캡슐100밀리그램(세레콕시브)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803009"
+  },
+  {
+   "itemSeq": "201803405",
+   "name": "쎄레콕스타캡슐(세레콕시브)",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803405"
+  },
+  {
+   "itemSeq": "201803824",
+   "name": "세콕시아캡슐100mg(세레콕시브)",
+   "company": "(주)킴스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803824"
+  },
+  {
+   "itemSeq": "201805147",
+   "name": "쎄레메드캡슐100mg(세레콕시브)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805147"
+  },
+  {
+   "itemSeq": "201900056",
+   "name": "세레윈캡슐200밀리그램(세레콕시브)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900056"
+  },
+  {
+   "itemSeq": "201900319",
+   "name": "콕시원캡슐100밀리그램(세레콕시브)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900319"
+  },
+  {
+   "itemSeq": "201900905",
+   "name": "쎄레브린즈캡슐200밀리그램(세레콕시브)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900905"
+  },
+  {
+   "itemSeq": "201901049",
+   "name": "메디브렉스캡슐100밀리그램(세레콕시브)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901049"
+  },
+  {
+   "itemSeq": "201901048",
+   "name": "메디브렉스캡슐200밀리그램(세레콕시브)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901048"
+  },
+  {
+   "itemSeq": "201901030",
+   "name": "세레윈캡슐100밀리그램(세레콕시브)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901030"
+  },
+  {
+   "itemSeq": "201901050",
+   "name": "쎌비트캡슐100밀리그램(세레콕시브)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901050"
+  },
+  {
+   "itemSeq": "201901371",
+   "name": "세레벡스캡슐100밀리그램(세레콕시브)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901371"
+  },
+  {
+   "itemSeq": "201901372",
+   "name": "쎄레민캡슐100밀리그램(세레콕시브)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901372"
+  },
+  {
+   "itemSeq": "201901725",
+   "name": "씨엘콕스캡슐200밀리그램(세레콕시브)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901725"
+  },
+  {
+   "itemSeq": "201901768",
+   "name": "쎄브렉캡슐100밀리그램(세레콕시브)",
+   "company": "(주)바스칸바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901768"
+  },
+  {
+   "itemSeq": "201902085",
+   "name": "위더콕스캡슐100밀리그램(세레콕시브)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902085"
+  },
+  {
+   "itemSeq": "201902128",
+   "name": "셀레코캡슐200밀리그램(세레콕시브)",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902128"
+  },
+  {
+   "itemSeq": "201902283",
+   "name": "델콕스캡슐200밀리그램(세레콕시브)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902283"
+  },
+  {
+   "itemSeq": "201902282",
+   "name": "씨트렉스캡슐100밀리그램(세레콕시브)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902282"
+  },
+  {
+   "itemSeq": "201902742",
+   "name": "셀렉시브캡슐100mg(세레콕시브)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902742"
+  },
+  {
+   "itemSeq": "201903005",
+   "name": "쎄레코브캡슐200밀리그램(세레콕시브)",
+   "company": "(주)유앤생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903005"
+  },
+  {
+   "itemSeq": "201903059",
+   "name": "세레콕신캡슐(세레콕시브)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903059"
+  },
+  {
+   "itemSeq": "201903336",
+   "name": "켈콕시브캡슐200밀리그램(세레콕시브)",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903336"
+  },
+  {
+   "itemSeq": "201903424",
+   "name": "셀레록스캡슐100mg(세레콕시브)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903424"
+  },
+  {
+   "itemSeq": "201903466",
+   "name": "셀브캡슐100밀리그램(세레콕시브)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903466"
+  },
+  {
+   "itemSeq": "201903473",
+   "name": "셀브캡슐200밀리그램(세레콕시브)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903473"
+  },
+  {
+   "itemSeq": "201904165",
+   "name": "쎄레브이정100밀리그램(세레콕시브)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904165"
+  },
+  {
+   "itemSeq": "201905904",
+   "name": "세레스캡슐200밀리그램(세레콕시브)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905904"
+  },
+  {
+   "itemSeq": "201906422",
+   "name": "셀콕브렉스캡슐200mg(세레콕시브)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906422"
+  },
+  {
+   "itemSeq": "201906468",
+   "name": "세레스캡슐100밀리그램(세레콕시브)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906468"
+  },
+  {
+   "itemSeq": "201906895",
+   "name": "세렉시브캡슐100밀리그램(세레콕시브)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906895"
+  },
+  {
+   "itemSeq": "201906896",
+   "name": "세렉시브캡슐200밀리그램(세레콕시브)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906896"
+  },
+  {
+   "itemSeq": "201906998",
+   "name": "쎄레시브캡슐100밀리그램(세레콕시브)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906998"
+  },
+  {
+   "itemSeq": "201906970",
+   "name": "아나콕스캡슐100밀리그램(세레콕시브)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906970"
+  },
+  {
+   "itemSeq": "201907099",
+   "name": "동광세레콕시브캡슐100mg",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907099"
+  },
+  {
+   "itemSeq": "201907416",
+   "name": "세레트캡슐200mg(세레콕시브)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907416"
+  },
+  {
+   "itemSeq": "201907541",
+   "name": "셀코빅스캡슐100밀리그램(세레콕시브)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907541"
+  },
+  {
+   "itemSeq": "201907649",
+   "name": "아세레캡슐200밀리그램(세레콕시브)",
+   "company": "(주)셀비온",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907649"
+  },
+  {
+   "itemSeq": "201907646",
+   "name": "콕스2캡슐100밀리그램(세레콕시브)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907646"
+  },
+  {
+   "itemSeq": "201907950",
+   "name": "씨엘콕스캡슐100밀리그램(세레콕시브)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907950"
+  },
+  {
+   "itemSeq": "202000176",
+   "name": "콕스그린캡슐100밀리그램(세레콕시브)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000176"
+  },
+  {
+   "itemSeq": "202000315",
+   "name": "진브렉스캡슐200밀리그램(세레콕시브)",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000315"
+  },
+  {
+   "itemSeq": "202001044",
+   "name": "메가콕시브캡슐100밀리그램(세레콕시브)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001044"
+  },
+  {
+   "itemSeq": "202001572",
+   "name": "메가콕시브캡슐200밀리그램(세레콕시브)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001572"
+  },
+  {
+   "itemSeq": "202001668",
+   "name": "세비콕캡슐100밀리그램(세레콕시브)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001668"
+  },
+  {
+   "itemSeq": "202001669",
+   "name": "세비콕캡슐200밀리그램(세레콕시브)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001669"
+  },
+  {
+   "itemSeq": "202001987",
+   "name": "쎄라펜캡슐200밀리그램(세레콕시브)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001987"
+  },
+  {
+   "itemSeq": "202002057",
+   "name": "랙시브정100밀리그램(세레콕시브)",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002057"
+  },
+  {
+   "itemSeq": "202002150",
+   "name": "쎌레코캡슐100밀리그램(세레콕시브)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002150"
+  },
+  {
+   "itemSeq": "202002185",
+   "name": "셀콕스캡슐100밀리그램(세레콕시브)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002185"
+  },
+  {
+   "itemSeq": "202002590",
+   "name": "랙시브정200밀리그램(세레콕시브)",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002590"
+  },
+  {
+   "itemSeq": "202002581",
+   "name": "쎄브렉스캡슐100밀리그램(세레콕시브)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002581"
+  },
+  {
+   "itemSeq": "202002761",
+   "name": "뉴콕시브정200밀리그램(세레콕시브)",
+   "company": "(주)새한제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002761"
+  },
+  {
+   "itemSeq": "202003250",
+   "name": "진브렉스캡슐100밀리그램(세레콕시브)",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003250"
+  },
+  {
+   "itemSeq": "202003628",
+   "name": "셀록스캡슐100mg(세레콕시브)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003628"
+  },
+  {
+   "itemSeq": "202004093",
+   "name": "쎄레브린즈캡슐100밀리그램(세레콕시브)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004093"
+  },
+  {
+   "itemSeq": "202004014",
+   "name": "크리콕스캡슐200밀리그램(세레콕시브)(수출용)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004014"
+  },
+  {
+   "itemSeq": "202004956",
+   "name": "쎄넥스캡슐400밀리그램(세레콕시브)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "400.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004956"
+  },
+  {
+   "itemSeq": "202301004",
+   "name": "유니브렉스캡슐100밀리그램(세레콕시브)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301004"
+  },
+  {
+   "itemSeq": "202302379",
+   "name": "레일라디에스정",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302379"
+  },
+  {
+   "itemSeq": "202302397",
+   "name": "네일락콤비정",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302397"
+  },
+  {
+   "itemSeq": "202302399",
+   "name": "듀오조인정",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302399"
+  },
+  {
+   "itemSeq": "202302400",
+   "name": "레이셀코정",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302400"
+  },
+  {
+   "itemSeq": "202302412",
+   "name": "레콕스정",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302412"
+  },
+  {
+   "itemSeq": "202302396",
+   "name": "렉스듀오정",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302396"
+  },
+  {
+   "itemSeq": "202302402",
+   "name": "베아콕시브플러스정",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302402"
+  },
+  {
+   "itemSeq": "202302404",
+   "name": "본에콕스정",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302404"
+  },
+  {
+   "itemSeq": "202302405",
+   "name": "세레듀오정",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302405"
+  },
+  {
+   "itemSeq": "202302401",
+   "name": "셀레브론정",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302401"
+  },
+  {
+   "itemSeq": "202302406",
+   "name": "셀레이나정",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302406"
+  },
+  {
+   "itemSeq": "202302407",
+   "name": "셀렉카듀오정",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302407"
+  },
+  {
+   "itemSeq": "202302403",
+   "name": "쎄레텍정",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302403"
+  },
+  {
+   "itemSeq": "202302409",
+   "name": "쎄브칸플러스정",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302409"
+  },
+  {
+   "itemSeq": "202302410",
+   "name": "씨콕스플러스정",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302410"
+  },
+  {
+   "itemSeq": "202302398",
+   "name": "아리아디에스정",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302398"
+  },
+  {
+   "itemSeq": "202302411",
+   "name": "아스본플러스정",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302411"
+  },
+  {
+   "itemSeq": "202302395",
+   "name": "유니일라플러스정",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302395"
+  },
+  {
+   "itemSeq": "202302408",
+   "name": "콕스듀오정",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302408"
+  },
+  {
+   "itemSeq": "202302394",
+   "name": "콕스투플러스정",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "세레콕시브",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "당귀·모과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화25%에탄올연조엑스(3.5→1)",
+     "amount": "405.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302394"
+  }
+ ]
+}

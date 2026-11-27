@@ -1,0 +1,6710 @@
+{
+ "id": "tramadol",
+ "query": [
+  "트라마돌"
+ ],
+ "fetched": "2026-11-27",
+ "total": 320,
+ "kept": 320,
+ "mfdsName": [
+  "트라마돌염산염",
+  "염산트라마돌"
+ ],
+ "items": [
+  {
+   "itemSeq": "198100131",
+   "name": "트리돌주50밀리그램(트라마돌염산염)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1981-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198100131"
+  },
+  {
+   "itemSeq": "198300327",
+   "name": "트리돌캡슐50mg(트라마돌염산염)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1983-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300327"
+  },
+  {
+   "itemSeq": "198500228",
+   "name": "한올트라마돌염산염주",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-05-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500228"
+  },
+  {
+   "itemSeq": "198600090",
+   "name": "타마돌주사(트라마돌염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1986-12-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198600090"
+  },
+  {
+   "itemSeq": "198700425",
+   "name": "트리돌주100밀리그램(트라마돌염산염)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1987-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700425"
+  },
+  {
+   "itemSeq": "198700215",
+   "name": "도란찐주50밀리그람(트라마돌염산염)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1987-11-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700215"
+  },
+  {
+   "itemSeq": "198800476",
+   "name": "마리트롤주(트라마돌염산염)",
+   "company": "(주)제일제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1988-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800476"
+  },
+  {
+   "itemSeq": "198801776",
+   "name": "경동캄펙스주50밀리그램(트라마돌염산염)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1988-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198801776"
+  },
+  {
+   "itemSeq": "198902354",
+   "name": "페니마돌주50밀리그램(트라마돌염산염)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198902354"
+  },
+  {
+   "itemSeq": "198900633",
+   "name": "트로돈주사(트라마돌염산염)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900633"
+  },
+  {
+   "itemSeq": "198900630",
+   "name": "트로돈캡슐(트라마돌염산염)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900630"
+  },
+  {
+   "itemSeq": "199001499",
+   "name": "탄돌주100밀리그램(트라마돌염산염)(수출용)(수출명:DAEHWATRAMADOLHCL)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1990-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199001499"
+  },
+  {
+   "itemSeq": "199001507",
+   "name": "탄돌캡슐(트라마돌염산염)(수출용)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1990-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199001507"
+  },
+  {
+   "itemSeq": "199000027",
+   "name": "신풍트라마돌염산염주(수출명: TRADOL-Injection)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1990-06-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199000027"
+  },
+  {
+   "itemSeq": "199600345",
+   "name": "트롤주(트라마돌염산염)",
+   "company": "대한약품공업(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1996-12-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199600345"
+  },
+  {
+   "itemSeq": "199702548",
+   "name": "돌마주사(트라마돌염산염)",
+   "company": "미래바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199702548"
+  },
+  {
+   "itemSeq": "199703366",
+   "name": "코리돌캡슐(트라마돌염산염)(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-08-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199703366"
+  },
+  {
+   "itemSeq": "199803063",
+   "name": "휴온스트라마돌염산염주사(수출용)(수출명:TIMADOLInj.,TAMADOLINJ.)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199803063"
+  },
+  {
+   "itemSeq": "199806740",
+   "name": "지트람엑스엘서방정150밀리그람(트라마돌염산염)",
+   "company": "한국먼디파마(유)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-12-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199806740"
+  },
+  {
+   "itemSeq": "199806741",
+   "name": "지트람엑스엘서방정200밀리그람(트라마돌염산염)",
+   "company": "한국먼디파마(유)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-12-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199806741"
+  },
+  {
+   "itemSeq": "199901493",
+   "name": "라마돌주사(트라마돌염산염)(수출용)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901493"
+  },
+  {
+   "itemSeq": "199900544",
+   "name": "트리돌서방정(트라마돌염산염)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900544"
+  },
+  {
+   "itemSeq": "199900653",
+   "name": "대우트라마돌염산염캡슐(수출명:말직캡슐)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900653"
+  },
+  {
+   "itemSeq": "200201275",
+   "name": "라트롤주(트라마돌염산염)(수출용)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201275"
+  },
+  {
+   "itemSeq": "200300109",
+   "name": "톨마캅셀(수출용)(염산트라마돌)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "염산트라마돌",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300109"
+  },
+  {
+   "itemSeq": "200302564",
+   "name": "탐돌캡슐(염산트라마돌)(수출용)[수출명:DaedolCap.]",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "염산트라마돌",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302564"
+  },
+  {
+   "itemSeq": "200806032",
+   "name": "톨마주(트라마돌염산염)(수출용)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806032"
+  },
+  {
+   "itemSeq": "201001931",
+   "name": "휴메딕스트라마돌염산염주",
+   "company": "(주)휴메딕스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-03-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001931"
+  },
+  {
+   "itemSeq": "201109819",
+   "name": "지트람씨알서방정75밀리그램(트라마돌염산염)",
+   "company": "한국먼디파마(유)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-11-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109819"
+  },
+  {
+   "itemSeq": "201207212",
+   "name": "트라주50mg/mL(트라마돌염산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207212"
+  },
+  {
+   "itemSeq": "201308661",
+   "name": "동구트라마돌염산염주100mg(수출용)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308661"
+  },
+  {
+   "itemSeq": "201600211",
+   "name": "트라놀주(트라마돌염산염)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600211"
+  },
+  {
+   "itemSeq": "201604403",
+   "name": "케이마돌주(트라마돌염산염)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604403"
+  },
+  {
+   "itemSeq": "201901967",
+   "name": "넥스팜트라마돌캡슐(트라마돌염산염)(수출용)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901967"
+  },
+  {
+   "itemSeq": "201907653",
+   "name": "지트라돌주50밀리그램(트라마돌염산염)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907653"
+  },
+  {
+   "itemSeq": "202000514",
+   "name": "탐돌정(트라마돌염산염)(수출용)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "225",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000514"
+  },
+  {
+   "itemSeq": "200705597",
+   "name": "아세트라셋세미정",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705597"
+  },
+  {
+   "itemSeq": "200705598",
+   "name": "아세트라셋정",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705598"
+  },
+  {
+   "itemSeq": "200705595",
+   "name": "아트세미정",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705595"
+  },
+  {
+   "itemSeq": "200705596",
+   "name": "아트정",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705596"
+  },
+  {
+   "itemSeq": "200705591",
+   "name": "울트라메트세미정(트라마돌염산염, 아세트아미노펜)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705591"
+  },
+  {
+   "itemSeq": "200705592",
+   "name": "울트라메트정(트라마돌염산염, 아세트아미노펜)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705592"
+  },
+  {
+   "itemSeq": "200705593",
+   "name": "트라노펜세미정",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705593"
+  },
+  {
+   "itemSeq": "200705594",
+   "name": "트라노펜정",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705594"
+  },
+  {
+   "itemSeq": "200705587",
+   "name": "트리마셋세미정",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705587"
+  },
+  {
+   "itemSeq": "200705588",
+   "name": "트리마셋정",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705588"
+  },
+  {
+   "itemSeq": "200705993",
+   "name": "하이셋세미정",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705993"
+  },
+  {
+   "itemSeq": "200705994",
+   "name": "하이셋정",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705994"
+  },
+  {
+   "itemSeq": "200706007",
+   "name": "아마돌세미정",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706007"
+  },
+  {
+   "itemSeq": "200706008",
+   "name": "아마돌정",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706008"
+  },
+  {
+   "itemSeq": "200706109",
+   "name": "엑스페인세미정",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706109"
+  },
+  {
+   "itemSeq": "200706110",
+   "name": "엑스페인정",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706110"
+  },
+  {
+   "itemSeq": "200706597",
+   "name": "에이트라정",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706597"
+  },
+  {
+   "itemSeq": "200707222",
+   "name": "엔시트라세미정(트라마돌염산염,아세트아미노펜)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707222"
+  },
+  {
+   "itemSeq": "200707223",
+   "name": "엔시트라정(트라마돌염산염,아세트아미노펜)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707223"
+  },
+  {
+   "itemSeq": "200707218",
+   "name": "펜큐어세미정",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707218"
+  },
+  {
+   "itemSeq": "200707219",
+   "name": "펜큐어정",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707219"
+  },
+  {
+   "itemSeq": "200707251",
+   "name": "에이트라세미정",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707251"
+  },
+  {
+   "itemSeq": "200707592",
+   "name": "트라펜정",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707592"
+  },
+  {
+   "itemSeq": "200707920",
+   "name": "타미돌정",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707920"
+  },
+  {
+   "itemSeq": "200707943",
+   "name": "아라펜세미정",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707943"
+  },
+  {
+   "itemSeq": "200707944",
+   "name": "아라펜정",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707944"
+  },
+  {
+   "itemSeq": "200708258",
+   "name": "타라마돌세미정",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708258"
+  },
+  {
+   "itemSeq": "200708257",
+   "name": "타라마돌정",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708257"
+  },
+  {
+   "itemSeq": "200709529",
+   "name": "듀얼셋정",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709529"
+  },
+  {
+   "itemSeq": "200709608",
+   "name": "엑세트라세미정",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709608"
+  },
+  {
+   "itemSeq": "200709609",
+   "name": "엑세트라정",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709609"
+  },
+  {
+   "itemSeq": "200709641",
+   "name": "래피셋세미정",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709641"
+  },
+  {
+   "itemSeq": "200709640",
+   "name": "래피셋정",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709640"
+  },
+  {
+   "itemSeq": "200709910",
+   "name": "뉴트라셋세미정",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709910"
+  },
+  {
+   "itemSeq": "200709909",
+   "name": "뉴트라셋정",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709909"
+  },
+  {
+   "itemSeq": "200710087",
+   "name": "하이퍼셋정",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710087"
+  },
+  {
+   "itemSeq": "200710130",
+   "name": "슈퍼셋정",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710130"
+  },
+  {
+   "itemSeq": "200710197",
+   "name": "돌트람셋정",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710197"
+  },
+  {
+   "itemSeq": "200710202",
+   "name": "타라셋정",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710202"
+  },
+  {
+   "itemSeq": "200710254",
+   "name": "타라셋세미정",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-09-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710254"
+  },
+  {
+   "itemSeq": "200710633",
+   "name": "안티피라세미정",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-09-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710633"
+  },
+  {
+   "itemSeq": "200710632",
+   "name": "안티피라정",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-09-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710632"
+  },
+  {
+   "itemSeq": "200710609",
+   "name": "원트란정",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710609"
+  },
+  {
+   "itemSeq": "200710638",
+   "name": "돌트람셋세미정",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710638"
+  },
+  {
+   "itemSeq": "200710628",
+   "name": "하이퍼셋세미정",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710628"
+  },
+  {
+   "itemSeq": "200710808",
+   "name": "세타돌정",
+   "company": "동성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710808"
+  },
+  {
+   "itemSeq": "200711209",
+   "name": "메가셋정",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-10-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711209"
+  },
+  {
+   "itemSeq": "200711793",
+   "name": "지무라돌정",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711793"
+  },
+  {
+   "itemSeq": "200711885",
+   "name": "트라미펜세미정",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711885"
+  },
+  {
+   "itemSeq": "200711886",
+   "name": "트라미펜정",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711886"
+  },
+  {
+   "itemSeq": "200801284",
+   "name": "올펜정",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801284"
+  },
+  {
+   "itemSeq": "200712587",
+   "name": "휴트라돌세미정",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712587"
+  },
+  {
+   "itemSeq": "200712588",
+   "name": "휴트라돌정",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712588"
+  },
+  {
+   "itemSeq": "200712647",
+   "name": "아트놀셋세미정",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712647"
+  },
+  {
+   "itemSeq": "200712648",
+   "name": "아트놀셋정",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712648"
+  },
+  {
+   "itemSeq": "200712789",
+   "name": "타미돌세미정",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712789"
+  },
+  {
+   "itemSeq": "200712872",
+   "name": "디워렌정",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712872"
+  },
+  {
+   "itemSeq": "200712868",
+   "name": "페인리스정",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712868"
+  },
+  {
+   "itemSeq": "200712885",
+   "name": "도라셋정",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712885"
+  },
+  {
+   "itemSeq": "200713094",
+   "name": "울셋세미정",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-12-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200713094"
+  },
+  {
+   "itemSeq": "200713095",
+   "name": "울셋정",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-12-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200713095"
+  },
+  {
+   "itemSeq": "200713092",
+   "name": "트라칸정",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-12-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200713092"
+  },
+  {
+   "itemSeq": "200713377",
+   "name": "테라펜정",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-12-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200713377"
+  },
+  {
+   "itemSeq": "200804561",
+   "name": "듀오셋정",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804561"
+  },
+  {
+   "itemSeq": "200804558",
+   "name": "베아트라정(아세트아미노펜,트라마돌)(수출용)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804558"
+  },
+  {
+   "itemSeq": "200804562",
+   "name": "세타마돌정",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804562"
+  },
+  {
+   "itemSeq": "200804556",
+   "name": "울트펜정",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804556"
+  },
+  {
+   "itemSeq": "200804557",
+   "name": "트라마셋정",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804557"
+  },
+  {
+   "itemSeq": "200804563",
+   "name": "트라마펜정",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804563"
+  },
+  {
+   "itemSeq": "200804519",
+   "name": "트라스펜세미정(트라마돌,아세트아미노펜)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804519"
+  },
+  {
+   "itemSeq": "200804560",
+   "name": "트라스펜정(트라마돌,아세트아미노펜)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804560"
+  },
+  {
+   "itemSeq": "200804631",
+   "name": "듀얼셋세미정",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804631"
+  },
+  {
+   "itemSeq": "200804586",
+   "name": "아트라펜정",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804586"
+  },
+  {
+   "itemSeq": "200804611",
+   "name": "타미트라정",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804611"
+  },
+  {
+   "itemSeq": "200804702",
+   "name": "라노펜정",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804702"
+  },
+  {
+   "itemSeq": "200804633",
+   "name": "아세트람세미정",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804633"
+  },
+  {
+   "itemSeq": "200804696",
+   "name": "영트라셋정",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804696"
+  },
+  {
+   "itemSeq": "200804821",
+   "name": "노통펜프러스정",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804821"
+  },
+  {
+   "itemSeq": "200804802",
+   "name": "메가스펜정",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804802"
+  },
+  {
+   "itemSeq": "200804796",
+   "name": "세타마돌세미정",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804796"
+  },
+  {
+   "itemSeq": "200804810",
+   "name": "슈프라펜정",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804810"
+  },
+  {
+   "itemSeq": "200804771",
+   "name": "시너젯정",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804771"
+  },
+  {
+   "itemSeq": "200804778",
+   "name": "아트라셋세미정",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804778"
+  },
+  {
+   "itemSeq": "200804917",
+   "name": "듀라셋세미정",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804917"
+  },
+  {
+   "itemSeq": "200804916",
+   "name": "듀라셋정",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804916"
+  },
+  {
+   "itemSeq": "200804908",
+   "name": "맥스노펜정",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804908"
+  },
+  {
+   "itemSeq": "200804859",
+   "name": "아트라셋정",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804859"
+  },
+  {
+   "itemSeq": "200804909",
+   "name": "업트라셋세미정",
+   "company": "(주)킴스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804909"
+  },
+  {
+   "itemSeq": "200804918",
+   "name": "울트라스크세미정",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804918"
+  },
+  {
+   "itemSeq": "200804912",
+   "name": "페인리스세미정",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804912"
+  },
+  {
+   "itemSeq": "200804952",
+   "name": "마이티셋정(트라마돌염산염, 아세트아미노펜)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804952"
+  },
+  {
+   "itemSeq": "200804942",
+   "name": "무파인세미정",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804942"
+  },
+  {
+   "itemSeq": "200804939",
+   "name": "스타리셋정(아세트아미노펜,트라마돌염산염)",
+   "company": "태극제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804939"
+  },
+  {
+   "itemSeq": "200804943",
+   "name": "스트롱셋정",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804943"
+  },
+  {
+   "itemSeq": "200804940",
+   "name": "업트라셋정",
+   "company": "(주)킴스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804940"
+  },
+  {
+   "itemSeq": "200804957",
+   "name": "울트라스크정",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804957"
+  },
+  {
+   "itemSeq": "200804956",
+   "name": "트라셋펜정",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804956"
+  },
+  {
+   "itemSeq": "200804958",
+   "name": "트라콤정(트라마돌염산염, 아세트아미노펜)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804958"
+  },
+  {
+   "itemSeq": "200804938",
+   "name": "트라펜세미정",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804938"
+  },
+  {
+   "itemSeq": "200805064",
+   "name": "트라세트정",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805064"
+  },
+  {
+   "itemSeq": "200805085",
+   "name": "제이트라정",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805085"
+  },
+  {
+   "itemSeq": "200805143",
+   "name": "레바셋세미정(트라마돌염산염,아세트아미노펜)",
+   "company": "(주)바스칸바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805143"
+  },
+  {
+   "itemSeq": "200805144",
+   "name": "레바셋정(트라마돌염산염,아세트아미노펜)",
+   "company": "(주)바스칸바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805144"
+  },
+  {
+   "itemSeq": "200805152",
+   "name": "위더셋정",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805152"
+  },
+  {
+   "itemSeq": "200805214",
+   "name": "엘리펜세미정",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805214"
+  },
+  {
+   "itemSeq": "200805215",
+   "name": "엘리펜정",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805215"
+  },
+  {
+   "itemSeq": "200805273",
+   "name": "아트라쿨정(트라마돌염산염,아세트아미노펜)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805273"
+  },
+  {
+   "itemSeq": "200805233",
+   "name": "오르펜정",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805233"
+  },
+  {
+   "itemSeq": "200805289",
+   "name": "트라칸세미정",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805289"
+  },
+  {
+   "itemSeq": "200805275",
+   "name": "페나셋정(트라마돌염산염,아세트아미노펜)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805275"
+  },
+  {
+   "itemSeq": "200805370",
+   "name": "펜클리어맥스정",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805370"
+  },
+  {
+   "itemSeq": "200805296",
+   "name": "맥스노펜세미정",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805296"
+  },
+  {
+   "itemSeq": "200805301",
+   "name": "아트라센정",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805301"
+  },
+  {
+   "itemSeq": "200805389",
+   "name": "울트라맥세미정",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805389"
+  },
+  {
+   "itemSeq": "200805388",
+   "name": "울트라맥정",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805388"
+  },
+  {
+   "itemSeq": "200805386",
+   "name": "트로셋세미정",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805386"
+  },
+  {
+   "itemSeq": "200805556",
+   "name": "트로셋정",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805556"
+  },
+  {
+   "itemSeq": "200805387",
+   "name": "페나셋세미정(트라마돌염산염,아세트아미노펜)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805387"
+  },
+  {
+   "itemSeq": "200805497",
+   "name": "하이세펜정",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805497"
+  },
+  {
+   "itemSeq": "200805520",
+   "name": "울트란정",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805520"
+  },
+  {
+   "itemSeq": "200805599",
+   "name": "유트렌세미정",
+   "company": "일양바이오팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805599"
+  },
+  {
+   "itemSeq": "200805598",
+   "name": "유트렌정",
+   "company": "일양바이오팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805598"
+  },
+  {
+   "itemSeq": "200805631",
+   "name": "웰트라정",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805631"
+  },
+  {
+   "itemSeq": "200805632",
+   "name": "타미트라세미정",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805632"
+  },
+  {
+   "itemSeq": "200805734",
+   "name": "티오셋세미정",
+   "company": "(주)휴메딕스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805734"
+  },
+  {
+   "itemSeq": "200805737",
+   "name": "아트라펜세미정",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805737"
+  },
+  {
+   "itemSeq": "200805739",
+   "name": "올펜세미정",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805739"
+  },
+  {
+   "itemSeq": "200805749",
+   "name": "유로셋세미정",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805749"
+  },
+  {
+   "itemSeq": "200805748",
+   "name": "유로셋정",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805748"
+  },
+  {
+   "itemSeq": "200805752",
+   "name": "유토펜정",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805752"
+  },
+  {
+   "itemSeq": "200805843",
+   "name": "슈퍼셋세미정",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805843"
+  },
+  {
+   "itemSeq": "200805810",
+   "name": "아펜트라정",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805810"
+  },
+  {
+   "itemSeq": "200805812",
+   "name": "유토펜세미정",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805812"
+  },
+  {
+   "itemSeq": "200805849",
+   "name": "티오셋정",
+   "company": "(주)휴메딕스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805849"
+  },
+  {
+   "itemSeq": "200805842",
+   "name": "파라마셋세미정",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805842"
+  },
+  {
+   "itemSeq": "200805821",
+   "name": "파라마셋정",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805821"
+  },
+  {
+   "itemSeq": "200805915",
+   "name": "트라세트세미정",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805915"
+  },
+  {
+   "itemSeq": "200805928",
+   "name": "트라임정",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805928"
+  },
+  {
+   "itemSeq": "200806185",
+   "name": "에이셋정",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806185"
+  },
+  {
+   "itemSeq": "201207591",
+   "name": "엑스페인ER서방정",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207591"
+  },
+  {
+   "itemSeq": "201207592",
+   "name": "원트란서방정",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207592"
+  },
+  {
+   "itemSeq": "201207590",
+   "name": "트라마롤서방정",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207590"
+  },
+  {
+   "itemSeq": "201209007",
+   "name": "트라펜서방정",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201209007"
+  },
+  {
+   "itemSeq": "201301696",
+   "name": "베아셋정",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201301696"
+  },
+  {
+   "itemSeq": "201306118",
+   "name": "시너젯이알서방정",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306118"
+  },
+  {
+   "itemSeq": "201306379",
+   "name": "세타돌세미정",
+   "company": "동성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306379"
+  },
+  {
+   "itemSeq": "201307383",
+   "name": "아디고정(수출용)",
+   "company": "대한약품공업(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307383"
+  },
+  {
+   "itemSeq": "201307895",
+   "name": "엑스페인ER세미서방정",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307895"
+  },
+  {
+   "itemSeq": "201307896",
+   "name": "원트란세미서방정",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307896"
+  },
+  {
+   "itemSeq": "201307929",
+   "name": "시너젯이알세미서방정",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307929"
+  },
+  {
+   "itemSeq": "201308055",
+   "name": "트라펜세미서방정",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308055"
+  },
+  {
+   "itemSeq": "201308279",
+   "name": "트라마롤세미서방정",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308279"
+  },
+  {
+   "itemSeq": "201308359",
+   "name": "한트라셋세미정",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308359"
+  },
+  {
+   "itemSeq": "201308360",
+   "name": "한트라셋정",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308360"
+  },
+  {
+   "itemSeq": "201309260",
+   "name": "아세라노세미정",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309260"
+  },
+  {
+   "itemSeq": "201309439",
+   "name": "시너젯세미정",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309439"
+  },
+  {
+   "itemSeq": "201309487",
+   "name": "이트라펜정",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309487"
+  },
+  {
+   "itemSeq": "201310117",
+   "name": "트라마롤세미정",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310117"
+  },
+  {
+   "itemSeq": "201310118",
+   "name": "트라마롤정",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310118"
+  },
+  {
+   "itemSeq": "201310500",
+   "name": "노통펜프러스미니정",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310500"
+  },
+  {
+   "itemSeq": "201310583",
+   "name": "트라플엠정",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310583"
+  },
+  {
+   "itemSeq": "201310700",
+   "name": "테라펜세미정",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310700"
+  },
+  {
+   "itemSeq": "201400343",
+   "name": "아세라노정",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400343"
+  },
+  {
+   "itemSeq": "201401376",
+   "name": "제이트라세미정",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401376"
+  },
+  {
+   "itemSeq": "201402450",
+   "name": "메가셋세미정",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402450"
+  },
+  {
+   "itemSeq": "201402850",
+   "name": "도라셋세미정",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402850"
+  },
+  {
+   "itemSeq": "201402890",
+   "name": "트라마펜세미정",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402890"
+  },
+  {
+   "itemSeq": "201403740",
+   "name": "펜클리어정",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403740"
+  },
+  {
+   "itemSeq": "201403947",
+   "name": "파인미정",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403947"
+  },
+  {
+   "itemSeq": "201403995",
+   "name": "이트라펜세미정",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403995"
+  },
+  {
+   "itemSeq": "201404759",
+   "name": "아세돌세미정",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404759"
+  },
+  {
+   "itemSeq": "201404784",
+   "name": "아세돌정",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404784"
+  },
+  {
+   "itemSeq": "201404905",
+   "name": "트라임세미정",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404905"
+  },
+  {
+   "itemSeq": "201405383",
+   "name": "트라플엠세미정",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405383"
+  },
+  {
+   "itemSeq": "201500497",
+   "name": "엔시트라서방정(트라마돌염산염, 아세트아미노펜)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500497"
+  },
+  {
+   "itemSeq": "201501581",
+   "name": "베아셋세미정",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501581"
+  },
+  {
+   "itemSeq": "201501690",
+   "name": "페인리스서방정",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501690"
+  },
+  {
+   "itemSeq": "201502352",
+   "name": "에이셋서방정",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502352"
+  },
+  {
+   "itemSeq": "201502351",
+   "name": "트로셋서방정",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502351"
+  },
+  {
+   "itemSeq": "201502713",
+   "name": "웰트라세미정",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502713"
+  },
+  {
+   "itemSeq": "201502641",
+   "name": "타라셋서방정(아세트아미노펜, 트라마돌염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502641"
+  },
+  {
+   "itemSeq": "201502631",
+   "name": "파라마셋이알서방정",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502631"
+  },
+  {
+   "itemSeq": "201502928",
+   "name": "휴니즈트라셋정",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502928"
+  },
+  {
+   "itemSeq": "201502951",
+   "name": "써토몬정(수출용)",
+   "company": "경진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502951"
+  },
+  {
+   "itemSeq": "201503182",
+   "name": "울트라핀세미정",
+   "company": "에스피씨(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503182"
+  },
+  {
+   "itemSeq": "201503181",
+   "name": "울트라핀정",
+   "company": "에스피씨(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503181"
+  },
+  {
+   "itemSeq": "201504763",
+   "name": "아세타돌정",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504763"
+  },
+  {
+   "itemSeq": "201504978",
+   "name": "트라콤이알서방정(트라마돌염산염, 아세트아미노펜)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504978"
+  },
+  {
+   "itemSeq": "201505094",
+   "name": "트라콤세미정(트라마돌염산염, 아세트아미노펜)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505094"
+  },
+  {
+   "itemSeq": "201505164",
+   "name": "트라마셋서방정",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505164"
+  },
+  {
+   "itemSeq": "201505904",
+   "name": "페인리스세미서방정",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505904"
+  },
+  {
+   "itemSeq": "201506480",
+   "name": "에이셋세미서방정",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506480"
+  },
+  {
+   "itemSeq": "201506479",
+   "name": "타라셋세미서방정",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506479"
+  },
+  {
+   "itemSeq": "201506478",
+   "name": "트로셋세미서방정",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506478"
+  },
+  {
+   "itemSeq": "201506481",
+   "name": "파라마셋이알세미서방정",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506481"
+  },
+  {
+   "itemSeq": "201506597",
+   "name": "듀얼셋세미서방정",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506597"
+  },
+  {
+   "itemSeq": "201506598",
+   "name": "트라마셋세미서방정",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506598"
+  },
+  {
+   "itemSeq": "201506781",
+   "name": "무파인서방정",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506781"
+  },
+  {
+   "itemSeq": "201506782",
+   "name": "무파인세미서방정",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506782"
+  },
+  {
+   "itemSeq": "201507360",
+   "name": "젠트라셋세미정",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507360"
+  },
+  {
+   "itemSeq": "201507458",
+   "name": "아마돌ER서방정",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507458"
+  },
+  {
+   "itemSeq": "201507888",
+   "name": "트라비트세미정",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507888"
+  },
+  {
+   "itemSeq": "201507887",
+   "name": "트라비트정",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507887"
+  },
+  {
+   "itemSeq": "201600428",
+   "name": "씨엘트라세미정",
+   "company": "(주)씨엘팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600428"
+  },
+  {
+   "itemSeq": "201600427",
+   "name": "씨엘트라정",
+   "company": "(주)씨엘팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600427"
+  },
+  {
+   "itemSeq": "201600933",
+   "name": "파인미세미정",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600933"
+  },
+  {
+   "itemSeq": "201601516",
+   "name": "엔시트라세미서방정(트라마돌염산염, 아세트아미노펜)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601516"
+  },
+  {
+   "itemSeq": "201601505",
+   "name": "울파워셋세미정",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601505"
+  },
+  {
+   "itemSeq": "201601504",
+   "name": "울파워셋정",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601504"
+  },
+  {
+   "itemSeq": "201602709",
+   "name": "라노펜세미정",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602709"
+  },
+  {
+   "itemSeq": "201603234",
+   "name": "울트란세미정",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603234"
+  },
+  {
+   "itemSeq": "201603986",
+   "name": "뉴트라정",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603986"
+  },
+  {
+   "itemSeq": "201603985",
+   "name": "트라셋세미정",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603985"
+  },
+  {
+   "itemSeq": "201604034",
+   "name": "울트펜세미서방정",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604034"
+  },
+  {
+   "itemSeq": "201702154",
+   "name": "하이콘티서방정",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702154"
+  },
+  {
+   "itemSeq": "201702153",
+   "name": "하이콘티세미서방정",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702153"
+  },
+  {
+   "itemSeq": "201706399",
+   "name": "마도펜세미서방정",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706399"
+  },
+  {
+   "itemSeq": "201706582",
+   "name": "엘트라셋세미정",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706582"
+  },
+  {
+   "itemSeq": "201706581",
+   "name": "엘트라셋정",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706581"
+  },
+  {
+   "itemSeq": "201707662",
+   "name": "아펜트라세미정(트라마돌염산염, 아세트아미노펜)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707662"
+  },
+  {
+   "itemSeq": "201707663",
+   "name": "티에이정",
+   "company": "코스맥스파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707663"
+  },
+  {
+   "itemSeq": "201800309",
+   "name": "굿트라셋정",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800309"
+  },
+  {
+   "itemSeq": "201800810",
+   "name": "지무라돌세미정",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800810"
+  },
+  {
+   "itemSeq": "201803289",
+   "name": "마이티셋세미정(트라마돌염산염, 아세트아미노펜)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803289"
+  },
+  {
+   "itemSeq": "201803636",
+   "name": "크라셋세미정(트라마돌,아세트아미노펜)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803636"
+  },
+  {
+   "itemSeq": "201804529",
+   "name": "원트라셋세미정",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804529"
+  },
+  {
+   "itemSeq": "201804528",
+   "name": "원트라셋정",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804528"
+  },
+  {
+   "itemSeq": "201805171",
+   "name": "마도펜세미정",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805171"
+  },
+  {
+   "itemSeq": "201900957",
+   "name": "엘리펜서방정",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900957"
+  },
+  {
+   "itemSeq": "201900956",
+   "name": "엘리펜세미서방정",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900956"
+  },
+  {
+   "itemSeq": "201900996",
+   "name": "슈프라펜서방정(트라마돌, 아세트아미노펜)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900996"
+  },
+  {
+   "itemSeq": "201900995",
+   "name": "슈프라펜세미서방정(트라마돌, 아세트아미노펜)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900995"
+  },
+  {
+   "itemSeq": "201901007",
+   "name": "아세트라셋세미서방정",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901007"
+  },
+  {
+   "itemSeq": "201901925",
+   "name": "크라셋정(트라마돌,아세트아미노펜)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901925"
+  },
+  {
+   "itemSeq": "201902150",
+   "name": "듀오다인세미정",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902150"
+  },
+  {
+   "itemSeq": "201902260",
+   "name": "울트라뉴정",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902260"
+  },
+  {
+   "itemSeq": "201902454",
+   "name": "아트라쿨서방정",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902454"
+  },
+  {
+   "itemSeq": "201902453",
+   "name": "아트라쿨세미서방정",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902453"
+  },
+  {
+   "itemSeq": "201902554",
+   "name": "제이아트셋정",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902554"
+  },
+  {
+   "itemSeq": "201902624",
+   "name": "트라맥스세미정",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902624"
+  },
+  {
+   "itemSeq": "201903286",
+   "name": "스트롱셋세미정",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903286"
+  },
+  {
+   "itemSeq": "201903417",
+   "name": "아트라쿨세미정",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903417"
+  },
+  {
+   "itemSeq": "201903792",
+   "name": "다노펜세미정",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903792"
+  },
+  {
+   "itemSeq": "201903793",
+   "name": "다노펜정",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903793"
+  },
+  {
+   "itemSeq": "201905262",
+   "name": "아스트라셋세미정",
+   "company": "(주)셀비온",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905262"
+  },
+  {
+   "itemSeq": "201905261",
+   "name": "아스트라셋정",
+   "company": "(주)셀비온",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905261"
+  },
+  {
+   "itemSeq": "201905269",
+   "name": "울트론서방정",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905269"
+  },
+  {
+   "itemSeq": "201905270",
+   "name": "울트론세미서방정",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905270"
+  },
+  {
+   "itemSeq": "201905420",
+   "name": "비엘셋세미정",
+   "company": "하이플생명과학(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905420"
+  },
+  {
+   "itemSeq": "201905419",
+   "name": "비엘셋정",
+   "company": "하이플생명과학(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905419"
+  },
+  {
+   "itemSeq": "201905955",
+   "name": "아세트라돌정",
+   "company": "독립바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905955"
+  },
+  {
+   "itemSeq": "201906521",
+   "name": "굿트라셋세미정",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906521"
+  },
+  {
+   "itemSeq": "201906675",
+   "name": "트라세타세미정(아세트아미노펜,트라마돌)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906675"
+  },
+  {
+   "itemSeq": "201906674",
+   "name": "트라세타정(아세트아미노펜,트라마돌)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906674"
+  },
+  {
+   "itemSeq": "201907093",
+   "name": "아세트라돌세미정",
+   "company": "독립바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907093"
+  },
+  {
+   "itemSeq": "201907325",
+   "name": "아트마셋세미정",
+   "company": "(주)아리제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907325"
+  },
+  {
+   "itemSeq": "201907326",
+   "name": "아트마셋정",
+   "company": "(주)아리제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907326"
+  },
+  {
+   "itemSeq": "201907320",
+   "name": "트라세타서방정(아세트아미노펜,트라마돌)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907320"
+  },
+  {
+   "itemSeq": "201907323",
+   "name": "트라세타세미서방정(아세트아미노펜,트라마돌)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907323"
+  },
+  {
+   "itemSeq": "201908574",
+   "name": "에이셋세미정",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908574"
+  },
+  {
+   "itemSeq": "202000086",
+   "name": "트라셋펜세미정",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000086"
+  },
+  {
+   "itemSeq": "202000541",
+   "name": "소울트라정",
+   "company": "주식회사더유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000541"
+  },
+  {
+   "itemSeq": "202000651",
+   "name": "타노셋세미정",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000651"
+  },
+  {
+   "itemSeq": "202000649",
+   "name": "타노셋정",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000649"
+  },
+  {
+   "itemSeq": "202001323",
+   "name": "타노셋서방정",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001323"
+  },
+  {
+   "itemSeq": "202001324",
+   "name": "타노셋세미서방정",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001324"
+  },
+  {
+   "itemSeq": "202002523",
+   "name": "건트라셋서방정",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002523"
+  },
+  {
+   "itemSeq": "202002522",
+   "name": "건트라셋세미서방정",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002522"
+  },
+  {
+   "itemSeq": "202002521",
+   "name": "베아셋서방정",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002521"
+  },
+  {
+   "itemSeq": "202002520",
+   "name": "베아셋세미서방정",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002520"
+  },
+  {
+   "itemSeq": "202002519",
+   "name": "트라콤이알세미서방정(트라마돌염산염, 아세트아미노펜)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002519"
+  },
+  {
+   "itemSeq": "202002678",
+   "name": "메가아세돌정",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002678"
+  },
+  {
+   "itemSeq": "202002826",
+   "name": "오르펜세미서방정",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002826"
+  },
+  {
+   "itemSeq": "202002850",
+   "name": "메가아세돌세미정",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002850"
+  },
+  {
+   "itemSeq": "202003201",
+   "name": "아트라센세미정",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003201"
+  },
+  {
+   "itemSeq": "202003337",
+   "name": "트라비트서방정",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003337"
+  },
+  {
+   "itemSeq": "202003336",
+   "name": "트라비트세미서방정",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003336"
+  },
+  {
+   "itemSeq": "202003694",
+   "name": "울트라셋정",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "325.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003694"
+  },
+  {
+   "itemSeq": "202003800",
+   "name": "케이셋세미정",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003800"
+  },
+  {
+   "itemSeq": "202003799",
+   "name": "케이셋정",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "37.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003799"
+  },
+  {
+   "itemSeq": "202004095",
+   "name": "울트라뉴세미정",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004095"
+  },
+  {
+   "itemSeq": "202201142",
+   "name": "울트라셋세미정",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라마돌염산염",
+     "amount": "18.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "162.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201142"
+  },
+  {
+   "itemSeq": "202201173",
+   "name": "울트라셋이알서방정",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "260.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "17.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "390.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "58.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201173"
+  },
+  {
+   "itemSeq": "202201174",
+   "name": "울트라셋이알세미서방정",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "130.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "8.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "195.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "트라마돌염산염",
+     "amount": "29.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201174"
+  }
+ ]
+}

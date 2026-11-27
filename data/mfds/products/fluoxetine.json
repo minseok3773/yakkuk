@@ -1,0 +1,1619 @@
+{
+ "id": "fluoxetine",
+ "query": [
+  "플루옥세틴"
+ ],
+ "fetched": "2026-11-26",
+ "total": 106,
+ "kept": 106,
+ "mfdsName": [
+  "플루옥세틴염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "199701295",
+   "name": "푸록틴캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701295"
+  },
+  {
+   "itemSeq": "199801263",
+   "name": "폭세틴캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801263"
+  },
+  {
+   "itemSeq": "199801099",
+   "name": "푸로세틴캡슐(플루옥세틴염산염)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801099"
+  },
+  {
+   "itemSeq": "199802096",
+   "name": "루세틴캡슐(플루옥세틴염산염)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199802096"
+  },
+  {
+   "itemSeq": "199901556",
+   "name": "플루틴캡슐(플루옥세틴염산염)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901556"
+  },
+  {
+   "itemSeq": "200100714",
+   "name": "후세틴캡슐(플루옥세틴염산염)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-11-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100714"
+  },
+  {
+   "itemSeq": "200202781",
+   "name": "푸로핀캡슐(플루옥세틴염산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200202781"
+  },
+  {
+   "itemSeq": "200201028",
+   "name": "폭세틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201028"
+  },
+  {
+   "itemSeq": "200300905",
+   "name": "푸록틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-01-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300905"
+  },
+  {
+   "itemSeq": "200301925",
+   "name": "푸로렌캡슐(플루옥세틴염산염)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301925"
+  },
+  {
+   "itemSeq": "200302575",
+   "name": "디프렌캡슐(플루옥세틴염산염)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302575"
+  },
+  {
+   "itemSeq": "200301457",
+   "name": "다나텍캡슐(플루옥세틴염산염)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-09-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301457"
+  },
+  {
+   "itemSeq": "200301251",
+   "name": "플루틴캡슐10밀리그람(플루옥세틴염산염)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-09-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301251"
+  },
+  {
+   "itemSeq": "200402466",
+   "name": "웰피트캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402466"
+  },
+  {
+   "itemSeq": "200402293",
+   "name": "로세탄캡슐(플루옥세틴염산염)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402293"
+  },
+  {
+   "itemSeq": "200403086",
+   "name": "앤티프레스캡슐(플루옥세틴염산염)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.36",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403086"
+  },
+  {
+   "itemSeq": "200404055",
+   "name": "프라작캡슐(플루옥세틴염산염)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404055"
+  },
+  {
+   "itemSeq": "200401722",
+   "name": "노르작캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401722"
+  },
+  {
+   "itemSeq": "200403185",
+   "name": "푸세틴캡슐(플루옥세틴염산염)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403185"
+  },
+  {
+   "itemSeq": "200401879",
+   "name": "플루젠캡슐(플루옥세틴염산염)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401879"
+  },
+  {
+   "itemSeq": "200400581",
+   "name": "셀렉틴캡슐(플루옥세틴염산염)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-07-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400581"
+  },
+  {
+   "itemSeq": "200401412",
+   "name": "제로작캡슐(플루옥세틴염산염)",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401412"
+  },
+  {
+   "itemSeq": "200400804",
+   "name": "후록세틴캡슐(플루옥세틴염산염)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400804"
+  },
+  {
+   "itemSeq": "200402134",
+   "name": "대화염산플루옥세틴캡슐",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402134"
+  },
+  {
+   "itemSeq": "200411064",
+   "name": "푸로틴캡슐(플루옥세틴염산염)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200411064"
+  },
+  {
+   "itemSeq": "200400952",
+   "name": "프릭딘캡슐(플루옥세틴염산염)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400952"
+  },
+  {
+   "itemSeq": "200400652",
+   "name": "옥시그린캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400652"
+  },
+  {
+   "itemSeq": "200401889",
+   "name": "노브세틴캡슐(플루옥세틴염산염)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401889"
+  },
+  {
+   "itemSeq": "200502251",
+   "name": "미세틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "(주)바스칸바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502251"
+  },
+  {
+   "itemSeq": "200502252",
+   "name": "미세틴캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "(주)바스칸바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502252"
+  },
+  {
+   "itemSeq": "200503063",
+   "name": "유니작정20밀리그램(플루옥세틴염산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200503063"
+  },
+  {
+   "itemSeq": "200500416",
+   "name": "국제플루옥세틴캡슐(플루옥세틴염산염)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500416"
+  },
+  {
+   "itemSeq": "200502770",
+   "name": "푸로핀캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502770"
+  },
+  {
+   "itemSeq": "200501046",
+   "name": "플루민캡슐(플루옥세틴염산염)",
+   "company": "태극제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501046"
+  },
+  {
+   "itemSeq": "200500622",
+   "name": "셀렉틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500622"
+  },
+  {
+   "itemSeq": "200604358",
+   "name": "유니작정10밀리그람(플루옥세틴염산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604358"
+  },
+  {
+   "itemSeq": "200608206",
+   "name": "옥세틴캡슐(플루옥세틴염산염)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608206"
+  },
+  {
+   "itemSeq": "200611019",
+   "name": "푸록틴확산정20밀리그램(플루옥세틴염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.37",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200611019"
+  },
+  {
+   "itemSeq": "200611319",
+   "name": "로세틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-12-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200611319"
+  },
+  {
+   "itemSeq": "200700022",
+   "name": "로랑캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700022"
+  },
+  {
+   "itemSeq": "200701231",
+   "name": "플루세틴캡슐20mg(플루옥세틴염산염)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701231"
+  },
+  {
+   "itemSeq": "200808211",
+   "name": "로랑캡슐(플루옥세틴염산염)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808211"
+  },
+  {
+   "itemSeq": "200808226",
+   "name": "로세틴캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808226"
+  },
+  {
+   "itemSeq": "201112304",
+   "name": "옥세틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201112304"
+  },
+  {
+   "itemSeq": "201307079",
+   "name": "플록틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307079"
+  },
+  {
+   "itemSeq": "201308437",
+   "name": "유로작캡슐20mg(플루옥세틴염산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308437"
+  },
+  {
+   "itemSeq": "201309539",
+   "name": "웰피트캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309539"
+  },
+  {
+   "itemSeq": "201310001",
+   "name": "푸루세틴캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "미래바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310001"
+  },
+  {
+   "itemSeq": "201404038",
+   "name": "프로세틴캡슐20mg(플루옥세틴염산염)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404038"
+  },
+  {
+   "itemSeq": "201404233",
+   "name": "오베플루캡슐(플루옥세틴염산염)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404233"
+  },
+  {
+   "itemSeq": "201405001",
+   "name": "펄세틴캡슐(플루옥세틴염산염)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405001"
+  },
+  {
+   "itemSeq": "201405194",
+   "name": "피엠에스플루옥세틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "파마사이언스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.18",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405194"
+  },
+  {
+   "itemSeq": "201405195",
+   "name": "피엠에스플루옥세틴캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "파마사이언스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.36",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405195"
+  },
+  {
+   "itemSeq": "201500247",
+   "name": "노브세틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500247"
+  },
+  {
+   "itemSeq": "201500735",
+   "name": "디프렌캡슐10mg(플루옥세틴염산염)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500735"
+  },
+  {
+   "itemSeq": "201503320",
+   "name": "플루민캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "태극제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503320"
+  },
+  {
+   "itemSeq": "201508441",
+   "name": "플루세틴캡슐10mg(플루옥세틴염산염)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508441"
+  },
+  {
+   "itemSeq": "201603876",
+   "name": "프로닌캡슐(플루옥세틴염산염)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603876"
+  },
+  {
+   "itemSeq": "201604434",
+   "name": "디프맥스캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604434"
+  },
+  {
+   "itemSeq": "201708635",
+   "name": "영프록틴캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708635"
+  },
+  {
+   "itemSeq": "201801734",
+   "name": "오베틴캡슐(플루옥세틴염산염)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801734"
+  },
+  {
+   "itemSeq": "201801864",
+   "name": "세로세틴캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801864"
+  },
+  {
+   "itemSeq": "201802049",
+   "name": "슬리세틴캡슐(플루옥세틴염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802049"
+  },
+  {
+   "itemSeq": "201802257",
+   "name": "로틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802257"
+  },
+  {
+   "itemSeq": "201802271",
+   "name": "프릭딘캡슐10mg(플루옥세틴염산염)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802271"
+  },
+  {
+   "itemSeq": "201802296",
+   "name": "로틴캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802296"
+  },
+  {
+   "itemSeq": "201803003",
+   "name": "아이세틴캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803003"
+  },
+  {
+   "itemSeq": "201803155",
+   "name": "노르작캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803155"
+  },
+  {
+   "itemSeq": "201804348",
+   "name": "시세틴20밀리그램캡슐(플루옥세틴염산염)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804348"
+  },
+  {
+   "itemSeq": "201805118",
+   "name": "슬리세틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805118"
+  },
+  {
+   "itemSeq": "201805198",
+   "name": "플록센캡슐(플루옥세틴염산염)",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805198"
+  },
+  {
+   "itemSeq": "201901937",
+   "name": "영프록틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901937"
+  },
+  {
+   "itemSeq": "201902843",
+   "name": "영진플루옥세틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902843"
+  },
+  {
+   "itemSeq": "201903001",
+   "name": "영진플루옥세틴캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903001"
+  },
+  {
+   "itemSeq": "201903389",
+   "name": "디프세틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903389"
+  },
+  {
+   "itemSeq": "201903390",
+   "name": "디프세틴캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903390"
+  },
+  {
+   "itemSeq": "201903548",
+   "name": "프로닌캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903548"
+  },
+  {
+   "itemSeq": "201906904",
+   "name": "플루옥캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "한국신텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906904"
+  },
+  {
+   "itemSeq": "201907012",
+   "name": "유니작캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907012"
+  },
+  {
+   "itemSeq": "201907013",
+   "name": "유니작캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907013"
+  },
+  {
+   "itemSeq": "201907732",
+   "name": "현대플루옥세틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907732"
+  },
+  {
+   "itemSeq": "201907731",
+   "name": "현대플루옥세틴캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907731"
+  },
+  {
+   "itemSeq": "201908103",
+   "name": "시플세틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908103"
+  },
+  {
+   "itemSeq": "201908289",
+   "name": "시플세틴캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908289"
+  },
+  {
+   "itemSeq": "202000390",
+   "name": "리옥틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000390"
+  },
+  {
+   "itemSeq": "202000391",
+   "name": "리옥틴캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000391"
+  },
+  {
+   "itemSeq": "202002822",
+   "name": "폭틴캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002822"
+  },
+  {
+   "itemSeq": "202004021",
+   "name": "아로작캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "(주)아리제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004021"
+  },
+  {
+   "itemSeq": "202004022",
+   "name": "아로작캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "(주)아리제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004022"
+  },
+  {
+   "itemSeq": "202009262",
+   "name": "플루옥캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "한국신텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009262"
+  },
+  {
+   "itemSeq": "202102809",
+   "name": "플록틴정20밀리그램(플루옥세틴염산염)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102809"
+  },
+  {
+   "itemSeq": "202104396",
+   "name": "아이세틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104396"
+  },
+  {
+   "itemSeq": "202104514",
+   "name": "옥시그린캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104514"
+  },
+  {
+   "itemSeq": "202105363",
+   "name": "디프맥스캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105363"
+  },
+  {
+   "itemSeq": "202105840",
+   "name": "다이너컷캡슐10mg(플루옥세틴염산염)",
+   "company": "(주)옵투스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105840"
+  },
+  {
+   "itemSeq": "202105841",
+   "name": "다이너컷캡슐20mg(플루옥세틴염산염)",
+   "company": "(주)옵투스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105841"
+  },
+  {
+   "itemSeq": "202106027",
+   "name": "푸록세틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106027"
+  },
+  {
+   "itemSeq": "202106028",
+   "name": "푸록세틴캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106028"
+  },
+  {
+   "itemSeq": "202106252",
+   "name": "프록세틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "성이바이오제약주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106252"
+  },
+  {
+   "itemSeq": "202106354",
+   "name": "엘렉틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106354"
+  },
+  {
+   "itemSeq": "202106353",
+   "name": "엘렉틴캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106353"
+  },
+  {
+   "itemSeq": "202106361",
+   "name": "프록세틴캡슐(플루옥세틴염산염)",
+   "company": "성이바이오제약주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106361"
+  },
+  {
+   "itemSeq": "202106605",
+   "name": "오베틴캡슐20밀리그램(플루옥세틴염산염)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-09-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106605"
+  },
+  {
+   "itemSeq": "202107002",
+   "name": "폴세틴캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "(주)알피바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107002"
+  },
+  {
+   "itemSeq": "202107182",
+   "name": "유로작캡슐10밀리그램(플루옥세틴염산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "11.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107182"
+  },
+  {
+   "itemSeq": "202200244",
+   "name": "플로세틴캡슐(플루옥세틴염산염)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루옥세틴염산염",
+     "amount": "22.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200244"
+  }
+ ]
+}

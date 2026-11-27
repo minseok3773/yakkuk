@@ -1,0 +1,300 @@
+{
+ "id": "nifedipine",
+ "query": [
+  "니페디핀"
+ ],
+ "fetched": "2026-11-27",
+ "total": 19,
+ "kept": 19,
+ "mfdsName": [
+  "니페디핀",
+  "니페디핀(미분화)"
+ ],
+ "items": [
+  {
+   "itemSeq": "199604622",
+   "name": "아달라트오로스정30(니페디핀)",
+   "company": "바이엘코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "니페디핀(미분화)",
+     "amount": "33",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1996-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199604622"
+  },
+  {
+   "itemSeq": "199703528",
+   "name": "네프린정(니페디핀)(수출용)[수출명:Daehanneprin Tab.]",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "니페디핀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-03-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199703528"
+  },
+  {
+   "itemSeq": "199703529",
+   "name": "네프린정20밀리그램(니페디핀)(수출용)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "니페디핀",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-03-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199703529"
+  },
+  {
+   "itemSeq": "199701960",
+   "name": "영일니페디핀연질캡슐10밀리그램( 수출명 : 메디코렛트연질캡슐10mg, NIFEDINE SOFT CAPSULE 10mg)(수출용)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "니페디핀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701960"
+  },
+  {
+   "itemSeq": "199801089",
+   "name": "안국니페디핀연질캅셀 5mg(수출용)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "니페디핀",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801089"
+  },
+  {
+   "itemSeq": "199803897",
+   "name": "네프린연질캡슐10mg\n(니페디핀) [수출명 : Daehanneprin Soft Cap.]\n(수출용)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "니페디핀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-09-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199803897"
+  },
+  {
+   "itemSeq": "200401599",
+   "name": "유니온니페디핀정20mg(수출용)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "니페디핀",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401599"
+  },
+  {
+   "itemSeq": "200400999",
+   "name": "니페론씨알서방정40밀리그램(니페디핀)",
+   "company": "에리슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "니페디핀",
+     "amount": "40.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400999"
+  },
+  {
+   "itemSeq": "200502319",
+   "name": "니페딕스지속정(니페디핀)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "니페디핀",
+     "amount": "30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502319"
+  },
+  {
+   "itemSeq": "200804781",
+   "name": "안국니페디핀연질캡슐 10mg(수출용)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "니페디핀",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804781"
+  },
+  {
+   "itemSeq": "200908970",
+   "name": "영풍니페디핀연질캡슐(수출용)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "니페디핀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-12-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200908970"
+  },
+  {
+   "itemSeq": "201307442",
+   "name": "동구니페디핀연질캡슐10mg(수출용)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "니페디핀",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307442"
+  },
+  {
+   "itemSeq": "201309271",
+   "name": "유유니페디핀연질캡슐10밀리그램(수출명 : 하이포연질캡슐, Hypor soft capsule)(수출용)",
+   "company": "(주)유유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "니페디핀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309271"
+  },
+  {
+   "itemSeq": "201310556",
+   "name": "동구니페디핀연질캡슐5mg(수출용)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "니페디핀",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310556"
+  },
+  {
+   "itemSeq": "201504227",
+   "name": "아다핀오스모서방정30밀리그램(니페디핀)",
+   "company": "에리슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "니페디핀",
+     "amount": "33.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504227"
+  },
+  {
+   "itemSeq": "201604637",
+   "name": "파비스니페디핀정(수출용)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "니페디핀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604637"
+  },
+  {
+   "itemSeq": "201803210",
+   "name": "메디코렛정20밀리그램(니페디핀)(수출용)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "니페디핀",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803210"
+  },
+  {
+   "itemSeq": "202500925",
+   "name": "니페론씨알서방정20밀리그램(니페디핀)",
+   "company": "에리슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "니페디핀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500925"
+  },
+  {
+   "itemSeq": "202501260",
+   "name": "니페디온CR서방정40밀리그램(니페디핀)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "니페디핀",
+     "amount": "40.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501260"
+  }
+ ]
+}

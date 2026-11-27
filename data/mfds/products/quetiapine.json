@@ -1,0 +1,1950 @@
+{
+ "id": "quetiapine",
+ "query": [
+  "쿠에티아핀",
+  "퀘티아핀"
+ ],
+ "fetched": "2026-11-26",
+ "total": 129,
+ "kept": 129,
+ "mfdsName": [
+  "쿠에티아핀푸마르산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "200009023",
+   "name": "쎄로켈정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-11-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009023"
+  },
+  {
+   "itemSeq": "200009024",
+   "name": "쎄로켈정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-11-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009024"
+  },
+  {
+   "itemSeq": "200009022",
+   "name": "쎄로켈정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-11-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009022"
+  },
+  {
+   "itemSeq": "200410325",
+   "name": "쎄로켈정300밀리그램(쿠에티아핀푸마르산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410325"
+  },
+  {
+   "itemSeq": "200701406",
+   "name": "쿠에타핀정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701406"
+  },
+  {
+   "itemSeq": "200704618",
+   "name": "명문쿠에티아핀정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704618"
+  },
+  {
+   "itemSeq": "200704619",
+   "name": "카세핀정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704619"
+  },
+  {
+   "itemSeq": "200704617",
+   "name": "쿠에티정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704617"
+  },
+  {
+   "itemSeq": "200704587",
+   "name": "쿠티아핀정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704587"
+  },
+  {
+   "itemSeq": "200709901",
+   "name": "큐로켈정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709901"
+  },
+  {
+   "itemSeq": "200712253",
+   "name": "큐티핀정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712253"
+  },
+  {
+   "itemSeq": "200712559",
+   "name": "스무디핀정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712559"
+  },
+  {
+   "itemSeq": "200712982",
+   "name": "쎄로켈서방정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712982"
+  },
+  {
+   "itemSeq": "200712980",
+   "name": "쎄로켈서방정300밀리그램(쿠에티아핀푸마르산염\r\n)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712980"
+  },
+  {
+   "itemSeq": "200712979",
+   "name": "쎄로켈서방정400밀리그램(쿠에티아핀푸마르산염\r\n)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "460.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712979"
+  },
+  {
+   "itemSeq": "200712981",
+   "name": "쎄로켈서방정50밀리그램(쿠에티아핀푸마르산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "57.56",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712981"
+  },
+  {
+   "itemSeq": "200802022",
+   "name": "쿠에타핀정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802022"
+  },
+  {
+   "itemSeq": "200802023",
+   "name": "쿠에타핀정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802023"
+  },
+  {
+   "itemSeq": "200807038",
+   "name": "명문쿠에티아핀정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807038"
+  },
+  {
+   "itemSeq": "200807041",
+   "name": "명문쿠에티아핀정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807041"
+  },
+  {
+   "itemSeq": "200807036",
+   "name": "카세핀정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807036"
+  },
+  {
+   "itemSeq": "200807045",
+   "name": "카세핀정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807045"
+  },
+  {
+   "itemSeq": "200807040",
+   "name": "쿠에티정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807040"
+  },
+  {
+   "itemSeq": "200807043",
+   "name": "쿠에티정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807043"
+  },
+  {
+   "itemSeq": "200807044",
+   "name": "쿠티아핀정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807044"
+  },
+  {
+   "itemSeq": "200807037",
+   "name": "쿠티아핀정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807037"
+  },
+  {
+   "itemSeq": "200808790",
+   "name": "쿠에타핀정300밀리그램(쿠에티아핀푸마르산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808790"
+  },
+  {
+   "itemSeq": "200809080",
+   "name": "명문쿠에티아핀정300밀리그램(쿠에티아핀푸마르산염)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809080"
+  },
+  {
+   "itemSeq": "200809081",
+   "name": "카세핀정300밀리그램(쿠에티아핀푸마르산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809081"
+  },
+  {
+   "itemSeq": "200809077",
+   "name": "쿠에티정300밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809077"
+  },
+  {
+   "itemSeq": "200809079",
+   "name": "쿠티아핀정300밀리그램(쿠에티아핀푸마르산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809079"
+  },
+  {
+   "itemSeq": "200809073",
+   "name": "큐티핀정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.12",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809073"
+  },
+  {
+   "itemSeq": "200809074",
+   "name": "큐티핀정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.24",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809074"
+  },
+  {
+   "itemSeq": "200810703",
+   "name": "스무디핀정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810703"
+  },
+  {
+   "itemSeq": "200810702",
+   "name": "스무디핀정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810702"
+  },
+  {
+   "itemSeq": "200906719",
+   "name": "쎄로켈서방정150밀리그램(쿠에티아핀푸마르산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "172.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-09-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906719"
+  },
+  {
+   "itemSeq": "201001699",
+   "name": "큐로켈정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001699"
+  },
+  {
+   "itemSeq": "201003049",
+   "name": "큐로켈정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003049"
+  },
+  {
+   "itemSeq": "201005685",
+   "name": "큐로켈정300밀리그램(쿠에티아핀푸마르산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201005685"
+  },
+  {
+   "itemSeq": "201507924",
+   "name": "쿠에티서방정150밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "172.68",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507924"
+  },
+  {
+   "itemSeq": "201507927",
+   "name": "쿠에티서방정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.24",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507927"
+  },
+  {
+   "itemSeq": "201507925",
+   "name": "쿠에티서방정300밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.36",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507925"
+  },
+  {
+   "itemSeq": "201507926",
+   "name": "쿠에티서방정400밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "460.48",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507926"
+  },
+  {
+   "itemSeq": "201507923",
+   "name": "쿠에티서방정50밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "57.56",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507923"
+  },
+  {
+   "itemSeq": "201507965",
+   "name": "쿠에타핀서방정150밀리그램(쿠에티아핀푸마르산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "172.68",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507965"
+  },
+  {
+   "itemSeq": "201507966",
+   "name": "쿠에타핀서방정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.24",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507966"
+  },
+  {
+   "itemSeq": "201507967",
+   "name": "쿠에타핀서방정300밀리그램(쿠에티아핀푸마르산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.36",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507967"
+  },
+  {
+   "itemSeq": "201507968",
+   "name": "쿠에타핀서방정400밀리그램(쿠에티아핀푸마르산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "460.48",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507968"
+  },
+  {
+   "itemSeq": "201507964",
+   "name": "쿠에타핀서방정50밀리그램(쿠에티아핀푸마르산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "57.56",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507964"
+  },
+  {
+   "itemSeq": "201507970",
+   "name": "큐로켈서방정150밀리그램(쿠에티아핀푸마르산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "172.68",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507970"
+  },
+  {
+   "itemSeq": "201507972",
+   "name": "큐로켈서방정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.24",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507972"
+  },
+  {
+   "itemSeq": "201507973",
+   "name": "큐로켈서방정300밀리그램(쿠에티아핀푸마르산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.36",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507973"
+  },
+  {
+   "itemSeq": "201507974",
+   "name": "큐로켈서방정400밀리그램(쿠에티아핀푸마르산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "460.48",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507974"
+  },
+  {
+   "itemSeq": "201507971",
+   "name": "큐로켈서방정50밀리그램(쿠에티아핀푸마르산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "57.56",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507971"
+  },
+  {
+   "itemSeq": "201600275",
+   "name": "세로아핀정100mg(쿠에티아핀푸마르산염)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600275"
+  },
+  {
+   "itemSeq": "201600274",
+   "name": "세로아핀정25mg(쿠에티아핀푸마르산염)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.7825",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600274"
+  },
+  {
+   "itemSeq": "201601047",
+   "name": "피엠에스쿠에티아핀정25mg\n\n(쿠에티아핀푸마르산염)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601047"
+  },
+  {
+   "itemSeq": "201601046",
+   "name": "피엠에스쿠에티아핀정200mg(쿠에티아핀푸마르산염)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601046"
+  },
+  {
+   "itemSeq": "201601117",
+   "name": "피엠에스쿠에티아핀정100mg(쿠에티아핀푸마르산염)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601117"
+  },
+  {
+   "itemSeq": "201601119",
+   "name": "피엠에스쿠에티아핀정300mg(쿠에티아핀푸마르산염)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601119"
+  },
+  {
+   "itemSeq": "201603147",
+   "name": "큐로켈정50밀리그램(쿠에티아핀푸마르산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "57.57",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603147"
+  },
+  {
+   "itemSeq": "201603841",
+   "name": "쎄로티핀정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603841"
+  },
+  {
+   "itemSeq": "201603844",
+   "name": "쎄로티핀정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603844"
+  },
+  {
+   "itemSeq": "201603843",
+   "name": "쎄로티핀정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603843"
+  },
+  {
+   "itemSeq": "201603842",
+   "name": "쎄로티핀정300밀리그램(쿠에티아핀푸마르산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603842"
+  },
+  {
+   "itemSeq": "201702795",
+   "name": "쿠에타핀정12.5밀리그램(쿠에티아핀푸마르산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "14.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702795"
+  },
+  {
+   "itemSeq": "201801388",
+   "name": "쿠에타핀정50밀리그램(쿠에티아핀푸마르산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "57.56",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801388"
+  },
+  {
+   "itemSeq": "201801706",
+   "name": "카세핀서방정150밀리그램(쿠에티아핀푸마르산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "172.68",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801706"
+  },
+  {
+   "itemSeq": "201801707",
+   "name": "카세핀서방정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.24",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801707"
+  },
+  {
+   "itemSeq": "201801703",
+   "name": "카세핀서방정300밀리그램(쿠에티아핀푸마르산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.36",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801703"
+  },
+  {
+   "itemSeq": "201801704",
+   "name": "카세핀서방정400밀리그램(쿠에티아핀푸마르산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "460.48",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801704"
+  },
+  {
+   "itemSeq": "201801705",
+   "name": "카세핀서방정50밀리그램(쿠에티아핀푸마르산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "57.56",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801705"
+  },
+  {
+   "itemSeq": "201801717",
+   "name": "삼성쿠에티아핀정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801717"
+  },
+  {
+   "itemSeq": "201801807",
+   "name": "콰이치정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801807"
+  },
+  {
+   "itemSeq": "201801806",
+   "name": "콰이치정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801806"
+  },
+  {
+   "itemSeq": "201802356",
+   "name": "쿠아핀정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802356"
+  },
+  {
+   "itemSeq": "201802363",
+   "name": "쿠아핀정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802363"
+  },
+  {
+   "itemSeq": "201802465",
+   "name": "이지타핀정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802465"
+  },
+  {
+   "itemSeq": "201802537",
+   "name": "이지타핀정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802537"
+  },
+  {
+   "itemSeq": "201802581",
+   "name": "이지타핀정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802581"
+  },
+  {
+   "itemSeq": "201802582",
+   "name": "이지타핀정300밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802582"
+  },
+  {
+   "itemSeq": "201802734",
+   "name": "쿠아틴정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802734"
+  },
+  {
+   "itemSeq": "201802736",
+   "name": "쿠아틴정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802736"
+  },
+  {
+   "itemSeq": "201802733",
+   "name": "쿠아틴정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802733"
+  },
+  {
+   "itemSeq": "201803540",
+   "name": "쿠에핀정25mg(쿠에티아핀푸마르산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803540"
+  },
+  {
+   "itemSeq": "201900219",
+   "name": "큐로켈정12.5밀리그램(쿠에티아핀푸마르산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "14.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900219"
+  },
+  {
+   "itemSeq": "201901714",
+   "name": "퀘티아핀정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901714"
+  },
+  {
+   "itemSeq": "201901713",
+   "name": "퀘티아핀정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901713"
+  },
+  {
+   "itemSeq": "201902622",
+   "name": "한화쿼테아핀정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902622"
+  },
+  {
+   "itemSeq": "201902623",
+   "name": "한화쿼테아핀정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902623"
+  },
+  {
+   "itemSeq": "201903266",
+   "name": "신신쿠에티아핀정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903266"
+  },
+  {
+   "itemSeq": "201903265",
+   "name": "신신쿠에티아핀정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903265"
+  },
+  {
+   "itemSeq": "201904286",
+   "name": "비엘쿠에티정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904286"
+  },
+  {
+   "itemSeq": "201904287",
+   "name": "제이씨쿠에티아핀정25mg(쿠에티아핀푸마르산염)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904287"
+  },
+  {
+   "itemSeq": "201904288",
+   "name": "티아펜정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904288"
+  },
+  {
+   "itemSeq": "201904289",
+   "name": "티아펜정300밀리그램(쿠에티아핀푸마르산염)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904289"
+  },
+  {
+   "itemSeq": "201904413",
+   "name": "티디핀정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)티디에스팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904413"
+  },
+  {
+   "itemSeq": "201905240",
+   "name": "세로큐정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905240"
+  },
+  {
+   "itemSeq": "201905241",
+   "name": "세로큐정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905241"
+  },
+  {
+   "itemSeq": "201905239",
+   "name": "세로큐정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905239"
+  },
+  {
+   "itemSeq": "201905242",
+   "name": "세로큐정300밀리그램(쿠에티아핀푸마르산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905242"
+  },
+  {
+   "itemSeq": "201906871",
+   "name": "쿠아핀정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906871"
+  },
+  {
+   "itemSeq": "201906877",
+   "name": "환인쿠에타핀서방정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906877"
+  },
+  {
+   "itemSeq": "202001264",
+   "name": "쿠에티나정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001264"
+  },
+  {
+   "itemSeq": "202001604",
+   "name": "동화쿠에티아핀정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001604"
+  },
+  {
+   "itemSeq": "202001602",
+   "name": "동화쿠에티아핀정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001602"
+  },
+  {
+   "itemSeq": "202001601",
+   "name": "동화쿠에티아핀정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001601"
+  },
+  {
+   "itemSeq": "202001603",
+   "name": "동화쿠에티아핀정300밀리그램(쿠에티아핀푸마르산염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001603"
+  },
+  {
+   "itemSeq": "202001786",
+   "name": "에큐민정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001786"
+  },
+  {
+   "itemSeq": "202001787",
+   "name": "에큐민정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001787"
+  },
+  {
+   "itemSeq": "202001785",
+   "name": "에큐민정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001785"
+  },
+  {
+   "itemSeq": "202002306",
+   "name": "쎄로타핀정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002306"
+  },
+  {
+   "itemSeq": "202002304",
+   "name": "쎄로타핀정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002304"
+  },
+  {
+   "itemSeq": "202002307",
+   "name": "쎄로타핀정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002307"
+  },
+  {
+   "itemSeq": "202002305",
+   "name": "쎄로타핀정300밀리그램(쿠에티아핀푸마르산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002305"
+  },
+  {
+   "itemSeq": "202002595",
+   "name": "케타핀정100밀리그램(쿠에티아핀푸마르산염)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "115.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002595"
+  },
+  {
+   "itemSeq": "202002594",
+   "name": "케타핀정200밀리그램(쿠에티아핀푸마르산염)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "230.26",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002594"
+  },
+  {
+   "itemSeq": "202002596",
+   "name": "케타핀정25밀리그램(쿠에티아핀푸마르산염)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "28.78",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002596"
+  },
+  {
+   "itemSeq": "202002593",
+   "name": "케타핀정300밀리그램(쿠에티아핀푸마르산염)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002593"
+  },
+  {
+   "itemSeq": "202003496",
+   "name": "환인쿠에타핀서방정150밀리그램(쿠에티아핀푸마르산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "172.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003496"
+  },
+  {
+   "itemSeq": "202003495",
+   "name": "환인쿠에타핀서방정300밀리그램(쿠에티아핀푸마르산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "345.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003495"
+  },
+  {
+   "itemSeq": "202003494",
+   "name": "환인쿠에타핀서방정400밀리그램(쿠에티아핀푸마르산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "460.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003494"
+  },
+  {
+   "itemSeq": "202004752",
+   "name": "쿠티아핀정12.5밀리그램(쿠에티아핀푸마르산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "14.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004752"
+  },
+  {
+   "itemSeq": "202004751",
+   "name": "쿠티아핀정50밀리그램(쿠에티아핀푸마르산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "57.56",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004751"
+  },
+  {
+   "itemSeq": "202107185",
+   "name": "카세핀정12.5밀리그램(쿠에티아핀푸마르산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "14.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107185"
+  },
+  {
+   "itemSeq": "202401795",
+   "name": "동화쿠에티아핀정12.5밀리그램(쿠에티아핀푸마르산염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "14.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401795"
+  },
+  {
+   "itemSeq": "202402325",
+   "name": "환인쿠에타핀서방정50밀리그램(쿠에티아핀푸마르산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "57.56",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402325"
+  },
+  {
+   "itemSeq": "202600767",
+   "name": "쿠에티정50밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "57.565",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600767"
+  },
+  {
+   "itemSeq": "202601183",
+   "name": "쿠에티정12.5밀리그램(쿠에티아핀푸마르산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "쿠에티아핀푸마르산염",
+     "amount": "14.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601183"
+  }
+ ]
+}

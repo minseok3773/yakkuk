@@ -1,0 +1,210 @@
+{
+ "id": "gemigliptin",
+ "query": [
+  "제미글립틴"
+ ],
+ "fetched": "2026-11-26",
+ "total": 10,
+ "kept": 10,
+ "mfdsName": [
+  "제미글립틴타르타르산염1.5수화물",
+  "제미글립틴타르타르산염1.5수하물"
+ ],
+ "items": [
+  {
+   "itemSeq": "201205933",
+   "name": "제미글로정50밀리그램(제미글립틴타르타르산염1.5수화물)",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "제미글립틴타르타르산염1.5수화물",
+     "amount": "68.9",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205933"
+  },
+  {
+   "itemSeq": "201308371",
+   "name": "제미메트서방정25/500밀리그램",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "제미글립틴타르타르산염1.5수화물",
+     "amount": "34.45",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308371"
+  },
+  {
+   "itemSeq": "201405223",
+   "name": "제미메트서방정50/1000밀리그램",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "제미글립틴타르타르산염1.5수화물",
+     "amount": "68.9",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405223"
+  },
+  {
+   "itemSeq": "201507099",
+   "name": "제미메트서방정50/500밀리그램",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "제미글립틴타르타르산염1.5수화물",
+     "amount": "68.9",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507099"
+  },
+  {
+   "itemSeq": "201604114",
+   "name": "제미메트서방정25/1000밀리그램",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "제미글립틴타르타르산염1.5수하물",
+     "amount": "34.45",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604114"
+  },
+  {
+   "itemSeq": "201706395",
+   "name": "제미로우정50/10밀리그램",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "제미글립틴타르타르산염1.5수화물",
+     "amount": "68.9",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706395"
+  },
+  {
+   "itemSeq": "201706397",
+   "name": "제미로우정50/20밀리그램",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "제미글립틴타르타르산염1.5수화물",
+     "amount": "68.9",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706397"
+  },
+  {
+   "itemSeq": "201706396",
+   "name": "제미로우정50/5밀리그램",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "제미글립틴타르타르산염1.5수화물",
+     "amount": "68.9",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘(미분화)",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706396"
+  },
+  {
+   "itemSeq": "202202588",
+   "name": "제미다파정",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "제미글립틴타르타르산염1.5수화물",
+     "amount": "68.9",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202588"
+  },
+  {
+   "itemSeq": "202400205",
+   "name": "제미메트서방정25/750밀리그램(제미글립틴,메트포르민)",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "제미글립틴타르타르산염1.5수하물",
+     "amount": "34.45",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "750.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400205"
+  }
+ ]
+}

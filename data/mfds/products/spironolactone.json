@@ -1,0 +1,139 @@
+{
+ "id": "spironolactone",
+ "query": [
+  "스피로노락톤"
+ ],
+ "fetched": "2026-11-26",
+ "total": 8,
+ "kept": 8,
+ "mfdsName": [
+  "스피로노락톤"
+ ],
+ "items": [
+  {
+   "itemSeq": "197500541",
+   "name": "구주스피로닥톤정(스피로노락톤)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "스피로노락톤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1975-10-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197500541"
+  },
+  {
+   "itemSeq": "199402364",
+   "name": "코러스스피로노락톤정(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "스피로노락톤",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1994-10-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199402364"
+  },
+  {
+   "itemSeq": "199701668",
+   "name": "스피락톤정50mg(스피로노락톤)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "스피로노락톤",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701668"
+  },
+  {
+   "itemSeq": "199703370",
+   "name": "코러스스피로노락톤정25밀리그램(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "스피로노락톤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-08-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199703370"
+  },
+  {
+   "itemSeq": "200409929",
+   "name": "알닥톤필름코팅정25밀리그람(스피로노락톤)",
+   "company": "한국화이자제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "스피로노락톤",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200409929"
+  },
+  {
+   "itemSeq": "201403761",
+   "name": "명문스피로락톤정(스피로노락톤)(수출용)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "스피로노락톤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403761"
+  },
+  {
+   "itemSeq": "202302921",
+   "name": "스피락톤정25mg(스피로노락톤)(수출용)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "스피로노락톤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302921"
+  },
+  {
+   "itemSeq": "198500633",
+   "name": "스피로자이드정(스피로노락톤, 히드로클로로티아지드)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "스피로노락톤",
+     "amount": "25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500633"
+  }
+ ]
+}

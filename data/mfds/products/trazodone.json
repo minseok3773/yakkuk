@@ -1,0 +1,119 @@
+{
+ "id": "trazodone",
+ "query": [
+  "트라조돈"
+ ],
+ "fetched": "2026-11-26",
+ "total": 7,
+ "kept": 7,
+ "mfdsName": [
+  "트라조돈염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "198200118",
+   "name": "트리티코정25밀리그람(트라조돈염산염)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라조돈염산염",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1982-09-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198200118"
+  },
+  {
+   "itemSeq": "198200117",
+   "name": "트리티코정50밀리그람(트라조돈염산염)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라조돈염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1982-09-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198200117"
+  },
+  {
+   "itemSeq": "198700737",
+   "name": "환인트라조돈염산염캡슐",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라조돈염산염",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1987-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700737"
+  },
+  {
+   "itemSeq": "199200407",
+   "name": "트리티코서방정75밀리그람(트라조돈염산염)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라조돈염산염",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1992-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199200407"
+  },
+  {
+   "itemSeq": "199400868",
+   "name": "명인트라조돈캡슐25밀리그램",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라조돈염산염",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1994-01-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400868"
+  },
+  {
+   "itemSeq": "201404400",
+   "name": "명인트라조돈염산염정50밀리그램",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라조돈염산염",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404400"
+  },
+  {
+   "itemSeq": "201405502",
+   "name": "명인트라조돈염산염정25mg",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트라조돈염산염",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405502"
+  }
+ ]
+}

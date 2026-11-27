@@ -1,0 +1,29 @@
+{
+ "id": "lisinopril",
+ "query": [
+  "리시노프릴"
+ ],
+ "fetched": "2026-11-26",
+ "total": 1,
+ "kept": 1,
+ "mfdsName": [
+  "리시노프릴이수화물"
+ ],
+ "items": [
+  {
+   "itemSeq": "199002095",
+   "name": "현대제스트릴정10밀리그램(리시노프릴)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리시노프릴이수화물",
+     "amount": "10.9",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1990-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199002095"
+  }
+ ]
+}

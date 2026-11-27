@@ -1,0 +1,602 @@
+{
+ "id": "duloxetine",
+ "query": [
+  "둘록세틴"
+ ],
+ "fetched": "2026-11-26",
+ "total": 39,
+ "kept": 39,
+ "mfdsName": [
+  "둘록세틴염산염장용과립",
+  "둘록세틴염산염",
+  "둘록세틴염산염과립",
+  "둘록세틴염산염 장용과립"
+ ],
+ "items": [
+  {
+   "itemSeq": "201310933",
+   "name": "듀로프렉스캡슐60밀리그램(둘록세틴염산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "352.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310933"
+  },
+  {
+   "itemSeq": "201401792",
+   "name": "듀로프렉스캡슐30밀리그램(둘록세틴염산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "176.47",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401792"
+  },
+  {
+   "itemSeq": "201401965",
+   "name": "유록틴캡슐30밀리그램(둘록세틴염산염)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "176.47",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401965"
+  },
+  {
+   "itemSeq": "201401966",
+   "name": "유록틴캡슐60밀리그램(둘록세틴염산염)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "352.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401966"
+  },
+  {
+   "itemSeq": "201402150",
+   "name": "마이셀타캡슐30밀리그램(둘록세틴염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "168.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402150"
+  },
+  {
+   "itemSeq": "201402151",
+   "name": "마이셀타캡슐60밀리그램(둘록세틴염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "337.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402151"
+  },
+  {
+   "itemSeq": "201402238",
+   "name": "드록틴캡슐60밀리그램(둘록세틴염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염",
+     "amount": "67.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402238"
+  },
+  {
+   "itemSeq": "201402270",
+   "name": "두셀라캡슐60밀리그램(둘록세틴염산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "352.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402270"
+  },
+  {
+   "itemSeq": "201402273",
+   "name": "두셀라캡슐30밀리그램(둘록세틴염산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "176.47",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402273"
+  },
+  {
+   "itemSeq": "201402409",
+   "name": "드록틴캡슐30밀리그램(둘록세틴염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염",
+     "amount": "33.65",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402409"
+  },
+  {
+   "itemSeq": "201402460",
+   "name": "동광둘록세틴캡슐30밀리그램(둘록세틴염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "176.47",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402460"
+  },
+  {
+   "itemSeq": "201402461",
+   "name": "동광둘록세틴캡슐60밀리그램(둘록세틴염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "352.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402461"
+  },
+  {
+   "itemSeq": "201402868",
+   "name": "듀로셉톨캡슐30밀리그램(둘록세틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염",
+     "amount": "33.645",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402868"
+  },
+  {
+   "itemSeq": "201402869",
+   "name": "듀로셉톨캡슐60밀리그램(둘록세틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염",
+     "amount": "67.29",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402869"
+  },
+  {
+   "itemSeq": "201403827",
+   "name": "투발타캡슐30밀리그램(둘록세틴염산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "176.47",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403827"
+  },
+  {
+   "itemSeq": "201403828",
+   "name": "투발타캡슐60밀리그램(둘록세틴염산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "352.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403828"
+  },
+  {
+   "itemSeq": "201404486",
+   "name": "듀세타캡슐30밀리그램(둘록세틴염산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "176.47",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404486"
+  },
+  {
+   "itemSeq": "201404488",
+   "name": "듀세타캡슐60밀리그램(둘록세틴염산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "352.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404488"
+  },
+  {
+   "itemSeq": "201405792",
+   "name": "둘로틴캡슐30밀리그램(둘록세틴염산염)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "176.47",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405792"
+  },
+  {
+   "itemSeq": "201405813",
+   "name": "둘세린캡슐30밀리그램(둘록세틴염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "176.47",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405813"
+  },
+  {
+   "itemSeq": "201405865",
+   "name": "둘세린캡슐60밀리그램(둘록세틴염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "352.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405865"
+  },
+  {
+   "itemSeq": "201501973",
+   "name": "둘세틴캡슐30밀리그램(둘록세틴염산염)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "176.47",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501973"
+  },
+  {
+   "itemSeq": "201501974",
+   "name": "둘세틴캡슐60밀리그램(둘록세틴염산염)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "352.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501974"
+  },
+  {
+   "itemSeq": "201502314",
+   "name": "두울세틴캡슐30밀리그램(둘록세틴염산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "176.47",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502314"
+  },
+  {
+   "itemSeq": "201502313",
+   "name": "두울세틴캡슐60밀리그램(둘록세틴염산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "352.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502313"
+  },
+  {
+   "itemSeq": "201503029",
+   "name": "듀로센캡슐60밀리그램\n\n(둘록세틴염산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염과립",
+     "amount": "352.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503029"
+  },
+  {
+   "itemSeq": "201505607",
+   "name": "듀로센캡슐30밀리그램\n\n(둘록세틴염산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염과립",
+     "amount": "176.47",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505607"
+  },
+  {
+   "itemSeq": "201603992",
+   "name": "듀록타캡슐60밀리그램(둘록세틴염산염)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "352.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603992"
+  },
+  {
+   "itemSeq": "201604083",
+   "name": "듀록타캡슐30밀리그램(둘록세틴염산염)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염 장용과립",
+     "amount": "176.47",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604083"
+  },
+  {
+   "itemSeq": "201801367",
+   "name": "심발세틴캡슐30밀리그램(둘록세틴염산염)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "168.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801367"
+  },
+  {
+   "itemSeq": "201801368",
+   "name": "심발세틴캡슐60밀리그램(둘록세틴염산염)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "337.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801368"
+  },
+  {
+   "itemSeq": "201802298",
+   "name": "듀로세틴캡슐30밀리그램(둘록세틴염산염)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "176.47",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802298"
+  },
+  {
+   "itemSeq": "201802300",
+   "name": "듀로세틴캡슐60밀리그램(둘록세틴염산염)(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "352.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802300"
+  },
+  {
+   "itemSeq": "201802463",
+   "name": "피엠에스둘록세틴캡슐30mg(둘록세틴염산염)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "176.47",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802463"
+  },
+  {
+   "itemSeq": "201802697",
+   "name": "피엠에스둘록세틴캡슐60mg(둘록세틴염산염)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "352.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802697"
+  },
+  {
+   "itemSeq": "201903549",
+   "name": "듀로스캡슐30밀리그램(둘록세틴염산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "176.47",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903549"
+  },
+  {
+   "itemSeq": "201903550",
+   "name": "듀로스캡슐60밀리그램(둘록세틴염산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "352.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903550"
+  },
+  {
+   "itemSeq": "202003120",
+   "name": "듀록틴캡슐30밀리그램(둘록세틴염산염)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "176.47",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003120"
+  },
+  {
+   "itemSeq": "202003119",
+   "name": "듀록틴캡슐60밀리그램(둘록세틴염산염)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "둘록세틴염산염장용과립",
+     "amount": "352.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003119"
+  }
+ ]
+}

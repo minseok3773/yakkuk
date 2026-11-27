@@ -1,0 +1,40 @@
+{
+ "id": "pantoprazole",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "pantoprazole"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)",
+   "reason": "아타자나비르의 혈중농도 감소",
+   "self": "pantoprazole hemimagnesium monohydrate (as pantoprazole)"
+  },
+  {
+   "ingredient": "rilpivirine hydrochloride (as rilpivirine)",
+   "reason": "위장 pH의 증가로 릴피비린의 흡수가 저하되어 릴피비린의 치료효과 감소",
+   "self": "pantoprazole hemimagnesium monohydrate (as pantoprazole)"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "랫트 암컷을 이용한 수태능 및 일반생식독성 시험의 고용량(450mg/kg/day)에서 분만지연 및 출생자의 사망율 증가와 성장지연이 나타났음. 주산, 수유기 시험의 10mg/kg/day이상 투여군에서 출생자의 출생 후 체중감소가 나타남. 동물 생식연구에서는 판토프라졸 5mg/kg이상의 용량에서 약한 태자독성의 증상이 관찰됨.",
+   "ingredient": "pantoprazole sodium (as pantoprazole)"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "소화성궤양용제",
+   "subgroup": "Group 2",
+   "code": "232B0006"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

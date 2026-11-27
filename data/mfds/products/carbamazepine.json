@@ -1,0 +1,210 @@
+{
+ "id": "carbamazepine",
+ "query": [
+  "카르바마제핀",
+  "카바마제핀"
+ ],
+ "fetched": "2026-11-26",
+ "total": 13,
+ "kept": 13,
+ "mfdsName": [
+  "카르바마제핀"
+ ],
+ "items": [
+  {
+   "itemSeq": "198401121",
+   "name": "카르마인정(카르바마제핀)(수출용)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르바마제핀",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1984-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198401121"
+  },
+  {
+   "itemSeq": "198500634",
+   "name": "카마제핀정(카르바마제핀)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르바마제핀",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500634"
+  },
+  {
+   "itemSeq": "198901578",
+   "name": "대화카르바마제핀정(수출용)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르바마제핀",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-11-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198901578"
+  },
+  {
+   "itemSeq": "199000983",
+   "name": "카마제핀씨알정200밀리그램(카르바마제핀)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르바마제핀",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1990-02-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199000983"
+  },
+  {
+   "itemSeq": "199102609",
+   "name": "카르마인씨알정(카르바마제핀)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르바마제핀",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1991-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199102609"
+  },
+  {
+   "itemSeq": "199101166",
+   "name": "에필렙톨씨알정(카르바마제핀)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르바마제핀",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1991-10-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199101166"
+  },
+  {
+   "itemSeq": "199301180",
+   "name": "카마제핀씨알정300밀리그램(카르바마제핀)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르바마제핀",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1993-02-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199301180"
+  },
+  {
+   "itemSeq": "199802257",
+   "name": "카바민씨알정200밀리그람(카르바마제핀)(수출용)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르바마제핀",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-04-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199802257"
+  },
+  {
+   "itemSeq": "199801575",
+   "name": "부광티모닐서방정300밀리그램(카르바마제핀)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르바마제핀",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801575"
+  },
+  {
+   "itemSeq": "200307818",
+   "name": "테그레톨시럽2%(카르바마제핀)",
+   "company": "한국노바티스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르바마제핀",
+     "amount": "2.00",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2003-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307818"
+  },
+  {
+   "itemSeq": "200307819",
+   "name": "테그레톨씨알정200밀리그램(카르바마제핀)",
+   "company": "한국노바티스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르바마제핀",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307819"
+  },
+  {
+   "itemSeq": "200307816",
+   "name": "테그레톨정200밀리그램(카르바마제핀)",
+   "company": "한국노바티스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르바마제핀",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307816"
+  },
+  {
+   "itemSeq": "200501541",
+   "name": "아트레톨씨알정(카르바마제핀)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르바마제핀",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501541"
+  }
+ ]
+}

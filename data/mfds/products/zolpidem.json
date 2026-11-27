@@ -1,0 +1,295 @@
+{
+ "id": "zolpidem",
+ "query": [
+  "졸피뎀"
+ ],
+ "fetched": "2026-11-26",
+ "total": 18,
+ "kept": 18,
+ "mfdsName": [
+  "졸피뎀타르타르산염",
+  "주석산졸피뎀"
+ ],
+ "items": [
+  {
+   "itemSeq": "200512142",
+   "name": "졸피람정10밀리그램(졸피뎀타르타르산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "졸피뎀타르타르산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-04-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512142"
+  },
+  {
+   "itemSeq": "200606261",
+   "name": "파마주석산졸피뎀정(졸피뎀타르타르산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "졸피뎀타르타르산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606261"
+  },
+  {
+   "itemSeq": "200606262",
+   "name": "졸피움정(졸피뎀타르타르산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "졸피뎀타르타르산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606262"
+  },
+  {
+   "itemSeq": "200410861",
+   "name": "졸피드정10밀리그램(졸피뎀타르타르산염)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "졸피뎀타르타르산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-10-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410861"
+  },
+  {
+   "itemSeq": "200700636",
+   "name": "스틸녹스CR정12.5밀리그램(졸피뎀타르타르산염)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "졸피뎀타르타르산염",
+     "amount": "6.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "졸피뎀타르타르산염",
+     "amount": "6.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700636"
+  },
+  {
+   "itemSeq": "200700635",
+   "name": "스틸녹스CR정6.25밀리그램(졸피뎀타르타르산염)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "졸피뎀타르타르산염",
+     "amount": "3.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "졸피뎀타르타르산염",
+     "amount": "3.250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700635"
+  },
+  {
+   "itemSeq": "200700634",
+   "name": "스틸녹스정10밀리그램(졸피뎀타르타르산염)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "졸피뎀타르타르산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700634"
+  },
+  {
+   "itemSeq": "200704597",
+   "name": "산도스졸피뎀정10mg(주석산졸피뎀)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "주석산졸피뎀",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704597"
+  },
+  {
+   "itemSeq": "200710013",
+   "name": "졸피신정10밀리그램(졸피뎀타르타르산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "졸피뎀타르타르산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710013"
+  },
+  {
+   "itemSeq": "201406022",
+   "name": "스틸렉스정10밀리그램(졸피뎀타르타르산염)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "졸피뎀타르타르산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406022"
+  },
+  {
+   "itemSeq": "201501813",
+   "name": "졸피드정5밀리그램(졸피뎀타르타르산염)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "졸피뎀타르타르산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501813"
+  },
+  {
+   "itemSeq": "201606485",
+   "name": "졸피신정5밀리그램(졸피뎀타르타르산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "졸피뎀타르타르산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-11-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606485"
+  },
+  {
+   "itemSeq": "201701569",
+   "name": "스립정10밀리그램(졸피뎀타르타르산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "졸피뎀타르타르산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701569"
+  },
+  {
+   "itemSeq": "201701570",
+   "name": "스립정5밀리그램(졸피뎀타르타르산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "졸피뎀타르타르산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701570"
+  },
+  {
+   "itemSeq": "201800563",
+   "name": "졸피람정10밀리그램(졸피뎀타르타르산염)(Zolpiram Tablet 10mg)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "졸피뎀타르타르산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800563"
+  },
+  {
+   "itemSeq": "202402908",
+   "name": "졸피원정10밀리그램(졸피뎀타르타르산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "졸피뎀타르타르산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402908"
+  },
+  {
+   "itemSeq": "202501356",
+   "name": "스립정10밀리그램(졸피뎀타르타르산염)(수출용)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "졸피뎀타르타르산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501356"
+  },
+  {
+   "itemSeq": "202501357",
+   "name": "스립정5밀리그램(졸피뎀타르타르산염)(수출용)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "졸피뎀타르타르산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501357"
+  }
+ ]
+}

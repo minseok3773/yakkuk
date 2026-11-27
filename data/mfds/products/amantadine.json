@@ -1,0 +1,44 @@
+{
+ "id": "amantadine",
+ "query": [
+  "아만타딘"
+ ],
+ "fetched": "2026-11-27",
+ "total": 2,
+ "kept": 2,
+ "mfdsName": [
+  "아만타딘황산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "198701132",
+   "name": "피케이멜즈정(아만타딘황산염)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아만타딘황산염",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1987-01-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198701132"
+  },
+  {
+   "itemSeq": "200510972",
+   "name": "피케이멜즈인퓨전주(아만타딘황산염)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아만타딘황산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200510972"
+  }
+ ]
+}

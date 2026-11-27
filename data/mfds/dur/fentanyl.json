@@ -1,0 +1,57 @@
+{
+ "id": "fentanyl",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "fentanyl"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "lorlatinib",
+   "reason": "Fentanyl의 혈중농도가 감소될 수 있음",
+   "self": "fentanyl"
+  }
+ ],
+ "age": [
+  {
+   "text": "18세 미만: 안전성 및 유효성 미확립",
+   "ingredient": "fentanyl citrate (as fentanyl)"
+  },
+  {
+   "text": "18세 미만: 적절한 투여 용량 및 안전성 미확립",
+   "ingredient": "fentanyl citrate (as fentanyl)"
+  },
+  {
+   "text": "18세 미만: 안전성 미확립. 일부 소아에서 중증 호흡억제 발생",
+   "ingredient": "fentanyl"
+  },
+  {
+   "text": "2세 미만: 안전성 및 유효성 미확립. 조산아에 펜타닐, 판쿠로늄, 아트로핀이 포함된 응급마취 및 수술 시 메트헤모글로빈혈증이 드물게 보고됨",
+   "ingredient": "fentanyl citrate (as fentanyl)"
+  }
+ ],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립.동물실험에서 살배자 작용 보고.출산/분만 중 투여시 신생아 호흡억제 유발 가능성.",
+   "ingredient": "Fentanyl"
+  },
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립. 동물실험에서 살배자 작용 보고. 출산/분만 중 투여시 신생아 호흡억제 유발 가능성.",
+   "ingredient": "fentanyl"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "마약류 아편유사제",
+   "subgroup": "Group 1",
+   "code": "811A0002"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

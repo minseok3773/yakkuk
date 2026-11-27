@@ -1,0 +1,1776 @@
+{
+ "id": "solifenacin",
+ "query": [
+  "솔리페나신"
+ ],
+ "fetched": "2026-11-27",
+ "total": 117,
+ "kept": 117,
+ "mfdsName": [
+  "솔리페나신숙신산염",
+  "솔리페나신타르타르산염",
+  "솔리페나신푸마르산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "200703673",
+   "name": "베시케어정10밀리그램(솔리페나신숙신산염)",
+   "company": "한국아스텔라스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703673"
+  },
+  {
+   "itemSeq": "200703674",
+   "name": "베시케어정5밀리그램(솔리페나신숙신산염)",
+   "company": "한국아스텔라스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703674"
+  },
+  {
+   "itemSeq": "201403051",
+   "name": "솔리신정10mg(솔리페나신숙신산염)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403051"
+  },
+  {
+   "itemSeq": "201404483",
+   "name": "솔리신정5mg(솔리페나신숙신산염)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404483"
+  },
+  {
+   "itemSeq": "201404925",
+   "name": "솔리페노실정10밀리그램(솔리페나신숙신산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404925"
+  },
+  {
+   "itemSeq": "201405043",
+   "name": "솔신정10밀리그램(솔리페나신숙신산염)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405043"
+  },
+  {
+   "itemSeq": "201405075",
+   "name": "웰유로정10mg(솔리페나신숙신산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405075"
+  },
+  {
+   "itemSeq": "201405329",
+   "name": "웰유로정5mg(솔리페나신숙신산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405329"
+  },
+  {
+   "itemSeq": "201405464",
+   "name": "솔신정5밀리그램(솔리페나신숙신산염)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405464"
+  },
+  {
+   "itemSeq": "201405582",
+   "name": "솔리페신정5mg(솔리페나신숙신산염)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405582"
+  },
+  {
+   "itemSeq": "201500110",
+   "name": "요시케어정10밀리그램(솔리페나신숙신산염)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500110"
+  },
+  {
+   "itemSeq": "201500109",
+   "name": "요시케어정5밀리그램(솔리페나신숙신산염)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500109"
+  },
+  {
+   "itemSeq": "201500233",
+   "name": "솔페나신정10밀리그램(솔리페나신숙신산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500233"
+  },
+  {
+   "itemSeq": "201500232",
+   "name": "솔페나신정5밀리그램(솔리페나신숙신산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500232"
+  },
+  {
+   "itemSeq": "201500293",
+   "name": "올페나신정10밀리그램(솔리페나신숙신산염)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500293"
+  },
+  {
+   "itemSeq": "201500522",
+   "name": "베시큐정10밀리그램(솔리페나신숙신산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500522"
+  },
+  {
+   "itemSeq": "201500521",
+   "name": "베시큐정5밀리그램(솔리페나신숙신산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500521"
+  },
+  {
+   "itemSeq": "201500977",
+   "name": "유로테라정10밀리그램(솔리페나신숙신산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500977"
+  },
+  {
+   "itemSeq": "201500976",
+   "name": "유로테라정5밀리그램(솔리페나신숙신산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500976"
+  },
+  {
+   "itemSeq": "201501307",
+   "name": "유리페나정10mg(솔리페나신숙신산염)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501307"
+  },
+  {
+   "itemSeq": "201501302",
+   "name": "유리페나정5mg(솔리페나신숙신산염)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501302"
+  },
+  {
+   "itemSeq": "201501328",
+   "name": "메디페나신정10mg(솔리페나신숙신산염)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501328"
+  },
+  {
+   "itemSeq": "201501327",
+   "name": "메디페나신정5mg(솔리페나신숙신산염)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501327"
+  },
+  {
+   "itemSeq": "201501475",
+   "name": "솔레나신정10밀리그램(솔리페나신숙신산염)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501475"
+  },
+  {
+   "itemSeq": "201501474",
+   "name": "솔레나신정5밀리그램(솔리페나신숙신산염)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501474"
+  },
+  {
+   "itemSeq": "201501473",
+   "name": "씨엠케어정10mg(솔리페나신숙신산염)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501473"
+  },
+  {
+   "itemSeq": "201501472",
+   "name": "씨엠케어정5mg(솔리페나신숙신산염)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501472"
+  },
+  {
+   "itemSeq": "201501702",
+   "name": "올페나신정5밀리그램(솔리페나신숙신산염)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501702"
+  },
+  {
+   "itemSeq": "201501770",
+   "name": "유로페나신정10밀리그램(솔리페나신숙신산염)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501770"
+  },
+  {
+   "itemSeq": "201501854",
+   "name": "큐어나신정5mg(솔리페나신숙신산염)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501854"
+  },
+  {
+   "itemSeq": "201502203",
+   "name": "유로케어정10밀리그램(솔리페나신숙신산염)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502203"
+  },
+  {
+   "itemSeq": "201502269",
+   "name": "유토케어정10mg(솔리페나신숙신산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502269"
+  },
+  {
+   "itemSeq": "201502270",
+   "name": "유토케어정5mg(솔리페나신숙신산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502270"
+  },
+  {
+   "itemSeq": "201502378",
+   "name": "유로페나신정5밀리그램(솔리페나신숙신산염)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502378"
+  },
+  {
+   "itemSeq": "201502457",
+   "name": "뉴페신정5mg(솔리페나신숙신산염)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502457"
+  },
+  {
+   "itemSeq": "201502575",
+   "name": "솔리페어정10밀리그램(솔리페나신숙신산염)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502575"
+  },
+  {
+   "itemSeq": "201502574",
+   "name": "솔리페어정5밀리그램(솔리페나신숙신산염)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502574"
+  },
+  {
+   "itemSeq": "201502609",
+   "name": "솔베신정10밀리그램(솔리페나신숙신산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502609"
+  },
+  {
+   "itemSeq": "201502608",
+   "name": "솔베신정5밀리그램(솔리페나신숙신산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502608"
+  },
+  {
+   "itemSeq": "201502742",
+   "name": "베시페나정5밀리그램(솔리페나신숙신산염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502742"
+  },
+  {
+   "itemSeq": "201502763",
+   "name": "넥스페나신정5mg(솔리페나신숙신산염)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502763"
+  },
+  {
+   "itemSeq": "201503516",
+   "name": "솔리프정10mg(솔리페나신숙신산염)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503516"
+  },
+  {
+   "itemSeq": "201503515",
+   "name": "솔리프정5mg(솔리페나신숙신산염)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503515"
+  },
+  {
+   "itemSeq": "201504249",
+   "name": "솔리프로정10mg(솔리페나신숙신산염)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504249"
+  },
+  {
+   "itemSeq": "201504859",
+   "name": "솔리프로정5mg(솔리페나신숙신산염)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504859"
+  },
+  {
+   "itemSeq": "201505093",
+   "name": "솔페락정10mg(솔리페나신숙신산염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505093"
+  },
+  {
+   "itemSeq": "201505092",
+   "name": "솔페락정5mg(솔리페나신숙신산염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505092"
+  },
+  {
+   "itemSeq": "201601068",
+   "name": "솔베나정10밀리그램(솔리페나신숙신산염)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601068"
+  },
+  {
+   "itemSeq": "201601067",
+   "name": "솔베나정5밀리그램(솔리페나신숙신산염)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601067"
+  },
+  {
+   "itemSeq": "201601837",
+   "name": "삼성솔리페나신정10mg(솔리페나신숙신산염)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601837"
+  },
+  {
+   "itemSeq": "201601838",
+   "name": "삼성솔리페나신정5mg(솔리페나신숙신산염)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601838"
+  },
+  {
+   "itemSeq": "201603454",
+   "name": "솔리시톨정10밀리그램(솔리페나신숙신산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603454"
+  },
+  {
+   "itemSeq": "201603455",
+   "name": "솔리시톨정5밀리그램(솔리페나신숙신산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603455"
+  },
+  {
+   "itemSeq": "201603491",
+   "name": "솔리케어정10mg(솔리페나신숙신산염)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603491"
+  },
+  {
+   "itemSeq": "201603492",
+   "name": "솔리케어정5mg(솔리페나신숙신산염)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603492"
+  },
+  {
+   "itemSeq": "201603498",
+   "name": "인페나신정10mg(솔리페나신숙신산염)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603498"
+  },
+  {
+   "itemSeq": "201603499",
+   "name": "인페나신정5mg(솔리페나신숙신산염)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603499"
+  },
+  {
+   "itemSeq": "201604008",
+   "name": "솔리콘정5mg(솔리페나신숙신산염)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604008"
+  },
+  {
+   "itemSeq": "201604104",
+   "name": "베시나정10밀리그램(솔리페나신숙신산염)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604104"
+  },
+  {
+   "itemSeq": "201604103",
+   "name": "베시나정5밀리그램(솔리페나신숙신산염)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604103"
+  },
+  {
+   "itemSeq": "201604147",
+   "name": "솔리테어정5mg(솔리페나신숙신산염)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604147"
+  },
+  {
+   "itemSeq": "201604378",
+   "name": "유로케어정5밀리그램(솔리페나신숙신산염)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604378"
+  },
+  {
+   "itemSeq": "201604582",
+   "name": "에이케어정4.98밀리그램(솔리페나신푸마르산염)",
+   "company": "(주)코아팜바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신푸마르산염",
+     "amount": "4.98",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604582"
+  },
+  {
+   "itemSeq": "201604581",
+   "name": "에이케어정9.96밀리그램(솔리페나신푸마르산염)",
+   "company": "(주)코아팜바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신푸마르산염",
+     "amount": "9.96",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604581"
+  },
+  {
+   "itemSeq": "201604822",
+   "name": "베시칼린정10mg(솔리페나신숙신산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604822"
+  },
+  {
+   "itemSeq": "201604823",
+   "name": "베시캄정10밀리그램(솔리페나신숙신산염)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604823"
+  },
+  {
+   "itemSeq": "201605449",
+   "name": "베시스타정10밀리그램(솔리페나신숙신산염)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605449"
+  },
+  {
+   "itemSeq": "201605978",
+   "name": "베시캄정5밀리그램(솔리페나신숙신산염)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-10-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605978"
+  },
+  {
+   "itemSeq": "201700453",
+   "name": "베시금정10.66밀리그램(솔리페나신타르타르산염)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신타르타르산염",
+     "amount": "10.66",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700453"
+  },
+  {
+   "itemSeq": "201700452",
+   "name": "베시금정5.33밀리그램(솔리페나신타르타르산염)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신타르타르산염",
+     "amount": "5.33",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700452"
+  },
+  {
+   "itemSeq": "201700621",
+   "name": "솔페신정10밀리그램(솔리페나신숙신산염)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-02-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700621"
+  },
+  {
+   "itemSeq": "201700622",
+   "name": "솔페신정5밀리그램(솔리페나신숙신산염)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-02-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700622"
+  },
+  {
+   "itemSeq": "201701288",
+   "name": "베시콜정10밀리그램(솔리페나신숙신산염)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701288"
+  },
+  {
+   "itemSeq": "201701289",
+   "name": "베시콜정5밀리그램(솔리페나신숙신산염)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701289"
+  },
+  {
+   "itemSeq": "201701362",
+   "name": "베시커버정10밀리그램(솔리페나신숙신산염)",
+   "company": "주식회사더유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701362"
+  },
+  {
+   "itemSeq": "201701363",
+   "name": "베시커버정5밀리그램(솔리페나신숙신산염)",
+   "company": "주식회사더유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701363"
+  },
+  {
+   "itemSeq": "201701410",
+   "name": "솔피펜정10밀리그램(솔리페나신숙신산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701410"
+  },
+  {
+   "itemSeq": "201701411",
+   "name": "솔피펜정5밀리그램(솔리페나신숙신산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701411"
+  },
+  {
+   "itemSeq": "201701572",
+   "name": "베시스타정5밀리그램(솔리페나신숙신산염)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701572"
+  },
+  {
+   "itemSeq": "201702071",
+   "name": "베스칸정10밀리그램(솔리페나신숙신산염)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702071"
+  },
+  {
+   "itemSeq": "201702072",
+   "name": "베스칸정5밀리그램(솔리페나신숙신산염)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702072"
+  },
+  {
+   "itemSeq": "201702069",
+   "name": "솔리나신정10밀리그램(솔리페나신숙신산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702069"
+  },
+  {
+   "itemSeq": "201702068",
+   "name": "솔리나신정5밀리그램(솔리페나신숙신산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702068"
+  },
+  {
+   "itemSeq": "201702150",
+   "name": "베시칼린정5mg(솔리페나신숙신산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702150"
+  },
+  {
+   "itemSeq": "201702167",
+   "name": "솔리토스구강붕해정10밀리그램(솔리페나신숙신산염)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702167"
+  },
+  {
+   "itemSeq": "201702168",
+   "name": "솔리토스구강붕해정5밀리그램(솔리페나신숙신산염)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702168"
+  },
+  {
+   "itemSeq": "201702204",
+   "name": "소울큐정10밀리그램(솔리페나신숙신산염)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702204"
+  },
+  {
+   "itemSeq": "201702201",
+   "name": "소울큐정5밀리그램(솔리페나신숙신산염)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702201"
+  },
+  {
+   "itemSeq": "201704822",
+   "name": "솔리페노실정5밀리그램(솔리페나신숙신산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704822"
+  },
+  {
+   "itemSeq": "201705761",
+   "name": "베시솔정10밀리그램(솔리페나신숙신산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705761"
+  },
+  {
+   "itemSeq": "201705762",
+   "name": "베시솔정5밀리그램(솔리페나신숙신산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705762"
+  },
+  {
+   "itemSeq": "201705756",
+   "name": "솔리스탑정10밀리그램(솔리페나신숙신산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705756"
+  },
+  {
+   "itemSeq": "201705755",
+   "name": "솔리스탑정5밀리그램(솔리페나신숙신산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705755"
+  },
+  {
+   "itemSeq": "201706574",
+   "name": "셀페리나정10밀리그램(솔리페나신숙신산염)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706574"
+  },
+  {
+   "itemSeq": "201706575",
+   "name": "셀페리나정5밀리그램(솔리페나신숙신산염)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706575"
+  },
+  {
+   "itemSeq": "201707325",
+   "name": "솔페리신정10밀리그램(솔리페나신숙신산염)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707325"
+  },
+  {
+   "itemSeq": "201707326",
+   "name": "솔페리신정5밀리그램(솔리페나신숙신산염)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707326"
+  },
+  {
+   "itemSeq": "201800530",
+   "name": "오아비정10밀리그램(솔리페나신숙신산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800530"
+  },
+  {
+   "itemSeq": "201800531",
+   "name": "오아비정5밀리그램(솔리페나신숙신산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800531"
+  },
+  {
+   "itemSeq": "201901225",
+   "name": "솔나신정10mg(솔리페나신숙신산염)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901225"
+  },
+  {
+   "itemSeq": "201901226",
+   "name": "솔나신정5mg(솔리페나신숙신산염)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901226"
+  },
+  {
+   "itemSeq": "201902069",
+   "name": "씨트케어정10밀리그램(솔리페나신숙신산염)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902069"
+  },
+  {
+   "itemSeq": "201902070",
+   "name": "씨트케어정5밀리그램(솔리페나신숙신산염)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902070"
+  },
+  {
+   "itemSeq": "201904621",
+   "name": "베시가드정10밀리그램(솔리페나신숙신산염)",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904621"
+  },
+  {
+   "itemSeq": "201904620",
+   "name": "베시가드정5밀리그램(솔리페나신숙신산염)",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904620"
+  },
+  {
+   "itemSeq": "202000291",
+   "name": "시스케어정10밀리그램(솔리페나신숙신산염)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000291"
+  },
+  {
+   "itemSeq": "202000290",
+   "name": "시스케어정5밀리그램(솔리페나신숙신산염)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000290"
+  },
+  {
+   "itemSeq": "202001228",
+   "name": "솔페나정10밀리그램(솔리페나신숙신산염)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001228"
+  },
+  {
+   "itemSeq": "202001227",
+   "name": "솔페나정5밀리그램(솔리페나신숙신산염)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001227"
+  },
+  {
+   "itemSeq": "202001941",
+   "name": "솔라신정10밀리그램(솔리페나신숙신산염)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001941"
+  },
+  {
+   "itemSeq": "202001940",
+   "name": "솔라신정5밀리그램(솔리페나신숙신산염)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001940"
+  },
+  {
+   "itemSeq": "202001998",
+   "name": "오에이비정10밀리그램 (솔리페나신숙신산염)",
+   "company": "(주)한국팜비오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001998"
+  },
+  {
+   "itemSeq": "202001997",
+   "name": "오에이비정5밀리그램(솔리페나신숙신산염)",
+   "company": "(주)한국팜비오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001997"
+  },
+  {
+   "itemSeq": "202003047",
+   "name": "베시퀸정10밀리그램(솔리페나신숙신산염)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003047"
+  },
+  {
+   "itemSeq": "202003046",
+   "name": "베시퀸정5밀리그램(솔리페나신숙신산염)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003046"
+  },
+  {
+   "itemSeq": "202003532",
+   "name": "메가솔페나정5밀리그램(솔리페나신숙신산염)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003532"
+  },
+  {
+   "itemSeq": "202502343",
+   "name": "베솜니서방정6/0.4밀리그램(솔리페나신숙신산염,탐스로신염산염)",
+   "company": "한국아스텔라스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "6.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502343"
+  }
+ ]
+}

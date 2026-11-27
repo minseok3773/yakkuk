@@ -1,0 +1,74 @@
+{
+ "id": "tofisopam",
+ "query": [
+  "토피소팜"
+ ],
+ "fetched": "2026-11-27",
+ "total": 4,
+ "kept": 4,
+ "mfdsName": [
+  "토피소팜"
+ ],
+ "items": [
+  {
+   "itemSeq": "199502666",
+   "name": "이소탄정(토피소팜)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피소팜",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1995-01-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199502666"
+  },
+  {
+   "itemSeq": "199500959",
+   "name": "환인그란닥신정(토피소팜)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피소팜",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1995-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199500959"
+  },
+  {
+   "itemSeq": "199701917",
+   "name": "토스팜정(토피소팜)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피소팜",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701917"
+  },
+  {
+   "itemSeq": "200002761",
+   "name": "토핌정(토피소팜)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피소팜",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200002761"
+  }
+ ]
+}

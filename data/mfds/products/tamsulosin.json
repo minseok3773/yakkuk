@@ -1,0 +1,2490 @@
+{
+ "id": "tamsulosin",
+ "query": [
+  "탐스로신",
+  "탐술로신"
+ ],
+ "fetched": "2026-11-27",
+ "total": 164,
+ "kept": 164,
+ "mfdsName": [
+  "탐스로신염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "200301609",
+   "name": "유로날서방정0.2밀리그램(탐스로신염산염)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301609"
+  },
+  {
+   "itemSeq": "200410896",
+   "name": "러츠날캡슐(탐스로신염산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410896"
+  },
+  {
+   "itemSeq": "200400530",
+   "name": "탐스로캡슐0.2밀리그램(탐스로신염산염)(수출명:코오롱탐스로캡슐0.2밀리그램)",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400530"
+  },
+  {
+   "itemSeq": "200402674",
+   "name": "한미탐스캡슐0.2밀리그램(탐스로신염산염)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402674"
+  },
+  {
+   "itemSeq": "200400329",
+   "name": "유로탐스서방정(탐스로신염산염)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400329"
+  },
+  {
+   "itemSeq": "200400498",
+   "name": "탐스날서방정(탐스로신염산염)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400498"
+  },
+  {
+   "itemSeq": "200401452",
+   "name": "유로파서방정0.2밀리그램(탐스로신염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401452"
+  },
+  {
+   "itemSeq": "200400920",
+   "name": "탐로신서방정(탐스로신염산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400920"
+  },
+  {
+   "itemSeq": "200401750",
+   "name": "탐스웰캡슐(탐스로신염산염)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401750"
+  },
+  {
+   "itemSeq": "200410993",
+   "name": "유타날캡슐(탐스로신염산염)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410993"
+  },
+  {
+   "itemSeq": "200404653",
+   "name": "타미날캡슐(탐스로신염산염)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404653"
+  },
+  {
+   "itemSeq": "200401547",
+   "name": "탐로스타서방정0.2밀리그램(탐스로신염산염)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401547"
+  },
+  {
+   "itemSeq": "200401726",
+   "name": "탐스피드캡슐(탐스로신염산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401726"
+  },
+  {
+   "itemSeq": "200401326",
+   "name": "탐스핀캡슐(탐스로신염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401326"
+  },
+  {
+   "itemSeq": "200500227",
+   "name": "스카로신캡슐(탐스로신염산염)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500227"
+  },
+  {
+   "itemSeq": "200512327",
+   "name": "탐스타캡슐(탐스로신염산염)",
+   "company": "(주)한국팜비오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512327"
+  },
+  {
+   "itemSeq": "200500041",
+   "name": "네오로신캡슐(탐스로신염산염)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500041"
+  },
+  {
+   "itemSeq": "200606210",
+   "name": "하루날디정0.2밀리그램(탐스로신염산염)",
+   "company": "한국아스텔라스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-03-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606210"
+  },
+  {
+   "itemSeq": "200604308",
+   "name": "탐스로날서방정0.2밀리그람(탐스로신염산염)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604308"
+  },
+  {
+   "itemSeq": "200605397",
+   "name": "삼천당탐스로신서방정0.2밀리그램(탐스로신염산염)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605397"
+  },
+  {
+   "itemSeq": "200605430",
+   "name": "탐스돌서방정(탐스로신염산염)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605430"
+  },
+  {
+   "itemSeq": "200605396",
+   "name": "탐스로신서방정0.2밀리그램(탐스로신염산염)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605396"
+  },
+  {
+   "itemSeq": "200610986",
+   "name": "하루신서방정0.2밀리그람(탐스로신염산염)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200610986"
+  },
+  {
+   "itemSeq": "200612612",
+   "name": "베아로신서방캡슐0.2밀리그램(탐스로신염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-12-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200612612"
+  },
+  {
+   "itemSeq": "200701412",
+   "name": "프라탐서방정0.2mg(탐스로신염산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701412"
+  },
+  {
+   "itemSeq": "200709638",
+   "name": "타루날캡슐(탐스로신염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709638"
+  },
+  {
+   "itemSeq": "200807171",
+   "name": "탐스루신캡슐(탐스로신염산염)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807171"
+  },
+  {
+   "itemSeq": "201109514",
+   "name": "한미탐스오디정0.2밀리그램(탐스로신염산염)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-11-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109514"
+  },
+  {
+   "itemSeq": "201300140",
+   "name": "한올탐술로신캡슐(탐스로신염산염)",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201300140"
+  },
+  {
+   "itemSeq": "201301236",
+   "name": "하루탐캡슐(탐스로신염산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201301236"
+  },
+  {
+   "itemSeq": "201306084",
+   "name": "탐스트로캡슐(탐스로신염산염)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306084"
+  },
+  {
+   "itemSeq": "201307563",
+   "name": "탐스플라캡슐(탐스로신염산염)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307563"
+  },
+  {
+   "itemSeq": "201308651",
+   "name": "타무로신캡슐(탐스로신염산염)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308651"
+  },
+  {
+   "itemSeq": "201310336",
+   "name": "유로신서방정0.2밀리그램(탐스로신염산염)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310336"
+  },
+  {
+   "itemSeq": "201402245",
+   "name": "탐스서방정0.2밀리그램(탐스로신염산염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402245"
+  },
+  {
+   "itemSeq": "201403056",
+   "name": "탐슬로서방정0.2밀리그램(탐스로신염산염)",
+   "company": "(주)알피바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403056"
+  },
+  {
+   "itemSeq": "201403955",
+   "name": "탐스폰서방정 (탐스로신염산염)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403955"
+  },
+  {
+   "itemSeq": "201403956",
+   "name": "탐신서방정0.2밀리그램(탐스로신염산염)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403956"
+  },
+  {
+   "itemSeq": "201404403",
+   "name": "티피로신캡슐(탐스로신염산염)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404403"
+  },
+  {
+   "itemSeq": "201405987",
+   "name": "동광탐스로신서방정0.2밀리그램(탐스로신염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405987"
+  },
+  {
+   "itemSeq": "201405986",
+   "name": "탐로스서방정0.2mg(탐스로신염산염)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405986"
+  },
+  {
+   "itemSeq": "201406313",
+   "name": "탐소신서방정0.2mg(탐스로신염산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406313"
+  },
+  {
+   "itemSeq": "201500752",
+   "name": "현대탐스로신염산염캡슐",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500752"
+  },
+  {
+   "itemSeq": "201500887",
+   "name": "탐스케어캡슐0.2밀리그램(탐스로신염산염)",
+   "company": "주식회사더유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500887"
+  },
+  {
+   "itemSeq": "201501865",
+   "name": "하루디서방정0.2밀리그램(탐스로신염산염)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501865"
+  },
+  {
+   "itemSeq": "201502388",
+   "name": "씨트로신서방정0.2밀리그램(탐스로신염산염)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502388"
+  },
+  {
+   "itemSeq": "201503955",
+   "name": "타임에스서방정0.2밀리그램\r\n(탐스로신염산염)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503955"
+  },
+  {
+   "itemSeq": "201505901",
+   "name": "탐스론서방정0.2밀리그램(탐스로신염산염)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505901"
+  },
+  {
+   "itemSeq": "201506405",
+   "name": "탐실서방정0.2밀리그램(탐스로신염산염)",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506405"
+  },
+  {
+   "itemSeq": "201506560",
+   "name": "실론탐서방정0.2밀리그램(탐스로신염산염)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506560"
+  },
+  {
+   "itemSeq": "201506564",
+   "name": "타로신서방정0.2밀리그램(탐스로신염산염)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506564"
+  },
+  {
+   "itemSeq": "201508552",
+   "name": "한미탐스캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508552"
+  },
+  {
+   "itemSeq": "201600777",
+   "name": "탐솔캡슐(탐스로신염산염)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600777"
+  },
+  {
+   "itemSeq": "201600828",
+   "name": "탐스민서방정0.2밀리그램(탐스로신염산염)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600828"
+  },
+  {
+   "itemSeq": "201603313",
+   "name": "바이넥스탐스로신염산염서방정",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603313"
+  },
+  {
+   "itemSeq": "201603312",
+   "name": "삼성탐스로신서방정(탐스로신염산염)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603312"
+  },
+  {
+   "itemSeq": "201603318",
+   "name": "유린스타서방정(탐스로신염산염)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603318"
+  },
+  {
+   "itemSeq": "201603317",
+   "name": "탐루신디서방정(탐스로신염산염)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603317"
+  },
+  {
+   "itemSeq": "201603315",
+   "name": "탐스롤서방정(탐스로신염산염)",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603315"
+  },
+  {
+   "itemSeq": "201603314",
+   "name": "탐스진서방정0.2밀리그램(탐스로신염산염)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603314"
+  },
+  {
+   "itemSeq": "201603316",
+   "name": "탐스프로서방정0.2밀리그램(탐스로신염산염)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603316"
+  },
+  {
+   "itemSeq": "201603319",
+   "name": "탐파신서방정0.2밀리그램(탐스로신염산염)",
+   "company": "정우신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603319"
+  },
+  {
+   "itemSeq": "201603320",
+   "name": "하루큐어서방정0.2밀리그램(탐스로신염산염)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603320"
+  },
+  {
+   "itemSeq": "201603377",
+   "name": "비보존탐스로신서방정0.2mg(탐스로신염산염)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603377"
+  },
+  {
+   "itemSeq": "201603376",
+   "name": "시워날서방정0.2mg(탐스로신염산염)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603376"
+  },
+  {
+   "itemSeq": "201603375",
+   "name": "큐미날서방정0.2mg(탐스로신염산염)",
+   "company": "주식회사큐엘파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603375"
+  },
+  {
+   "itemSeq": "201803666",
+   "name": "동성탐스로신캡슐(탐스로신염산염)",
+   "company": "동성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803666"
+  },
+  {
+   "itemSeq": "201803706",
+   "name": "탐소날캡슐(탐스로신염산염)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803706"
+  },
+  {
+   "itemSeq": "201901251",
+   "name": "탐피론캡슐0.2밀리그램(탐스로신염산염)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901251"
+  },
+  {
+   "itemSeq": "201901252",
+   "name": "파마탐스로신캡슐(탐스로신염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901252"
+  },
+  {
+   "itemSeq": "201902765",
+   "name": "탐스로진서방정0.2밀리그램(탐스로신염산염)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902765"
+  },
+  {
+   "itemSeq": "201903375",
+   "name": "탐술엠캡슐0.2밀리그램(탐스로신염산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903375"
+  },
+  {
+   "itemSeq": "201903865",
+   "name": "탐수날서방정0.2밀리그램(탐스로신염산염)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903865"
+  },
+  {
+   "itemSeq": "201904278",
+   "name": "피스에이서방캡슐0.2밀리그램(탐스로신염산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904278"
+  },
+  {
+   "itemSeq": "201904698",
+   "name": "타루날서방정0.2밀리그램(탐스로신염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904698"
+  },
+  {
+   "itemSeq": "201904787",
+   "name": "에이블탐스로신서방정0.2밀리그램(탐스로신염산염)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904787"
+  },
+  {
+   "itemSeq": "201905100",
+   "name": "탐로딘서방캡슐0.2mg(탐스로신염산염)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905100"
+  },
+  {
+   "itemSeq": "201906440",
+   "name": "탐시로서방캡슐0.2밀리그램(탐스로신염산염)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906440"
+  },
+  {
+   "itemSeq": "201906428",
+   "name": "프로탐스서방정0.2밀리그램(탐스로신염산염)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906428"
+  },
+  {
+   "itemSeq": "201906752",
+   "name": "다나탐스서방캡슐0.2mg(탐스로신염산염)",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906752"
+  },
+  {
+   "itemSeq": "201906878",
+   "name": "하루로신서방캡슐0.2밀리그램(탐스로신염산염)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906878"
+  },
+  {
+   "itemSeq": "201907220",
+   "name": "탐스루신서방정0.2밀리그램(탐스로신염산염)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907220"
+  },
+  {
+   "itemSeq": "201907359",
+   "name": "알루날서방캡슐0.2밀리그램(탐스로신염산염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907359"
+  },
+  {
+   "itemSeq": "201907361",
+   "name": "팜스로신서방캡슐0.2mg(탐스로신염산염)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907361"
+  },
+  {
+   "itemSeq": "201908154",
+   "name": "한미탐스오디정0.4밀리그램(탐스로신염산염)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908154"
+  },
+  {
+   "itemSeq": "201908506",
+   "name": "탐스렌서방캡슐0.2밀리그램(탐스로신염산염)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908506"
+  },
+  {
+   "itemSeq": "202000539",
+   "name": "탐스콘서방캡슐0.2밀리그램(탐스로신염산염)",
+   "company": "(주)텔콘알에프제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000539"
+  },
+  {
+   "itemSeq": "202001858",
+   "name": "러츠날서방정0.2밀리그램(탐스로신염산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001858"
+  },
+  {
+   "itemSeq": "202001874",
+   "name": "탐스그린서방정0.2밀리그램(탐스로신염산염)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001874"
+  },
+  {
+   "itemSeq": "202002584",
+   "name": "타미날서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002584"
+  },
+  {
+   "itemSeq": "202002730",
+   "name": "러츠날서방정0.4밀리그램(탐스로신염산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002730"
+  },
+  {
+   "itemSeq": "202002734",
+   "name": "바이넥스탐스로신염산염서방정0.4밀리그램",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002734"
+  },
+  {
+   "itemSeq": "202002729",
+   "name": "삼성탐스로신서방정0.4밀리그램(탐스로신염산염)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002729"
+  },
+  {
+   "itemSeq": "202002728",
+   "name": "유로신서방정0.4밀리그램(탐스로신염산염)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002728"
+  },
+  {
+   "itemSeq": "202002736",
+   "name": "유로파서방정0.4밀리그램(탐스로신염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002736"
+  },
+  {
+   "itemSeq": "202002731",
+   "name": "타로신서방정0.4밀리그램(탐스로신염산염)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002731"
+  },
+  {
+   "itemSeq": "202002721",
+   "name": "탐로스타서방정0.4밀리그램(탐스로신염산염)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002721"
+  },
+  {
+   "itemSeq": "202002735",
+   "name": "탐수로신서방정0.4밀리그램(탐스로신염산염)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002735"
+  },
+  {
+   "itemSeq": "202002724",
+   "name": "탐스로서방정0.4밀리그램(탐스로신염산염)",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002724"
+  },
+  {
+   "itemSeq": "202002719",
+   "name": "탐스민서방정0.4밀리그램(탐스로신염산염)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002719"
+  },
+  {
+   "itemSeq": "202002726",
+   "name": "탐스에이블서방정0.4밀리그램(탐스로신염산염)",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002726"
+  },
+  {
+   "itemSeq": "202002720",
+   "name": "탐스웰서방정0.4밀리그램(탐스로신염산염)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002720"
+  },
+  {
+   "itemSeq": "202002725",
+   "name": "탐스트로서방정0.4밀리그램(탐스로신염산염)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002725"
+  },
+  {
+   "itemSeq": "202002727",
+   "name": "프라탐서방정0.4밀리그램(탐스로신염산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002727"
+  },
+  {
+   "itemSeq": "202002887",
+   "name": "다나탐스서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002887"
+  },
+  {
+   "itemSeq": "202002876",
+   "name": "베아로신서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002876"
+  },
+  {
+   "itemSeq": "202002874",
+   "name": "알루날서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002874"
+  },
+  {
+   "itemSeq": "202002875",
+   "name": "유타날서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002875"
+  },
+  {
+   "itemSeq": "202002873",
+   "name": "케이탐스서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "(주)티디에스팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002873"
+  },
+  {
+   "itemSeq": "202002882",
+   "name": "타루날서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002882"
+  },
+  {
+   "itemSeq": "202002885",
+   "name": "타임알서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002885"
+  },
+  {
+   "itemSeq": "202002878",
+   "name": "탐로딘서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002878"
+  },
+  {
+   "itemSeq": "202002881",
+   "name": "탐로스서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002881"
+  },
+  {
+   "itemSeq": "202002893",
+   "name": "탐루신디서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002893"
+  },
+  {
+   "itemSeq": "202002888",
+   "name": "탐센서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002888"
+  },
+  {
+   "itemSeq": "202002884",
+   "name": "탐소신서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002884"
+  },
+  {
+   "itemSeq": "202002892",
+   "name": "탐술엠서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002892"
+  },
+  {
+   "itemSeq": "202002879",
+   "name": "탐스렌서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002879"
+  },
+  {
+   "itemSeq": "202002872",
+   "name": "탐스피드서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002872"
+  },
+  {
+   "itemSeq": "202002895",
+   "name": "탐시원서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002895"
+  },
+  {
+   "itemSeq": "202002883",
+   "name": "탐신서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002883"
+  },
+  {
+   "itemSeq": "202002877",
+   "name": "탐피론서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002877"
+  },
+  {
+   "itemSeq": "202002886",
+   "name": "티피로신서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002886"
+  },
+  {
+   "itemSeq": "202002889",
+   "name": "팜스로신서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002889"
+  },
+  {
+   "itemSeq": "202002870",
+   "name": "프로탐스서방캡슐0.2밀리그램(탐스로신염산염)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002870"
+  },
+  {
+   "itemSeq": "202002871",
+   "name": "프로탐스서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002871"
+  },
+  {
+   "itemSeq": "202002894",
+   "name": "하루로신서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002894"
+  },
+  {
+   "itemSeq": "202002880",
+   "name": "하루론서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002880"
+  },
+  {
+   "itemSeq": "202003019",
+   "name": "더블탐스서방정0.4밀리그램(탐스로신염산염)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003019"
+  },
+  {
+   "itemSeq": "202002979",
+   "name": "데이탐스서방정0.2밀리그램(탐스로신염산염)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002979"
+  },
+  {
+   "itemSeq": "202003025",
+   "name": "데이탐스서방정0.4밀리그램(탐스로신염산염)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003025"
+  },
+  {
+   "itemSeq": "202003021",
+   "name": "동광탐스로신서방정0.4밀리그램(탐스로신염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003021"
+  },
+  {
+   "itemSeq": "202002978",
+   "name": "베아로신서방정0.2밀리그램(탐스로신염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002978"
+  },
+  {
+   "itemSeq": "202003022",
+   "name": "베아로신서방정0.4밀리그램(탐스로신염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003022"
+  },
+  {
+   "itemSeq": "202003010",
+   "name": "씨트로신서방정0.4밀리그램(탐스로신염산염)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003010"
+  },
+  {
+   "itemSeq": "202002982",
+   "name": "알루날서방정0.2밀리그램(탐스로신염산염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002982"
+  },
+  {
+   "itemSeq": "202003026",
+   "name": "알루날서방정0.4밀리그램(탐스로신염산염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003026"
+  },
+  {
+   "itemSeq": "202003007",
+   "name": "유로날서방정0.4밀리그램(탐스로신염산염)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003007"
+  },
+  {
+   "itemSeq": "202003030",
+   "name": "타루날서방정0.4밀리그램(탐스로신염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003030"
+  },
+  {
+   "itemSeq": "202003028",
+   "name": "타무날서방정0.4밀리그램(탐스로신염산염)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003028"
+  },
+  {
+   "itemSeq": "202002986",
+   "name": "타무로신서방정0.4밀리그램(탐스로신염산염)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002986"
+  },
+  {
+   "itemSeq": "202003013",
+   "name": "탐로신서방정0.4밀리그램(탐스로신염산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003013"
+  },
+  {
+   "itemSeq": "202003005",
+   "name": "탐루신디서방정0.4밀리그램(탐스로신염산염)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003005"
+  },
+  {
+   "itemSeq": "202002981",
+   "name": "탐솔서방정0.2밀리그램(탐스로신염산염)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002981"
+  },
+  {
+   "itemSeq": "202002985",
+   "name": "탐솔서방정0.4밀리그램(탐스로신염산염)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002985"
+  },
+  {
+   "itemSeq": "202003008",
+   "name": "탐스로날서방정0.4밀리그램(탐스로신염산염)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003008"
+  },
+  {
+   "itemSeq": "202003023",
+   "name": "탐스서방정0.4밀리그램(탐스로신염산염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003023"
+  },
+  {
+   "itemSeq": "202002994",
+   "name": "탐스올서방정0.2밀리그램(탐스로신염산염)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002994"
+  },
+  {
+   "itemSeq": "202002995",
+   "name": "탐스올서방정0.4밀리그램(탐스로신염산염)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002995"
+  },
+  {
+   "itemSeq": "202002980",
+   "name": "탐스케어서방정0.2밀리그램(탐스로신염산염)",
+   "company": "주식회사더유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002980"
+  },
+  {
+   "itemSeq": "202003027",
+   "name": "탐스케어서방정0.4밀리그램(탐스로신염산염)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003027"
+  },
+  {
+   "itemSeq": "202003029",
+   "name": "하루신서방정0.4밀리그램(탐스로신염산염)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003029"
+  },
+  {
+   "itemSeq": "202003024",
+   "name": "하루큐어서방정0.4밀리그램(탐스로신염산염)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003024"
+  },
+  {
+   "itemSeq": "202002976",
+   "name": "하루탐서방정0.2밀리그램(탐스로신염산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002976"
+  },
+  {
+   "itemSeq": "202003020",
+   "name": "하루탐서방정0.4밀리그램(탐스로신염산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003020"
+  },
+  {
+   "itemSeq": "202002984",
+   "name": "하이탐스서방정0.4밀리그램(탐스로신염산염)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002984"
+  },
+  {
+   "itemSeq": "202003193",
+   "name": "보령탐스로신염산염서방정0.4밀리그램",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003193"
+  },
+  {
+   "itemSeq": "202003191",
+   "name": "큐미날서방캡슐0.2밀리그램(탐스로신염산염)",
+   "company": "주식회사큐엘파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003191"
+  },
+  {
+   "itemSeq": "202003192",
+   "name": "큐미날서방캡슐0.4밀리그램(탐스로신염산염)",
+   "company": "주식회사큐엘파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003192"
+  },
+  {
+   "itemSeq": "202003181",
+   "name": "타미로신서방캡슐0.2밀리그램(탐스로신염산염)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003181"
+  },
+  {
+   "itemSeq": "202003941",
+   "name": "타무날서방정0.2밀리그램(탐스로신염산염)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003941"
+  },
+  {
+   "itemSeq": "201606202",
+   "name": "구구탐스캡슐(타다라필,탐스로신)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "타다라필",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606202"
+  },
+  {
+   "itemSeq": "202103982",
+   "name": "듀오다트캡슐",
+   "company": "(주)글락소스미스클라인",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "두타스테리드",
+     "amount": "0.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-05-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103982"
+  },
+  {
+   "itemSeq": "202502343",
+   "name": "베솜니서방정6/0.4밀리그램(솔리페나신숙신산염,탐스로신염산염)",
+   "company": "한국아스텔라스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "솔리페나신숙신산염",
+     "amount": "6.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탐스로신염산염",
+     "amount": "0.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502343"
+  }
+ ]
+}

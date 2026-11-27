@@ -1,0 +1,119 @@
+{
+ "id": "lorazepam",
+ "query": [
+  "로라제팜"
+ ],
+ "fetched": "2026-11-26",
+ "total": 7,
+ "kept": 7,
+ "mfdsName": [
+  "로라제팜"
+ ],
+ "items": [
+  {
+   "itemSeq": "197900543",
+   "name": "아티반정0.5밀리그람(로라제팜)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로라제팜",
+     "amount": "0.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1979-07-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197900543"
+  },
+  {
+   "itemSeq": "197900544",
+   "name": "아티반정1밀리그람(로라제팜)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로라제팜",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1979-07-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197900544"
+  },
+  {
+   "itemSeq": "198200943",
+   "name": "삼진로라제팜주",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로라제팜",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1982-09-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198200943"
+  },
+  {
+   "itemSeq": "198501802",
+   "name": "로라반정1밀리그램(로라제팜)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로라제팜",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198501802"
+  },
+  {
+   "itemSeq": "198501803",
+   "name": "로라반정0.5밀리그램(로라제팜)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로라제팜",
+     "amount": "0.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198501803"
+  },
+  {
+   "itemSeq": "198501817",
+   "name": "스리반정0.5밀리그램(로라제팜)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로라제팜",
+     "amount": "0.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198501817"
+  },
+  {
+   "itemSeq": "198501816",
+   "name": "스리반정1밀리그램(로라제팜)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로라제팜",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198501816"
+  }
+ ]
+}

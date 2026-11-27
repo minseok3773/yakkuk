@@ -1,0 +1,729 @@
+{
+ "id": "pantoprazole",
+ "query": [
+  "판토프라졸"
+ ],
+ "fetched": "2026-11-27",
+ "total": 47,
+ "kept": 47,
+ "mfdsName": [
+  "판토프라졸나트륨세스키히드레이트"
+ ],
+ "items": [
+  {
+   "itemSeq": "199906907",
+   "name": "판토록주사(판토프라졸나트륨세스키히드레이트)",
+   "company": "한국다케다제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-04-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199906907"
+  },
+  {
+   "itemSeq": "200400173",
+   "name": "판토라인정(판토프라졸나트륨세스키히드레이트)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400173"
+  },
+  {
+   "itemSeq": "200400910",
+   "name": "판프라졸정40mg(판토프라졸나트륨세스키히드레이트)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400910"
+  },
+  {
+   "itemSeq": "200410942",
+   "name": "판테온정40밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410942"
+  },
+  {
+   "itemSeq": "200502900",
+   "name": "펩타졸정40밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502900"
+  },
+  {
+   "itemSeq": "200500665",
+   "name": "판테졸정(판토프라졸나트륨세스키히드레이트)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-11-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500665"
+  },
+  {
+   "itemSeq": "200502598",
+   "name": "판토케이정40밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-11-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502598"
+  },
+  {
+   "itemSeq": "200512238",
+   "name": "판테온정20밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "22.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512238"
+  },
+  {
+   "itemSeq": "200604184",
+   "name": "판토라인주(판토프라졸나트륨세스키히드레이트)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604184"
+  },
+  {
+   "itemSeq": "200605482",
+   "name": "펩타졸정20밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "22.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605482"
+  },
+  {
+   "itemSeq": "200608319",
+   "name": "펩타졸주사(판토프라졸나트륨세스키히드레이트)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608319"
+  },
+  {
+   "itemSeq": "200701739",
+   "name": "판테졸정20밀리그람(판토프라졸나트륨세스키히드레이트)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "22.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701739"
+  },
+  {
+   "itemSeq": "200702319",
+   "name": "판토프라주(판토프라졸나트륨세스키히드레이트)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702319"
+  },
+  {
+   "itemSeq": "200702870",
+   "name": "익스트림정40밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702870"
+  },
+  {
+   "itemSeq": "200702970",
+   "name": "판프라졸정20밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "22.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702970"
+  },
+  {
+   "itemSeq": "200703733",
+   "name": "판토스탁정20밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "22.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703733"
+  },
+  {
+   "itemSeq": "200704994",
+   "name": "토프라졸정40밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704994"
+  },
+  {
+   "itemSeq": "200705176",
+   "name": "토프라졸정20밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "22.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705176"
+  },
+  {
+   "itemSeq": "200705215",
+   "name": "판토시드정20밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "22.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705215"
+  },
+  {
+   "itemSeq": "200709335",
+   "name": "판타졸주사(판토프라졸나트륨세스키히드레이트)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709335"
+  },
+  {
+   "itemSeq": "200810340",
+   "name": "판토라인정20mg(판토프라졸나트륨세스키히드레이트)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "22.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-10-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810340"
+  },
+  {
+   "itemSeq": "201006492",
+   "name": "판토록정20밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "한국다케다제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "22.57",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006492"
+  },
+  {
+   "itemSeq": "201006491",
+   "name": "판토록정40밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "한국다케다제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006491"
+  },
+  {
+   "itemSeq": "201006905",
+   "name": "판졸정20mg(판토프라졸나트륨세스키히드레이트)(수출명:①Panto Tab.②Panto-S Tab. ③Kopanto Tab.④Panprazole Tab.20mg)(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "22.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006905"
+  },
+  {
+   "itemSeq": "201006906",
+   "name": "판졸정40mg(판토프라졸나트륨세스키히드레이트)(수출명:①Panto Tab.40mg ②Panto-S Tab. 40mg ③Kopanto Tab.40mg ④ Panprazol Tab. 40mg)(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006906"
+  },
+  {
+   "itemSeq": "201200590",
+   "name": "익스트림정20밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "22.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200590"
+  },
+  {
+   "itemSeq": "201200647",
+   "name": "대한뉴팜판토프라졸정(판토프라졸나트륨세스키히드레이트)(수출용)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200647"
+  },
+  {
+   "itemSeq": "201200648",
+   "name": "대한뉴팜판토프라졸주(판토프라졸나트륨세스키히드레이트)(수출용)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "42.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200648"
+  },
+  {
+   "itemSeq": "201206431",
+   "name": "글로판토프라주40mg(판토프라졸나트륨세스키히드레이트)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206431"
+  },
+  {
+   "itemSeq": "201400351",
+   "name": "판피록정40mg(판토프라졸나트륨세스키히드레이트)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400351"
+  },
+  {
+   "itemSeq": "201401483",
+   "name": "판토시드주사(판토프라졸나트륨세스키히드레이트)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401483"
+  },
+  {
+   "itemSeq": "201404539",
+   "name": "판터롤정20밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "22.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404539"
+  },
+  {
+   "itemSeq": "201502493",
+   "name": "판피록정20mg(판토프라졸나트륨세스키히드레이트)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "22.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502493"
+  },
+  {
+   "itemSeq": "201502710",
+   "name": "판터롤정40밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502710"
+  },
+  {
+   "itemSeq": "201504694",
+   "name": "비씨판토프라졸나트륨세스키히드레이트주(수출용)",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "42.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504694"
+  },
+  {
+   "itemSeq": "201605861",
+   "name": "판토케이정20밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "22.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605861"
+  },
+  {
+   "itemSeq": "201706572",
+   "name": "판토라정20밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "22.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706572"
+  },
+  {
+   "itemSeq": "201706571",
+   "name": "판토라정40밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706571"
+  },
+  {
+   "itemSeq": "201803785",
+   "name": "판토케이정40밀리그램(판토프라졸나트륨세스키히드레이트)(수출용)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803785"
+  },
+  {
+   "itemSeq": "201906798",
+   "name": "판타릴정20밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "22.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906798"
+  },
+  {
+   "itemSeq": "201906797",
+   "name": "판타릴정40밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906797"
+  },
+  {
+   "itemSeq": "201908676",
+   "name": "판토원정20밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "22.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908676"
+  },
+  {
+   "itemSeq": "201908675",
+   "name": "판토원정40밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908675"
+  },
+  {
+   "itemSeq": "202000438",
+   "name": "판토라졸정20밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "22.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000438"
+  },
+  {
+   "itemSeq": "202000437",
+   "name": "판토라졸정40밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000437"
+  },
+  {
+   "itemSeq": "202002804",
+   "name": "판포졸정20밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "22.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002804"
+  },
+  {
+   "itemSeq": "202002803",
+   "name": "판포졸정40밀리그램(판토프라졸나트륨세스키히드레이트)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "판토프라졸나트륨세스키히드레이트",
+     "amount": "45.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002803"
+  }
+ ]
+}

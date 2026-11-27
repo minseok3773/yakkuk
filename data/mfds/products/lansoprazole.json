@@ -1,0 +1,1156 @@
+{
+ "id": "lansoprazole",
+ "query": [
+  "란소프라졸"
+ ],
+ "fetched": "2026-11-27",
+ "total": 72,
+ "kept": 72,
+ "mfdsName": [
+  "란소프라졸",
+  "란소프라졸과립",
+  "란소프라졸 과립"
+ ],
+ "items": [
+  {
+   "itemSeq": "199701916",
+   "name": "란시드캡슐30밀리그램(란소프라졸)[수출명:란프라시드캡슐(LANPRACIDCapsule)]",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-02-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701916"
+  },
+  {
+   "itemSeq": "199907311",
+   "name": "란스톤캡슐(란소프라졸과립)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "370.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199907311"
+  },
+  {
+   "itemSeq": "200210756",
+   "name": "란스톤캡슐15밀리그램(란소프라졸과립)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "185.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200210756"
+  },
+  {
+   "itemSeq": "200200373",
+   "name": "한올란소프라졸캡슐(수출용)",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "370.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200373"
+  },
+  {
+   "itemSeq": "200200322",
+   "name": "란스터캡슐(란소프라졸)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "353",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-12-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200322"
+  },
+  {
+   "itemSeq": "200301515",
+   "name": "란시드캡슐15밀리그램(란소프라졸)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301515"
+  },
+  {
+   "itemSeq": "200301899",
+   "name": "란가톤정(란소프라졸)(수출용)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301899"
+  },
+  {
+   "itemSeq": "200301047",
+   "name": "란세틴정(란소프라졸)(수출용)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301047"
+  },
+  {
+   "itemSeq": "200402469",
+   "name": "란프졸캡슐(란소프라졸과립)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "353",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402469"
+  },
+  {
+   "itemSeq": "200400559",
+   "name": "바이넥스란소프라졸캡슐(란소프라졸과립)(수출용)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "370",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400559"
+  },
+  {
+   "itemSeq": "200403850",
+   "name": "소프라정(란소프라졸)(수출용)(수출명: Newdaepra Tab.)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403850"
+  },
+  {
+   "itemSeq": "200403236",
+   "name": "란프롤정(란소프라졸)(수출용)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403236"
+  },
+  {
+   "itemSeq": "200402350",
+   "name": "라프졸정(란소프라졸)(수출용)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402350"
+  },
+  {
+   "itemSeq": "200403814",
+   "name": "유니란소캡슐30밀리그램(란소프라졸)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "353",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403814"
+  },
+  {
+   "itemSeq": "200404034",
+   "name": "다프라캡슐(란소프라졸과립)수출명:SLANZOLECapsule",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "353",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404034"
+  },
+  {
+   "itemSeq": "200400195",
+   "name": "란섹정(란소프라졸)(수출용)",
+   "company": "(주)유유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400195"
+  },
+  {
+   "itemSeq": "200403779",
+   "name": "코러스란소프라졸캡슐(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "370.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403779"
+  },
+  {
+   "itemSeq": "200402541",
+   "name": "란소롤정(란소프라졸)(수출용)",
+   "company": "미래바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402541"
+  },
+  {
+   "itemSeq": "200401591",
+   "name": "뉴란소정(란소프라졸)(수출용)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-12-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401591"
+  },
+  {
+   "itemSeq": "200404855",
+   "name": "란소팬정(란소프라졸)(수출용)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-12-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404855"
+  },
+  {
+   "itemSeq": "200502265",
+   "name": "레소프라캡슐(란소프라졸과립)(수출용)",
+   "company": "(주)바스칸바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "370.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502265"
+  },
+  {
+   "itemSeq": "200510973",
+   "name": "란스톤엘에프디티정15밀리그램(란소프라졸)",
+   "company": "한국다케다제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200510973"
+  },
+  {
+   "itemSeq": "200510974",
+   "name": "란스톤엘에프디티정30밀리그램(란소프라졸)",
+   "company": "한국다케다제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200510974"
+  },
+  {
+   "itemSeq": "200500377",
+   "name": "대한란소프라졸정(수출용)",
+   "company": "대한약품공업(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500377"
+  },
+  {
+   "itemSeq": "200502721",
+   "name": "라노프라정(란소프라졸)(수출용)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502721"
+  },
+  {
+   "itemSeq": "200500396",
+   "name": "란스터캡슐15밀리그람(란소프라졸)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "176.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-11-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500396"
+  },
+  {
+   "itemSeq": "200503785",
+   "name": "일양바이오란소프라졸캡슐(수출용)",
+   "company": "일양바이오팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "370.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200503785"
+  },
+  {
+   "itemSeq": "200608262",
+   "name": "케이엠에스란소프라졸정(란소프라졸)(수출용)",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608262"
+  },
+  {
+   "itemSeq": "200611118",
+   "name": "란스탑캡슐15밀리그램(란소프라졸과립)",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "176.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200611118"
+  },
+  {
+   "itemSeq": "200702917",
+   "name": "란소진정15밀리그램(란소프라졸)(수출용)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702917"
+  },
+  {
+   "itemSeq": "200704539",
+   "name": "라소놀캡슐(란소프라졸)(수출용)",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "370.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704539"
+  },
+  {
+   "itemSeq": "201104041",
+   "name": "란프라캡슐30밀리그램(란소프라졸과립)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "353",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201104041"
+  },
+  {
+   "itemSeq": "201110631",
+   "name": "란프톤캡슐30밀리그램(란소프라졸)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-12-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110631"
+  },
+  {
+   "itemSeq": "201206205",
+   "name": "유니란소캡슐15밀리그램(란소프라졸)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "176.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206205"
+  },
+  {
+   "itemSeq": "201208079",
+   "name": "란가톤캡슐15밀리그램(란소프라졸)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208079"
+  },
+  {
+   "itemSeq": "201306203",
+   "name": "란사톤캡슐30mg(란소프라졸과립)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "353",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306203"
+  },
+  {
+   "itemSeq": "201306401",
+   "name": "란스탑캡슐30밀리그램(란소프라졸과립)",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "353",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306401"
+  },
+  {
+   "itemSeq": "201306382",
+   "name": "위란톤캡슐(란소프라졸과립)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "353",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306382"
+  },
+  {
+   "itemSeq": "201308053",
+   "name": "뉴란소캡슐30밀리그램(란소프라졸과립)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "353",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308053"
+  },
+  {
+   "itemSeq": "201308978",
+   "name": "뉴란소캡슐15밀리그램(란소프라졸과립)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "176.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308978"
+  },
+  {
+   "itemSeq": "201401473",
+   "name": "현대란소프라졸캡슐15밀리그램(란소프라졸과립)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "176.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401473"
+  },
+  {
+   "itemSeq": "201401474",
+   "name": "현대란소프라졸캡슐30밀리그램(란소프라졸과립)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "353",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401474"
+  },
+  {
+   "itemSeq": "201402846",
+   "name": "란프톤캡슐15밀리그램(란소프라졸)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402846"
+  },
+  {
+   "itemSeq": "201404060",
+   "name": "모노리툼플라스정30밀리그램(란소프라졸)",
+   "company": "(주)태준제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404060"
+  },
+  {
+   "itemSeq": "201404239",
+   "name": "란사톤캡슐15mg(란소프라졸과립)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "176.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404239"
+  },
+  {
+   "itemSeq": "201405516",
+   "name": "란소졸캡슐30밀리그램(란소프라졸)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405516"
+  },
+  {
+   "itemSeq": "201405523",
+   "name": "란소졸캡슐15밀리그램(란소프라졸)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405523"
+  },
+  {
+   "itemSeq": "201501764",
+   "name": "모노리툼플라스정15밀리그램(란소프라졸)",
+   "company": "(주)태준제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501764"
+  },
+  {
+   "itemSeq": "201507682",
+   "name": "란시졸캡슐30밀리그램(란소프라졸)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "353",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507682"
+  },
+  {
+   "itemSeq": "201603084",
+   "name": "란소큐캡슐30mg(란소프라졸과립)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "353",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603084"
+  },
+  {
+   "itemSeq": "201903604",
+   "name": "휴프졸캡슐30밀리그램(란소프라졸과립)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "353",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903604"
+  },
+  {
+   "itemSeq": "201905845",
+   "name": "란소큐캡슐15mg(란소프라졸과립)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸 과립",
+     "amount": "176.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905845"
+  },
+  {
+   "itemSeq": "202000135",
+   "name": "아란프캡슐30밀리그램(란소프라졸과립)",
+   "company": "(주)아리제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "353",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000135"
+  },
+  {
+   "itemSeq": "202001364",
+   "name": "란소멜캡슐15밀리그램(란소프라졸과립)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸 과립",
+     "amount": "176.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001364"
+  },
+  {
+   "itemSeq": "202001365",
+   "name": "란소멜캡슐30밀리그램(란소프라졸과립)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "353",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001365"
+  },
+  {
+   "itemSeq": "202001896",
+   "name": "란시라캡슐30밀리그램(란소프라졸과립)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸 과립",
+     "amount": "353",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001896"
+  },
+  {
+   "itemSeq": "202002115",
+   "name": "란시라캡슐15밀리그램(란소프라졸과립)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸 과립",
+     "amount": "176.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002115"
+  },
+  {
+   "itemSeq": "202002706",
+   "name": "란소드캡슐15밀리그램(란소프라졸과립)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "176.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002706"
+  },
+  {
+   "itemSeq": "202002705",
+   "name": "란소드캡슐30밀리그램(란소프라졸과립)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸과립",
+     "amount": "353",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002705"
+  },
+  {
+   "itemSeq": "202201136",
+   "name": "란프라캡슐15밀리그램(란소프라졸과립)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸 과립",
+     "amount": "176.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201136"
+  },
+  {
+   "itemSeq": "202300171",
+   "name": "뉴란소엑스정30/600밀리그램",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300171"
+  },
+  {
+   "itemSeq": "202300169",
+   "name": "란사톤듀오정30/600밀리그램(란소프라졸, 침강탄산칼슘)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300169"
+  },
+  {
+   "itemSeq": "202300170",
+   "name": "란소듀오정30/600밀리그램",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300170"
+  },
+  {
+   "itemSeq": "202300167",
+   "name": "란소앤정30/600밀리그램",
+   "company": "(주)유앤생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300167"
+  },
+  {
+   "itemSeq": "202300177",
+   "name": "란스타정30/600밀리그램",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300177"
+  },
+  {
+   "itemSeq": "202300168",
+   "name": "란탄듀오정30/600밀리그램",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300168"
+  },
+  {
+   "itemSeq": "202500566",
+   "name": "뉴란소엑스정15/600밀리그램(란소프라졸,침강탄산칼슘)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "600",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500566"
+  },
+  {
+   "itemSeq": "202500563",
+   "name": "란사톤듀오정15/600밀리그램(란소프라졸,침강탄산칼슘)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500563"
+  },
+  {
+   "itemSeq": "202500565",
+   "name": "란소듀오정15/600밀리그램(란소프라졸,침강탄산칼슘)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "침강탄산칼슘",
+     "amount": "600",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "란소프라졸",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500565"
+  },
+  {
+   "itemSeq": "202500561",
+   "name": "란소앤정15/600밀리그램(란소프라졸,침강탄산칼슘)",
+   "company": "(주)유앤생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "600",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500561"
+  },
+  {
+   "itemSeq": "202500564",
+   "name": "란스타정15/600밀리그램(란소프라졸,침강탄산칼슘)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500564"
+  },
+  {
+   "itemSeq": "202500562",
+   "name": "란탄듀오정15/600밀리그램(란소프라졸,침강탄산칼슘)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "란소프라졸",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500562"
+  }
+ ]
+}

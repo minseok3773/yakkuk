@@ -1,0 +1,64 @@
+{
+ "id": "oxcarbazepine",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "oxcarbazepine"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "cabotegravir",
+   "reason": "Cabotegravir의 혈중농도를 감소시켜 치료 효과를 감소시킬 수 있음",
+   "self": "oxcarbazepine"
+  },
+  {
+   "ingredient": "cabotegravir sodium micronized (as cabotegravir)",
+   "reason": "Cabotegravir의 혈중농도를 감소시켜 치료 효과를 감소시킬 수 있음",
+   "self": "oxcarbazepine"
+  },
+  {
+   "ingredient": "doravirine",
+   "reason": "Doravirine의 혈장농도가 유의하게 감소하여 약효가 떨어질 수 있음",
+   "self": "oxcarbazepine"
+  },
+  {
+   "ingredient": "doravirine+lamivudine+tenofovir disoproxil fumarate",
+   "reason": "Doravirine의 혈장 농도가 감소하여 Doravirine의 치료 효과가 줄어들 수 있음",
+   "self": "oxcarbazepine"
+  },
+  {
+   "ingredient": "eslicarbazepine acetate",
+   "reason": "활성대사체의 과다노출을 유발할 수 있음",
+   "self": "oxcarbazepine"
+  },
+  {
+   "ingredient": "ledipasvir+sofosbuvir",
+   "reason": "레디파스비르 및 소포스부비르 혈장 농도를 현저히 떨어뜨려 이 약의 치료  효과를 감소시킬 수 있음",
+   "self": "oxcarbazepine"
+  },
+  {
+   "ingredient": "rilpivirine hydrochloride (as rilpivirine)",
+   "reason": "릴피비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성발현",
+   "self": "oxcarbazepine"
+  },
+  {
+   "ingredient": "rilpivirine micronized",
+   "reason": "릴피비린의 혈중농도가 감소하여 치료효과 감소 혹은 내성발현",
+   "self": "oxcarbazepine"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "심실중격결손, 방실중격결손, 구순구개열, 다운증후군, 이형성 엉덩이(편측 및 양측 모두), 결절성 경화증 및 귀의 선천성 기형 관찰. 임신 초기 3개월동안 단독요법에 노출 후, 출생 12주내와 1년후의 중요한 구조적 결함을 가지는 주요 선천성 기형의 유병율은 각각 2.2% 및 3.0%로, 항전간제에 노출되지 않은 임신부와 비교한 옥스카르바제핀에 노출된 임신부의 선천성 기형의 상대 위험도(RR) 2.0 (95% CI:0.50~7.4). 임신 중 노출된 소아에 대한 기형 유발성 및 신경 발달장애의 위해성을 배제할 수 없음. 항뇌전증약을 단독투여 보다 병용요법으로 치료받은 여성의 자식에게서 선천성 이상이 나타날 가능성이 더 크므로 가능한한 이 약을 단독 투여해야함. 신생아 응고 작용 방해 보고. 동물실험에서 태자사망률 증가 및/또는 출산 전후의 성장 지연, 태자 기형 증가.",
+   "ingredient": "oxcarbazepine"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

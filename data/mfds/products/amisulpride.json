@@ -1,0 +1,164 @@
+{
+ "id": "amisulpride",
+ "query": [
+  "아미설프리드"
+ ],
+ "fetched": "2026-11-27",
+ "total": 10,
+ "kept": 10,
+ "mfdsName": [
+  "아미설프리드"
+ ],
+ "items": [
+  {
+   "itemSeq": "200700906",
+   "name": "솔리안정200밀리그램(아미설프리드)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아미설프리드",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700906"
+  },
+  {
+   "itemSeq": "200701030",
+   "name": "솔리안정100밀리그램(아미설프리드)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아미설프리드",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701030"
+  },
+  {
+   "itemSeq": "200701022",
+   "name": "솔리안정400밀리그램(아미설프리드)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아미설프리드",
+     "amount": "400.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701022"
+  },
+  {
+   "itemSeq": "200702164",
+   "name": "폴라리스정400밀리그램(아미설프리드)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아미설프리드",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702164"
+  },
+  {
+   "itemSeq": "201109313",
+   "name": "폴라리스정100mg(아미설프리드)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아미설프리드",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109313"
+  },
+  {
+   "itemSeq": "201110472",
+   "name": "아미썰정400밀리그램(아미설프리드)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아미설프리드",
+     "amount": "400.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110472"
+  },
+  {
+   "itemSeq": "201301615",
+   "name": "아미썰정100밀리그램(아미설프리드)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아미설프리드",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201301615"
+  },
+  {
+   "itemSeq": "201301616",
+   "name": "아미썰정200밀리그램(아미설프리드)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아미설프리드",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201301616"
+  },
+  {
+   "itemSeq": "201503279",
+   "name": "아칸솔정100mg(아미설프리드)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아미설프리드",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503279"
+  },
+  {
+   "itemSeq": "201503280",
+   "name": "아칸솔정400mg(아미설프리드)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아미설프리드",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503280"
+  }
+ ]
+}

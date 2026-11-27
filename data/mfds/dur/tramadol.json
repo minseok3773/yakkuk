@@ -1,0 +1,65 @@
+{
+ "id": "tramadol",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "tramadol"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "rasagiline mesylate (as rasagiline)",
+   "reason": "고혈압위기, 세로토닌증후군 발생 위험 증가",
+   "self": "tramadol hydrochloride"
+  },
+  {
+   "ingredient": "safinamide mesylate (as safinamide)",
+   "reason": "중추신경계, 호흡기, 심혈관기능에 대해 생명을 위협하는 약물상호작용이 관찰됨. 세로토닌 증후군이 보고됨",
+   "self": "tramadol hydrochloride"
+  },
+  {
+   "ingredient": "selegiline hydrochloride",
+   "reason": "중추 흥분, 설사, 빈맥, 땀, 진전, 혼동, 혼수상태, 사망을 유발할 수 있는 세로토닌 증후군 보고",
+   "self": "tramadol hydrochloride"
+  }
+ ],
+ "age": [
+  {
+   "text": "12세 미만: 소아에서 생명에 치명적인 호흡 억제 및 사망 발생",
+   "ingredient": "acetaminophen,tramadol hydrochloride"
+  }
+ ],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립.동물 실험에서 돌연변이성, 발암성, 생식독성 보고.임신 말기 고용량 단기 투여시 신생아의 호흡억제 가능성.임신중 장기 투여시 신생아에게 금단증상 야기 가능성.",
+   "ingredient": "tramadol HCl"
+  },
+  {
+   "grade": "2",
+   "reason": "tramadol: 임부에 대한 안전성 미확립.동물 실험에서 돌연변이성, 발암성, 생식독성 보고.임신 말기 고용량 단기 투여시 신생아의 호흡억제 가능성.임신중 장기 투여시 신생아에게 금단증상 야기 가능성.",
+   "ingredient": "acetaminophen, tramadol HCl"
+  }
+ ],
+ "elderly": [],
+ "dose": [
+  {
+   "text": "1일 최대투여량: 아세트아미노펜으로써 4,000mg"
+  },
+  {
+   "text": "1일 최대투여량: 아세트아미노펜 2,600mg/트라마돌염산염 300mg"
+  },
+  {
+   "text": "1일 최대투여량: 트라마돌염산염 400mg"
+  }
+ ],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "마약류 아편유사제",
+   "subgroup": "Group 1,",
+   "code": "811A0014"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

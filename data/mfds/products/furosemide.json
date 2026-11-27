@@ -1,0 +1,89 @@
+{
+ "id": "furosemide",
+ "query": [
+  "푸로세미드"
+ ],
+ "fetched": "2026-11-26",
+ "total": 5,
+ "kept": 5,
+ "mfdsName": [
+  "푸로세미드"
+ ],
+ "items": [
+  {
+   "itemSeq": "196400037",
+   "name": "라식스정(푸로세미드)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "푸로세미드",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1964-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=196400037"
+  },
+  {
+   "itemSeq": "196400036",
+   "name": "라식스주사(푸로세미드)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "푸로세미드",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1964-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=196400036"
+  },
+  {
+   "itemSeq": "197200160",
+   "name": "후릭스정(푸로세미드)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "푸로세미드",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1972-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197200160"
+  },
+  {
+   "itemSeq": "201705481",
+   "name": "유리라세미주(푸로세미드)",
+   "company": "대한약품공업(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "푸로세미드",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705481"
+  },
+  {
+   "itemSeq": "202104005",
+   "name": "제일약품푸로세미드주(수출용)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "푸로세미드",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104005"
+  }
+ ]
+}

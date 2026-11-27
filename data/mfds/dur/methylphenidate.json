@@ -1,0 +1,59 @@
+{
+ "id": "methylphenidate",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "methylphenidate"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "safinamide mesylate (as safinamide)",
+   "reason": "고혈압 위기",
+   "self": "methylphenidate hydrochloride"
+  },
+  {
+   "ingredient": "selegiline hydrochloride",
+   "reason": "고혈압성 위기(현저한 혈압상승)",
+   "self": "methylphenidate hydrochloride"
+  }
+ ],
+ "age": [
+  {
+   "text": "5세 이하: 안전성 및 유효성 미확립",
+   "ingredient": "methylphenidate hydrochloride"
+  }
+ ],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "최대권장용량의 약 40배를 토끼에 투여 시 최기형성(태자척추피열 증가) 관찰됨.",
+   "ingredient": "Methylphenidate"
+  }
+ ],
+ "elderly": [],
+ "dose": [
+  {
+   "text": "1일 최대투여량: 메틸페니데이트염산염 72mg"
+  },
+  {
+   "text": "1일 최대투여량: 메틸페니데이트염산염 60mg"
+  },
+  {
+   "text": "1일 최대투여량: 메틸페니데이트염산염 80mg"
+  }
+ ],
+ "duration": [
+  {
+   "text": "최대투여기간: 92일"
+  }
+ ],
+ "class_duplication": [
+  {
+   "group": "정신신경용제",
+   "subgroup": "Group 15",
+   "code": "117O0001"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

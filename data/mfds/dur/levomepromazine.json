@@ -1,0 +1,54 @@
+{
+ "id": "levomepromazine",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "levomepromazine"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "haloperidol",
+   "reason": "QT간격 연장 위험 증가",
+   "self": "levomepromazine maleate (as levomepromazine)"
+  },
+  {
+   "ingredient": "haloperidol decanoate (as haloperidol)",
+   "reason": "QT간격 연장 위험 증가",
+   "self": "levomepromazine maleate (as levomepromazine)"
+  },
+  {
+   "ingredient": "selegiline hydrochloride",
+   "reason": "중추 흥분상태 증가",
+   "self": "levomepromazine maleate (as levomepromazine)"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "동물실험에서 태자독성(대량 투여시 태자사망 등) 보고. 페노티아진계(클로르프로마진) 투여시 신생아 진전 보고.임신 3기에 투여시 신생아에게 추체외로장애, 금단증상 보고.",
+   "ingredient": "levomepromazine maleate"
+  }
+ ],
+ "elderly": [
+  {
+   "reason": "",
+   "ingredient": "levomepromazine maleate (as levomepromazine)"
+  }
+ ],
+ "dose": [
+  {
+   "text": "1일 최대투여량: 레보메프로마진 250mg"
+  }
+ ],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "정신신경용제",
+   "subgroup": "Group 4",
+   "code": "117D0002"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

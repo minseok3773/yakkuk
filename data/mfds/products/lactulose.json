@@ -1,0 +1,167 @@
+{
+ "id": "lactulose",
+ "query": [
+  "락툴로오스",
+  "락툴로스"
+ ],
+ "fetched": "2026-11-27",
+ "total": 10,
+ "kept": 10,
+ "mfdsName": [
+  "락툴로오스 농축액",
+  "락툴로오스액",
+  "락툴로오스농축액"
+ ],
+ "items": [
+  {
+   "itemSeq": "201309770",
+   "name": "레보락시럽(락툴로오스액)",
+   "company": "(주)엑세스파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "락툴로오스액",
+     "amount": "100",
+     "unit": "밀리리터"
+    }
+   ],
+   "permitDate": "2013-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309770"
+  },
+  {
+   "itemSeq": "201209553",
+   "name": "장쾌락시럽(락툴로오스농축액)",
+   "company": "한미약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "락툴로오스농축액",
+     "amount": "134.00",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2012-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201209553"
+  },
+  {
+   "itemSeq": "201309771",
+   "name": "락투즈시럽(락툴로오스액)",
+   "company": "(주)엑세스파마",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "락툴로오스액",
+     "amount": "100",
+     "unit": "밀리리터"
+    }
+   ],
+   "permitDate": "2013-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309771"
+  },
+  {
+   "itemSeq": "201802080",
+   "name": "비코그린이지시럽(락툴로오스농축액)",
+   "company": "코오롱제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "락툴로오스농축액",
+     "amount": "134",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2018-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802080"
+  },
+  {
+   "itemSeq": "202200874",
+   "name": "비엘락툴이지시럽(락툴로오스농축액)",
+   "company": "한국신텍스제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "락툴로오스 농축액",
+     "amount": "134",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2022-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200874"
+  },
+  {
+   "itemSeq": "202500359",
+   "name": "엔비락시럽(락툴로오스농축액)",
+   "company": "경방신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "락툴로오스 농축액",
+     "amount": "134.0",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2025-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500359"
+  },
+  {
+   "itemSeq": "202500805",
+   "name": "모닝엘시럽(락툴로오스액)",
+   "company": "(주)보령바이오파마",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "락툴로오스액",
+     "amount": "100",
+     "unit": "밀리리터"
+    }
+   ],
+   "permitDate": "2025-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500805"
+  },
+  {
+   "itemSeq": "202501319",
+   "name": "조은아이푸푸시럽(락툴로오스농축액)",
+   "company": "조아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "락툴로오스 농축액",
+     "amount": "134.0",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2025-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501319"
+  },
+  {
+   "itemSeq": "202600042",
+   "name": "듀락토시럽(락툴로오스농축액)",
+   "company": "(주)테라젠이텍스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "락툴로오스 농축액",
+     "amount": "134",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2026-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600042"
+  },
+  {
+   "itemSeq": "202600282",
+   "name": "락토락시럽(락툴로오스농축액)",
+   "company": "(주)마더스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "락툴로오스 농축액",
+     "amount": "134",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2026-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600282"
+  }
+ ]
+}

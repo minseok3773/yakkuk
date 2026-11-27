@@ -1,0 +1,2098 @@
+{
+ "id": "gabapentin",
+ "query": [
+  "가바펜틴"
+ ],
+ "fetched": "2026-11-26",
+ "total": 139,
+ "kept": 139,
+ "mfdsName": [
+  "가바펜틴"
+ ],
+ "items": [
+  {
+   "itemSeq": "200301505",
+   "name": "가바틴캡슐400밀리그람(가바펜틴)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301505"
+  },
+  {
+   "itemSeq": "200300335",
+   "name": "건일가바펜틴캡슐300밀리그램",
+   "company": "건일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300335"
+  },
+  {
+   "itemSeq": "200302485",
+   "name": "유니론틴캡슐300밀리그램(가바펜틴)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-08-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302485"
+  },
+  {
+   "itemSeq": "200300985",
+   "name": "뉴렙톨캡슐300밀리그램(가바펜틴)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-12-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300985"
+  },
+  {
+   "itemSeq": "200402135",
+   "name": "가바틴캡슐100밀리그람(가바펜틴)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402135"
+  },
+  {
+   "itemSeq": "200402136",
+   "name": "가바틴캡슐300밀리그람(가바펜틴)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402136"
+  },
+  {
+   "itemSeq": "200410957",
+   "name": "가바페닌캡슐300밀리그램(가바펜틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410957"
+  },
+  {
+   "itemSeq": "200401738",
+   "name": "뉴로카바캡슐(가바펜틴)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401738"
+  },
+  {
+   "itemSeq": "200401772",
+   "name": "뉴로펜틴캡슐(가바펜틴)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401772"
+  },
+  {
+   "itemSeq": "200401009",
+   "name": "펜다운캡슐(가바펜틴)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401009"
+  },
+  {
+   "itemSeq": "200402344",
+   "name": "가바펜캡슐(가바펜틴)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-07-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402344"
+  },
+  {
+   "itemSeq": "200400321",
+   "name": "메가펜틴캡슐300밀리그램(가바펜틴)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400321"
+  },
+  {
+   "itemSeq": "200400015",
+   "name": "가바론캡슐300mg(가바펜틴)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400015"
+  },
+  {
+   "itemSeq": "200400175",
+   "name": "동아가바펜틴캡슐300밀리그램(가바펜틴)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400175"
+  },
+  {
+   "itemSeq": "200400519",
+   "name": "코오롱가바펜틴캡슐300밀리그램(가바펜틴)",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400519"
+  },
+  {
+   "itemSeq": "200400105",
+   "name": "가바렙캡슐300밀리그람(가바펜틴)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400105"
+  },
+  {
+   "itemSeq": "200400479",
+   "name": "네버펜틴정600밀리그램(가바펜틴)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [],
+   "permitDate": "2004-09-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400479"
+  },
+  {
+   "itemSeq": "200400481",
+   "name": "네버펜틴캡슐300밀리그램(가바펜틴)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400481"
+  },
+  {
+   "itemSeq": "200402138",
+   "name": "가바틴정800밀리그램(가바펜틴)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402138"
+  },
+  {
+   "itemSeq": "200402483",
+   "name": "뉴로스캡슐300밀리그람(가바펜틴)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402483"
+  },
+  {
+   "itemSeq": "200401328",
+   "name": "뉴렙톨캡슐100밀리그램(가바펜틴)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401328"
+  },
+  {
+   "itemSeq": "200500246",
+   "name": "동아가바펜틴캡슐100밀리그램(가바펜틴)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500246"
+  },
+  {
+   "itemSeq": "200501265",
+   "name": "뉴로닌캡슐300밀리그램(가바펜틴)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-02-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501265"
+  },
+  {
+   "itemSeq": "200500386",
+   "name": "네오펜틴캡슐(가바펜틴)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500386"
+  },
+  {
+   "itemSeq": "200501564",
+   "name": "파마가바펜틴캡슐300밀리그램(가바펜틴)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-02-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501564"
+  },
+  {
+   "itemSeq": "200501160",
+   "name": "가펜틴캡슐300밀리그램(가바펜틴)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501160"
+  },
+  {
+   "itemSeq": "200512315",
+   "name": "가바피나캡슐(가바펜틴)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512315"
+  },
+  {
+   "itemSeq": "200500215",
+   "name": "가벤틴캡슐300mg(가바펜틴)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500215"
+  },
+  {
+   "itemSeq": "200501141",
+   "name": "뉴바틴캡슐(가바펜틴)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501141"
+  },
+  {
+   "itemSeq": "200500657",
+   "name": "바론틴캡슐300밀리그람(가바펜틴)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500657"
+  },
+  {
+   "itemSeq": "200501038",
+   "name": "태극가바펜틴캡슐",
+   "company": "태극제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501038"
+  },
+  {
+   "itemSeq": "200501879",
+   "name": "가바틴정600밀리그램(가바펜틴)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "600",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501879"
+  },
+  {
+   "itemSeq": "200512242",
+   "name": "가바페닌캡슐100밀리그램(가바펜틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512242"
+  },
+  {
+   "itemSeq": "200503066",
+   "name": "유니론틴캡슐100밀리그람(가바펜틴)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200503066"
+  },
+  {
+   "itemSeq": "200500128",
+   "name": "가바렙캡슐100밀리그람(가바펜틴)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500128"
+  },
+  {
+   "itemSeq": "200500389",
+   "name": "네오펜틴캡슐100밀리그람(가바펜틴)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500389"
+  },
+  {
+   "itemSeq": "200502012",
+   "name": "넬슨가바펜틴캡슐(가바펜틴)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502012"
+  },
+  {
+   "itemSeq": "200500909",
+   "name": "가베틴캡슐300밀리그램(가바펜틴)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500909"
+  },
+  {
+   "itemSeq": "200500583",
+   "name": "코오롱가바펜틴캡슐100밀리그램(가바펜틴)",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500583"
+  },
+  {
+   "itemSeq": "200500252",
+   "name": "동아가바펜틴캡슐400밀리그램(가바펜틴)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "400.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500252"
+  },
+  {
+   "itemSeq": "200502030",
+   "name": "뉴로스캡슐100밀리그람(가바펜틴)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502030"
+  },
+  {
+   "itemSeq": "200511064",
+   "name": "뉴론틴캡슐100밀리그램(가바펜틴)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511064"
+  },
+  {
+   "itemSeq": "200511065",
+   "name": "뉴론틴캡슐400밀리그램(가바펜틴)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "400.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511065"
+  },
+  {
+   "itemSeq": "200502089",
+   "name": "뉴가바캡슐300밀리그람(가바펜틴)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502089"
+  },
+  {
+   "itemSeq": "200500254",
+   "name": "동아가바펜틴정800밀리그램(가바펜틴)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500254"
+  },
+  {
+   "itemSeq": "200502192",
+   "name": "가바페닌정800밀리그램(가바펜틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502192"
+  },
+  {
+   "itemSeq": "200512240",
+   "name": "펜다운캡슐100밀리그램(가바펜틴)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512240"
+  },
+  {
+   "itemSeq": "200500426",
+   "name": "메가펜틴캡슐100밀리그램(가바펜틴)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500426"
+  },
+  {
+   "itemSeq": "200511066",
+   "name": "뉴론틴캡슐300밀리그램(가바펜틴)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-11-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511066"
+  },
+  {
+   "itemSeq": "200501569",
+   "name": "뉴로카바캡슐100밀리그램(가바펜틴)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-12-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501569"
+  },
+  {
+   "itemSeq": "200605253",
+   "name": "뉴론틴정600밀리그램(가바펜틴)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605253"
+  },
+  {
+   "itemSeq": "200606183",
+   "name": "뉴론틴정800밀리그램(가바펜틴)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606183"
+  },
+  {
+   "itemSeq": "200604232",
+   "name": "가펜틴캡슐100밀리그램(가바펜틴)(수출용)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604232"
+  },
+  {
+   "itemSeq": "200608194",
+   "name": "가바렉스정600밀리그램(가바펜틴)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "600",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-07-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608194"
+  },
+  {
+   "itemSeq": "200606294",
+   "name": "동아가바펜틴정600밀리그램(가바펜틴)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-07-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606294"
+  },
+  {
+   "itemSeq": "200701335",
+   "name": "뉴가바캡슐100밀리그람(가바펜틴)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701335"
+  },
+  {
+   "itemSeq": "200708089",
+   "name": "파마가바펜틴캡슐100밀리그람",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708089"
+  },
+  {
+   "itemSeq": "200805255",
+   "name": "가바스탄캡슐(가바펜틴)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805255"
+  },
+  {
+   "itemSeq": "201004324",
+   "name": "대웅가바펜틴캡슐(수출용)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "가바펜틴",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-07-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004324"
+  },
+  {
+   "itemSeq": "201305040",
+   "name": "펜믹스가바펜틴캡슐100밀리그램",
+   "company": "(주)펜믹스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-02-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201305040"
+  },
+  {
+   "itemSeq": "201307290",
+   "name": "카바펜캡슐300밀리그램(가바펜틴)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307290"
+  },
+  {
+   "itemSeq": "201308752",
+   "name": "가바스틸캡슐300mg(가바펜틴)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308752"
+  },
+  {
+   "itemSeq": "201402891",
+   "name": "뉴펜틴캡슐300mg(가바펜틴)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402891"
+  },
+  {
+   "itemSeq": "201405723",
+   "name": "가틴캡슐(가바펜틴)",
+   "company": "메딕스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405723"
+  },
+  {
+   "itemSeq": "201405764",
+   "name": "가바렉스캡슐300mg(가바펜틴)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405764"
+  },
+  {
+   "itemSeq": "201405788",
+   "name": "가바킹캡슐300mg(가바펜틴)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405788"
+  },
+  {
+   "itemSeq": "201501950",
+   "name": "뉴로가바캡슐(가바펜틴)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501950"
+  },
+  {
+   "itemSeq": "201503869",
+   "name": "현대가바펜틴캡슐100밀리그램",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503869"
+  },
+  {
+   "itemSeq": "201503945",
+   "name": "현대가바펜틴캡슐300밀리그램",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503945"
+  },
+  {
+   "itemSeq": "201505160",
+   "name": "가바로닌캡슐100mg(가바펜틴)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505160"
+  },
+  {
+   "itemSeq": "201505159",
+   "name": "가바로닌캡슐300mg(가바펜틴)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505159"
+  },
+  {
+   "itemSeq": "201505781",
+   "name": "네버펜틴캡슐100밀리그램(가바펜틴)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505781"
+  },
+  {
+   "itemSeq": "201506825",
+   "name": "가베틴캡슐100밀리그램(가바펜틴)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506825"
+  },
+  {
+   "itemSeq": "201507611",
+   "name": "가바인캡슐300mg(가바펜틴)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507611"
+  },
+  {
+   "itemSeq": "201507872",
+   "name": "가바인캡슐100mg(가바펜틴)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507872"
+  },
+  {
+   "itemSeq": "201508005",
+   "name": "알피가바펜틴캡슐100mg",
+   "company": "(주)알피바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508005"
+  },
+  {
+   "itemSeq": "201508006",
+   "name": "알피가바펜틴캡슐300mg",
+   "company": "(주)알피바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508006"
+  },
+  {
+   "itemSeq": "201600780",
+   "name": "뉴펜틴캡슐100밀리그램(가바펜틴)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600780"
+  },
+  {
+   "itemSeq": "201601646",
+   "name": "뉴로가펜캡슐100밀리그램(가바펜틴)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601646"
+  },
+  {
+   "itemSeq": "201602303",
+   "name": "레바펜틴캡슐300밀리그램(가바펜틴)",
+   "company": "(주)바스칸바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602303"
+  },
+  {
+   "itemSeq": "201602329",
+   "name": "레바펜틴캡슐100밀리그램(가바펜틴)",
+   "company": "(주)바스칸바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602329"
+  },
+  {
+   "itemSeq": "201604529",
+   "name": "뉴로닌캡슐100밀리그램(가바펜틴)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604529"
+  },
+  {
+   "itemSeq": "201800807",
+   "name": "가로틴캡슐100밀리그램(가바펜틴)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800807"
+  },
+  {
+   "itemSeq": "201800837",
+   "name": "가비스타캡슐100밀리그램(가바펜틴)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800837"
+  },
+  {
+   "itemSeq": "201800838",
+   "name": "가비스타캡슐300밀리그램(가바펜틴)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800838"
+  },
+  {
+   "itemSeq": "201801625",
+   "name": "가바티론캡슐100밀리그램(가바펜틴)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801625"
+  },
+  {
+   "itemSeq": "201801626",
+   "name": "가바티론캡슐300밀리그램(가바펜틴)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801626"
+  },
+  {
+   "itemSeq": "201801845",
+   "name": "씨티가바캡슐100mg(가바펜틴)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801845"
+  },
+  {
+   "itemSeq": "201801846",
+   "name": "씨티가바캡슐300mg(가바펜틴)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801846"
+  },
+  {
+   "itemSeq": "201802837",
+   "name": "이로바캡슐300mg(가바펜틴)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802837"
+  },
+  {
+   "itemSeq": "201803472",
+   "name": "가바랩캡슐100mg(가바펜틴)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803472"
+  },
+  {
+   "itemSeq": "201900241",
+   "name": "씨트펜틴캡슐100밀리그램(가바펜틴)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900241"
+  },
+  {
+   "itemSeq": "201900240",
+   "name": "씨트펜틴캡슐300밀리그램(가바펜틴)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900240"
+  },
+  {
+   "itemSeq": "201900773",
+   "name": "가바스틸캡슐100mg(가바펜틴)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900773"
+  },
+  {
+   "itemSeq": "201900792",
+   "name": "이로바캡슐100밀리그램(가바펜틴)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900792"
+  },
+  {
+   "itemSeq": "201900843",
+   "name": "오스가바캡슐100밀리그램(가바펜틴)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900843"
+  },
+  {
+   "itemSeq": "201900842",
+   "name": "오스가바캡슐300밀리그램(가바펜틴)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900842"
+  },
+  {
+   "itemSeq": "201901101",
+   "name": "유니펜틴캡슐100밀리그램(가바펜틴)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901101"
+  },
+  {
+   "itemSeq": "201901102",
+   "name": "유니펜틴캡슐300밀리그램(가바펜틴)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901102"
+  },
+  {
+   "itemSeq": "201901590",
+   "name": "뉴로가펜캡슐300밀리그램(가바펜틴)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901590"
+  },
+  {
+   "itemSeq": "201901875",
+   "name": "서울가바펜틴캡슐100밀리그램",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901875"
+  },
+  {
+   "itemSeq": "201901876",
+   "name": "서울가바펜틴캡슐300밀리그램",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901876"
+  },
+  {
+   "itemSeq": "201901919",
+   "name": "가바케이캡슐100밀리그램(가바펜틴)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901919"
+  },
+  {
+   "itemSeq": "201901918",
+   "name": "가바케이캡슐300밀리그램(가바펜틴)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901918"
+  },
+  {
+   "itemSeq": "201902083",
+   "name": "가바투캡슐100밀리그램(가바펜틴)",
+   "company": "코스맥스파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902083"
+  },
+  {
+   "itemSeq": "201902082",
+   "name": "가바투캡슐300밀리그램(가바펜틴)",
+   "company": "코스맥스파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902082"
+  },
+  {
+   "itemSeq": "201902354",
+   "name": "뉴론텍캡슐100밀리그램(가바펜틴)",
+   "company": "(주)새한제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902354"
+  },
+  {
+   "itemSeq": "201902355",
+   "name": "뉴론텍캡슐300밀리그램(가바펜틴)",
+   "company": "(주)새한제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902355"
+  },
+  {
+   "itemSeq": "201903623",
+   "name": "가바텐캡슐100밀리그램(가바펜틴)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903623"
+  },
+  {
+   "itemSeq": "201903624",
+   "name": "가바텐캡슐300밀리그램(가바펜틴)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903624"
+  },
+  {
+   "itemSeq": "201905555",
+   "name": "뉴가틴엠캡슐100mg(가바펜틴)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905555"
+  },
+  {
+   "itemSeq": "201905554",
+   "name": "뉴가틴엠캡슐300mg(가바펜틴)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905554"
+  },
+  {
+   "itemSeq": "201906106",
+   "name": "아이펜틴캡슐300밀리그램(가바펜틴)",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906106"
+  },
+  {
+   "itemSeq": "201906362",
+   "name": "가바페캡슐100밀리그램(가바펜틴)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906362"
+  },
+  {
+   "itemSeq": "201906363",
+   "name": "가바페캡슐300밀리그램(가바펜틴)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906363"
+  },
+  {
+   "itemSeq": "201907224",
+   "name": "건스펜틴캡슐100밀리그램(가바펜틴)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907224"
+  },
+  {
+   "itemSeq": "201907225",
+   "name": "건스펜틴캡슐300밀리그램(가바펜틴)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907225"
+  },
+  {
+   "itemSeq": "201907285",
+   "name": "가바텍스캡슐100밀리그램(가바펜틴)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907285"
+  },
+  {
+   "itemSeq": "201907284",
+   "name": "가바텍스캡슐300밀리그램(가바펜틴)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907284"
+  },
+  {
+   "itemSeq": "201907289",
+   "name": "카나가바로틴캡슐100밀리그램(가바펜틴)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907289"
+  },
+  {
+   "itemSeq": "201907290",
+   "name": "카나가바로틴캡슐300밀리그램(가바펜틴)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907290"
+  },
+  {
+   "itemSeq": "202000423",
+   "name": "카나가바로틴캡슐400밀리그램(가바펜틴)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000423"
+  },
+  {
+   "itemSeq": "202000805",
+   "name": "메가바틴캡슐100밀리그램(가바펜틴)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000805"
+  },
+  {
+   "itemSeq": "202000804",
+   "name": "메가바틴캡슐300밀리그램(가바펜틴)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000804"
+  },
+  {
+   "itemSeq": "202001336",
+   "name": "가뉴틴캡슐300밀리그램(가바펜틴)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001336"
+  },
+  {
+   "itemSeq": "202001434",
+   "name": "가바렉스캡슐100mg(가바펜틴)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001434"
+  },
+  {
+   "itemSeq": "202001491",
+   "name": "넬슨가바펜틴캡슐100밀리그램",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001491"
+  },
+  {
+   "itemSeq": "202002077",
+   "name": "가바원캡슐100밀리그램(가바펜틴)",
+   "company": "(주)서흥",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002077"
+  },
+  {
+   "itemSeq": "202002076",
+   "name": "가바원캡슐300밀리그램(가바펜틴)",
+   "company": "(주)서흥",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002076"
+  },
+  {
+   "itemSeq": "202002687",
+   "name": "가바론틴캡슐100밀리그램(가바펜틴)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002687"
+  },
+  {
+   "itemSeq": "202002688",
+   "name": "가바론틴캡슐300밀리그램(가바펜틴)",
+   "company": "(주)씨엘팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002688"
+  },
+  {
+   "itemSeq": "202002758",
+   "name": "가벤틴캡슐100밀리그램(가바펜틴)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002758"
+  },
+  {
+   "itemSeq": "202003240",
+   "name": "위더펜틴캡슐100밀리그램(가바펜틴)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003240"
+  },
+  {
+   "itemSeq": "202003239",
+   "name": "위더펜틴캡슐300밀리그램(가바펜틴)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003239"
+  },
+  {
+   "itemSeq": "202003457",
+   "name": "뉴벤틴캡슐100밀리그램(가바펜틴)",
+   "company": "미래바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003457"
+  },
+  {
+   "itemSeq": "202003995",
+   "name": "가바프로캡슐100밀리그램(가바펜틴)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003995"
+  },
+  {
+   "itemSeq": "202003992",
+   "name": "가바프로캡슐300밀리그램(가바펜틴)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003992"
+  },
+  {
+   "itemSeq": "202300955",
+   "name": "그랠리즈서방정300밀리그램(가바펜틴)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300955"
+  },
+  {
+   "itemSeq": "202300954",
+   "name": "그랠리즈서방정600밀리그램(가바펜틴)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "가바펜틴",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300954"
+  }
+ ]
+}

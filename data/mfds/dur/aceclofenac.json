@@ -1,0 +1,45 @@
+{
+ "id": "aceclofenac",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "aceclofenac"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "ketorolac tromethamine",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "aceclofenac"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립.임신 말기에 투여시 태아의 동맥관조기폐쇄 가능성.동물실험에서 비스테로이드성 소염진통제는 난산발생빈도 증가, 분만지연, 태아 생존율 감소 보고.임신 약 20주 이후 비스테로이드성 소염제의 사용은 태아의 신기능 이상을 일으켜 양수 과소증 유발 가능 및 경우에 따라 신생아 신장애 발생 가능",
+   "ingredient": "aceclofenac"
+  },
+  {
+   "grade": "2",
+   "reason": "Aceclofenac: 임부에 대한 안전성 미확립.임신 말기에 투여시 태아의 동맥관조기폐쇄 가능성.동물실험에서 비스테로이드성 소염진통제는 난산발생빈도 증가, 분만지연, 태아 생존율 감소 보고.임신 약 20주 이후 비스테로이드성 소염제의 사용은 태아의 신기능 이상을 일으켜 양수 과소증 유발 가능 및 경우에 따라 신생아 신장애 발생 가능",
+   "ingredient": "aceclofenac"
+  }
+ ],
+ "elderly": [
+  {
+   "reason": "",
+   "ingredient": "aceclofenac"
+  }
+ ],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "해열진통소염제",
+   "subgroup": "Group 1",
+   "code": "114A0001"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

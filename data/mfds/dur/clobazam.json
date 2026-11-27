@@ -1,0 +1,38 @@
+{
+ "id": "clobazam",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "clobazam"
+ ],
+ "contraindicated_with": [],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립.동물실험에서 생식독성 입증됨.벤조디아제핀계 약물 노출에 따른 구순열 및 구개열 발생 증가 관찰.임신 중기 및/또는 후기 동안 벤조디아제핀계 약물 투여 후 태아 움직임 감소 및 태아 심박수 변동성 보고.임신 말기 혹은 출산 동안의 투여 시, 신생아의 저체온증, 근육긴장저하, 잘 빨지 못하는 수유장애, 중증도의 호흡저하가 나타날 수 있음.임신 후반기 동안 벤조디아제핀계 약물을 장기간 투여 시 신생아 금단 증상(신경과민, 진전, 과다긴장 등) 및 신체적 의존성의 위험이 있음.",
+   "ingredient": "clobazam"
+  }
+ ],
+ "elderly": [
+  {
+   "reason": "",
+   "ingredient": "clobazam"
+  }
+ ],
+ "dose": [],
+ "duration": [
+  {
+   "text": "최대투여기간: 92일"
+  }
+ ],
+ "class_duplication": [
+  {
+   "group": "정신신경용제",
+   "subgroup": "Group 10",
+   "code": "117J0006"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

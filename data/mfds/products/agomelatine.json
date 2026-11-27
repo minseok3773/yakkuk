@@ -1,0 +1,29 @@
+{
+ "id": "agomelatine",
+ "query": [
+  "아고멜라틴"
+ ],
+ "fetched": "2026-11-27",
+ "total": 1,
+ "kept": 1,
+ "mfdsName": [
+  "아고멜라틴"
+ ],
+ "items": [
+  {
+   "itemSeq": "202403080",
+   "name": "아고틴정25밀리그램(아고멜라틴)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아고멜라틴",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403080"
+  }
+ ]
+}

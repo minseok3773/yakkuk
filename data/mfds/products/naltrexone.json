@@ -1,0 +1,214 @@
+{
+ "id": "naltrexone",
+ "query": [
+  "날트렉손"
+ ],
+ "fetched": "2026-11-26",
+ "total": 13,
+ "kept": 13,
+ "mfdsName": [
+  "날트렉손염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "199700692",
+   "name": "레비아정(날트렉손염산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "날트렉손염산염",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700692"
+  },
+  {
+   "itemSeq": "200501159",
+   "name": "트락손정50밀리그램(날트렉손염산염)(수출명:노텍손정(날트렉손염산염))",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "날트렉손염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501159"
+  },
+  {
+   "itemSeq": "200606297",
+   "name": "날트렉신정(날트렉손염산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "날트렉손염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606297"
+  },
+  {
+   "itemSeq": "201205262",
+   "name": "환인날트렉손정50밀리그램(날트렉손염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "날트렉손염산염",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205262"
+  },
+  {
+   "itemSeq": "201309465",
+   "name": "트락손정25밀리그램(날트렉손염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "날트렉손염산염",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309465"
+  },
+  {
+   "itemSeq": "201402427",
+   "name": "환인날트렉손정25밀리그램(날트렉손염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "날트렉손염산염",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402427"
+  },
+  {
+   "itemSeq": "201403957",
+   "name": "날트라정25밀리그램(날트렉손염산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "날트렉손염산염",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403957"
+  },
+  {
+   "itemSeq": "201500171",
+   "name": "나렉스정(날트렉손염산염)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "날트렉손염산염",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500171"
+  },
+  {
+   "itemSeq": "201604834",
+   "name": "파마날트렉손정50밀리그램(날트렉손염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "날트렉손염산염",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604834"
+  },
+  {
+   "itemSeq": "201701450",
+   "name": "아이렉손정25mg(날트렉손염산염)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "날트렉손염산염",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701450"
+  },
+  {
+   "itemSeq": "201708034",
+   "name": "미스림정25밀리그램(날트렉손염산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "날트렉손염산염",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-11-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708034"
+  },
+  {
+   "itemSeq": "202101044",
+   "name": "날렉손정(날트렉손염산염)(수출용)",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "날트렉손염산염",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101044"
+  },
+  {
+   "itemSeq": "201602430",
+   "name": "콘트라브서방정",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "부프로피온염산염",
+     "amount": "90.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "날트렉손염산염",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602430"
+  }
+ ]
+}

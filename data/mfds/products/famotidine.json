@@ -1,0 +1,2034 @@
+{
+ "id": "famotidine",
+ "query": [
+  "파모티딘"
+ ],
+ "fetched": "2026-11-27",
+ "total": 128,
+ "kept": 128,
+ "mfdsName": [
+  "파모티딘"
+ ],
+ "items": [
+  {
+   "itemSeq": "198600114",
+   "name": "동아가스터정20밀리그램(파모티딘)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1986-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198600114"
+  },
+  {
+   "itemSeq": "198600161",
+   "name": "베스티딘정20밀리그램(파모티딘)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1986-11-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198600161"
+  },
+  {
+   "itemSeq": "198700535",
+   "name": "파마겐정(파모티딘)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1987-01-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700535"
+  },
+  {
+   "itemSeq": "198701520",
+   "name": "영풍파모티딘정",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1987-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198701520"
+  },
+  {
+   "itemSeq": "198700019",
+   "name": "팜틴정40밀리그람(파모티딘) (수출용)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1987-07-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700019"
+  },
+  {
+   "itemSeq": "198800679",
+   "name": "로카시드정(파모티딘)(수출명:ROBFamotidine20mgTablet)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1988-02-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800679"
+  },
+  {
+   "itemSeq": "198800805",
+   "name": "모틴주(파모티딘)[수출명:명인모틴주(파모티딘), H2BLOC Inj.(파모티딘)]",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1988-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800805"
+  },
+  {
+   "itemSeq": "198802643",
+   "name": "서울파모티딘정20mg",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1988-05-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198802643"
+  },
+  {
+   "itemSeq": "198801655",
+   "name": "대화파모티딘정20밀리그람(수출명:FAMOCID)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1988-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198801655"
+  },
+  {
+   "itemSeq": "198802273",
+   "name": "위더스파모티딘정20mg",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1988-10-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198802273"
+  },
+  {
+   "itemSeq": "198900881",
+   "name": "파라리딘정20밀리그램(파모티딘)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-02-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900881"
+  },
+  {
+   "itemSeq": "199002111",
+   "name": "지엘파모티딘정20밀리그램",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1990-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199002111"
+  },
+  {
+   "itemSeq": "199100628",
+   "name": "페로틴정20밀리그람(파모티딘)",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1991-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199100628"
+  },
+  {
+   "itemSeq": "199200163",
+   "name": "휴텍스파모티딘정10밀리그람",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1992-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199200163"
+  },
+  {
+   "itemSeq": "199501906",
+   "name": "하나파모티딘정",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1995-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501906"
+  },
+  {
+   "itemSeq": "199502833",
+   "name": "코러스파모티딘정40밀리그람(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1995-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199502833"
+  },
+  {
+   "itemSeq": "199501743",
+   "name": "넬슨파모티딘정20밀리그램(파모티딘)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1995-10-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501743"
+  },
+  {
+   "itemSeq": "199701610",
+   "name": "파마파모티딘정(수출명:코티딘정)(수출용)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-03-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701610"
+  },
+  {
+   "itemSeq": "199701481",
+   "name": "동구파모티딘정40밀리그람(수출명:파모딘40)(수출용)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701481"
+  },
+  {
+   "itemSeq": "199801441",
+   "name": "파마파모티딘정40mg(수출명1:모티딘정40mg, 수출명2:코티딘정40mg)(수출용)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801441"
+  },
+  {
+   "itemSeq": "199902683",
+   "name": "한미파모티딘정20밀리그램(파모티딘)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199902683"
+  },
+  {
+   "itemSeq": "200109233",
+   "name": "가스터디정20㎎(파모티딘)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-10-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109233"
+  },
+  {
+   "itemSeq": "200300306",
+   "name": "한올파모티딘정20밀리그람",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300306"
+  },
+  {
+   "itemSeq": "200301098",
+   "name": "파모스터정20밀리그램(파모티딘)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301098"
+  },
+  {
+   "itemSeq": "200404747",
+   "name": "파모디틴정20mg(파모티딘)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-01-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404747"
+  },
+  {
+   "itemSeq": "200404690",
+   "name": "파모터정20밀리그램(파모티딘)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404690"
+  },
+  {
+   "itemSeq": "200401211",
+   "name": "파모젠정(파모티딘)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401211"
+  },
+  {
+   "itemSeq": "200401857",
+   "name": "파모시드정20밀리그램(파모티딘)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-07-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401857"
+  },
+  {
+   "itemSeq": "200402057",
+   "name": "아모틴정(파모티딘)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402057"
+  },
+  {
+   "itemSeq": "200403434",
+   "name": "삼익파모티딘정(파모티딘)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403434"
+  },
+  {
+   "itemSeq": "200404863",
+   "name": "파몬딘정(파모티딘)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404863"
+  },
+  {
+   "itemSeq": "200501506",
+   "name": "무스터정40mg(파모티딘)(수출용)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501506"
+  },
+  {
+   "itemSeq": "200606623",
+   "name": "다산파모티딘정20밀리그램(파모티딘)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-11-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606623"
+  },
+  {
+   "itemSeq": "200702185",
+   "name": "넥스팜파모티딘정20mg(수출용)(수출명: ALEPID Tablet 20mg)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702185"
+  },
+  {
+   "itemSeq": "200702184",
+   "name": "넥스팜파모티딘정40mg(수출용)(수출용: ALEPID Tablet 40mg)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702184"
+  },
+  {
+   "itemSeq": "201309037",
+   "name": "프라임파모틴정40밀리그램(파모티딘)(수출용)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309037"
+  },
+  {
+   "itemSeq": "201309054",
+   "name": "이모딘정(파모티딘)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309054"
+  },
+  {
+   "itemSeq": "201401404",
+   "name": "휴텍스파모티딘정20mg",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401404"
+  },
+  {
+   "itemSeq": "201405795",
+   "name": "파모텐정20밀리그램(파모티딘)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405795"
+  },
+  {
+   "itemSeq": "201500465",
+   "name": "셀티스파모티딘정20밀리그램(파모티딘)",
+   "company": "(주)텔콘알에프제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500465"
+  },
+  {
+   "itemSeq": "201502448",
+   "name": "파티딘정20mg(파모티딘)",
+   "company": "경진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502448"
+  },
+  {
+   "itemSeq": "201600426",
+   "name": "팜티딘정(파모티딘)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600426"
+  },
+  {
+   "itemSeq": "201601090",
+   "name": "파모딘정(파모티딘)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601090"
+  },
+  {
+   "itemSeq": "201603733",
+   "name": "파비스파모티딘정(파모티딘)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603733"
+  },
+  {
+   "itemSeq": "201707053",
+   "name": "아이모틴정20밀리그램(파모티딘)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707053"
+  },
+  {
+   "itemSeq": "201902956",
+   "name": "파탁정20mg(파모티딘)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902956"
+  },
+  {
+   "itemSeq": "201905898",
+   "name": "파모나정20밀리그램(파모티딘)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905898"
+  },
+  {
+   "itemSeq": "201907237",
+   "name": "파모티정20밀리그램(파모티딘)",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907237"
+  },
+  {
+   "itemSeq": "201907803",
+   "name": "경동파니틴정20밀리그램(파모티딘)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907803"
+  },
+  {
+   "itemSeq": "201908164",
+   "name": "파모원정(파모티딘)",
+   "company": "(주)서흥",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908164"
+  },
+  {
+   "itemSeq": "201908163",
+   "name": "파모칸정20밀리그램(파모티딘)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908163"
+  },
+  {
+   "itemSeq": "201908167",
+   "name": "파모티린정20밀리그램(파모티딘)",
+   "company": "에스에스팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908167"
+  },
+  {
+   "itemSeq": "201908381",
+   "name": "삼성파모티딘정20밀리그램",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908381"
+  },
+  {
+   "itemSeq": "201908382",
+   "name": "파모타정(파모티딘)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908382"
+  },
+  {
+   "itemSeq": "201908634",
+   "name": "파몬틴정20밀리그램(파모티딘)",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908634"
+  },
+  {
+   "itemSeq": "201908709",
+   "name": "팜카딘정20밀리그램(파모티딘)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908709"
+  },
+  {
+   "itemSeq": "202000058",
+   "name": "베아파모정20밀리그램(파모티딘)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000058"
+  },
+  {
+   "itemSeq": "202000261",
+   "name": "파모린정(파모티딘)",
+   "company": "메딕스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000261"
+  },
+  {
+   "itemSeq": "202000319",
+   "name": "파모텍스정20mg(파모티딘)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000319"
+  },
+  {
+   "itemSeq": "202000327",
+   "name": "파미틴정20밀리그램(파모티딘)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000327"
+  },
+  {
+   "itemSeq": "202000321",
+   "name": "파밀란정20밀리그램(파모티딘)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000321"
+  },
+  {
+   "itemSeq": "202000477",
+   "name": "파모스정20밀리그램(파모티딘)",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000477"
+  },
+  {
+   "itemSeq": "202000476",
+   "name": "파스터정20밀리그램(파모티딘)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000476"
+  },
+  {
+   "itemSeq": "202000535",
+   "name": "제리티딘정20밀리그램(파모티딘)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000535"
+  },
+  {
+   "itemSeq": "202000553",
+   "name": "가스파모정20밀리그램(파모티딘)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000553"
+  },
+  {
+   "itemSeq": "202000561",
+   "name": "조아파모티딘정20mg",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000561"
+  },
+  {
+   "itemSeq": "202000621",
+   "name": "넥스파모정(파모티딘)",
+   "company": "주식회사 노바엠헬스케어",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000621"
+  },
+  {
+   "itemSeq": "202000592",
+   "name": "메가파모정20밀리그램(파모티딘)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000592"
+  },
+  {
+   "itemSeq": "202001046",
+   "name": "알피티딘정20밀리그램(파모티딘)",
+   "company": "(주)알피바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001046"
+  },
+  {
+   "itemSeq": "202001463",
+   "name": "대원바이오텍파모티딘정20밀리그램",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001463"
+  },
+  {
+   "itemSeq": "202001664",
+   "name": "삼남파모티딘정20밀리그램",
+   "company": "삼남제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001664"
+  },
+  {
+   "itemSeq": "202001905",
+   "name": "파모톤정20밀리그램(파모티딘)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001905"
+  },
+  {
+   "itemSeq": "202001943",
+   "name": "파모티원정(파모티딘)",
+   "company": "원광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001943"
+  },
+  {
+   "itemSeq": "202002156",
+   "name": "파모티칸정(파모티딘)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002156"
+  },
+  {
+   "itemSeq": "202002215",
+   "name": "파모릴정20밀리그램(파모티딘)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002215"
+  },
+  {
+   "itemSeq": "202002369",
+   "name": "가티딘정20밀리그램(파모티딘)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002369"
+  },
+  {
+   "itemSeq": "202002820",
+   "name": "파모맥스정20밀리그램(파모티딘)",
+   "company": "코스맥스파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002820"
+  },
+  {
+   "itemSeq": "202002906",
+   "name": "페모딘정(파모티딘)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002906"
+  },
+  {
+   "itemSeq": "202002958",
+   "name": "파모엘정20밀리그램(파모티딘)",
+   "company": "동방에프티엘(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002958"
+  },
+  {
+   "itemSeq": "202003064",
+   "name": "안국뉴팜파모티딘정20밀리그램",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003064"
+  },
+  {
+   "itemSeq": "202003177",
+   "name": "스토벤트정(파모티딘)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003177"
+  },
+  {
+   "itemSeq": "202003282",
+   "name": "파모트리정20밀리그램(파모티딘)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003282"
+  },
+  {
+   "itemSeq": "202003572",
+   "name": "비엠파모티딘정20밀리그램(파모티딘)",
+   "company": "(주)한국비엠아이",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003572"
+  },
+  {
+   "itemSeq": "202004089",
+   "name": "휴티딘정20밀리그램(파모티딘)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004089"
+  },
+  {
+   "itemSeq": "202200835",
+   "name": "파모터정20밀리그램(파모티딘)(수출용)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200835"
+  },
+  {
+   "itemSeq": "202202238",
+   "name": "파모팡오디정20밀리그램(파모티딘)",
+   "company": "(주)한국팜비오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202238"
+  },
+  {
+   "itemSeq": "202202399",
+   "name": "파모팡오디정10밀리그램(파모티딘)",
+   "company": "(주)한국팜비오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202399"
+  },
+  {
+   "itemSeq": "202203264",
+   "name": "가스터주사액20밀리그램(파모티딘)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-08-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203264"
+  },
+  {
+   "itemSeq": "202300724",
+   "name": "베스티딘정40밀리그램(파모티딘)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300724"
+  },
+  {
+   "itemSeq": "202502157",
+   "name": "모틴주사액(파모티딘)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502157"
+  },
+  {
+   "itemSeq": "201306176",
+   "name": "파미딘정(파모티딘)",
+   "company": "(주)종근당",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306176"
+  },
+  {
+   "itemSeq": "201500041",
+   "name": "티지피파모티딘정10밀리그램",
+   "company": "태극제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500041"
+  },
+  {
+   "itemSeq": "201908518",
+   "name": "팜시드정10밀리그램(파모티딘)",
+   "company": "하이플생명과학(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908518"
+  },
+  {
+   "itemSeq": "202000421",
+   "name": "아프소겐정(파모티딘)",
+   "company": "(주)녹십자",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000421"
+  },
+  {
+   "itemSeq": "202000472",
+   "name": "파메딘정10밀리그램(파모티딘)",
+   "company": "(주)유앤생명과학",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000472"
+  },
+  {
+   "itemSeq": "202000577",
+   "name": "파모퀸정10밀리그램(파모티딘)",
+   "company": "한국코러스(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000577"
+  },
+  {
+   "itemSeq": "202000598",
+   "name": "파탁정10밀리그램(파모티딘)",
+   "company": "(주)라이트팜텍",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000598"
+  },
+  {
+   "itemSeq": "202000647",
+   "name": "신일파모티딘정10밀리그램",
+   "company": "신일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000647"
+  },
+  {
+   "itemSeq": "202000704",
+   "name": "티파딘정10mg(파모티딘)",
+   "company": "경방신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000704"
+  },
+  {
+   "itemSeq": "202000831",
+   "name": "파모트리정10밀리그램(파모티딘)",
+   "company": "에이치엘비제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000831"
+  },
+  {
+   "itemSeq": "202001195",
+   "name": "파모딘정10밀리그램(파모티딘)",
+   "company": "아이큐어(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001195"
+  },
+  {
+   "itemSeq": "202001328",
+   "name": "파모탑정(파모티딘)",
+   "company": "동성제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001328"
+  },
+  {
+   "itemSeq": "202001730",
+   "name": "펩티스정(파모티딘)",
+   "company": "고려제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001730"
+  },
+  {
+   "itemSeq": "202001760",
+   "name": "파모텍스정10밀리그램(파모티딘)",
+   "company": "(주)테라젠이텍스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001760"
+  },
+  {
+   "itemSeq": "202002034",
+   "name": "파모큐정(파모티딘)",
+   "company": "(주)유한양행",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002034"
+  },
+  {
+   "itemSeq": "202002646",
+   "name": "애시컨정(파모티딘)",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002646"
+  },
+  {
+   "itemSeq": "202003288",
+   "name": "지엘파모티딘정10밀리그램",
+   "company": "지엘팜텍(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003288"
+  },
+  {
+   "itemSeq": "202003411",
+   "name": "파모윈정(파모티딘)",
+   "company": "한국신텍스제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003411"
+  },
+  {
+   "itemSeq": "202003528",
+   "name": "위엔싹에프정(파모티딘)",
+   "company": "제일헬스사이언스(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003528"
+  },
+  {
+   "itemSeq": "202003699",
+   "name": "베아파모정10밀리그램(파모티딘)",
+   "company": "대웅바이오(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003699"
+  },
+  {
+   "itemSeq": "202005998",
+   "name": "파머티딘정(파모티딘)",
+   "company": "부광약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-08-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005998"
+  },
+  {
+   "itemSeq": "202006820",
+   "name": "파모위튼정10밀리그램(파모티딘)",
+   "company": "맥널티제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-10-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006820"
+  },
+  {
+   "itemSeq": "202007434",
+   "name": "조아파모티딘정10밀리그램",
+   "company": "조아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007434"
+  },
+  {
+   "itemSeq": "202106054",
+   "name": "경동파니틴정10밀리그램(파모티딘)",
+   "company": "경동제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106054"
+  },
+  {
+   "itemSeq": "202201153",
+   "name": "나노파모정10밀리그램(파모티딘)",
+   "company": "초당약품공업(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201153"
+  },
+  {
+   "itemSeq": "202202398",
+   "name": "한국팜비오파모티딘오디정10밀리그램",
+   "company": "(주)한국팜비오",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202398"
+  },
+  {
+   "itemSeq": "202501470",
+   "name": "아모틴정10mg(파모티딘)",
+   "company": "오스틴제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501470"
+  },
+  {
+   "itemSeq": "202601220",
+   "name": "파모케어정(파모티딘)",
+   "company": "(주)한국파비스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601220"
+  },
+  {
+   "itemSeq": "202601351",
+   "name": "일양파모티딘정",
+   "company": "일양약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601351"
+  },
+  {
+   "itemSeq": "200302155",
+   "name": "파모콤푸츄정",
+   "company": "지엘팜텍(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "800",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "165",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-10-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302155"
+  },
+  {
+   "itemSeq": "202008834",
+   "name": "페리에정",
+   "company": "(주)인트로바이오파마",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "165",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008834"
+  },
+  {
+   "itemSeq": "202104688",
+   "name": "파미딘플러스정",
+   "company": "(주)종근당",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "165",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104688"
+  },
+  {
+   "itemSeq": "202105133",
+   "name": "소가프텐정",
+   "company": "동화약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "165",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105133"
+  },
+  {
+   "itemSeq": "202105229",
+   "name": "듀얼파모정",
+   "company": "광동제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "165",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105229"
+  },
+  {
+   "itemSeq": "202105999",
+   "name": "파모콤푸정",
+   "company": "지엘팜텍(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "165",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105999"
+  },
+  {
+   "itemSeq": "202106861",
+   "name": "파모컴정",
+   "company": "정우신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "165",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106861"
+  },
+  {
+   "itemSeq": "202201650",
+   "name": "파모포스정",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "165",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201650"
+  },
+  {
+   "itemSeq": "202601555",
+   "name": "겔포스더블액션정",
+   "company": "(주)보령",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "165",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601555"
+  }
+ ]
+}

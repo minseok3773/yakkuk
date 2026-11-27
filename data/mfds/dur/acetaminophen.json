@@ -1,0 +1,111 @@
+{
+ "id": "acetaminophen",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "acetaminophen",
+  "paracetamol"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "safinamide mesylate (as safinamide)",
+   "reason": "정신병 또는 기괴한 행동 등의 유발 보고됨",
+   "self": "acetaminophen+anhydrous caffeine+ascorbic acid+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+pseudoephedrine hydrochloride+riboflavin"
+  },
+  {
+   "ingredient": "rasagiline mesylate (as rasagiline)",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "acetaminophen+anhydrous caffeine+ascorbic acid+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+pseudoephedrine hydrochloride+riboflavin"
+  },
+  {
+   "ingredient": "selegiline hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "acetaminophen+anhydrous caffeine+ascorbic acid+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+pseudoephedrine hydrochloride+riboflavin"
+  }
+ ],
+ "age": [
+  {
+   "text": "12세 이하: 코데인이 모르핀으로 대사되는 과정이 다양하고 예측 불가능하여 모르핀으로 인한 독성이 나타날 위험이 있음",
+   "ingredient": "codeine phosphate, ibuprofen, paracetamol"
+  },
+  {
+   "text": "12세 미만: 소아에서 생명에 치명적인 호흡 억제 및 사망 발생",
+   "ingredient": "acetaminophen,tramadol hydrochloride"
+  },
+  {
+   "text": "12세 미만: 소아 및 고령자(노인)는 최소 필요량을 복용하고 이상반응에 유의. 과도한 체온강하, 허탈, 사지냉각 등이 나타날 수 있음",
+   "ingredient": "acetaminophen(encapsulated)"
+  }
+ ],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립. 신생아 호흡억제 및 금단 증상 유발 가능.",
+   "ingredient": "acetaminophen, hydrocodone bitartrate"
+  },
+  {
+   "grade": "2",
+   "reason": "ibuprofen: 임부에 대한 안전성 미확립.임신 말기에 투여시 태아의 동맥관조기폐쇄 가능성.임신 약 20주 이후 비스테로이드성 소염제의 사용은 태아의 신기능 이상을 일으켜 양수 과소증 유발 가능 및 경우에 따라 신생아 신장애 발생 가능",
+   "ingredient": "ibuprofen+codeine+paracetamol"
+  },
+  {
+   "grade": "2",
+   "reason": "tramadol: 임부에 대한 안전성 미확립.동물 실험에서 돌연변이성, 발암성, 생식독성 보고.임신 말기 고용량 단기 투여시 신생아의 호흡억제 가능성.임신중 장기 투여시 신생아에게 금단증상 야기 가능성.",
+   "ingredient": "acetaminophen, tramadol HCl"
+  },
+  {
+   "grade": "2",
+   "reason": "",
+   "ingredient": "acetaminophen, caffeine anhydrous, isopropylantipyrine"
+  },
+  {
+   "grade": "2",
+   "reason": "pheniramine: 태반 관류 감소 가능성. phenylephrine: 랫트와 토끼에서 용량에 따라 발달지연 및 모체독성, 태아기형, 사망증가 등이 나타남",
+   "ingredient": "acetaminophen+pheniramine maleate+phenylephrine HCl"
+  },
+  {
+   "grade": "2",
+   "reason": "brompheniramine: -/ Pseudoephedrine: 임부에 대한 안전성 미확립",
+   "ingredient": "acetaminophen + brompheniramine + pseudoephedrine hydrochloride"
+  },
+  {
+   "grade": "2",
+   "reason": "pseudoephedrine:임부에 대한 안전성 미확립.",
+   "ingredient": "acetaminophen + anhydrous caffeine + chlorpheniramine + pseudoephedrine"
+  }
+ ],
+ "elderly": [],
+ "dose": [
+  {
+   "text": "1일 최대투여량: 아세트아미노펜으로써 4,000mg"
+  },
+  {
+   "text": "1일 최대투여량: 아세트아미노펜 2,600mg/트라마돌염산염 300mg"
+  },
+  {
+   "text": "1일 최대투여량: 아세트아미노펜으로 4,000mg"
+  },
+  {
+   "text": "1일 최대투여량: 코데인인산염수화물 120mg/이부프로펜 2,400mg/아세트아미노펜 3,000mg"
+  },
+  {
+   "text": "1일 최대투여량: 아세트아미노펜으로써 4000mg"
+  },
+  {
+   "text": "1일 최대투여량: 아세트아미노펜 4,000mg"
+  },
+  {
+   "text": "1일 최대투여량: 아세트아미노펜 3,000mg/파마브롬 150mg"
+  }
+ ],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "해열진통소염제",
+   "subgroup": "Group 2",
+   "code": "114B0001"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

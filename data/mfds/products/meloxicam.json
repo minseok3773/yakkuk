@@ -1,0 +1,1664 @@
+{
+ "id": "meloxicam",
+ "query": [
+  "멜록시캄"
+ ],
+ "fetched": "2026-11-27",
+ "total": 109,
+ "kept": 109,
+ "mfdsName": [
+  "멜록시캄"
+ ],
+ "items": [
+  {
+   "itemSeq": "200300030",
+   "name": "뉴시캄캡슐7.5밀리그램(멜록시캄)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-07-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300030"
+  },
+  {
+   "itemSeq": "200300412",
+   "name": "멜로캄캡슐15밀리그람(멜록시캄)(수출명:유한멜로캄캡슐15밀리그람)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-07-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300412"
+  },
+  {
+   "itemSeq": "200300411",
+   "name": "멜로캄캡슐7.5밀리그람(멜록시캄)(수출명:유한멜로캄캡슐7.5밀리그람)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-07-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300411"
+  },
+  {
+   "itemSeq": "200300130",
+   "name": "메록심캡슐(멜록시캄)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-07-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300130"
+  },
+  {
+   "itemSeq": "200300462",
+   "name": "캄록스캡슐(멜록시캄)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300462"
+  },
+  {
+   "itemSeq": "200301019",
+   "name": "멜록스캡슐(멜록시캄)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-09-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301019"
+  },
+  {
+   "itemSeq": "200302052",
+   "name": "콕시캄캡슐(멜록시캄)",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-09-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302052"
+  },
+  {
+   "itemSeq": "200300089",
+   "name": "멜락스캡슐7.5밀리그램(멜록시캄)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300089"
+  },
+  {
+   "itemSeq": "200300154",
+   "name": "메로콕스캡슐7.5밀리그램(멜록시캄)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-12-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300154"
+  },
+  {
+   "itemSeq": "200300261",
+   "name": "멜록시펜캡슐(멜록시캄)(수출명:국제메펜캡슐)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-12-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300261"
+  },
+  {
+   "itemSeq": "200400387",
+   "name": "메로빅캡슐(멜록시캄)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400387"
+  },
+  {
+   "itemSeq": "200400685",
+   "name": "보믹캡슐(멜록시캄)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400685"
+  },
+  {
+   "itemSeq": "200403238",
+   "name": "메디콕스캡슐(멜록시캄)(수출명:마이멜록캡슐(MYMELOXECapsule))",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403238"
+  },
+  {
+   "itemSeq": "200402675",
+   "name": "메록스캄캡슐15밀리그램(멜록시캄)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402675"
+  },
+  {
+   "itemSeq": "200400320",
+   "name": "록시캄캡슐(멜록시캄)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400320"
+  },
+  {
+   "itemSeq": "200401448",
+   "name": "멜빅스캡슐(멜록시캄)(수출명:WONCOX Capsule)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401448"
+  },
+  {
+   "itemSeq": "200403184",
+   "name": "모콕스캡슐7.5밀리그람(멜록시캄)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403184"
+  },
+  {
+   "itemSeq": "200401005",
+   "name": "맥캄캡슐(멜록시캄)",
+   "company": "에스에스팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401005"
+  },
+  {
+   "itemSeq": "200400112",
+   "name": "멜락스캡슐15밀리그램(멜록시캄)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400112"
+  },
+  {
+   "itemSeq": "200400983",
+   "name": "에이프로젠멜록시캄캡슐",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400983"
+  },
+  {
+   "itemSeq": "200400913",
+   "name": "멜브렉스정7.5밀리그람(멜록시캄)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400913"
+  },
+  {
+   "itemSeq": "200400892",
+   "name": "캠록스캡슐7.5밀리그램(멜록시캄)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400892"
+  },
+  {
+   "itemSeq": "200401409",
+   "name": "모리캄캡슐(멜록시캄)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401409"
+  },
+  {
+   "itemSeq": "200403532",
+   "name": "류멜캡슐7.5밀리그램(멜록시캄)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403532"
+  },
+  {
+   "itemSeq": "200402583",
+   "name": "엑시캄캡슐7.5밀리그람(멜록시캄)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402583"
+  },
+  {
+   "itemSeq": "200402093",
+   "name": "멕시캡슐(멜록시캄)(수출명: Momeloxe Cap.)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402093"
+  },
+  {
+   "itemSeq": "200404040",
+   "name": "모르빅캡슐(멜록시캄)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404040"
+  },
+  {
+   "itemSeq": "200401721",
+   "name": "씨오엑스캡슐(멜록시캄)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401721"
+  },
+  {
+   "itemSeq": "200400179",
+   "name": "메로콕스캡슐15밀리그램(멜록시캄)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400179"
+  },
+  {
+   "itemSeq": "200403461",
+   "name": "아모리아캡슐(멜록시캄)(수출명 : Amolex Cap., Mepedo Cap.)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403461"
+  },
+  {
+   "itemSeq": "200403739",
+   "name": "케이빅캡슐7.5밀리그램(멜록시캄)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403739"
+  },
+  {
+   "itemSeq": "200402564",
+   "name": "멜캄캡슐(멜록시캄)",
+   "company": "미래바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402564"
+  },
+  {
+   "itemSeq": "200400684",
+   "name": "모벡스캡슐(멜록시캄)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400684"
+  },
+  {
+   "itemSeq": "200403085",
+   "name": "모비드캡슐(멜록시캄)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403085"
+  },
+  {
+   "itemSeq": "200402696",
+   "name": "멜로칸캡슐(멜록시캄)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402696"
+  },
+  {
+   "itemSeq": "200411043",
+   "name": "멜록시젠캡슐(멜록시캄)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200411043"
+  },
+  {
+   "itemSeq": "200404859",
+   "name": "멜록삼캡슐(멜록시캄)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-12-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404859"
+  },
+  {
+   "itemSeq": "200402310",
+   "name": "메카론캡슐(멜록시캄)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402310"
+  },
+  {
+   "itemSeq": "200502058",
+   "name": "멜리카캡슐(멜록시캄)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502058"
+  },
+  {
+   "itemSeq": "200501307",
+   "name": "모리캄캡슐15mg(멜록시캄)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501307"
+  },
+  {
+   "itemSeq": "200502259",
+   "name": "하모빅캡슐(멜록시캄)",
+   "company": "(주)바스칸바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502259"
+  },
+  {
+   "itemSeq": "200500171",
+   "name": "멜콕시캡슐(멜록시캄)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500171"
+  },
+  {
+   "itemSeq": "200502732",
+   "name": "메로캄캡슐(멜록시캄)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502732"
+  },
+  {
+   "itemSeq": "200500388",
+   "name": "멜록시펜캡슐15밀리그람(멜록시캄)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500388"
+  },
+  {
+   "itemSeq": "200502090",
+   "name": "메모빅캡슐7.5밀리그람(멜록시캄)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502090"
+  },
+  {
+   "itemSeq": "200608275",
+   "name": "목시캄캡슐(멜록시캄)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608275"
+  },
+  {
+   "itemSeq": "200608121",
+   "name": "멜릭스캡슐(멜록시캄)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-11-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608121"
+  },
+  {
+   "itemSeq": "200704969",
+   "name": "유니콕스캡슐7.5밀리그램(멜록시캄)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704969"
+  },
+  {
+   "itemSeq": "200803581",
+   "name": "뉴록캄캡슐(멜록시캄)(수출용)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803581"
+  },
+  {
+   "itemSeq": "200900845",
+   "name": "모빅캡슐15밀리그램(멜록시캄)",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200900845"
+  },
+  {
+   "itemSeq": "200900844",
+   "name": "모빅캡슐7.5밀리그램(멜록시캄)",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200900844"
+  },
+  {
+   "itemSeq": "201004440",
+   "name": "멜록신캡슐(멜록시캄)",
+   "company": "(주)휴메딕스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004440"
+  },
+  {
+   "itemSeq": "201110513",
+   "name": "메록스캄캡슐7.5밀리그램(멜록시캄)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110513"
+  },
+  {
+   "itemSeq": "201203624",
+   "name": "아모리아캡슐15mg(멜록시캄)(수출용)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201203624"
+  },
+  {
+   "itemSeq": "201206751",
+   "name": "멜로덱스캡슐7.5밀리그램(멜록시캄)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206751"
+  },
+  {
+   "itemSeq": "201206872",
+   "name": "멜로덱스캡슐15밀리그램(멜록시캄)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206872"
+  },
+  {
+   "itemSeq": "201206870",
+   "name": "멜시빅캡슐15밀리그램(멜록시캄)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206870"
+  },
+  {
+   "itemSeq": "201206871",
+   "name": "멜시빅캡슐7.5밀리그램(멜록시캄)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206871"
+  },
+  {
+   "itemSeq": "201207083",
+   "name": "류멜캡슐15밀리그램(멜록시캄)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207083"
+  },
+  {
+   "itemSeq": "201207487",
+   "name": "트록시캄캡슐7.5밀리그램(멜록시캄)",
+   "company": "(주)새한제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207487"
+  },
+  {
+   "itemSeq": "201300020",
+   "name": "대웅바이오멜록시캄캡슐7.5밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201300020"
+  },
+  {
+   "itemSeq": "201300144",
+   "name": "대웅바이오멜록시캄캡슐15밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201300144"
+  },
+  {
+   "itemSeq": "201303831",
+   "name": "이노시캄캡슐(멜록시캄)",
+   "company": "에스피씨(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-02-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201303831"
+  },
+  {
+   "itemSeq": "201306346",
+   "name": "모빅시캄캡슐(멜록시캄)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306346"
+  },
+  {
+   "itemSeq": "201306990",
+   "name": "파마빅캡슐15밀리그램(멜록시캄)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306990"
+  },
+  {
+   "itemSeq": "201307313",
+   "name": "캠록스캡슐15mg(멜록시캄)(수출용)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307313"
+  },
+  {
+   "itemSeq": "201307991",
+   "name": "멜로시드캡슐15밀리그램(멜록시캄)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307991"
+  },
+  {
+   "itemSeq": "201308010",
+   "name": "멜로시드캡슐7.5밀리그램(멜록시캄)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308010"
+  },
+  {
+   "itemSeq": "201308619",
+   "name": "멜로디구강붕해정15밀리그램(멜로시캄)",
+   "company": "(주)엔엠제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308619"
+  },
+  {
+   "itemSeq": "201308618",
+   "name": "멜로디구강붕해정7.5밀리그램(멜로시캄)",
+   "company": "(주)엔엠제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308618"
+  },
+  {
+   "itemSeq": "201309344",
+   "name": "이콕스캡슐7.5밀리그램(멜록시캄)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309344"
+  },
+  {
+   "itemSeq": "201310587",
+   "name": "멜로텍스캡슐 7.5mg(멜록시캄)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310587"
+  },
+  {
+   "itemSeq": "201310962",
+   "name": "메록캄캡슐(멜록시캄)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310962"
+  },
+  {
+   "itemSeq": "201402206",
+   "name": "모비록캄캡슐7.5mg(멜록시캄)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402206"
+  },
+  {
+   "itemSeq": "201402419",
+   "name": "록시칼캡슐(멜록시캄)",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402419"
+  },
+  {
+   "itemSeq": "201402414",
+   "name": "모빅스캄캡슐(멜록시캄)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402414"
+  },
+  {
+   "itemSeq": "201402969",
+   "name": "모빅캄캡슐(멜록시캄)",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402969"
+  },
+  {
+   "itemSeq": "201404438",
+   "name": "씨엠지멜록시캄캡슐7.5mg",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404438"
+  },
+  {
+   "itemSeq": "201500480",
+   "name": "씨빅캡슐7.5밀리그램(멜록시캄)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500480"
+  },
+  {
+   "itemSeq": "201502925",
+   "name": "휴니즈멜록시캄캡슐7.5mg",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502925"
+  },
+  {
+   "itemSeq": "201503642",
+   "name": "멜록캡슐7.5mg(멜록시캄)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503642"
+  },
+  {
+   "itemSeq": "201507776",
+   "name": "멜로빅캡슐7.5mg(멜록시캄)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507776"
+  },
+  {
+   "itemSeq": "201600894",
+   "name": "멜록캄캡슐7.5밀리그램(멜록시캄)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600894"
+  },
+  {
+   "itemSeq": "201601027",
+   "name": "메로빅캡슐15밀리그램(멜록시캄)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601027"
+  },
+  {
+   "itemSeq": "201601085",
+   "name": "이콕스캡슐15밀리그램(멜록시캄)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601085"
+  },
+  {
+   "itemSeq": "201601481",
+   "name": "멜빅캄캡슐7.5밀리그램(멜록시캄)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601481"
+  },
+  {
+   "itemSeq": "201603488",
+   "name": "메로시캡슐7.5밀리그램(멜록시캄)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603488"
+  },
+  {
+   "itemSeq": "201604574",
+   "name": "모아캄시캡슐7.5mg(멜록시캄)",
+   "company": "정우신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604574"
+  },
+  {
+   "itemSeq": "201701501",
+   "name": "모릭스캡슐7.5밀리그램(멜록시캄)",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701501"
+  },
+  {
+   "itemSeq": "201706872",
+   "name": "록캄캡슐(멜록시캄)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706872"
+  },
+  {
+   "itemSeq": "201707312",
+   "name": "아멜록스캡슐7.5밀리그램(멜록시캄)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707312"
+  },
+  {
+   "itemSeq": "201802418",
+   "name": "모비든캡슐(멜록시캄)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802418"
+  },
+  {
+   "itemSeq": "201803847",
+   "name": "멜로캅캡슐7.5밀리그램(멜록시캄)",
+   "company": "일양바이오팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803847"
+  },
+  {
+   "itemSeq": "201804310",
+   "name": "모스캄캡슐(멜록시캄)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804310"
+  },
+  {
+   "itemSeq": "201805357",
+   "name": "메로윈캡슐7.5밀리그램(멜록시캄)",
+   "company": "코스맥스파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805357"
+  },
+  {
+   "itemSeq": "201902343",
+   "name": "모록시캄캡슐(멜록시캄)",
+   "company": "하이플생명과학(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902343"
+  },
+  {
+   "itemSeq": "201902411",
+   "name": "멜록시카캡슐7.5밀리그램(멜록시캄)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902411"
+  },
+  {
+   "itemSeq": "201902872",
+   "name": "멜로딘캡슐(멜록시캄)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902872"
+  },
+  {
+   "itemSeq": "201903234",
+   "name": "멜로그린캡슐7.5밀리그램(멜록시캄)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903234"
+  },
+  {
+   "itemSeq": "201903721",
+   "name": "뉴록시캄캡슐7.5밀리그램(멜록시캄)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903721"
+  },
+  {
+   "itemSeq": "201904589",
+   "name": "멜록트캡슐7.5밀리그램(멜록시캄)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904589"
+  },
+  {
+   "itemSeq": "201904762",
+   "name": "유니캄캡슐7.5밀리그램(멜록시캄)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904762"
+  },
+  {
+   "itemSeq": "201905522",
+   "name": "엔티시캄캡슐7.5밀리그램(멜록시캄)",
+   "company": "(주)셀비온",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905522"
+  },
+  {
+   "itemSeq": "201907166",
+   "name": "아록시캄캡슐7.5밀리그램(멜록시캄)",
+   "company": "(주)아리제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907166"
+  },
+  {
+   "itemSeq": "201908115",
+   "name": "멜록시엠캡슐7.5밀리그램(멜록시캄)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908115"
+  },
+  {
+   "itemSeq": "202000927",
+   "name": "메가록시캄캡슐7.5밀리그램(멜록시캄)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000927"
+  },
+  {
+   "itemSeq": "202001860",
+   "name": "모릭스캡슐15밀리그램(멜록시캄)",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001860"
+  },
+  {
+   "itemSeq": "202004002",
+   "name": "멜로틴캡슐15mg(멜록시캄)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004002"
+  },
+  {
+   "itemSeq": "202003989",
+   "name": "멜로틴캡슐7.5mg(멜록시캄)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "멜록시캄",
+     "amount": "7.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003989"
+  }
+ ]
+}

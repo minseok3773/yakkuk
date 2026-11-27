@@ -1,0 +1,4833 @@
+{
+ "id": "ibuprofen",
+ "query": [
+  "이부프로펜"
+ ],
+ "fetched": "2026-11-27",
+ "total": 238,
+ "kept": 238,
+ "mfdsName": [
+  "이부프로펜",
+  "이부프로펜피코놀",
+  "이부프로펜아르기닌",
+  "이부프로펜나트륨이수화물",
+  "이부프로펜리신"
+ ],
+ "items": [
+  {
+   "itemSeq": "200806694",
+   "name": "스로펜정400mg(이부프로펜)(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806694"
+  },
+  {
+   "itemSeq": "201100501",
+   "name": "칼도롤주사액(이부프로펜)",
+   "company": "(주)한국디비팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100501"
+  },
+  {
+   "itemSeq": "201706379",
+   "name": "아모부로펜주(이부프로펜)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706379"
+  },
+  {
+   "itemSeq": "201904810",
+   "name": "이부펜주(이부프로펜)",
+   "company": "(주)휴메딕스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904810"
+  },
+  {
+   "itemSeq": "201908207",
+   "name": "이부톡톡크림(이부프로펜피코놀)",
+   "company": "주식회사더유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜피코놀",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908207"
+  },
+  {
+   "itemSeq": "202007099",
+   "name": "지엘이부톡크림5%(이부프로펜피코놀)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜피코놀",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007099"
+  },
+  {
+   "itemSeq": "202201485",
+   "name": "이브포프리믹스주(이부프로펜)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201485"
+  },
+  {
+   "itemSeq": "202201732",
+   "name": "아모부로펜프리믹스주(이부프로펜)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201732"
+  },
+  {
+   "itemSeq": "202201731",
+   "name": "이부피펜프리믹스주(이부프로펜)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201731"
+  },
+  {
+   "itemSeq": "202201730",
+   "name": "프리브로펜주(이부프로펜)",
+   "company": "제이더블유생명과학(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201730"
+  },
+  {
+   "itemSeq": "202202311",
+   "name": "알리펜프리믹스주(이부프로펜)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202311"
+  },
+  {
+   "itemSeq": "202202367",
+   "name": "글로펜주(이부프로펜)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202367"
+  },
+  {
+   "itemSeq": "202202348",
+   "name": "삼성이부프로펜프리믹스주",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202348"
+  },
+  {
+   "itemSeq": "202202363",
+   "name": "원부펜프리믹스주(이부프로펜)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202363"
+  },
+  {
+   "itemSeq": "202202366",
+   "name": "이부로펜프리믹스주(이부프로펜)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202366"
+  },
+  {
+   "itemSeq": "202202347",
+   "name": "이부케이주(이부프로펜)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202347"
+  },
+  {
+   "itemSeq": "202202410",
+   "name": "부펜솔주(이부프로펜)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202410"
+  },
+  {
+   "itemSeq": "202202473",
+   "name": "이부텍프리믹스주(이부프로펜)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202473"
+  },
+  {
+   "itemSeq": "202300770",
+   "name": "동광이부프로펜주",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-03-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300770"
+  },
+  {
+   "itemSeq": "202500806",
+   "name": "제이더블유이부프로펜프리믹스주",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500806"
+  },
+  {
+   "itemSeq": "202601080",
+   "name": "이부페인프리믹스주(이부프로펜)",
+   "company": "(주)한국팜비오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601080"
+  },
+  {
+   "itemSeq": "202602078",
+   "name": "넬슨이부프리믹스주(이부프로펜)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602078"
+  },
+  {
+   "itemSeq": "197700120",
+   "name": "부루펜정200밀리그램(이부프로펜)",
+   "company": "삼일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1977-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197700120"
+  },
+  {
+   "itemSeq": "198300343",
+   "name": "부루펜정400밀리그램(이부프로펜)",
+   "company": "삼일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1983-02-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198300343"
+  },
+  {
+   "itemSeq": "198400131",
+   "name": "스코펜정400밀리그램(이부프로펜)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1984-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198400131"
+  },
+  {
+   "itemSeq": "198601920",
+   "name": "어린이부루펜시럽(이부프로펜)",
+   "company": "삼일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "1986-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198601920"
+  },
+  {
+   "itemSeq": "198701124",
+   "name": "오스틴이부프로펜정400밀리그램",
+   "company": "오스틴제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1987-05-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198701124"
+  },
+  {
+   "itemSeq": "198700315",
+   "name": "캐롤시럽(이부프로펜)",
+   "company": "일동제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "2.0",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "1987-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198700315"
+  },
+  {
+   "itemSeq": "198701721",
+   "name": "나르펜정400밀리그램(이부프로펜)(수출명:PANALTab.)",
+   "company": "초당약품공업(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1987-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198701721"
+  },
+  {
+   "itemSeq": "198801657",
+   "name": "대화이부프로펜정400밀리그램(수출명:UPRO400,IBUFEN)",
+   "company": "대화제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1988-02-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198801657"
+  },
+  {
+   "itemSeq": "198800776",
+   "name": "이부펜정400mg(이부프로펜)",
+   "company": "태극제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1988-11-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800776"
+  },
+  {
+   "itemSeq": "198901310",
+   "name": "콜대원키즈이부펜시럽(이부프로펜)",
+   "company": "대원제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "1989-02-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198901310"
+  },
+  {
+   "itemSeq": "198900550",
+   "name": "로그펜정400밀리그람(이부프로펜)(수출용)",
+   "company": "(주)마더스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-03-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900550"
+  },
+  {
+   "itemSeq": "198901915",
+   "name": "신일이부프로펜정400밀리그람(수출명:IFENTab.)",
+   "company": "신일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198901915"
+  },
+  {
+   "itemSeq": "198901710",
+   "name": "이부날시럽(이부프로펜)",
+   "company": "(주)팜젠사이언스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "2",
+     "unit": "그램"
+    },
+    {
+     "name": "이부프로펜",
+     "amount": "2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "1989-10-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198901710"
+  },
+  {
+   "itemSeq": "199001302",
+   "name": "파마이부프로펜정(수출명1:펜스탑정수출명2:유프로정400(UPROTab400))(수출용)",
+   "company": "(주)한국파마",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1990-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199001302"
+  },
+  {
+   "itemSeq": "199100705",
+   "name": "어린이알리펜시럽(이부프로펜)(수출명:이부돌시럽)",
+   "company": "대우제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "1991-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199100705"
+  },
+  {
+   "itemSeq": "199102092",
+   "name": "다이야펜정400밀리그램(이부프로펜)",
+   "company": "미래바이오제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1991-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199102092"
+  },
+  {
+   "itemSeq": "199102476",
+   "name": "하원이부프로펜정400mg",
+   "company": "(주)하원제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1991-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199102476"
+  },
+  {
+   "itemSeq": "199302515",
+   "name": "리오루펜정400밀리그람(이부프로펜)",
+   "company": "알파제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1993-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199302515"
+  },
+  {
+   "itemSeq": "199302363",
+   "name": "이부서스펜시럽(이부프로펜)",
+   "company": "한미약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "1993-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199302363"
+  },
+  {
+   "itemSeq": "199300224",
+   "name": "베비잘시럽(이부프로펜)",
+   "company": "(주)종근당",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "1993-11-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199300224"
+  },
+  {
+   "itemSeq": "199402354",
+   "name": "코러스이부프로펜캡슐(수출용)",
+   "company": "한국코러스(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1994-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199402354"
+  },
+  {
+   "itemSeq": "199502575",
+   "name": "삼익이부프로펜정",
+   "company": "삼익제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1995-02-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199502575"
+  },
+  {
+   "itemSeq": "199501694",
+   "name": "이바펜400밀리그람정(이부프로펜)",
+   "company": "하이플생명과학(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1995-07-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501694"
+  },
+  {
+   "itemSeq": "199501735",
+   "name": "넬슨이부프로펜정200밀리그램(이부프로펜)",
+   "company": "한국넬슨제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1995-10-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501735"
+  },
+  {
+   "itemSeq": "199501736",
+   "name": "넬슨이부프로펜정400밀리그램(이부프로펜)",
+   "company": "한국넬슨제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1995-10-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501736"
+  },
+  {
+   "itemSeq": "199602438",
+   "name": "조아이부프로펜400밀리그람정(수출용)",
+   "company": "조아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1996-07-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199602438"
+  },
+  {
+   "itemSeq": "199703357",
+   "name": "코러스이부프로펜정400밀리그람",
+   "company": "한국코러스(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이부프로펜",
+     "amount": "400.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-04-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199703357"
+  },
+  {
+   "itemSeq": "199701416",
+   "name": "리도펜연질캡슐(이부프로펜)",
+   "company": "(주)메디카코리아",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-11-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701416"
+  },
+  {
+   "itemSeq": "199703387",
+   "name": "스로펜정(이부프로펜) 수출명:Korus Ibuprofen Tab.",
+   "company": "한국코러스(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이부프로펜",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199703387"
+  },
+  {
+   "itemSeq": "199804309",
+   "name": "알로판400mg정(이부프로펜)",
+   "company": "(주)넥스팜코리아",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199804309"
+  },
+  {
+   "itemSeq": "199901375",
+   "name": "아루펜정400밀리그람(이부프로펜)",
+   "company": "삼남제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901375"
+  },
+  {
+   "itemSeq": "199900511",
+   "name": "대웅이부펜시럽(이부프로펜)(수출명:SOTSTOPsyrup)",
+   "company": "(주)대웅제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "2",
+     "unit": "그램"
+    },
+    {
+     "name": "이부프로펜",
+     "amount": "2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "1999-05-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900511"
+  },
+  {
+   "itemSeq": "200001172",
+   "name": "디퓨탭서방정(이부프로펜)",
+   "company": "동성제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "600.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001172"
+  },
+  {
+   "itemSeq": "200003489",
+   "name": "다펜캡슐(이부프로펜)(수출용)",
+   "company": "조아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-11-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200003489"
+  },
+  {
+   "itemSeq": "200101233",
+   "name": "동구이부프로펜정400밀리그람(수출용)",
+   "company": "(주)동구바이오제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101233"
+  },
+  {
+   "itemSeq": "200101234",
+   "name": "동구이부프로펜정600mg(수출용)",
+   "company": "(주)동구바이오제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "600",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101234"
+  },
+  {
+   "itemSeq": "200109769",
+   "name": "애드빌정(이부프로펜)",
+   "company": "헤일리온코리아주식회사",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109769"
+  },
+  {
+   "itemSeq": "200301809",
+   "name": "스피드펜연질캡슐200밀리그램(이부프로펜)",
+   "company": "한미약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301809"
+  },
+  {
+   "itemSeq": "200400463",
+   "name": "이지엔6애니연질캡슐(이부프로펜)",
+   "company": "(주)대웅제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400463"
+  },
+  {
+   "itemSeq": "200610785",
+   "name": "애드빌리퀴겔연질캡슐(이부프로펜)",
+   "company": "헤일리온코리아주식회사",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200610785"
+  },
+  {
+   "itemSeq": "200606413",
+   "name": "이브듀오시럽(이부프로펜)",
+   "company": "삼아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "4",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2006-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606413"
+  },
+  {
+   "itemSeq": "200703429",
+   "name": "캐롤에프정(이부프로펜아르기닌)",
+   "company": "일동제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜아르기닌",
+     "amount": "368.9",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703429"
+  },
+  {
+   "itemSeq": "200704500",
+   "name": "유니온이부프로펜정200mg(수출용)",
+   "company": "부광유니파마(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704500"
+  },
+  {
+   "itemSeq": "200901147",
+   "name": "아이비에프정(이부프로펜)",
+   "company": "한솔신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901147"
+  },
+  {
+   "itemSeq": "200901517",
+   "name": "맥펜시럽(이부프로펜)(새콤한오렌지맛,감귤향)",
+   "company": "맥널티제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "2",
+     "unit": "그램"
+    },
+    {
+     "name": "이부프로펜",
+     "amount": "2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2009-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901517"
+  },
+  {
+   "itemSeq": "200901979",
+   "name": "제뉴원이부펜시럽(이부프로펜)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "2.00",
+     "unit": "그램"
+    },
+    {
+     "name": "이부프로펜",
+     "amount": "2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2009-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901979"
+  },
+  {
+   "itemSeq": "201005773",
+   "name": "디큐펜프로연질캡슐(이부프로펜)",
+   "company": "(주)알피바이오",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201005773"
+  },
+  {
+   "itemSeq": "201007481",
+   "name": "다우펜정(수출용)(수출명 : DAUFEN tablet)",
+   "company": "(주)다산제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-12-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007481"
+  },
+  {
+   "itemSeq": "201103366",
+   "name": "한솔이부프로펜연질캡슐",
+   "company": "한솔신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103366"
+  },
+  {
+   "itemSeq": "201103627",
+   "name": "미그펜400연질캡슐(이부프로펜)",
+   "company": "(주)알피바이오",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이부프로펜",
+     "amount": "400.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103627"
+  },
+  {
+   "itemSeq": "201103628",
+   "name": "스피딕400연질캡슐(이부프로펜)",
+   "company": "광동제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103628"
+  },
+  {
+   "itemSeq": "201103928",
+   "name": "페데아주(이부프로펜)",
+   "company": "(주)삼오제약",
+   "type": "전문의약품(희귀)",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103928"
+  },
+  {
+   "itemSeq": "201105016",
+   "name": "브레핀에스연질캡슐(이부프로펜)",
+   "company": "제이더블유중외제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-08-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201105016"
+  },
+  {
+   "itemSeq": "201110120",
+   "name": "트리스펜연질캡슐(이부프로펜)",
+   "company": "동화약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-11-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110120"
+  },
+  {
+   "itemSeq": "201308385",
+   "name": "이부로엔연질캡슐(이부프로펜)",
+   "company": "에스케이케미칼(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308385"
+  },
+  {
+   "itemSeq": "201309779",
+   "name": "동구이부프로펜연질캡슐200mg(수출용)",
+   "company": "(주)동구바이오제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309779"
+  },
+  {
+   "itemSeq": "201403380",
+   "name": "페인엔젤이부연질캡슐(이부프로펜)",
+   "company": "제이더블유중외제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403380"
+  },
+  {
+   "itemSeq": "201403677",
+   "name": "코리투살에프시럽(이부프로펜)",
+   "company": "부광약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2014-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403677"
+  },
+  {
+   "itemSeq": "201405818",
+   "name": "비알이부펜시럽(이부프로펜)",
+   "company": "(주)보령바이오파마",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2014-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405818"
+  },
+  {
+   "itemSeq": "201500197",
+   "name": "키즈앤펜시럽(이부프로펜)",
+   "company": "광동제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "2.0",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2015-01-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500197"
+  },
+  {
+   "itemSeq": "201500673",
+   "name": "다펜-큐연질캡슐(이부프로펜)",
+   "company": "조아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500673"
+  },
+  {
+   "itemSeq": "201505085",
+   "name": "대한이부프로펜주사(이부프로펜)(수출용)",
+   "company": "대한약품공업(주)",
+   "type": "전문의약품(희귀)",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505085"
+  },
+  {
+   "itemSeq": "201602703",
+   "name": "탁센400이부프로펜연질캡슐",
+   "company": "(주)녹십자",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602703"
+  },
+  {
+   "itemSeq": "201604402",
+   "name": "챔프이부펜시럽(이부프로펜)",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2016-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604402"
+  },
+  {
+   "itemSeq": "201606897",
+   "name": "이부쎈에프정(이부프로펜아르기닌)",
+   "company": "(주)마더스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜아르기닌",
+     "amount": "368.9",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-12-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606897"
+  },
+  {
+   "itemSeq": "201607229",
+   "name": "이부뉴펜연질캡슐(이부프로펜)",
+   "company": "동방에프티엘(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-12-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201607229"
+  },
+  {
+   "itemSeq": "201700729",
+   "name": "이부로엔에스연질캡슐(이부프로펜)",
+   "company": "코스맥스파마(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-02-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700729"
+  },
+  {
+   "itemSeq": "201701140",
+   "name": "프리스펜연질캡슐(이부프로펜)",
+   "company": "코스맥스파마(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701140"
+  },
+  {
+   "itemSeq": "201705259",
+   "name": "일펜정(이부프로펜리신)",
+   "company": "일양약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜리신",
+     "amount": "684",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705259"
+  },
+  {
+   "itemSeq": "201802556",
+   "name": "엘씨펜연질캡슐400mg(이부프로펜)",
+   "company": "구주제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802556"
+  },
+  {
+   "itemSeq": "201802728",
+   "name": "알코펜연질캡슐(이부프로펜)",
+   "company": "알리코제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802728"
+  },
+  {
+   "itemSeq": "201803371",
+   "name": "이브원큐연질캡슐(이부프로펜)",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803371"
+  },
+  {
+   "itemSeq": "201804577",
+   "name": "참페인이부연질캡슐(이부프로펜)",
+   "company": "(주)필인터내셔널",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804577"
+  },
+  {
+   "itemSeq": "201904193",
+   "name": "파인큐이부펜시럽(이부프로펜)",
+   "company": "대원바이오텍주식회사",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2019-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904193"
+  },
+  {
+   "itemSeq": "201906059",
+   "name": "팜페인이부연질캡슐(이부프로펜)",
+   "company": "이연제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906059"
+  },
+  {
+   "itemSeq": "201907485",
+   "name": "큐센400이부프로펜연질캡슐",
+   "company": "삼성제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907485"
+  },
+  {
+   "itemSeq": "202000773",
+   "name": "미가펜후레쉬연질캡슐(이부프로펜)",
+   "company": "(주)팜젠사이언스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000773"
+  },
+  {
+   "itemSeq": "202003414",
+   "name": "타타날시럽(이부프로펜)(수출용)",
+   "company": "안국약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2020-05-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003414"
+  },
+  {
+   "itemSeq": "202003662",
+   "name": "이브원큐에스연질캡슐(이부프로펜)",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003662"
+  },
+  {
+   "itemSeq": "202004710",
+   "name": "에스빌이부연질캡슐200밀리그램(이부프로펜)",
+   "company": "(주)킵스바이오파마",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004710"
+  },
+  {
+   "itemSeq": "202005496",
+   "name": "루피엔연질캡슐(이부프로펜)",
+   "company": "(주)바스칸바이오제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005496"
+  },
+  {
+   "itemSeq": "202006761",
+   "name": "이부스타플라스타(이부프로펜)",
+   "company": "신신제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "136.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-10-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006761"
+  },
+  {
+   "itemSeq": "202104481",
+   "name": "이프로탑플라스타(이부프로펜)",
+   "company": "대화제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "136",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이부프로펜",
+     "amount": "68",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104481"
+  },
+  {
+   "itemSeq": "202201233",
+   "name": "트라스트이부플라스타(이부프로펜)",
+   "company": "에스케이케미칼(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "136",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201233"
+  },
+  {
+   "itemSeq": "202203274",
+   "name": "맨담이부쿨플라스타(이부프로펜)",
+   "company": "(주)보령",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "136.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203274"
+  },
+  {
+   "itemSeq": "202203304",
+   "name": "이부콜벤연질캡슐400밀리그램(이부프로펜)",
+   "company": "명문제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-08-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203304"
+  },
+  {
+   "itemSeq": "202204696",
+   "name": "이부콜벤정200밀리그램(이부프로펜)",
+   "company": "명문제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204696"
+  },
+  {
+   "itemSeq": "202300213",
+   "name": "이큐펜키즈아이시럽(이부프로펜)",
+   "company": "진양제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2023-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300213"
+  },
+  {
+   "itemSeq": "202300232",
+   "name": "페인에리퀴드연질캡슐(이부프로펜)",
+   "company": "경방신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300232"
+  },
+  {
+   "itemSeq": "202300940",
+   "name": "스트롱샷연질캡슐(이부프로펜)",
+   "company": "경방신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300940"
+  },
+  {
+   "itemSeq": "202301519",
+   "name": "타세놀이부연질캡슐400밀리그램(이부프로펜)",
+   "company": "부광약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301519"
+  },
+  {
+   "itemSeq": "202302051",
+   "name": "건일이부프로펜연질캡슐400밀리그램",
+   "company": "건일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-07-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302051"
+  },
+  {
+   "itemSeq": "202302745",
+   "name": "이부팝플라스타(이부프로펜)",
+   "company": "(주)씨엠지제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "136.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302745"
+  },
+  {
+   "itemSeq": "202400356",
+   "name": "필이부프로펜연질캡슐400밀리그램",
+   "company": "(주)필인터내셔널",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-02-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400356"
+  },
+  {
+   "itemSeq": "202400730",
+   "name": "이브400원큐에스연질캡슐(이부프로펜)",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400730"
+  },
+  {
+   "itemSeq": "202401305",
+   "name": "이부센연질캡슐(이부프로펜)",
+   "company": "(주)씨엠지제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401305"
+  },
+  {
+   "itemSeq": "202401447",
+   "name": "안티푸라민빅파워플라스타(이부프로펜)",
+   "company": "(주)유한양행",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "136.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401447"
+  },
+  {
+   "itemSeq": "202401488",
+   "name": "마이펜이부400연질캡슐(이부프로펜)",
+   "company": "코오롱제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401488"
+  },
+  {
+   "itemSeq": "202401945",
+   "name": "원광이부프로펜정400밀리그램(이부프로펜)",
+   "company": "원광제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-08-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401945"
+  },
+  {
+   "itemSeq": "202402790",
+   "name": "콜록키즈이부펜시럽(이부프로펜)",
+   "company": "(주)녹십자",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2024-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402790"
+  },
+  {
+   "itemSeq": "202502566",
+   "name": "확센이부연질캡슐(이부프로펜)",
+   "company": "오스틴제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502566"
+  },
+  {
+   "itemSeq": "202603294",
+   "name": "디비펜400연질캡슐(이부프로펜)",
+   "company": "동방에프티엘(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603294"
+  },
+  {
+   "itemSeq": "199907257",
+   "name": "코노펜캡슐",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "코데인인산염수화물",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아세트아미노펜",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199907257"
+  },
+  {
+   "itemSeq": "200210719",
+   "name": "마이폴캡슐(코데인,이부프로펜,아세트아미노펜)",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "250",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "코데인인산염수화물",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200210719"
+  },
+  {
+   "itemSeq": "202106243",
+   "name": "맥시제식주",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이부프로펜나트륨이수화물",
+     "amount": "3.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106243"
+  },
+  {
+   "itemSeq": "200201190",
+   "name": "나덴정(수출용)",
+   "company": "(주)다림바이오텍",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아르기닌",
+     "amount": "185.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-03-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201190"
+  },
+  {
+   "itemSeq": "200201239",
+   "name": "아르펜정",
+   "company": "경남제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아르기닌",
+     "amount": "185",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201239"
+  },
+  {
+   "itemSeq": "200200931",
+   "name": "통크린정(수출용)",
+   "company": "명인제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아르기닌",
+     "amount": "185",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-09-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200931"
+  },
+  {
+   "itemSeq": "200301315",
+   "name": "메디펜에프정(수출용)",
+   "company": "(주)셀릭스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-아르기닌",
+     "amount": "185",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-02-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301315"
+  },
+  {
+   "itemSeq": "200301135",
+   "name": "푸리펜정(수출용)",
+   "company": "삼남제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아르기닌",
+     "amount": "185.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-06-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301135"
+  },
+  {
+   "itemSeq": "200902301",
+   "name": "그날엔정",
+   "company": "경동제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "알릴이소프로필아세틸우레아",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카페인무수물",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902301"
+  },
+  {
+   "itemSeq": "200906330",
+   "name": "그날엔큐정",
+   "company": "경동제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "알릴이소프로필아세틸우레아",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카페인무수물",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "산화마그네슘",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-08-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906330"
+  },
+  {
+   "itemSeq": "201110747",
+   "name": "이부플러스생정",
+   "company": "정우신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "감초",
+     "amount": "170",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "육계",
+     "amount": "170",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "작약",
+     "amount": "170",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "생강",
+     "amount": "170",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110747"
+  },
+  {
+   "itemSeq": "201200252",
+   "name": "게보린에프정(수출용)",
+   "company": "삼진제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "티아민질산염3배산",
+     "amount": "24.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리보플라빈3배산",
+     "amount": "12.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-01-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200252"
+  },
+  {
+   "itemSeq": "201300116",
+   "name": "이브큐레이디연질캡슐",
+   "company": "(주)알피바이오",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201300116"
+  },
+  {
+   "itemSeq": "201301235",
+   "name": "파인펜정",
+   "company": "경남제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "감초",
+     "amount": "170",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "육계",
+     "amount": "170",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "작약",
+     "amount": "170",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "생강",
+     "amount": "170",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201301235"
+  },
+  {
+   "itemSeq": "201301591",
+   "name": "이지엔6이브연질캡슐",
+   "company": "(주)대웅제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201301591"
+  },
+  {
+   "itemSeq": "201400030",
+   "name": "펜다나정",
+   "company": "신일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "작약가루",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "감초가루",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400030"
+  },
+  {
+   "itemSeq": "201502752",
+   "name": "이부프렌드연질캡슐",
+   "company": "부광약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502752"
+  },
+  {
+   "itemSeq": "201502753",
+   "name": "이부프렌드프로연질캡슐",
+   "company": "부광약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "50.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502753"
+  },
+  {
+   "itemSeq": "201601927",
+   "name": "클리어틴이부더블스팟톡크림",
+   "company": "지엘팜텍(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜피코놀",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601927"
+  },
+  {
+   "itemSeq": "201604489",
+   "name": "멘소래담딥릴리프겔",
+   "company": "주식회사제뉴원사이언스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "L-멘톨",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이부프로펜",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604489"
+  },
+  {
+   "itemSeq": "201702297",
+   "name": "이브터치연질캡슐",
+   "company": "일양바이오팜(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702297"
+  },
+  {
+   "itemSeq": "201704734",
+   "name": "이지톡크림",
+   "company": "시믹씨엠오코리아주식회사",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜피코놀",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "3.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704734"
+  },
+  {
+   "itemSeq": "201707159",
+   "name": "큐아크네크림",
+   "company": "광동제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜피코놀",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "3.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707159"
+  },
+  {
+   "itemSeq": "201707523",
+   "name": "이브더블샷연질캡슐",
+   "company": "지엘팜텍(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707523"
+  },
+  {
+   "itemSeq": "201708080",
+   "name": "레이디퀸연질캡슐",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708080"
+  },
+  {
+   "itemSeq": "201801498",
+   "name": "레이디원연질캡슐",
+   "company": "제일헬스사이언스(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801498"
+  },
+  {
+   "itemSeq": "201801688",
+   "name": "이부페노정",
+   "company": "(주)아이월드제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "감초",
+     "amount": "170.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "육계",
+     "amount": "170.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "작약",
+     "amount": "170.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "생강",
+     "amount": "170.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이부프로펜",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801688"
+  },
+  {
+   "itemSeq": "201804671",
+   "name": "페어아크네크림",
+   "company": "(주)제뉴파마",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜피코놀",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "3.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804671"
+  },
+  {
+   "itemSeq": "201901721",
+   "name": "애크논크림",
+   "company": "지엘팜텍(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜피코놀",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901721"
+  },
+  {
+   "itemSeq": "201908295",
+   "name": "게보린소프트연질캡슐",
+   "company": "삼진제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "250.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908295"
+  },
+  {
+   "itemSeq": "201908533",
+   "name": "탁센엠지연질캡슐",
+   "company": "(주)녹십자",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메타규산알루민산마그네슘",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908533"
+  },
+  {
+   "itemSeq": "201908614",
+   "name": "미가펜이브연질캡슐",
+   "company": "(주)팜젠사이언스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908614"
+  },
+  {
+   "itemSeq": "202005006",
+   "name": "페인엔젤레이디연질캡슐",
+   "company": "제이더블유중외제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005006"
+  },
+  {
+   "itemSeq": "202007294",
+   "name": "게보린릴랙스연질캡슐",
+   "company": "삼진제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "산화마그네슘",
+     "amount": "80.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007294"
+  },
+  {
+   "itemSeq": "202007707",
+   "name": "아크스팟크림",
+   "company": "시믹씨엠오코리아주식회사",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜피코놀",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007707"
+  },
+  {
+   "itemSeq": "202007900",
+   "name": "큐아크네플러스크림",
+   "company": "광동제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜피코놀",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-11-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007900"
+  },
+  {
+   "itemSeq": "202100359",
+   "name": "디큐펜프로나이트연질캡슐",
+   "company": "(주)알피바이오",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100359"
+  },
+  {
+   "itemSeq": "202102069",
+   "name": "이지페인릴리프연질캡슐",
+   "company": "(주)알피바이오",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "24.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102069"
+  },
+  {
+   "itemSeq": "202107327",
+   "name": "탁센레이디연질캡슐",
+   "company": "(주)녹십자",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "산화마그네슘",
+     "amount": "83.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107327"
+  },
+  {
+   "itemSeq": "202107347",
+   "name": "그날엔더블유연질캡슐",
+   "company": "경동제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "산화마그네슘",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리보플라빈",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107347"
+  },
+  {
+   "itemSeq": "202200138",
+   "name": "페인플람겔(수출용)",
+   "company": "시믹씨엠오코리아주식회사",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "L-멘톨",
+     "amount": "30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200138"
+  },
+  {
+   "itemSeq": "202200413",
+   "name": "원펜정",
+   "company": "원광제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "감초",
+     "amount": "170.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "육계",
+     "amount": "170.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "작약",
+     "amount": "170.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "생강",
+     "amount": "170.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이부프로펜",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200413"
+  },
+  {
+   "itemSeq": "202200708",
+   "name": "도나펜알파연질캡슐",
+   "company": "(주)서흥",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "250",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-02-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200708"
+  },
+  {
+   "itemSeq": "202200707",
+   "name": "도나펜에프연질캡슐",
+   "company": "(주)서흥",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-02-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200707"
+  },
+  {
+   "itemSeq": "202201645",
+   "name": "도나펜엠연질캡슐",
+   "company": "(주)서흥",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메타규산알루민산마그네슘",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201645"
+  },
+  {
+   "itemSeq": "202202422",
+   "name": "유한이브펜연질캡슐",
+   "company": "(주)유한양행",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메타규산알루민산마그네슘",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202422"
+  },
+  {
+   "itemSeq": "202203060",
+   "name": "이부브롬연질캡슐",
+   "company": "태극제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203060"
+  },
+  {
+   "itemSeq": "202203168",
+   "name": "아크클리어크림",
+   "company": "태극제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜피코놀",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-08-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203168"
+  },
+  {
+   "itemSeq": "202204213",
+   "name": "이지엔6나이트연질캡슐",
+   "company": "(주)대웅제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204213"
+  },
+  {
+   "itemSeq": "202300495",
+   "name": "스피드펜이지연질캡슐",
+   "company": "한미약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "산화마그네슘",
+     "amount": "83.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300495"
+  },
+  {
+   "itemSeq": "202301159",
+   "name": "이브뉴펜에스연질캡슐",
+   "company": "동방에프티엘(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-04-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301159"
+  },
+  {
+   "itemSeq": "202301293",
+   "name": "이프펜에프정",
+   "company": "한국신텍스제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "푸르설티아민",
+     "amount": "8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301293"
+  },
+  {
+   "itemSeq": "202301573",
+   "name": "이프펜정",
+   "company": "한국신텍스제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카페인무수물",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301573"
+  },
+  {
+   "itemSeq": "202301724",
+   "name": "이프펜더블유정",
+   "company": "한국신텍스제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301724"
+  },
+  {
+   "itemSeq": "202301734",
+   "name": "이프펜더블유라이트정",
+   "company": "한국신텍스제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301734"
+  },
+  {
+   "itemSeq": "202302160",
+   "name": "센스팟크림",
+   "company": "동국제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜피코놀",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-07-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302160"
+  },
+  {
+   "itemSeq": "202302993",
+   "name": "이지엔6이브정",
+   "company": "(주)대웅제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302993"
+  },
+  {
+   "itemSeq": "202303276",
+   "name": "다펜나이트연질캡슐",
+   "company": "조아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디펜히드라민염산염",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-12-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303276"
+  },
+  {
+   "itemSeq": "202400572",
+   "name": "퓨어펜연질캡슐",
+   "company": "경남제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "산화마그네슘",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리보플라빈",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400572"
+  },
+  {
+   "itemSeq": "202401092",
+   "name": "이부센이브연질캡슐",
+   "company": "(주)씨엠지제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401092"
+  },
+  {
+   "itemSeq": "202401329",
+   "name": "디렉스정",
+   "company": "동성제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "작약엑스산",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "감초엑스산",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401329"
+  },
+  {
+   "itemSeq": "202402013",
+   "name": "이지클리어크림",
+   "company": "(주)대웅제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜피코놀",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402013"
+  },
+  {
+   "itemSeq": "202402426",
+   "name": "도나펜에이연질캡슐",
+   "company": "(주)서흥",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "산화마그네슘",
+     "amount": "83",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-10-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402426"
+  },
+  {
+   "itemSeq": "202402670",
+   "name": "루피엔이브연질캡슐",
+   "company": "(주)바스칸바이오제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "250",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-11-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402670"
+  },
+  {
+   "itemSeq": "202500001",
+   "name": "이지노즈정",
+   "company": "(주)인트로바이오파마",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-01-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500001"
+  },
+  {
+   "itemSeq": "202501361",
+   "name": "모아펜큐연질캡슐",
+   "company": "코스맥스파마(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501361"
+  },
+  {
+   "itemSeq": "202501655",
+   "name": "도나펜하이연질캡슐",
+   "company": "(주)서흥",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501655"
+  },
+  {
+   "itemSeq": "202501849",
+   "name": "맥시부펜노즈연질캡슐",
+   "company": "한미약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르페니라민말레산염",
+     "amount": "1.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "브롬헥신염산염",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501849"
+  },
+  {
+   "itemSeq": "202502046",
+   "name": "맥시부펜코프연질캡슐",
+   "company": "한미약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "41.66",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "브롬헥신염산염",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502046"
+  },
+  {
+   "itemSeq": "202502043",
+   "name": "맥시부펜콜드연질캡슐",
+   "company": "한미약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "41.66",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르페니라민말레산염",
+     "amount": "1.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502043"
+  },
+  {
+   "itemSeq": "202502279",
+   "name": "아크덤클리어크림",
+   "company": "신신제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜피코놀",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502279"
+  },
+  {
+   "itemSeq": "202502387",
+   "name": "콜록프로노즈연질캡슐",
+   "company": "(주)녹십자",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르페니라민말레산염",
+     "amount": "1.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502387"
+  },
+  {
+   "itemSeq": "202502386",
+   "name": "콜록프로연질캡슐",
+   "company": "(주)녹십자",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "27.78",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "5.34",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르페니라민말레산염",
+     "amount": "1.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "브롬헥신염산염",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502386"
+  },
+  {
+   "itemSeq": "202502392",
+   "name": "콜록프로코프연질캡슐",
+   "company": "(주)녹십자",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "41.66",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "브롬헥신염산염",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502392"
+  },
+  {
+   "itemSeq": "202502420",
+   "name": "판피린타임이부노즈시럽",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카페인무수물",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "18.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르페니라민말레산염",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502420"
+  },
+  {
+   "itemSeq": "202502602",
+   "name": "판피린타임이부코프시럽",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카페인무수물",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "18.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "83.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-10-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502602"
+  },
+  {
+   "itemSeq": "202502603",
+   "name": "판피린타임이부콜드시럽",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카페인무수물",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "30.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "18.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르페니라민말레산염",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "83.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-10-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502603"
+  },
+  {
+   "itemSeq": "202502952",
+   "name": "콜드프로펜노즈연질캡슐",
+   "company": "동국제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르페니라민말레산염",
+     "amount": "1.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502952"
+  },
+  {
+   "itemSeq": "202502953",
+   "name": "파워레티코연질캡슐",
+   "company": "(주)서흥",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르페니라민말레산염",
+     "amount": "1.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "21",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502953"
+  },
+  {
+   "itemSeq": "202502969",
+   "name": "콜드프로펜연질캡슐",
+   "company": "동국제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "27.78",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "5.34",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르페니라민말레산염",
+     "amount": "1.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "브롬헥신염산염",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502969"
+  },
+  {
+   "itemSeq": "202502970",
+   "name": "콜드프로펜코프연질캡슐",
+   "company": "동국제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "41.66",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "브롬헥신염산염",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502970"
+  },
+  {
+   "itemSeq": "202502974",
+   "name": "파워레티코프연질캡슐",
+   "company": "(주)서흥",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "41.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502974"
+  },
+  {
+   "itemSeq": "202502975",
+   "name": "파워레티콜연질캡슐",
+   "company": "(주)서흥",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르페니라민말레산염",
+     "amount": "1.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "41.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502975"
+  },
+  {
+   "itemSeq": "202503021",
+   "name": "대원콜이부코프연질캡슐",
+   "company": "대원제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "41.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503021"
+  },
+  {
+   "itemSeq": "202503022",
+   "name": "대원콜이부콜드연질캡슐",
+   "company": "대원제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르페니라민말레산염",
+     "amount": "1.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "41.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503022"
+  },
+  {
+   "itemSeq": "202503123",
+   "name": "대원콜이부노즈연질캡슐",
+   "company": "대원제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르페니라민말레산염",
+     "amount": "1.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "21",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503123"
+  },
+  {
+   "itemSeq": "202503228",
+   "name": "이브듀얼연질캡슐",
+   "company": "(주)알피바이오",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "산화마그네슘",
+     "amount": "83.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-12-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503228"
+  },
+  {
+   "itemSeq": "202503227",
+   "name": "이브비듀얼연질캡슐",
+   "company": "(주)알피바이오",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리보플라빈",
+     "amount": "2.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "산화마그네슘",
+     "amount": "50.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-12-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503227"
+  },
+  {
+   "itemSeq": "202503366",
+   "name": "이부캐치콜드연질캡슐",
+   "company": "신일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "27.78",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "5.34",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르페니라민말레산염",
+     "amount": "1.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "브롬헥신염산염",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503366"
+  },
+  {
+   "itemSeq": "202503404",
+   "name": "케어아크네크림",
+   "company": "(주)다산제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜피코놀",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503404"
+  },
+  {
+   "itemSeq": "202600048",
+   "name": "이부캐치코프연질캡슐",
+   "company": "신일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "41.66",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "브롬헥신염산염",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-01-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600048"
+  },
+  {
+   "itemSeq": "202600444",
+   "name": "바로온노즈연질캡슐",
+   "company": "씨에이치디제약주식회사",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르페니라민말레산염",
+     "amount": "1.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "21",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600444"
+  },
+  {
+   "itemSeq": "202600875",
+   "name": "아크젠크림",
+   "company": "(주)인트로바이오파마",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜피코놀",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600875"
+  },
+  {
+   "itemSeq": "202600938",
+   "name": "아스킨크림",
+   "company": "(주)메디카코리아",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜피코놀",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600938"
+  },
+  {
+   "itemSeq": "202600933",
+   "name": "파마티크클레어애크크림",
+   "company": "아주약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜피코놀",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600933"
+  },
+  {
+   "itemSeq": "202601010",
+   "name": "바로온콜드연질캡슐",
+   "company": "씨에이치디제약주식회사",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르페니라민말레산염",
+     "amount": "1.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "41.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601010"
+  },
+  {
+   "itemSeq": "202601042",
+   "name": "이브쎈듀얼연질캡슐",
+   "company": "(주)알피바이오",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "400.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "산화마그네슘",
+     "amount": "80.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601042"
+  },
+  {
+   "itemSeq": "202601073",
+   "name": "바로온코프연질캡슐",
+   "company": "씨에이치디제약주식회사",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "41.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601073"
+  },
+  {
+   "itemSeq": "202601089",
+   "name": "모드콜이부노즈연질캡슐",
+   "company": "(주)종근당",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "15.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르페니라민말레산염",
+     "amount": "1.250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601089"
+  },
+  {
+   "itemSeq": "202601208",
+   "name": "모드콜이부콜드연질캡슐",
+   "company": "(주)종근당",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "41.6",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르페니라민말레산염",
+     "amount": "1.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "브롬헥신염산염",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601208"
+  },
+  {
+   "itemSeq": "202601272",
+   "name": "모드콜이부코프연질캡슐",
+   "company": "(주)종근당",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "dl-메틸에페드린염산염",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "브롬헥신염산염",
+     "amount": "2.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "41.600",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601272"
+  },
+  {
+   "itemSeq": "202601603",
+   "name": "아크모크림",
+   "company": "신일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜피코놀",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-06-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601603"
+  },
+  {
+   "itemSeq": "202601653",
+   "name": "포에브밸런스연질캡슐",
+   "company": "(주)알피바이오",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "산화마그네슘",
+     "amount": "83.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "건조수산화알루미늄 겔",
+     "amount": "66.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601653"
+  },
+  {
+   "itemSeq": "202601979",
+   "name": "파인스피드연질캡슐",
+   "company": "(주)알피바이오",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메타규산알루민산마그네슘",
+     "amount": "100.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601979"
+  },
+  {
+   "itemSeq": "202602034",
+   "name": "루나원큐시럽",
+   "company": "동아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "산화마그네슘",
+     "amount": "83",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602034"
+  },
+  {
+   "itemSeq": "202602077",
+   "name": "태극파워프로펜정",
+   "company": "태극제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "감초가루",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "작약가루",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "산화마그네슘",
+     "amount": "80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602077"
+  },
+  {
+   "itemSeq": "202602160",
+   "name": "액티플루콜드연질캡슐",
+   "company": "삼일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르페니라민말레산염",
+     "amount": "1.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "슈도에페드린염산염",
+     "amount": "15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "41.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602160"
+  },
+  {
+   "itemSeq": "202602225",
+   "name": "이브싹트리플정",
+   "company": "(주)시어스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "작약 가루",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "감초 가루",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602225"
+  },
+  {
+   "itemSeq": "202602238",
+   "name": "액티플루코프연질캡슐",
+   "company": "삼일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "DL-메틸에페드린염산염",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "덱스트로메토르판브롬화수소산염수화물",
+     "amount": "8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "구아이페네신",
+     "amount": "41.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-08-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602238"
+  },
+  {
+   "itemSeq": "202602945",
+   "name": "케이펜이브연질캡슐",
+   "company": "코스맥스파마(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602945"
+  },
+  {
+   "itemSeq": "202603242",
+   "name": "도나펜연질캡슐",
+   "company": "(주)서흥",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "파마브롬",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603242"
+  },
+  {
+   "itemSeq": "202603256",
+   "name": "일펜싹정",
+   "company": "일양약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "작약 가루",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "감초 가루",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603256"
+  },
+  {
+   "itemSeq": "202603287",
+   "name": "멀티싹리렉스정",
+   "company": "(주)한풍제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "생강 엑스산",
+     "amount": "11.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "감초 엑스산",
+     "amount": "168.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "작약 엑스산",
+     "amount": "168.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "벤포티아민",
+     "amount": "4.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603287"
+  },
+  {
+   "itemSeq": "202603507",
+   "name": "애클리논크림",
+   "company": "메딕스제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "이부프로펜피코놀",
+     "amount": "30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "이소프로필메틸페놀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-11-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603507"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "id": "bromazepam",
+ "query": [
+  "브로마제팜"
+ ],
+ "fetched": "2026-11-27",
+ "total": 2,
+ "kept": 2,
+ "mfdsName": [
+  "브로마제팜"
+ ],
+ "items": [
+  {
+   "itemSeq": "199604962",
+   "name": "명인브로마제팜정3밀리그램",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "브로마제팜",
+     "amount": "3.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1996-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199604962"
+  },
+  {
+   "itemSeq": "200308540",
+   "name": "로지팜정3밀리그람(브로마제팜), 브라제팜정3밀리그람(브로마제팜), 렉소만정3밀리그람(브로마제팜)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "브로마제팜",
+     "amount": "3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308540"
+  }
+ ]
+}

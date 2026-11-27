@@ -1,0 +1,2100 @@
+{
+ "id": "rivaroxaban",
+ "query": [
+  "리바록사반"
+ ],
+ "fetched": "2026-11-27",
+ "total": 139,
+ "kept": 139,
+ "mfdsName": [
+  "리바록사반(미분화)",
+  "리바록사반"
+ ],
+ "items": [
+  {
+   "itemSeq": "200902650",
+   "name": "자렐토정10밀리그램(리바록사반)",
+   "company": "바이엘코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902650"
+  },
+  {
+   "itemSeq": "201201271",
+   "name": "자렐토정15밀리그램(리바록사반)",
+   "company": "바이엘코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201201271"
+  },
+  {
+   "itemSeq": "201201272",
+   "name": "자렐토정20밀리그램(리바록사반)",
+   "company": "바이엘코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201201272"
+  },
+  {
+   "itemSeq": "201308823",
+   "name": "자렐토정2.5밀리그램(리바록사반)",
+   "company": "바이엘코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308823"
+  },
+  {
+   "itemSeq": "201604395",
+   "name": "리록스반정10밀리그램(리바록사반)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604395"
+  },
+  {
+   "itemSeq": "201604396",
+   "name": "리록스반정15밀리그램(리바록사반)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604396"
+  },
+  {
+   "itemSeq": "201604394",
+   "name": "리록스반정2.5밀리그램(리바록사반)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604394"
+  },
+  {
+   "itemSeq": "201604397",
+   "name": "리록스반정20밀리그램(리바록사반)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604397"
+  },
+  {
+   "itemSeq": "201802150",
+   "name": "유바로정20밀리그램(리바록사반)",
+   "company": "(주)유유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802150"
+  },
+  {
+   "itemSeq": "201906332",
+   "name": "리록시아정10밀리그램(리바록사반)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906332"
+  },
+  {
+   "itemSeq": "201906331",
+   "name": "리록시아정20밀리그램(리바록사반)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906331"
+  },
+  {
+   "itemSeq": "201908198",
+   "name": "리록시아정15밀리그램(리바록사반)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "15.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908198"
+  },
+  {
+   "itemSeq": "202001464",
+   "name": "리복사반정20밀리그램(리바록사반)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001464"
+  },
+  {
+   "itemSeq": "202001861",
+   "name": "한화리바록사반정20밀리그램",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001861"
+  },
+  {
+   "itemSeq": "202001884",
+   "name": "명인리바록사반정20밀리그램",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001884"
+  },
+  {
+   "itemSeq": "202002518",
+   "name": "리록시아캡슐2.5밀리그램(리바록사반)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002518"
+  },
+  {
+   "itemSeq": "202002515",
+   "name": "자렐큐정2.5밀리그램(리바록사반)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002515"
+  },
+  {
+   "itemSeq": "202002559",
+   "name": "명인리바록사반정2.5밀리그램",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002559"
+  },
+  {
+   "itemSeq": "202002560",
+   "name": "자렐슨정2.5밀리그램(리바록사반)",
+   "company": "에리슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002560"
+  },
+  {
+   "itemSeq": "202002652",
+   "name": "카사반정2.5밀리그램(리바록사반)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002652"
+  },
+  {
+   "itemSeq": "202002653",
+   "name": "카사반정20밀리그램(리바록사반)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002653"
+  },
+  {
+   "itemSeq": "202002634",
+   "name": "한화리바록사반정2.5밀리그램",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002634"
+  },
+  {
+   "itemSeq": "202003566",
+   "name": "리넬토정20밀리그램(리바록사반)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003566"
+  },
+  {
+   "itemSeq": "202003722",
+   "name": "자톨정20밀리그램(리바록사반)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003722"
+  },
+  {
+   "itemSeq": "202004023",
+   "name": "자바록사정2.5밀리그램(리바록사반)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004023"
+  },
+  {
+   "itemSeq": "202004230",
+   "name": "리바롤정20밀리그램(리바록사반)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-06-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004230"
+  },
+  {
+   "itemSeq": "202005291",
+   "name": "명인리바록사반정10밀리그램",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005291"
+  },
+  {
+   "itemSeq": "202005292",
+   "name": "명인리바록사반정15밀리그램",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005292"
+  },
+  {
+   "itemSeq": "202005289",
+   "name": "카사반정10밀리그램(리바록사반)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005289"
+  },
+  {
+   "itemSeq": "202005290",
+   "name": "카사반정15밀리그램(리바록사반)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005290"
+  },
+  {
+   "itemSeq": "202005295",
+   "name": "한화리바록사반정10밀리그램",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005295"
+  },
+  {
+   "itemSeq": "202005296",
+   "name": "한화리바록사반정15밀리그램",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005296"
+  },
+  {
+   "itemSeq": "202006447",
+   "name": "리박산정20밀리그램(리바록사반)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006447"
+  },
+  {
+   "itemSeq": "202007450",
+   "name": "리복사반정10밀리그램(리바록사반)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007450"
+  },
+  {
+   "itemSeq": "202007451",
+   "name": "리복사반정15밀리그램(리바록사반)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007451"
+  },
+  {
+   "itemSeq": "202008430",
+   "name": "유한리바록사반정2.5밀리그램",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008430"
+  },
+  {
+   "itemSeq": "202008586",
+   "name": "록사원정20밀리그램(리바록사반)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008586"
+  },
+  {
+   "itemSeq": "202009418",
+   "name": "자이토정20밀리그램(리바록사반)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009418"
+  },
+  {
+   "itemSeq": "202100338",
+   "name": "리바록스정20밀리그램(리바록사반)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100338"
+  },
+  {
+   "itemSeq": "202100786",
+   "name": "리바코르정20밀리그램(리바록사반)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100786"
+  },
+  {
+   "itemSeq": "202101059",
+   "name": "리바코르정15밀리그램(리바록사반)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101059"
+  },
+  {
+   "itemSeq": "202101864",
+   "name": "유바로정10밀리그램(리바록사반)",
+   "company": "(주)유유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101864"
+  },
+  {
+   "itemSeq": "202101863",
+   "name": "유바로정15밀리그램(리바록사반)",
+   "company": "(주)유유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101863"
+  },
+  {
+   "itemSeq": "202101946",
+   "name": "자이토정10밀리그램(리바록사반)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101946"
+  },
+  {
+   "itemSeq": "202101947",
+   "name": "자이토정15밀리그램(리바록사반)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101947"
+  },
+  {
+   "itemSeq": "202102198",
+   "name": "리넬토정10밀리그램(리바록사반)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102198"
+  },
+  {
+   "itemSeq": "202102199",
+   "name": "리넬토정15밀리그램(리바록사반)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102199"
+  },
+  {
+   "itemSeq": "202102381",
+   "name": "자톨정10밀리그램(리바록사반)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102381"
+  },
+  {
+   "itemSeq": "202102380",
+   "name": "자톨정15밀리그램(리바록사반)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102380"
+  },
+  {
+   "itemSeq": "202102480",
+   "name": "록사원정10밀리그램(리바록사반)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102480"
+  },
+  {
+   "itemSeq": "202102479",
+   "name": "록사원정15밀리그램(리바록사반)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102479"
+  },
+  {
+   "itemSeq": "202102481",
+   "name": "리박산정10밀리그램(리바록사반)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102481"
+  },
+  {
+   "itemSeq": "202102482",
+   "name": "리박산정15밀리그램(리바록사반)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102482"
+  },
+  {
+   "itemSeq": "202102594",
+   "name": "리바록스정15밀리그램(리바록사반)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102594"
+  },
+  {
+   "itemSeq": "202102607",
+   "name": "일성리바록사반정15밀리그램",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102607"
+  },
+  {
+   "itemSeq": "202102645",
+   "name": "리바록스정10밀리그램(리바록사반)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102645"
+  },
+  {
+   "itemSeq": "202102648",
+   "name": "리바젠정10밀리그램(리바록사반)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102648"
+  },
+  {
+   "itemSeq": "202102647",
+   "name": "리바젠정15밀리그램(리바록사반)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102647"
+  },
+  {
+   "itemSeq": "202102708",
+   "name": "리보록사정10밀리그램(리바록사반)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102708"
+  },
+  {
+   "itemSeq": "202102709",
+   "name": "리보록사정15밀리그램(리바록사반)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102709"
+  },
+  {
+   "itemSeq": "202102697",
+   "name": "일성리바록사반정10밀리그램",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102697"
+  },
+  {
+   "itemSeq": "202102754",
+   "name": "리바사반정10밀리그램(리바록사반)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102754"
+  },
+  {
+   "itemSeq": "202102755",
+   "name": "리바사반정15밀리그램(리바록사반)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102755"
+  },
+  {
+   "itemSeq": "202102780",
+   "name": "리바롤정10밀리그램(리바록사반)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102780"
+  },
+  {
+   "itemSeq": "202102779",
+   "name": "리바롤정15밀리그램(리바록사반)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102779"
+  },
+  {
+   "itemSeq": "202102856",
+   "name": "유록사반정10밀리그램(리바록사반)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102856"
+  },
+  {
+   "itemSeq": "202102855",
+   "name": "유록사반정15밀리그램(리바록사반)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102855"
+  },
+  {
+   "itemSeq": "202102854",
+   "name": "유록사반정20밀리그램(리바록사반)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102854"
+  },
+  {
+   "itemSeq": "202102955",
+   "name": "자네트정10밀리그램(리바록사반)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102955"
+  },
+  {
+   "itemSeq": "202102954",
+   "name": "자네트정15밀리그램(리바록사반)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "15.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102954"
+  },
+  {
+   "itemSeq": "202103010",
+   "name": "리바렐정10밀리그램(리바록사반)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103010"
+  },
+  {
+   "itemSeq": "202103011",
+   "name": "리바렐정15밀리그램(리바록사반)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103011"
+  },
+  {
+   "itemSeq": "202103003",
+   "name": "자바렐토정10밀리그램(리바록사반)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103003"
+  },
+  {
+   "itemSeq": "202103002",
+   "name": "자바렐토정15밀리그램(리바록사반)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103002"
+  },
+  {
+   "itemSeq": "202103078",
+   "name": "유한리바록사반정10밀리그램",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103078"
+  },
+  {
+   "itemSeq": "202103077",
+   "name": "유한리바록사반정15밀리그램",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103077"
+  },
+  {
+   "itemSeq": "202103076",
+   "name": "유한리바록사반정20밀리그램",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103076"
+  },
+  {
+   "itemSeq": "202103086",
+   "name": "이바록정10밀리그램(리바록사반)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103086"
+  },
+  {
+   "itemSeq": "202103087",
+   "name": "이바록정15밀리그램(리바록사반)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103087"
+  },
+  {
+   "itemSeq": "202103115",
+   "name": "리복사반정2.5밀리그램(리바록사반)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103115"
+  },
+  {
+   "itemSeq": "202103156",
+   "name": "리록사반정10밀리그램(리바록사반)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103156"
+  },
+  {
+   "itemSeq": "202103155",
+   "name": "리록사반정15밀리그램(리바록사반)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103155"
+  },
+  {
+   "itemSeq": "202103157",
+   "name": "리록사반정20밀리그램(리바록사반)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103157"
+  },
+  {
+   "itemSeq": "202103248",
+   "name": "리바록엠정10밀리그램(리바록사반)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103248"
+  },
+  {
+   "itemSeq": "202103249",
+   "name": "리바록엠정15밀리그램(리바록사반)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103249"
+  },
+  {
+   "itemSeq": "202103250",
+   "name": "리바록엠정20밀리그램(리바록사반)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103250"
+  },
+  {
+   "itemSeq": "202103340",
+   "name": "자로반정10밀리그램(리바록사반)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103340"
+  },
+  {
+   "itemSeq": "202103339",
+   "name": "자로반정15밀리그램(리바록사반)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103339"
+  },
+  {
+   "itemSeq": "202103338",
+   "name": "자로반정20밀리그램(리바록사반)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103338"
+  },
+  {
+   "itemSeq": "202103357",
+   "name": "자네트정20밀리그램(리바록사반)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103357"
+  },
+  {
+   "itemSeq": "202103368",
+   "name": "자렐비정10밀리그램(리바록사반)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103368"
+  },
+  {
+   "itemSeq": "202103369",
+   "name": "자렐비정15밀리그램(리바록사반)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103369"
+  },
+  {
+   "itemSeq": "202103370",
+   "name": "자렐비정20밀리그램(리바록사반)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103370"
+  },
+  {
+   "itemSeq": "202103422",
+   "name": "바렐토정15밀리그램(리바록사반)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103422"
+  },
+  {
+   "itemSeq": "202103483",
+   "name": "리바사반정20밀리그램(리바록사반)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103483"
+  },
+  {
+   "itemSeq": "202103508",
+   "name": "리바젠정20밀리그램(리바록사반)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103508"
+  },
+  {
+   "itemSeq": "202103494",
+   "name": "자바렐토정20밀리그램(리바록사반)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103494"
+  },
+  {
+   "itemSeq": "202103528",
+   "name": "리바렐정20밀리그램(리바록사반)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103528"
+  },
+  {
+   "itemSeq": "202103555",
+   "name": "이바록정20밀리그램(리바록사반)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103555"
+  },
+  {
+   "itemSeq": "202103723",
+   "name": "바렐토정10밀리그램(리바록사반)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103723"
+  },
+  {
+   "itemSeq": "202103722",
+   "name": "바렐토정20밀리그램(리바록사반)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103722"
+  },
+  {
+   "itemSeq": "202103972",
+   "name": "일성리바록사반정20밀리그램",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-05-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103972"
+  },
+  {
+   "itemSeq": "202104094",
+   "name": "리바로트정10밀리그램(리바록사반)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104094"
+  },
+  {
+   "itemSeq": "202104093",
+   "name": "리바로트정15밀리그램(리바록사반)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104093"
+  },
+  {
+   "itemSeq": "202104092",
+   "name": "리바로트정20밀리그램(리바록사반)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104092"
+  },
+  {
+   "itemSeq": "202104228",
+   "name": "자록스정15밀리그램(리바록사반)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104228"
+  },
+  {
+   "itemSeq": "202104218",
+   "name": "자록스정20밀리그램(리바록사반)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104218"
+  },
+  {
+   "itemSeq": "202104257",
+   "name": "리바록정10밀리그램(리바록사반)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104257"
+  },
+  {
+   "itemSeq": "202104256",
+   "name": "리바록정15밀리그램(리바록사반)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104256"
+  },
+  {
+   "itemSeq": "202104255",
+   "name": "리바록정20밀리그램(리바록사반)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104255"
+  },
+  {
+   "itemSeq": "202104937",
+   "name": "리반틸정15밀리그램(리바록사반)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104937"
+  },
+  {
+   "itemSeq": "202104938",
+   "name": "리반틸정20밀리그램(리바록사반)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104938"
+  },
+  {
+   "itemSeq": "202104994",
+   "name": "자록스정10밀리그램(리바록사반)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104994"
+  },
+  {
+   "itemSeq": "202105341",
+   "name": "자렉스정10밀리그램(리바록사반(미분화))",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105341"
+  },
+  {
+   "itemSeq": "202105342",
+   "name": "자렉스정15밀리그램(리바록사반(미분화))",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105342"
+  },
+  {
+   "itemSeq": "202105343",
+   "name": "자렉스정20밀리그램(리바록사반(미분화))",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105343"
+  },
+  {
+   "itemSeq": "202105575",
+   "name": "네오록사반정10밀리그램(리바록사반)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105575"
+  },
+  {
+   "itemSeq": "202105574",
+   "name": "네오록사반정15밀리그램(리바록사반)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105574"
+  },
+  {
+   "itemSeq": "202105573",
+   "name": "네오록사반정20밀리그램(리바록사반)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105573"
+  },
+  {
+   "itemSeq": "202105656",
+   "name": "뉴록스반정10밀리그램(리바록사반)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105656"
+  },
+  {
+   "itemSeq": "202105657",
+   "name": "뉴록스반정15밀리그램(리바록사반)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105657"
+  },
+  {
+   "itemSeq": "202105658",
+   "name": "뉴록스반정20밀리그램(리바록사반)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105658"
+  },
+  {
+   "itemSeq": "202107605",
+   "name": "유록사반정2.5밀리그램(리바록사반)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107605"
+  },
+  {
+   "itemSeq": "202107674",
+   "name": "자톨정2.5밀리그램(리바록사반)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107674"
+  },
+  {
+   "itemSeq": "202107816",
+   "name": "리록사반정2.5밀리그램(리바록사반)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107816"
+  },
+  {
+   "itemSeq": "202107952",
+   "name": "리바로트정2.5밀리그램(리바록사반)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107952"
+  },
+  {
+   "itemSeq": "202107917",
+   "name": "바렐토정2.5밀리그램(리바록사반)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107917"
+  },
+  {
+   "itemSeq": "202108036",
+   "name": "자이토정2.5밀리그램(리바록사반)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108036"
+  },
+  {
+   "itemSeq": "202108105",
+   "name": "자렉스정2.5밀리그램(리바록사반(미분화))",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108105"
+  },
+  {
+   "itemSeq": "202108132",
+   "name": "위렐토정2.5밀리그램(리바록사반)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108132"
+  },
+  {
+   "itemSeq": "202108133",
+   "name": "자로반정2.5밀리그램(리바록사반)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108133"
+  },
+  {
+   "itemSeq": "202200128",
+   "name": "리바록엠정2.5밀리그램(리바록사반)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200128"
+  },
+  {
+   "itemSeq": "202202316",
+   "name": "일동리바록사반정10밀리그램(수출용)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202316"
+  },
+  {
+   "itemSeq": "202202315",
+   "name": "일동리바록사반정15밀리그램(수출용)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202315"
+  },
+  {
+   "itemSeq": "202202317",
+   "name": "일동리바록사반정20밀리그램(수출용)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202317"
+  },
+  {
+   "itemSeq": "202400031",
+   "name": "자렐리반정15밀리그램(리바록사반)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400031"
+  },
+  {
+   "itemSeq": "202400030",
+   "name": "자렐리반정20밀리그램(리바록사반)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400030"
+  },
+  {
+   "itemSeq": "202403068",
+   "name": "자레바정13.5밀리그램(리바록사반)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "13.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403068"
+  },
+  {
+   "itemSeq": "202403069",
+   "name": "자레바정18밀리그램(리바록사반)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바록사반(미분화)",
+     "amount": "18",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403069"
+  }
+ ]
+}

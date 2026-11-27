@@ -1,0 +1,96 @@
+{
+ "id": "warfarin",
+ "query": [
+  "와파린",
+  "와르파린"
+ ],
+ "fetched": "2026-11-27",
+ "total": 5,
+ "kept": 5,
+ "mfdsName": [
+  "와파린나트륨",
+  "와르파린나트륨"
+ ],
+ "items": [
+  {
+   "itemSeq": "198601051",
+   "name": "대화와르파린나트륨정5밀리그람(수출명:COUFARIN)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "와르파린나트륨",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "와르파린나트륨",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1986-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198601051"
+  },
+  {
+   "itemSeq": "198601052",
+   "name": "대화와르파린나트륨정2밀리그램",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "와르파린나트륨",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1986-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198601052"
+  },
+  {
+   "itemSeq": "200502107",
+   "name": "쿠파린정5밀리그램(와파린나트륨)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "와파린나트륨",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502107"
+  },
+  {
+   "itemSeq": "200600456",
+   "name": "쿠파린정2밀리그램(와파린나트륨)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "와파린나트륨",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-01-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600456"
+  },
+  {
+   "itemSeq": "201905321",
+   "name": "뉴파린정(와파린나트륨)(수출용)",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "와파린나트륨",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905321"
+  }
+ ]
+}

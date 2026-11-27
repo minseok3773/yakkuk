@@ -1,0 +1,1630 @@
+{
+ "id": "bisacodyl",
+ "query": [
+  "비사코딜"
+ ],
+ "fetched": "2026-11-27",
+ "total": 66,
+ "kept": 66,
+ "mfdsName": [
+  "비사코딜",
+  "프랑굴랑피엑스"
+ ],
+ "items": [
+  {
+   "itemSeq": "197600483",
+   "name": "신일비사코딜정",
+   "company": "신일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1976-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197600483"
+  },
+  {
+   "itemSeq": "200301884",
+   "name": "락시티브정(비사코딜)(수출용)(수출명:락사티브정)",
+   "company": "(주)바스칸바이오제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301884"
+  },
+  {
+   "itemSeq": "200512347",
+   "name": "둘코락스좌약(비사코딜)",
+   "company": "오펠라헬스케어코리아(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512347"
+  },
+  {
+   "itemSeq": "202005180",
+   "name": "퍼슨비사코딜액",
+   "company": "(주)퍼슨",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "0.01",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2020-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005180"
+  },
+  {
+   "itemSeq": "199000622",
+   "name": "비카린정(수출용)",
+   "company": "(주)마더스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "센나열매가루",
+     "amount": "60",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나엽가루",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나열매엑스",
+     "amount": "25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1990-11-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199000622"
+  },
+  {
+   "itemSeq": "199302061",
+   "name": "듀오락스정",
+   "company": "영일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "16.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1993-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199302061"
+  },
+  {
+   "itemSeq": "199400532",
+   "name": "비코그린정(수출용)",
+   "company": "코오롱제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "울금",
+     "amount": "11",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "백굴채",
+     "amount": "11",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "알로에카펜시스",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회엑스",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나엽엑스",
+     "amount": "11",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "대황엑스",
+     "amount": "11",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프랑굴랑피엑스",
+     "amount": "11",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1994-07-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400532"
+  },
+  {
+   "itemSeq": "199400872",
+   "name": "메이킨에스정(수출용)",
+   "company": "명인제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카산트라놀",
+     "amount": "14",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "데히드로콜린산",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1994-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400872"
+  },
+  {
+   "itemSeq": "200200414",
+   "name": "생장환에스정",
+   "company": "정우신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "12",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나엽가루",
+     "amount": "55",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "Tinnevelly 센나열매가루",
+     "amount": "55",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200414"
+  },
+  {
+   "itemSeq": "200709861",
+   "name": "엠티정",
+   "company": "명문제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "16.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709861"
+  },
+  {
+   "itemSeq": "200712401",
+   "name": "아락실큐정",
+   "company": "부광약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "6.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "작약엑스산",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피리독신염산염",
+     "amount": "12.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "판토텐산칼슘",
+     "amount": "7.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712401"
+  },
+  {
+   "itemSeq": "200807582",
+   "name": "코딜로드정",
+   "company": "(주)아이월드제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "13.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나엽가루",
+     "amount": "55.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나열매가루",
+     "amount": "55.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807582"
+  },
+  {
+   "itemSeq": "200810994",
+   "name": "비카린에프정(수출용)",
+   "company": "(주)마더스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "3.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "벨라돈나엑스",
+     "amount": "0.28",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "알로에건조엑스(20:1)",
+     "amount": "12.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "볼도엽건조엑스(5:1)",
+     "amount": "3.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시나라건조엑스(4:1)",
+     "amount": "3.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "감초건조엑스(5→1)",
+     "amount": "3.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-11-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810994"
+  },
+  {
+   "itemSeq": "200904507",
+   "name": "다이락스-큐정",
+   "company": "조아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "16.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904507"
+  },
+  {
+   "itemSeq": "200905490",
+   "name": "씨락정",
+   "company": "에이치엘비제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "16.75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-07-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905490"
+  },
+  {
+   "itemSeq": "200906478",
+   "name": "둘코락스에스장용정",
+   "company": "오펠라헬스케어코리아(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "16.750",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-08-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906478"
+  },
+  {
+   "itemSeq": "201105106",
+   "name": "액티큐정",
+   "company": "알보젠코리아(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "3.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "16.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201105106"
+  },
+  {
+   "itemSeq": "201105112",
+   "name": "코딜로드-에이정(수출용)",
+   "company": "(주)아이월드제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "12.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나엽가루",
+     "amount": "55.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나열매가루(Tinnevelly)",
+     "amount": "55.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201105112"
+  },
+  {
+   "itemSeq": "201200854",
+   "name": "비코그린에스정",
+   "company": "코오롱제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센노사이드칼슘",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-02-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200854"
+  },
+  {
+   "itemSeq": "201206771",
+   "name": "비코실린정",
+   "company": "한솔신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "14.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나엽가루",
+     "amount": "55.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "Tinnevelly 센나열매가루",
+     "amount": "55.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206771"
+  },
+  {
+   "itemSeq": "201401944",
+   "name": "장제로정",
+   "company": "일양약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "16.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401944"
+  },
+  {
+   "itemSeq": "201404271",
+   "name": "디센트에스정",
+   "company": "(주)바이넥스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "16.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404271"
+  },
+  {
+   "itemSeq": "201404670",
+   "name": "비센큐정",
+   "company": "(주)마더스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "14",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나엽가루",
+     "amount": "55",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404670"
+  },
+  {
+   "itemSeq": "201405042",
+   "name": "메이킨큐장용정",
+   "company": "명인제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카산트라놀",
+     "amount": "14",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "14",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405042"
+  },
+  {
+   "itemSeq": "201502323",
+   "name": "비사큐정",
+   "company": "태극제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "16.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502323"
+  },
+  {
+   "itemSeq": "201502994",
+   "name": "비카린엠장용정",
+   "company": "(주)마더스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나엽가루",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502994"
+  },
+  {
+   "itemSeq": "201507403",
+   "name": "세노비아에프정",
+   "company": "(주)한국파비스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나엽가루",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507403"
+  },
+  {
+   "itemSeq": "201601522",
+   "name": "큐락스정",
+   "company": "(주)휴비스트제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "16.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601522"
+  },
+  {
+   "itemSeq": "201700836",
+   "name": "디유비정",
+   "company": "(주)휴온스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "3.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디메티콘",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700836"
+  },
+  {
+   "itemSeq": "201701138",
+   "name": "에뜨비정",
+   "company": "(주)휴온스메디텍",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "3.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디메티콘",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701138"
+  },
+  {
+   "itemSeq": "201701296",
+   "name": "슈락스골드장용정",
+   "company": "영풍제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "16.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701296"
+  },
+  {
+   "itemSeq": "201706690",
+   "name": "듀오그린정",
+   "company": "한국신텍스제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "12.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나엽가루",
+     "amount": "55.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "Tinnevelly 센나열매가루",
+     "amount": "55.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706690"
+  },
+  {
+   "itemSeq": "201707895",
+   "name": "비사콜장용정",
+   "company": "안국약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "16.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-11-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707895"
+  },
+  {
+   "itemSeq": "201708002",
+   "name": "굿모닝에이스정",
+   "company": "(주)한풍제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "3.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나열매",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "감초엑스산",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "작약엑스산",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-11-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708002"
+  },
+  {
+   "itemSeq": "201804576",
+   "name": "비코엑스장용정",
+   "company": "(주)라이트팜텍",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나엽가루",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804576"
+  },
+  {
+   "itemSeq": "201900111",
+   "name": "뉴코딜정",
+   "company": "대한뉴팜(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "3.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "16.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900111"
+  },
+  {
+   "itemSeq": "201905349",
+   "name": "유비센정",
+   "company": "한국신텍스제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "14",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나엽 가루",
+     "amount": "55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905349"
+  },
+  {
+   "itemSeq": "202000645",
+   "name": "센코딜에프정",
+   "company": "광동제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "6.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센노시드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "벤포티아민",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "천궁건조엑스",
+     "amount": "70.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000645"
+  },
+  {
+   "itemSeq": "202004930",
+   "name": "뉴락스에프정",
+   "company": "태극제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나열매가루",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004930"
+  },
+  {
+   "itemSeq": "202007142",
+   "name": "센스락유연질캡슐",
+   "company": "현대약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "6.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "12.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-10-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007142"
+  },
+  {
+   "itemSeq": "202104759",
+   "name": "클리어미정",
+   "company": "주식회사 노바엠헬스케어",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104759"
+  },
+  {
+   "itemSeq": "202105472",
+   "name": "쾌통정",
+   "company": "원광제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "14.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나엽 가루",
+     "amount": "55.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나열매 가루",
+     "amount": "55.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105472"
+  },
+  {
+   "itemSeq": "202200014",
+   "name": "메이놀정",
+   "company": "(주)바스칸바이오제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "16.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200014"
+  },
+  {
+   "itemSeq": "202203581",
+   "name": "듀오그린큐정",
+   "company": "한국신텍스제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "16.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-09-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203581"
+  },
+  {
+   "itemSeq": "202203713",
+   "name": "듀오그린엘정",
+   "company": "한국신텍스제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "16.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203713"
+  },
+  {
+   "itemSeq": "202203780",
+   "name": "비사린정",
+   "company": "(주)일화",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-10-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203780"
+  },
+  {
+   "itemSeq": "202300250",
+   "name": "비큐원스연질캡슐",
+   "company": "코스맥스파마(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "12.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "40.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "판토텐산칼슘",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300250"
+  },
+  {
+   "itemSeq": "202301279",
+   "name": "비코딜에스정",
+   "company": "(주)인트로바이오파마",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "3.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301279"
+  },
+  {
+   "itemSeq": "202301820",
+   "name": "다이락스쎈정",
+   "company": "조아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "6",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회 엑스",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301820"
+  },
+  {
+   "itemSeq": "202302773",
+   "name": "조이퀸정",
+   "company": "한솔신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302773"
+  },
+  {
+   "itemSeq": "202303018",
+   "name": "이지클린장용연질캡슐",
+   "company": "코스맥스파마(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "6.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "21.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303018"
+  },
+  {
+   "itemSeq": "202303047",
+   "name": "조이락정",
+   "company": "한솔신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "16.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-11-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303047"
+  },
+  {
+   "itemSeq": "202303114",
+   "name": "인크린에스정",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나열매가루",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303114"
+  },
+  {
+   "itemSeq": "202303434",
+   "name": "비코그린에스플러스정",
+   "company": "코오롱제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "6.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센노시드칼슘",
+     "amount": "7.55",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "판토텐산칼슘",
+     "amount": "7.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303434"
+  },
+  {
+   "itemSeq": "202400329",
+   "name": "이로코딜정",
+   "company": "성이바이오제약주식회사",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-02-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400329"
+  },
+  {
+   "itemSeq": "202400705",
+   "name": "장제로큐장용정",
+   "company": "일양약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나엽가루",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400705"
+  },
+  {
+   "itemSeq": "202401985",
+   "name": "모닝톡에프장용연질캡슐",
+   "company": "일양바이오팜(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "6.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "21.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401985"
+  },
+  {
+   "itemSeq": "202402049",
+   "name": "듀얼싹플러스장용연질캡슐",
+   "company": "제일헬스사이언스(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "6.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "21.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-08-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402049"
+  },
+  {
+   "itemSeq": "202402622",
+   "name": "센나퀸정",
+   "company": "한국신텍스제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나엽 가루",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-11-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402622"
+  },
+  {
+   "itemSeq": "202402664",
+   "name": "속엔큐플러스정",
+   "company": "성이바이오제약주식회사",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "33.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-11-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402664"
+  },
+  {
+   "itemSeq": "202402763",
+   "name": "두베락스장용정",
+   "company": "지엘팜텍(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "33.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-11-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402763"
+  },
+  {
+   "itemSeq": "202500119",
+   "name": "릴리즈장용연질캡슐",
+   "company": "아이큐어(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "21.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "비사코딜",
+     "amount": "6.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-01-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500119"
+  },
+  {
+   "itemSeq": "202501467",
+   "name": "다비슬림정",
+   "company": "(주)씨엠지제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "16.75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501467"
+  },
+  {
+   "itemSeq": "202501823",
+   "name": "메이킨에프장용정",
+   "company": "명인제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센노시드",
+     "amount": "5.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "14",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501823"
+  },
+  {
+   "itemSeq": "202601473",
+   "name": "둘코리퀴젤장용연질캡슐",
+   "company": "코스맥스파마(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도큐세이트나트륨",
+     "amount": "21.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601473"
+  },
+  {
+   "itemSeq": "202603188",
+   "name": "다비센정",
+   "company": "(주)시어스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "비사코딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "센나열매 가루",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-10-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603188"
+  }
+ ]
+}

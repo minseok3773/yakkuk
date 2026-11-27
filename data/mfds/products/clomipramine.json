@@ -1,0 +1,164 @@
+{
+ "id": "clomipramine",
+ "query": [
+  "클로미프라민"
+ ],
+ "fetched": "2026-11-26",
+ "total": 9,
+ "kept": 9,
+ "mfdsName": [
+  "클로미프라민염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "198900901",
+   "name": "그로민캡슐10밀리그램(클로미프라민염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로미프라민염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900901"
+  },
+  {
+   "itemSeq": "198900902",
+   "name": "그로민캡슐25밀리그램(클로미프라민염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로미프라민염산염",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900902"
+  },
+  {
+   "itemSeq": "198900993",
+   "name": "환인염산클로미프라민캡슐25밀리그램",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로미프라민염산염",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900993"
+  },
+  {
+   "itemSeq": "201306327",
+   "name": "네노마정15밀리그램(클로미프라민염산염)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로미프라민염산염",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306327"
+  },
+  {
+   "itemSeq": "201306329",
+   "name": "컨덴시아정15밀리그램(클로미프라민염산염)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로미프라민염산염",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306329"
+  },
+  {
+   "itemSeq": "201306326",
+   "name": "클로잭정(클로미프라민염산염)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로미프라민염산염",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306326"
+  },
+  {
+   "itemSeq": "202401196",
+   "name": "구세정15/50밀리그램(클로미프라민염산염,실데나필시트르산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로미프라민염산염",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "실데나필시트르산염",
+     "amount": "70.23",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401196"
+  },
+  {
+   "itemSeq": "202401189",
+   "name": "원투정15/50밀리그램(클로미프라민염산염,실데나필시트르산염)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로미프라민염산염",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "실데나필시트르산염",
+     "amount": "70.23",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401189"
+  },
+  {
+   "itemSeq": "202402179",
+   "name": "원투정15/50밀리그램(클로미프라민염산염,실데나필시트르산염)(수출용)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로미프라민염산염",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "실데나필시트르산염",
+     "amount": "70.23",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402179"
+  }
+ ]
+}

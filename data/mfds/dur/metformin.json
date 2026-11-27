@@ -1,0 +1,421 @@
+{
+ "id": "metformin",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "metformin"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "ethyl esters of the iodised fatty acids of poppyseed oil",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "alogliptin benzoate (as alogliptin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iobitridol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "alogliptin benzoate (as alogliptin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iodixanol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "alogliptin benzoate (as alogliptin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iohexol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "alogliptin benzoate (as alogliptin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iomeprol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "alogliptin benzoate (as alogliptin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iopamidol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "alogliptin benzoate (as alogliptin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iopromide",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "alogliptin benzoate (as alogliptin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "ioversol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "alogliptin benzoate (as alogliptin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "cyclosporine",
+   "reason": "근육병증, 횡문근융해 위험 증가 가능",
+   "self": "atorvastatin calcium (as atorvastatin)+metformin hydrochloride"
+  },
+  {
+   "ingredient": "cyclosporine",
+   "reason": "근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+   "self": "metformin hydrochloride+rosuvastatin calcium (as rosuvastatin)"
+  },
+  {
+   "ingredient": "ethyl esters of the iodised fatty acids of poppyseed oil",
+   "reason": "기능성 신부전에 의한 유산산성증 촉진",
+   "self": "glibenclamide+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "glecaprevir+pibrentasvir",
+   "reason": "횡문근융해증을 포함한 근육병증 위험 가능",
+   "self": "atorvastatin calcium (as atorvastatin)+metformin hydrochloride"
+  },
+  {
+   "ingredient": "iohexol",
+   "reason": "기능성 신부전에 의한 유산산성증 촉진",
+   "self": "glibenclamide+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iobitridol",
+   "reason": "기능성 신부전에 의한 유산산성증 촉진",
+   "self": "glibenclamide+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iodixanol",
+   "reason": "기능성 신부전에 의한 유산산성증 촉진",
+   "self": "glibenclamide+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iomeprol",
+   "reason": "기능성 신부전에 의한 유산산성증 촉진",
+   "self": "glibenclamide+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iopamidol",
+   "reason": "기능성 신부전에 의한 유산산성증 촉진",
+   "self": "glibenclamide+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iopromide",
+   "reason": "기능성 신부전에 의한 유산산성증 촉진",
+   "self": "glibenclamide+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "ioversol",
+   "reason": "기능성 신부전에 의한 유산산성증 촉진",
+   "self": "glibenclamide+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "itraconazole",
+   "reason": "근육병증, 횡문근융해증 위험 증가 가능",
+   "self": "atorvastatin calcium (as atorvastatin)+metformin hydrochloride"
+  },
+  {
+   "ingredient": "ledipasvir+sofosbuvir",
+   "reason": "횡문근융해증을 포함한 근육병증 위험 증가 가능",
+   "self": "metformin hydrochloride+rosuvastatin calcium (as rosuvastatin)"
+  },
+  {
+   "ingredient": "iopamidol",
+   "reason": "급성신부전",
+   "self": "metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "ioversol",
+   "reason": "급성신부전",
+   "self": "metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "microemulsion cyclosporine",
+   "reason": "근육병증, 횡문근융해 위험 증가 가능",
+   "self": "atorvastatin calcium (as atorvastatin)+metformin hydrochloride"
+  },
+  {
+   "ingredient": "microemulsion cyclosporine",
+   "reason": "근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+   "self": "metformin hydrochloride+rosuvastatin calcium (as rosuvastatin)"
+  },
+  {
+   "ingredient": "posaconazole(micronized)",
+   "reason": "근육병증, 횡문근융해 위험 증가 가능",
+   "self": "atorvastatin calcium (as atorvastatin)+metformin hydrochloride"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함",
+   "ingredient": "metformin HCl"
+  },
+  {
+   "grade": "2",
+   "reason": "glibenclamide: 신생아에서 저혈당 또는 거대아 확인. 동물실험에서 기형발생 작용 보고. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함",
+   "ingredient": "glibenclamide+metformin"
+  },
+  {
+   "grade": "2",
+   "reason": "glimepiride: 동물실험에서 고용량 투여시 상완골의 단축, 비후, 굴곡의 골격기형 보고. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함",
+   "ingredient": "glimepiride+metformin"
+  },
+  {
+   "grade": "2",
+   "reason": "gliclazide: 신생아에서 저혈당 또는 거대아 확인. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함",
+   "ingredient": "gliclazide+metformin"
+  },
+  {
+   "grade": "2",
+   "reason": "pioglitazone: 동물실험에서 과용량 투여시 분만지연 및 배자독성(착상후 손실 증가, 발생지연, 태아 체중감소) 보고. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함",
+   "ingredient": "pioglitazone+metformin"
+  },
+  {
+   "grade": "2",
+   "reason": "sitagliptin: 임부에 대한 안전성 미확립. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함",
+   "ingredient": "metformin HCl, sitagliptin phosphate(as sitagliptin)"
+  },
+  {
+   "grade": "2",
+   "reason": "vildagliptin: 임부에 대한 안전성 미확립. 동물실험에서 고용량 투여시 생식독성 및 태아독성 보고. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함",
+   "ingredient": "metformin HCl, vildagliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "saxagliptin: 임부에 대한 안전성 미확립. 동물실험에서 고용량 투여시 골반의 불완전 골화 및 발달지연, 모자독성 및 태아 체중감소, 경미한 골격변이 보고. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함",
+   "ingredient": "metformin HCl, saxagliptin (as saxagliptin)"
+  },
+  {
+   "grade": "2",
+   "reason": "linagliptin: 임부에 대한 안전성 미확립. 랫드와 토끼에서 태반이행 보고. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함",
+   "ingredient": "linagliptin, metformin HCl"
+  },
+  {
+   "grade": "2",
+   "reason": "gemigliptin: 임부에 대한 안전성 미확립. 동물실험에서 태반통과 보고. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함",
+   "ingredient": "gemigliptin tartrate sesquihydrate(as gemigliptin  25mg), metformin HCl"
+  },
+  {
+   "grade": "2",
+   "reason": "alogliptin: 임부에 대한 안전성 미확립. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함",
+   "ingredient": "metformin HCl, alogliptin benzoate(as alogliptin 12.5mg)"
+  },
+  {
+   "grade": "2",
+   "reason": "alogliptin: 임부에 대한 안전성 미확립 / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함",
+   "ingredient": "alogliptin + metformin"
+  },
+  {
+   "grade": "2",
+   "reason": "dapagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함.",
+   "ingredient": "dapagliflozin propanediol hydrate, metformin HCl"
+  },
+  {
+   "grade": "2",
+   "reason": "teneligliptin: 임부에 대한 안전성 미확립. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함.",
+   "ingredient": "metformin, teneligliptin hydrobromide hydrate"
+  },
+  {
+   "grade": "2",
+   "reason": "gemigliptin: 임부에 대한 안전성 미확립. 동물실험에서 태반통과 보고. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함.",
+   "ingredient": "gemigliptin tartrate sesquihydrate(as gemigliptin   50mg), metformin hydrochloride   0.5g"
+  },
+  {
+   "grade": "2",
+   "reason": "anagliptin : 동물시험(랫트)에서 태아에 대한 이행 보고. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함.",
+   "ingredient": "anagliptin, metformin"
+  },
+  {
+   "grade": "2",
+   "reason": "empagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 출생 후 발달에 유해한 영향 보고. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함.",
+   "ingredient": "empagliflozin + metformin"
+  },
+  {
+   "grade": "2",
+   "reason": "evogliptin : 동물시험결과 태반을 통과. 임부를 대상으로 한 대조시험 결과 없음.부, 심장 및 혈관의 불량한 발달을 포함하는 발달 이상과 관련 있음. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함.",
+   "ingredient": "evogliptin, metformin"
+  },
+  {
+   "grade": "2",
+   "reason": "lobeglitazone: 임부에 대한 안전성 미확립. 동물실험에서 고용량 투여시 배자독성(태자 사망수, 착상후 배자 사망률 증가, 태자 체중감소 등), 심장중량 증가, 형태분화지연 보고. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함.",
+   "ingredient": "lobeglitazone + metformin"
+  },
+  {
+   "grade": "1",
+   "reason": "atorvastatin: 임부에 대한 안전성 미확립. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함.",
+   "ingredient": "atorvastatin +metformin"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함.",
+   "ingredient": "metformin hydrochloride + rosuvastatin calcium"
+  },
+  {
+   "grade": "2",
+   "reason": "alogliptin: 임부에 대한 안전성 미확립. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함.",
+   "ingredient": "alogliptin, metformin"
+  },
+  {
+   "grade": "2",
+   "reason": "vildagliptin: 임부에 대한 안전성 미확립. 동물실험에서 고용량 투여시 생식독성 및 태아독성 보고. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함.",
+   "ingredient": "metformin + vildagliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "sitagliptin: 임부에 대한 안전성 미확립. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함.",
+   "ingredient": "metformin+sitagliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / teneligliptin: 임부에 대한 안전성 미확립.",
+   "ingredient": "metformin hydrochloride, teneligliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / sitagliptin: 임부에 대한 안전성 미확립.",
+   "ingredient": "metformin + sitagliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / dapagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고.",
+   "ingredient": "dapagliflozin + metformin"
+  },
+  {
+   "grade": "2",
+   "reason": "metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / lobeglitazone: 임부에 대한 안전성 미확립. 동물실험에서 고용량 투여시 배자독성(태자 사망수, 착상후 배자 사망률 증가, 태자 체중감소 등), 심장중량 증가, 형태분화지연 보고. / Sitagliptin: 임부에 대한 안전성 미확립.",
+   "ingredient": "lobeglitazone + metformin + sitagliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / lobeglitazone: 임부에 대한 안전성 미확립. 동물실험에서 고용량 투여시 배자독성(태자 사망수, 착상후 배자 사망률 증가, 태자 체중감소 등), 심장중량 증가, 형태분화지연 보고. / sitagliptin: 임부에 대한 안전성 미확립.",
+   "ingredient": "lobeglitazone + metformin + sitagliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / enavogliflozin: 임부에 대한 안전성 미확립. 랫드에서 태아로의 이행이 보고됨.",
+   "ingredient": "metformin + enavogliflozin"
+  },
+  {
+   "grade": "2",
+   "reason": "metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / alogliptin: 임부에 대한 안전성 미확립",
+   "ingredient": "alogliptin + metformin"
+  },
+  {
+   "grade": "2",
+   "reason": "metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / dapagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고. / evogliptin: 동물시험결과 태반을 통과. 임부를 대상으로 한 대조시험 결과 없음.부, 심장 및 혈관의 불량한 발달을 포함하는 발달 이상과 관련 있음",
+   "ingredient": "dapagliflozin + evogliptin + metformin"
+  },
+  {
+   "grade": "2",
+   "reason": "metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / gemigliptin: 임부에 대한 안전성 미확립. 동물실험에서 태반통과 보고.",
+   "ingredient": "metformin +  gemigliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / linagliptin: 임부에 대한 안전성 미확립. 랫드와 토끼에서 태반이행 보고.",
+   "ingredient": "linagliptin + metformin"
+  },
+  {
+   "grade": "2",
+   "reason": "metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / dapagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고. / sitagliptin: 임부에 대한 안전성 미확립.",
+   "ingredient": "dapagliflozin + metformin + sitagliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "dapagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고. / Metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / Sitagliptadin: 임부에 대한 안전성 미확립.",
+   "ingredient": "dapagliflozin + metformin + sitagliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "empagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 출생 후 발달에 유해한 영향 보고. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / sitagliptin: 임부에 대한 안전성 미확립.",
+   "ingredient": "empagliflozin + metformin + sitagliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "empagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 출생 후 발달에 유해한 영향 보고. / linagliptin: 임부에 대한 안전성 미확립. 랫드와 토끼에서 태반이행 보고. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함.",
+   "ingredient": "empagliflozin + linagliptin + metformin"
+  },
+  {
+   "grade": "2",
+   "reason": "metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / empagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 출생 후 발달에 유해한 영향 보고.",
+   "ingredient": "metformin + empagliflozin"
+  },
+  {
+   "grade": "2",
+   "reason": "sitagliptin: 임부에 대한 안전성 미확립. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / empagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 출생 후 발달에 유해한 영향 보고.",
+   "ingredient": "sitagliptin + metformin + empagliflozin"
+  },
+  {
+   "grade": "2",
+   "reason": "empagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 출생 후 발달에 유해한 영향 보고. / lobeglitazone: 임부에 대한 안전성 미확립. 동물실험에서 고용량 투여시 배자독성(태자 사망수, 착상후 배자 사망률 증가, 태자 체중감소 등), 심장중량 증가, 형태분화지연 보고. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함.",
+   "ingredient": "empagliflozin + lobeglitazone + metformin"
+  }
+ ],
+ "elderly": [],
+ "dose": [
+  {
+   "text": "1일 최대투여량: 메트포르민2,000mg/빌다글립틴 100mg"
+  },
+  {
+   "text": "1일 최대투여량: 메트포르민염산염 2,550mg"
+  },
+  {
+   "text": "1일 최대투여량: 글리메피리드 8mg/메트포르민염산염 2,000mg"
+  },
+  {
+   "text": "1일 최대투여량: 메트포르민 2,000mg/시타글립틴 100mg"
+  },
+  {
+   "text": "1일 최대투여량: 메트포르민2,500mg/피오글리타존 30mg"
+  },
+  {
+   "text": "1일 최대투여량: 메트포르민염산염 2,000mg"
+  },
+  {
+   "text": "1일 최대투여량: 글리벤클라미드 20mg/메트포르민염산염 2,000mg"
+  },
+  {
+   "text": "1일 최대투여량: 메트포르민2,000mg/리나글립틴 5mg"
+  },
+  {
+   "text": "1일 최대투여량: 로베글리타존황산염 0.5mg/메트포르민염산염 2,000mg"
+  },
+  {
+   "text": "1일 최대투여량: 메트포르민 2,000mg/빌다글립틴 100mg"
+  },
+  {
+   "text": "1일 최대투여량: 메트포르민2,000mg/삭사글립틴 5mg"
+  },
+  {
+   "text": "1일 최대투여량: 글리클라지드 320mg/메트포르민염산염 2,000mg"
+  },
+  {
+   "text": "1일 최대투여량: 메트포르민2,000mg/제미글립틴 50mg"
+  },
+  {
+   "text": "1일 최대투여량: 알로글립틴 25mg/메트포르민염산염 2,000 mg"
+  }
+ ],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "당뇨병용제",
+   "subgroup": "Group 1",
+   "code": "396A0001"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

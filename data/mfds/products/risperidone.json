@@ -1,0 +1,824 @@
+{
+ "id": "risperidone",
+ "query": [
+  "리스페리돈"
+ ],
+ "fetched": "2026-11-26",
+ "total": 54,
+ "kept": 54,
+ "mfdsName": [
+  "리스페리돈"
+ ],
+ "items": [
+  {
+   "itemSeq": "200201029",
+   "name": "리페리돈정2밀리그램(리스페리돈)(수출명:Riperidone Tab.2mg)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201029"
+  },
+  {
+   "itemSeq": "200300918",
+   "name": "리스펜정2밀리그램(리스페리돈)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-08-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300918"
+  },
+  {
+   "itemSeq": "200300984",
+   "name": "리페리돈정1밀리그램(리스페리돈)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300984"
+  },
+  {
+   "itemSeq": "200403822",
+   "name": "유니페리돈정(리스페리돈)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403822"
+  },
+  {
+   "itemSeq": "200401324",
+   "name": "리페리돈정0.5밀리그램(리스페리돈)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "0.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401324"
+  },
+  {
+   "itemSeq": "200401254",
+   "name": "리스펜정1밀리그램(리스페리돈)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401254"
+  },
+  {
+   "itemSeq": "200501530",
+   "name": "리스돈정2밀리그램(리스페리돈)(수출명:에스씨페르달정)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501530"
+  },
+  {
+   "itemSeq": "200501163",
+   "name": "리스펜정3밀리그램(리스페리돈)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "3.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-09-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501163"
+  },
+  {
+   "itemSeq": "200600248",
+   "name": "리스펜정0.5밀리그램(리스페리돈)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "0.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-02-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600248"
+  },
+  {
+   "itemSeq": "200600344",
+   "name": "리스돈정1밀리그램(리스페리돈)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600344"
+  },
+  {
+   "itemSeq": "200702255",
+   "name": "리페리돈정3밀리그램(리스페리돈)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702255"
+  },
+  {
+   "itemSeq": "200711206",
+   "name": "리소페린정2밀리그램(리스페리돈)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-10-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711206"
+  },
+  {
+   "itemSeq": "200909125",
+   "name": "리소페린정1mg(리스페리돈)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-12-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200909125"
+  },
+  {
+   "itemSeq": "201110509",
+   "name": "리스돈정3밀리그램(리스페리돈)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110509"
+  },
+  {
+   "itemSeq": "201200211",
+   "name": "리스피돈오디정2밀리그램(리스페리돈)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200211"
+  },
+  {
+   "itemSeq": "201200277",
+   "name": "리스피돈오디정1밀리그램(리스페리돈)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200277"
+  },
+  {
+   "itemSeq": "201402734",
+   "name": "리스펠돈정2mg(리스페리돈)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-06-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402734"
+  },
+  {
+   "itemSeq": "201403450",
+   "name": "동국리스페리돈데포주사25밀리그램(리스페리돈)(수출용)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403450"
+  },
+  {
+   "itemSeq": "201404258",
+   "name": "피엠에스리스페리돈정1밀리그램(리스페리돈)",
+   "company": "파마사이언스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404258"
+  },
+  {
+   "itemSeq": "201404520",
+   "name": "피엠에스리스페리돈정2밀리그램(리스페리돈)",
+   "company": "파마사이언스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404520"
+  },
+  {
+   "itemSeq": "201404526",
+   "name": "피엠에스리스페리돈정3밀리그램(리스페리돈)",
+   "company": "파마사이언스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "3.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404526"
+  },
+  {
+   "itemSeq": "201405106",
+   "name": "피엠에스리스페리돈정0.5밀리그램(리스페리돈)",
+   "company": "파마사이언스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "0.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405106"
+  },
+  {
+   "itemSeq": "201500111",
+   "name": "명문리스페리돈정1mg",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500111"
+  },
+  {
+   "itemSeq": "201504182",
+   "name": "명문리스페리돈정2mg",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504182"
+  },
+  {
+   "itemSeq": "201701456",
+   "name": "리스펜오디정1밀리그램(리스페리돈)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701456"
+  },
+  {
+   "itemSeq": "201701458",
+   "name": "리스펜오디정2밀리그램(리스페리돈)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701458"
+  },
+  {
+   "itemSeq": "201707617",
+   "name": "리스달정1밀리그램(리스페리돈)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707617"
+  },
+  {
+   "itemSeq": "201707618",
+   "name": "리스달정2밀리그램(리스페리돈)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707618"
+  },
+  {
+   "itemSeq": "201707616",
+   "name": "리스달정3밀리그램(리스페리돈)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707616"
+  },
+  {
+   "itemSeq": "201801664",
+   "name": "리스돈정0.5밀리그램(리스페리돈)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "0.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801664"
+  },
+  {
+   "itemSeq": "201801838",
+   "name": "리페딘정1밀리그램(리스페리돈)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801838"
+  },
+  {
+   "itemSeq": "201901241",
+   "name": "엘페리돈정1밀리그램(리스페리돈)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901241"
+  },
+  {
+   "itemSeq": "201901240",
+   "name": "엘페리돈정2밀리그램(리스페리돈)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901240"
+  },
+  {
+   "itemSeq": "201906426",
+   "name": "뉴리페돈정1밀리그램(리스페리돈)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906426"
+  },
+  {
+   "itemSeq": "201906427",
+   "name": "뉴리페돈정2밀리그램(리스페리돈)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906427"
+  },
+  {
+   "itemSeq": "201908361",
+   "name": "리페넥스정1밀리그램(리스페리돈)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908361"
+  },
+  {
+   "itemSeq": "201908408",
+   "name": "리페넥스정2밀리그램(리스페리돈)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908408"
+  },
+  {
+   "itemSeq": "202002352",
+   "name": "리페돈정1밀리그램(리스페리돈)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002352"
+  },
+  {
+   "itemSeq": "202002353",
+   "name": "리페돈정2밀리그램(리스페리돈)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002353"
+  },
+  {
+   "itemSeq": "202003053",
+   "name": "리스달정0.5밀리그램(리스페리돈)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "0.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003053"
+  },
+  {
+   "itemSeq": "202004471",
+   "name": "리페넥스정0.5밀리그램(리스페리돈)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "0.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004471"
+  },
+  {
+   "itemSeq": "202004474",
+   "name": "리페넥스정3밀리그램(리스페리돈)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004474"
+  },
+  {
+   "itemSeq": "202102658",
+   "name": "리스페달정0.5밀리그램(리스페리돈)",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "0.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102658"
+  },
+  {
+   "itemSeq": "202102657",
+   "name": "리스페달정1밀리그램(리스페리돈)",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102657"
+  },
+  {
+   "itemSeq": "202102656",
+   "name": "리스페달정2밀리그램(리스페리돈)",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102656"
+  },
+  {
+   "itemSeq": "202102655",
+   "name": "리스페달정3밀리그램(리스페리돈)",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102655"
+  },
+  {
+   "itemSeq": "202502346",
+   "name": "유제디원엠주100밀리그램(리스페리돈)",
+   "company": "(주)한독테바",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502346"
+  },
+  {
+   "itemSeq": "202502347",
+   "name": "유제디원엠주125밀리그램(리스페리돈)",
+   "company": "(주)한독테바",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "125",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502347"
+  },
+  {
+   "itemSeq": "202502344",
+   "name": "유제디원엠주50밀리그램(리스페리돈)",
+   "company": "(주)한독테바",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502344"
+  },
+  {
+   "itemSeq": "202502345",
+   "name": "유제디원엠주75밀리그램(리스페리돈)",
+   "company": "(주)한독테바",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502345"
+  },
+  {
+   "itemSeq": "202502348",
+   "name": "유제디투엠주150밀리그램(리스페리돈)",
+   "company": "(주)한독테바",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502348"
+  },
+  {
+   "itemSeq": "202502349",
+   "name": "유제디투엠주200밀리그램(리스페리돈)",
+   "company": "(주)한독테바",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502349"
+  },
+  {
+   "itemSeq": "202502350",
+   "name": "유제디투엠주250밀리그램(리스페리돈)",
+   "company": "(주)한독테바",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502350"
+  },
+  {
+   "itemSeq": "202603087",
+   "name": "피엠에스리스페리돈정4밀리그램(리스페리돈)",
+   "company": "파마사이언스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리스페리돈",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-10-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603087"
+  }
+ ]
+}

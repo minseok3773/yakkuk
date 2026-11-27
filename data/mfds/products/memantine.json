@@ -1,0 +1,2415 @@
+{
+ "id": "memantine",
+ "query": [
+  "메만틴"
+ ],
+ "fetched": "2026-11-26",
+ "total": 148,
+ "kept": 148,
+ "mfdsName": [
+  "메만틴염산염",
+  "염산메만틴"
+ ],
+ "items": [
+  {
+   "itemSeq": "200308323",
+   "name": "에빅사액(메만틴염산염)",
+   "company": "한국룬드벡(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "1.0",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2003-08-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308323"
+  },
+  {
+   "itemSeq": "200308324",
+   "name": "에빅사정(메만틴염산염)",
+   "company": "한국룬드벡(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308324"
+  },
+  {
+   "itemSeq": "200502472",
+   "name": "디멘틴정(메만틴염산염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502472"
+  },
+  {
+   "itemSeq": "200501885",
+   "name": "에이디메드정10밀리그램(메만틴염산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501885"
+  },
+  {
+   "itemSeq": "200500643",
+   "name": "뉴로빅스액(염산메만틴)(수출용)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "염산메만틴",
+     "amount": "1",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2005-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500643"
+  },
+  {
+   "itemSeq": "200501552",
+   "name": "알빅스정10밀리그램(메만틴염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501552"
+  },
+  {
+   "itemSeq": "200501165",
+   "name": "펠로정10밀리그램(메만틴염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501165"
+  },
+  {
+   "itemSeq": "200501472",
+   "name": "디멘자정(메만틴염산염)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-04-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501472"
+  },
+  {
+   "itemSeq": "200501301",
+   "name": "디멘사정(메만틴염산염)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501301"
+  },
+  {
+   "itemSeq": "200500928",
+   "name": "자이머정10밀리그램(메만틴염산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-06-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500928"
+  },
+  {
+   "itemSeq": "200500430",
+   "name": "메만토정10밀리그램(메만틴염산염)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500430"
+  },
+  {
+   "itemSeq": "200500765",
+   "name": "동화메만틴정(메만틴염산염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500765"
+  },
+  {
+   "itemSeq": "200500892",
+   "name": "뉴로케이정(메만틴염산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-09-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500892"
+  },
+  {
+   "itemSeq": "200501860",
+   "name": "마빅스정(메만틴염산염)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-12-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501860"
+  },
+  {
+   "itemSeq": "200600463",
+   "name": "아멘틴정(메만틴염산염)",
+   "company": "미래바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600463"
+  },
+  {
+   "itemSeq": "200600358",
+   "name": "메비탄정(메만틴염산염)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-03-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600358"
+  },
+  {
+   "itemSeq": "200600564",
+   "name": "유넥스정(메만틴염산염)(수출용)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600564"
+  },
+  {
+   "itemSeq": "200612313",
+   "name": "에만틴정(메만틴염산염)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200612313"
+  },
+  {
+   "itemSeq": "201306987",
+   "name": "동구메만틴염산염정10밀리그램(수출용)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-04-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306987"
+  },
+  {
+   "itemSeq": "201404518",
+   "name": "환인메만틴정10밀리그램(메만틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404518"
+  },
+  {
+   "itemSeq": "201405063",
+   "name": "에자틴정(메만틴염산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405063"
+  },
+  {
+   "itemSeq": "201405370",
+   "name": "디만틴정10밀리그램(메만틴염산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405370"
+  },
+  {
+   "itemSeq": "201501639",
+   "name": "로만틴정10밀리그램(메만틴염산염)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501639"
+  },
+  {
+   "itemSeq": "201503647",
+   "name": "메모틴정10밀리그램(메만틴염산염)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503647"
+  },
+  {
+   "itemSeq": "201507906",
+   "name": "메만젠정10밀리그램(메만틴염산염)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507906"
+  },
+  {
+   "itemSeq": "201600877",
+   "name": "알쯔메틴정(메만틴염산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600877"
+  },
+  {
+   "itemSeq": "201601008",
+   "name": "메만시아정10mg(메만틴염산염)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601008"
+  },
+  {
+   "itemSeq": "201601050",
+   "name": "피엠에스메만틴정10mg(메만틴염산염)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601050"
+  },
+  {
+   "itemSeq": "201603359",
+   "name": "글리빅사정(메만틴염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603359"
+  },
+  {
+   "itemSeq": "201603470",
+   "name": "메모라틴정10mg(메만틴염산염)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603470"
+  },
+  {
+   "itemSeq": "201706584",
+   "name": "환인메만틴오디정10밀리그램(메만틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706584"
+  },
+  {
+   "itemSeq": "201706583",
+   "name": "환인메만틴오디정5밀리그램(메만틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706583"
+  },
+  {
+   "itemSeq": "201706674",
+   "name": "알만틴정10밀리그램(메만틴염산염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706674"
+  },
+  {
+   "itemSeq": "201706905",
+   "name": "에빅시아정10밀리그램(메만틴염산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706905"
+  },
+  {
+   "itemSeq": "201708084",
+   "name": "메만틸정(메만틴염산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708084"
+  },
+  {
+   "itemSeq": "201708542",
+   "name": "디만틴정5밀리그램(메만틴염산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708542"
+  },
+  {
+   "itemSeq": "201708559",
+   "name": "삼성메만틴정(메만틴염산염)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708559"
+  },
+  {
+   "itemSeq": "201800311",
+   "name": "프로메틴정(메만틴염산염)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800311"
+  },
+  {
+   "itemSeq": "201800794",
+   "name": "이지만틴정10밀리그램(메만틴염산염)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800794"
+  },
+  {
+   "itemSeq": "201801384",
+   "name": "모멘틴정(메만틴염산염)(수출용)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801384"
+  },
+  {
+   "itemSeq": "201901527",
+   "name": "뉴만틴정(메만틴염산염)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901527"
+  },
+  {
+   "itemSeq": "201901526",
+   "name": "메만텐정(메만틴염산염)",
+   "company": "메딕스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901526"
+  },
+  {
+   "itemSeq": "201901764",
+   "name": "메빅사정10밀리그램(메만틴염산염)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901764"
+  },
+  {
+   "itemSeq": "201902409",
+   "name": "메노빅사정(메만틴염산염)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902409"
+  },
+  {
+   "itemSeq": "201902775",
+   "name": "비엘메만틴정10mg(메만틴염산염)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902775"
+  },
+  {
+   "itemSeq": "201903153",
+   "name": "이든메만틴정10밀리그램(메만틴염산염)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903153"
+  },
+  {
+   "itemSeq": "201903640",
+   "name": "신신메만틴정(메만틴염산염)",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903640"
+  },
+  {
+   "itemSeq": "201903733",
+   "name": "메만사정(메만틴염산염)",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903733"
+  },
+  {
+   "itemSeq": "201903735",
+   "name": "메만티젠정(메만틴염산염)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903735"
+  },
+  {
+   "itemSeq": "201904395",
+   "name": "만티니정10밀리그램(메만틴염산염)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904395"
+  },
+  {
+   "itemSeq": "201906092",
+   "name": "멘틴정(메만틴염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906092"
+  },
+  {
+   "itemSeq": "201906361",
+   "name": "마만틴정(메만틴염산염)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906361"
+  },
+  {
+   "itemSeq": "201907050",
+   "name": "엔틱사정10밀리그램(메만틴염산염)",
+   "company": "(주)셀비온",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907050"
+  },
+  {
+   "itemSeq": "201908159",
+   "name": "메믹사정(메만틴염산염)",
+   "company": "삼남제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908159"
+  },
+  {
+   "itemSeq": "202000231",
+   "name": "실버빅사정(메만틴염산염)",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000231"
+  },
+  {
+   "itemSeq": "202000854",
+   "name": "메만진정10밀리그램(메만틴염산염)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000854"
+  },
+  {
+   "itemSeq": "202001552",
+   "name": "아만틴정(메만틴염산염)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001552"
+  },
+  {
+   "itemSeq": "202001720",
+   "name": "메만빅정10밀리그램(메만틴염산염)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001720"
+  },
+  {
+   "itemSeq": "202001763",
+   "name": "뉴로만틴정10밀리그램(메만틴염산염)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001763"
+  },
+  {
+   "itemSeq": "202002024",
+   "name": "알믹스정(메만틴염산염)",
+   "company": "(주)펜믹스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002024"
+  },
+  {
+   "itemSeq": "202002148",
+   "name": "뉴빅사정(메만틴염산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002148"
+  },
+  {
+   "itemSeq": "202002221",
+   "name": "젠빅사정10밀리그램(메만틴염산염)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002221"
+  },
+  {
+   "itemSeq": "202002447",
+   "name": "시빅스정(메만틴염산염)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002447"
+  },
+  {
+   "itemSeq": "202002647",
+   "name": "영일메만틴정(메만틴염산염)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002647"
+  },
+  {
+   "itemSeq": "202003049",
+   "name": "메틴엠정10밀리그램(메만틴염산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003049"
+  },
+  {
+   "itemSeq": "202003112",
+   "name": "씨트빅정(메만틴염산염)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003112"
+  },
+  {
+   "itemSeq": "202003712",
+   "name": "펠로정5밀리그램(메만틴염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003712"
+  },
+  {
+   "itemSeq": "202003931",
+   "name": "화이트메만틴정(메만틴염산염)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003931"
+  },
+  {
+   "itemSeq": "202004700",
+   "name": "메멘틴정10밀리그램(메만틴염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004700"
+  },
+  {
+   "itemSeq": "202007459",
+   "name": "펠로오디정10밀리그램(메만틴염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007459"
+  },
+  {
+   "itemSeq": "202007460",
+   "name": "펠로오디정5밀리그램(메만틴염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007460"
+  },
+  {
+   "itemSeq": "202107380",
+   "name": "에빅사정20밀리그램(메만틴염산염)",
+   "company": "한국룬드벡(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107380"
+  },
+  {
+   "itemSeq": "202108007",
+   "name": "비엘빅사정10밀리그램(메만틴염산염)",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108007"
+  },
+  {
+   "itemSeq": "202200176",
+   "name": "에이디메드정5밀리그램(메만틴염산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200176"
+  },
+  {
+   "itemSeq": "202203939",
+   "name": "디만틴정20밀리그램(메만틴염산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203939"
+  },
+  {
+   "itemSeq": "202301421",
+   "name": "펠로오디정20밀리그램(메만틴염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301421"
+  },
+  {
+   "itemSeq": "202301957",
+   "name": "에이디메드정20밀리그램(메만틴염산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301957"
+  },
+  {
+   "itemSeq": "202302992",
+   "name": "이지만틴정20밀리그램(메만틴염산염)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302992"
+  },
+  {
+   "itemSeq": "202400461",
+   "name": "메멘틴정20밀리그램(메만틴염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400461"
+  },
+  {
+   "itemSeq": "202400958",
+   "name": "환인메만틴오디정20밀리그램(메만틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400958"
+  },
+  {
+   "itemSeq": "202401043",
+   "name": "메빅사정20밀리그램(메만틴염산염)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401043"
+  },
+  {
+   "itemSeq": "202401047",
+   "name": "아만틴정20밀리그램(메만틴염산염)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401047"
+  },
+  {
+   "itemSeq": "202401044",
+   "name": "환인메만틴정20밀리그램(메만틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401044"
+  },
+  {
+   "itemSeq": "202401435",
+   "name": "알빅스정5밀리그램(메만틴염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-06-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401435"
+  },
+  {
+   "itemSeq": "202401445",
+   "name": "마빅스정20mg(메만틴염산염)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-06-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401445"
+  },
+  {
+   "itemSeq": "202401543",
+   "name": "알빅스정20밀리그램(메만틴염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401543"
+  },
+  {
+   "itemSeq": "202401709",
+   "name": "로만틴정20밀리그램(메만틴염산염)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-07-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401709"
+  },
+  {
+   "itemSeq": "202401820",
+   "name": "펠로정20밀리그램(메만틴염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401820"
+  },
+  {
+   "itemSeq": "202500125",
+   "name": "동화메만틴정20mg(메만틴염산염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-01-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500125"
+  },
+  {
+   "itemSeq": "202500154",
+   "name": "메틴엠정20밀리그램(메만틴염산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500154"
+  },
+  {
+   "itemSeq": "202500202",
+   "name": "알만틴정20밀리그램(메만틴염산염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500202"
+  },
+  {
+   "itemSeq": "202500201",
+   "name": "알만틴정5밀리그램(메만틴염산염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500201"
+  },
+  {
+   "itemSeq": "202500214",
+   "name": "환인메만틴정5밀리그램(메만틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-02-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500214"
+  },
+  {
+   "itemSeq": "202500223",
+   "name": "에자틴정20밀리그램(메만틴염산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-02-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500223"
+  },
+  {
+   "itemSeq": "202500258",
+   "name": "이든메만틴정20밀리그램(메만틴염산염)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-02-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500258"
+  },
+  {
+   "itemSeq": "202500257",
+   "name": "피엠에스메만틴정20mg(메만틴염산염)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-02-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500257"
+  },
+  {
+   "itemSeq": "202500256",
+   "name": "피엠에스메만틴정5mg(메만틴염산염)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-02-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500256"
+  },
+  {
+   "itemSeq": "202500349",
+   "name": "글리빅사정20밀리그램(메만틴염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-02-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500349"
+  },
+  {
+   "itemSeq": "202500341",
+   "name": "엔틱사정20밀리그램(메만틴염산염)",
+   "company": "(주)셀비온",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-02-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500341"
+  },
+  {
+   "itemSeq": "202500393",
+   "name": "자이머정20밀리그램(메만틴염산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500393"
+  },
+  {
+   "itemSeq": "202500399",
+   "name": "메모틴정20밀리그램(메만틴염산염)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500399"
+  },
+  {
+   "itemSeq": "202500713",
+   "name": "뉴메만틴정20밀리그램(메만틴염산염)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500713"
+  },
+  {
+   "itemSeq": "202500882",
+   "name": "메만타맥스정20밀리그램(메만틴염산염)",
+   "company": "명문바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500882"
+  },
+  {
+   "itemSeq": "202500919",
+   "name": "만티니정20밀리그램(메만틴염산염)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500919"
+  },
+  {
+   "itemSeq": "202500939",
+   "name": "뉴로만틴정20밀리그램(메만틴염산염)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500939"
+  },
+  {
+   "itemSeq": "202502817",
+   "name": "메만젠정5밀리그램(메만틴염산염)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502817"
+  },
+  {
+   "itemSeq": "202502973",
+   "name": "에자틴정5밀리그램(메만틴염산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502973"
+  },
+  {
+   "itemSeq": "202503062",
+   "name": "글리빅사정5밀리그램(메만틴염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503062"
+  },
+  {
+   "itemSeq": "202503086",
+   "name": "이든메만틴정5밀리그램(메만틴염산염)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503086"
+  },
+  {
+   "itemSeq": "202503180",
+   "name": "만티니정5밀리그램(메만틴염산염)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-12-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503180"
+  },
+  {
+   "itemSeq": "202503175",
+   "name": "메모틴정5밀리그램(메만틴염산염)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-12-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503175"
+  },
+  {
+   "itemSeq": "202503192",
+   "name": "자이머정5밀리그램(메만틴염산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-12-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503192"
+  },
+  {
+   "itemSeq": "202503271",
+   "name": "엔틱사정5밀리그램(메만틴염산염)",
+   "company": "(주)셀비온",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-12-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503271"
+  },
+  {
+   "itemSeq": "202602319",
+   "name": "뉴만틴정5밀리그램(메만틴염산염)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메만틴염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602319"
+  },
+  {
+   "itemSeq": "202402462",
+   "name": "디엠듀오정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402462"
+  },
+  {
+   "itemSeq": "202403048",
+   "name": "뉴로셉트듀오정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403048"
+  },
+  {
+   "itemSeq": "202403049",
+   "name": "뉴로페질엠정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403049"
+  },
+  {
+   "itemSeq": "202403047",
+   "name": "도멘시아정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403047"
+  },
+  {
+   "itemSeq": "202403046",
+   "name": "디멘듀오정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403046"
+  },
+  {
+   "itemSeq": "202403045",
+   "name": "메만셉트정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403045"
+  },
+  {
+   "itemSeq": "202403044",
+   "name": "알쯔콤프정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403044"
+  },
+  {
+   "itemSeq": "202403090",
+   "name": "아리플러스정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403090"
+  },
+  {
+   "itemSeq": "202600664",
+   "name": "뉴토인듀오정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600664"
+  },
+  {
+   "itemSeq": "202600662",
+   "name": "도네빅사정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600662"
+  },
+  {
+   "itemSeq": "202600665",
+   "name": "도네트엠정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600665"
+  },
+  {
+   "itemSeq": "202600658",
+   "name": "도메틴엠정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600658"
+  },
+  {
+   "itemSeq": "202600663",
+   "name": "알츠듀오정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600663"
+  },
+  {
+   "itemSeq": "202600759",
+   "name": "아리만틴정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600759"
+  },
+  {
+   "itemSeq": "202601319",
+   "name": "디엠콤비정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "(주)유앤생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601319"
+  },
+  {
+   "itemSeq": "202601376",
+   "name": "세레디엠정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601376"
+  },
+  {
+   "itemSeq": "202601402",
+   "name": "도네듀오정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601402"
+  },
+  {
+   "itemSeq": "202601417",
+   "name": "도네포스듀오정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601417"
+  },
+  {
+   "itemSeq": "202601448",
+   "name": "도네펜타정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "에스에스팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601448"
+  },
+  {
+   "itemSeq": "202601503",
+   "name": "디멘가드정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601503"
+  },
+  {
+   "itemSeq": "202601506",
+   "name": "에빅셉트정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601506"
+  },
+  {
+   "itemSeq": "202601570",
+   "name": "뉴돈피질듀오정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601570"
+  },
+  {
+   "itemSeq": "202601637",
+   "name": "도네플러스정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601637"
+  },
+  {
+   "itemSeq": "202602051",
+   "name": "도네만틴정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602051"
+  },
+  {
+   "itemSeq": "202602045",
+   "name": "알페질듀오정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602045"
+  },
+  {
+   "itemSeq": "202602266",
+   "name": "도네메듀오정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-08-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602266"
+  },
+  {
+   "itemSeq": "202602797",
+   "name": "로빅사듀오정10/20밀리그램(도네페질염산염, 메만틴염산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-09-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602797"
+  },
+  {
+   "itemSeq": "202602933",
+   "name": "도네엠듀오정10/20밀리그램(도네페질염산염,메만틴염산염)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602933"
+  },
+  {
+   "itemSeq": "202603074",
+   "name": "디멘틴듀오정10/20밀리그램(도네페질염산염,메만틴염산염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-10-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603074"
+  },
+  {
+   "itemSeq": "202603139",
+   "name": "디엠플러스정10/20밀리그램(도네페질염산염,메만틴염산염)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603139"
+  },
+  {
+   "itemSeq": "202603195",
+   "name": "디멘원정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603195"
+  },
+  {
+   "itemSeq": "202603196",
+   "name": "인빅사듀오정10/20밀리그램(도네페질염산염,메만틴염산염)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603196"
+  },
+  {
+   "itemSeq": "202603425",
+   "name": "알셉틴듀오정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-11-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603425"
+  },
+  {
+   "itemSeq": "202603474",
+   "name": "하이도네듀오정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603474"
+  }
+ ]
+}

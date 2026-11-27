@@ -1,0 +1,89 @@
+{
+ "id": "lurasidone",
+ "query": [
+  "루라시돈"
+ ],
+ "fetched": "2026-11-26",
+ "total": 5,
+ "kept": 5,
+ "mfdsName": [
+  "루라시돈염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "202303204",
+   "name": "라투다정120밀리그램(루라시돈염산염)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "루라시돈염산염",
+     "amount": "120",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-11-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303204"
+  },
+  {
+   "itemSeq": "202303207",
+   "name": "라투다정20밀리그램(루라시돈염산염)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "루라시돈염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-11-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303207"
+  },
+  {
+   "itemSeq": "202303208",
+   "name": "라투다정40밀리그램(루라시돈염산염)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "루라시돈염산염",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-11-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303208"
+  },
+  {
+   "itemSeq": "202303206",
+   "name": "라투다정60밀리그램(루라시돈염산염)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "루라시돈염산염",
+     "amount": "60",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-11-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303206"
+  },
+  {
+   "itemSeq": "202303205",
+   "name": "라투다정80밀리그램(루라시돈염산염)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "루라시돈염산염",
+     "amount": "80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-11-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303205"
+  }
+ ]
+}

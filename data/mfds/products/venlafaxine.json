@@ -1,0 +1,225 @@
+{
+ "id": "venlafaxine",
+ "query": [
+  "벤라팍신"
+ ],
+ "fetched": "2026-11-26",
+ "total": 14,
+ "kept": 14,
+ "mfdsName": [
+  "벤라팍신염산염서방성과립",
+  "벤라팍신염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "200308353",
+   "name": "이팩사엑스알서방캡슐75밀리그램",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤라팍신염산염",
+     "amount": "84.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-11-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308353"
+  },
+  {
+   "itemSeq": "200308354",
+   "name": "이팩사엑스알서방캡슐37.5밀리그램",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤라팍신염산염",
+     "amount": "42.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-11-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308354"
+  },
+  {
+   "itemSeq": "200500587",
+   "name": "베넥사엑스알서방캡슐75밀리그램(벤라팍신염산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤라팍신염산염",
+     "amount": "84.84",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500587"
+  },
+  {
+   "itemSeq": "200701830",
+   "name": "베라칸서방캡슐75밀리그램(벤라팍신염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤라팍신염산염서방성과립",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701830"
+  },
+  {
+   "itemSeq": "200701831",
+   "name": "벤라팩트서방캡슐(벤라팍신염산염)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤라팍신염산염서방성과립",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701831"
+  },
+  {
+   "itemSeq": "200701826",
+   "name": "벤팍신서방캡슐75밀리그램(벤라팍신염산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤라팍신염산염서방성과립",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701826"
+  },
+  {
+   "itemSeq": "200701823",
+   "name": "파마벤라팍신서방캡슐75밀리그램(벤라팍신염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤라팍신염산염서방성과립",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701823"
+  },
+  {
+   "itemSeq": "200710998",
+   "name": "코팩사엑스알서방캡슐75밀리그램(벤라팍신염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤라팍신염산염",
+     "amount": "84.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-10-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710998"
+  },
+  {
+   "itemSeq": "200802595",
+   "name": "베넥사엑스알서방캡슐37.5밀리그램(벤라팍신염산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤라팍신염산염",
+     "amount": "42.42",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-03-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802595"
+  },
+  {
+   "itemSeq": "200809448",
+   "name": "베라칸서방캡슐37.5밀리그램(벤라팍신염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤라팍신염산염서방성과립",
+     "amount": "125",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809448"
+  },
+  {
+   "itemSeq": "200809450",
+   "name": "벤라팩트서방캡슐37.5mg(벤라팍신염산염)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤라팍신염산염서방성과립",
+     "amount": "125",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809450"
+  },
+  {
+   "itemSeq": "200809452",
+   "name": "벤팍신서방캡슐37.5밀리그램(벤라팍신염산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤라팍신염산염서방성과립",
+     "amount": "125",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809452"
+  },
+  {
+   "itemSeq": "200809447",
+   "name": "파마벤라팍신서방캡슐37.5밀리그램(벤라팍신염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤라팍신염산염서방성과립",
+     "amount": "125",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809447"
+  },
+  {
+   "itemSeq": "201001057",
+   "name": "코팩사엑스알서방캡슐37.5밀리그램(벤라팍신염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤라팍신염산염",
+     "amount": "42.425",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001057"
+  }
+ ]
+}

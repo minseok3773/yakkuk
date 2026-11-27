@@ -1,0 +1,74 @@
+{
+ "id": "triazolam",
+ "query": [
+  "트리아졸람"
+ ],
+ "fetched": "2026-11-26",
+ "total": 4,
+ "kept": 4,
+ "mfdsName": [
+  "트리아졸람"
+ ],
+ "items": [
+  {
+   "itemSeq": "198902794",
+   "name": "트리람정0.25밀리그램(트리아졸람)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트리아졸람",
+     "amount": "0.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198902794"
+  },
+  {
+   "itemSeq": "198902801",
+   "name": "졸민정0.125밀리그램(트리아졸람)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트리아졸람",
+     "amount": "0.125",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-04-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198902801"
+  },
+  {
+   "itemSeq": "198902802",
+   "name": "졸민정0.25밀리그램(트리아졸람)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트리아졸람",
+     "amount": "0.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-04-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198902802"
+  },
+  {
+   "itemSeq": "201605409",
+   "name": "트리람정0.125밀리그램(트리아졸람)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "트리아졸람",
+     "amount": "0.125",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605409"
+  }
+ ]
+}

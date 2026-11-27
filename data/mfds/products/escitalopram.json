@@ -1,0 +1,1629 @@
+{
+ "id": "escitalopram",
+ "query": [
+  "에스시탈로프람"
+ ],
+ "fetched": "2026-11-26",
+ "total": 107,
+ "kept": 107,
+ "mfdsName": [
+  "에스시탈로프람옥살산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "200410513",
+   "name": "렉사프로정10밀리그람(에스시탈로프람옥살산염)",
+   "company": "한국룬드벡(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-12-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410513"
+  },
+  {
+   "itemSeq": "200410512",
+   "name": "렉사프로정5밀리그람(에스시탈로프람옥살산염)",
+   "company": "한국룬드벡(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-12-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410512"
+  },
+  {
+   "itemSeq": "200802853",
+   "name": "렉슬러정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802853"
+  },
+  {
+   "itemSeq": "200805818",
+   "name": "렉사큐어정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805818"
+  },
+  {
+   "itemSeq": "200806631",
+   "name": "엑스프람정10mg(에스시탈로프람옥살산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806631"
+  },
+  {
+   "itemSeq": "200806977",
+   "name": "렉사큐어정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806977"
+  },
+  {
+   "itemSeq": "200807491",
+   "name": "렉스시탐정5mg(에스시탈로프람옥살산염)(수출용)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807491"
+  },
+  {
+   "itemSeq": "200808362",
+   "name": "에스시탈정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808362"
+  },
+  {
+   "itemSeq": "200809300",
+   "name": "로프람정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809300"
+  },
+  {
+   "itemSeq": "200809337",
+   "name": "에드파정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809337"
+  },
+  {
+   "itemSeq": "200809514",
+   "name": "시타프렉스정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809514"
+  },
+  {
+   "itemSeq": "200809806",
+   "name": "엘사팜정10mg(에스시탈로프람옥살산염)(수출용)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809806"
+  },
+  {
+   "itemSeq": "200809825",
+   "name": "뉴프람정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809825"
+  },
+  {
+   "itemSeq": "200809813",
+   "name": "레시프람정(에스시탈로프람옥살산염)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809813"
+  },
+  {
+   "itemSeq": "200810125",
+   "name": "에스시탈정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-10-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810125"
+  },
+  {
+   "itemSeq": "200810237",
+   "name": "디푸로정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-10-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810237"
+  },
+  {
+   "itemSeq": "200810973",
+   "name": "에스시탐정(에스시탈로프람옥살산염)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810973"
+  },
+  {
+   "itemSeq": "200811019",
+   "name": "사로프람정10mg(에스시탈로프람옥살산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-11-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811019"
+  },
+  {
+   "itemSeq": "200811020",
+   "name": "세로카바정(에스시탈로프람옥살산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-11-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811020"
+  },
+  {
+   "itemSeq": "200811812",
+   "name": "에탈로프정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811812"
+  },
+  {
+   "itemSeq": "200900889",
+   "name": "렉사틴정(에스시탈로프람옥살산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200900889"
+  },
+  {
+   "itemSeq": "200900970",
+   "name": "렉시탈정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "초당약품공업(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200900970"
+  },
+  {
+   "itemSeq": "200900964",
+   "name": "에스토람정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200900964"
+  },
+  {
+   "itemSeq": "200901408",
+   "name": "시탈로정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901408"
+  },
+  {
+   "itemSeq": "200903829",
+   "name": "씨탈정(에스시탈로프람옥살산염)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903829"
+  },
+  {
+   "itemSeq": "200905339",
+   "name": "렉사프로정20밀리그람 (에스시탈로프람옥살산염)",
+   "company": "한국룬드벡(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905339"
+  },
+  {
+   "itemSeq": "200906974",
+   "name": "산도스에스시탈로프람정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906974"
+  },
+  {
+   "itemSeq": "200909282",
+   "name": "엘사팜정5mg(에스시탈로프람옥살산염)(수출용)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200909282"
+  },
+  {
+   "itemSeq": "201004680",
+   "name": "뉴프람정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004680"
+  },
+  {
+   "itemSeq": "201006155",
+   "name": "시타프렉스정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-10-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006155"
+  },
+  {
+   "itemSeq": "201104799",
+   "name": "시탈로정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201104799"
+  },
+  {
+   "itemSeq": "201104801",
+   "name": "에스시탐정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201104801"
+  },
+  {
+   "itemSeq": "201104798",
+   "name": "에탈로프정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201104798"
+  },
+  {
+   "itemSeq": "201107539",
+   "name": "뉴프람정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107539"
+  },
+  {
+   "itemSeq": "201206335",
+   "name": "렉사프로정15밀리그램(에스시탈로프람옥살산염)",
+   "company": "한국룬드벡(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "19.16",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206335"
+  },
+  {
+   "itemSeq": "201307484",
+   "name": "뉴프람정15밀리그램(에스시탈로프람옥살산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "19.155",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307484"
+  },
+  {
+   "itemSeq": "201400360",
+   "name": "사로프람정20mg(에스시탈로프람옥살산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400360"
+  },
+  {
+   "itemSeq": "201401786",
+   "name": "산도스에스시탈로프람정20밀리그램",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401786"
+  },
+  {
+   "itemSeq": "201401785",
+   "name": "산도스에스시탈로프람정15밀리그램",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "19.16",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401785"
+  },
+  {
+   "itemSeq": "201402856",
+   "name": "럭스푸람정(에스시탈로프람옥살산염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402856"
+  },
+  {
+   "itemSeq": "201404823",
+   "name": "에드파정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404823"
+  },
+  {
+   "itemSeq": "201500296",
+   "name": "에프람정15밀리그램(에스시탈로프람옥살산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "19.16",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500296"
+  },
+  {
+   "itemSeq": "201500294",
+   "name": "환인에스시탈로프람정5밀리그램(에스시탈로프람옥살산염)(수출용)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500294"
+  },
+  {
+   "itemSeq": "201500295",
+   "name": "환인에스시탈로프람정10밀리그램(에스시탈로프람옥살산염)(수출용)(수출명: WIE-1904)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500295"
+  },
+  {
+   "itemSeq": "201500297",
+   "name": "환인에스시탈로프람정20밀리그램(에스시탈로프람옥살산염)(수출용)(수출명: WIE-1904)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500297"
+  },
+  {
+   "itemSeq": "201500422",
+   "name": "엑스프람정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500422"
+  },
+  {
+   "itemSeq": "201501051",
+   "name": "산도스에스시탈로프람정5밀리그램",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501051"
+  },
+  {
+   "itemSeq": "201504988",
+   "name": "엑시프로정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504988"
+  },
+  {
+   "itemSeq": "201507426",
+   "name": "렉사젠정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507426"
+  },
+  {
+   "itemSeq": "201507681",
+   "name": "렉사젠정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507681"
+  },
+  {
+   "itemSeq": "201603360",
+   "name": "에스프람정10mg(에스시탈로프람옥살산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603360"
+  },
+  {
+   "itemSeq": "201603696",
+   "name": "렉사멜정10mg(에스시탈로프람옥살산염)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603696"
+  },
+  {
+   "itemSeq": "201603695",
+   "name": "렉사멜정20mg(에스시탈로프람옥살산염)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603695"
+  },
+  {
+   "itemSeq": "201701105",
+   "name": "세로카바정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701105"
+  },
+  {
+   "itemSeq": "201702247",
+   "name": "렉사스타정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702247"
+  },
+  {
+   "itemSeq": "201702248",
+   "name": "렉사스타정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702248"
+  },
+  {
+   "itemSeq": "201707445",
+   "name": "엑스프람정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707445"
+  },
+  {
+   "itemSeq": "201707607",
+   "name": "에드파정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707607"
+  },
+  {
+   "itemSeq": "201708044",
+   "name": "에탈로프정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-11-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708044"
+  },
+  {
+   "itemSeq": "201708416",
+   "name": "제프람정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708416"
+  },
+  {
+   "itemSeq": "201708465",
+   "name": "제프람정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708465"
+  },
+  {
+   "itemSeq": "201708466",
+   "name": "제프람정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708466"
+  },
+  {
+   "itemSeq": "201708561",
+   "name": "에스람정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708561"
+  },
+  {
+   "itemSeq": "201708560",
+   "name": "에스람정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708560"
+  },
+  {
+   "itemSeq": "201801444",
+   "name": "세로카바정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.385",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801444"
+  },
+  {
+   "itemSeq": "201801415",
+   "name": "에스시탐정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801415"
+  },
+  {
+   "itemSeq": "201802265",
+   "name": "렉사스타정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802265"
+  },
+  {
+   "itemSeq": "201802505",
+   "name": "시탈로정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802505"
+  },
+  {
+   "itemSeq": "201802618",
+   "name": "세로프람정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802618"
+  },
+  {
+   "itemSeq": "201802641",
+   "name": "넥사론정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802641"
+  },
+  {
+   "itemSeq": "201802751",
+   "name": "넥사론정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802751"
+  },
+  {
+   "itemSeq": "201901823",
+   "name": "렉사모정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901823"
+  },
+  {
+   "itemSeq": "201902045",
+   "name": "건프람정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902045"
+  },
+  {
+   "itemSeq": "201902044",
+   "name": "건프람정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902044"
+  },
+  {
+   "itemSeq": "201903129",
+   "name": "신신에스시탈로프람정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903129"
+  },
+  {
+   "itemSeq": "201903130",
+   "name": "신신에스시탈로프람정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903130"
+  },
+  {
+   "itemSeq": "201903268",
+   "name": "렉스프람정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903268"
+  },
+  {
+   "itemSeq": "201903284",
+   "name": "사로프람정5mg(에스시탈로프람옥살산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.385",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903284"
+  },
+  {
+   "itemSeq": "201904245",
+   "name": "한화에스시탈로프람정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904245"
+  },
+  {
+   "itemSeq": "201904246",
+   "name": "한화에스시탈로프람정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904246"
+  },
+  {
+   "itemSeq": "201905390",
+   "name": "렉시프람정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905390"
+  },
+  {
+   "itemSeq": "201905389",
+   "name": "렉시프람정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905389"
+  },
+  {
+   "itemSeq": "201905388",
+   "name": "렉시프람정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905388"
+  },
+  {
+   "itemSeq": "201905588",
+   "name": "렉사콜드정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905588"
+  },
+  {
+   "itemSeq": "201905589",
+   "name": "렉사콜드정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905589"
+  },
+  {
+   "itemSeq": "201905587",
+   "name": "렉사콜드정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905587"
+  },
+  {
+   "itemSeq": "201906124",
+   "name": "시타프릴정10mg(에스시탈로프람옥살산염)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906124"
+  },
+  {
+   "itemSeq": "201906512",
+   "name": "렉사원정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906512"
+  },
+  {
+   "itemSeq": "201906511",
+   "name": "렉사원정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906511"
+  },
+  {
+   "itemSeq": "201908114",
+   "name": "건프람정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908114"
+  },
+  {
+   "itemSeq": "202000260",
+   "name": "엔탈로프정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "(주)셀비온",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000260"
+  },
+  {
+   "itemSeq": "202000518",
+   "name": "이프람정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000518"
+  },
+  {
+   "itemSeq": "202000574",
+   "name": "이프람정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000574"
+  },
+  {
+   "itemSeq": "202000575",
+   "name": "이프람정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000575"
+  },
+  {
+   "itemSeq": "202002188",
+   "name": "에프람정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002188"
+  },
+  {
+   "itemSeq": "202002189",
+   "name": "에프람정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.39",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002189"
+  },
+  {
+   "itemSeq": "202003538",
+   "name": "에프람정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003538"
+  },
+  {
+   "itemSeq": "202004486",
+   "name": "넥사론정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004486"
+  },
+  {
+   "itemSeq": "202005300",
+   "name": "디푸로정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005300"
+  },
+  {
+   "itemSeq": "202204261",
+   "name": "사로프람정15mg(에스시탈로프람옥살산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "19.155",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204261"
+  },
+  {
+   "itemSeq": "202301561",
+   "name": "뉴프람오디정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301561"
+  },
+  {
+   "itemSeq": "202301560",
+   "name": "뉴프람오디정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301560"
+  },
+  {
+   "itemSeq": "202301562",
+   "name": "뉴프람오디정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.385",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301562"
+  },
+  {
+   "itemSeq": "202301593",
+   "name": "제프람멜츠구강붕해정20밀리그램(에스시탈로프람옥살산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "25.54",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301593"
+  },
+  {
+   "itemSeq": "202301591",
+   "name": "제프람멜츠구강붕해정10밀리그램(에스시탈로프람옥살산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "12.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301591"
+  },
+  {
+   "itemSeq": "202301592",
+   "name": "제프람멜츠구강붕해정5밀리그램(에스시탈로프람옥살산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "6.385",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301592"
+  },
+  {
+   "itemSeq": "202402283",
+   "name": "엑스프람정15밀리그램(에스시탈로프람옥살산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스시탈로프람옥살산염",
+     "amount": "19.155",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402283"
+  }
+ ]
+}

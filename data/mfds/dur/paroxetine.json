@@ -1,0 +1,44 @@
+{
+ "id": "paroxetine",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "paroxetine"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "pimozide",
+   "reason": "QT 간격 연장",
+   "self": "paroxetine hydrochloride (as paroxetine)"
+  },
+  {
+   "ingredient": "selegiline hydrochloride",
+   "reason": "세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+   "self": "paroxetine hydrochloride (as paroxetine)"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임신초기 3개월 이내 복용시 선천성기형(심실 및 심방중격결손 등) 발생 위험이 다른 항우울제에 비해 2.2배 높게 나타남.임신후기에 SSRIs 복용시 신생아 폐동맥고혈압존속증 위험성이 전체 인구 대비 4~5배 높게 관찰됨.출산 전 한달 이내 SSRIs 또는 SNRIs 노출에 따른 산후출혈의 위험성 증가(2배 미만) 보고.임신말기 3개월에 SSRIs 복용시 신생아 합병증(호흡곤란, 청색증 등) 보고.",
+   "ingredient": "paroxetine"
+  }
+ ],
+ "elderly": [],
+ "dose": [
+  {
+   "text": "1일 최대투여량: 파록세틴 60mg"
+  }
+ ],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "정신신경용제",
+   "subgroup": "Group 13",
+   "code": "117M0003"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

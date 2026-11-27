@@ -1,0 +1,354 @@
+{
+ "id": "atenolol",
+ "query": [
+  "아테놀롤"
+ ],
+ "fetched": "2026-11-27",
+ "total": 21,
+ "kept": 21,
+ "mfdsName": [
+  "아테놀롤"
+ ],
+ "items": [
+  {
+   "itemSeq": "198100700",
+   "name": "현대테놀민정50밀리그램(아테놀롤)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1981-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198100700"
+  },
+  {
+   "itemSeq": "198601273",
+   "name": "아놀렉스정50밀리그램(아테놀롤)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1986-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198601273"
+  },
+  {
+   "itemSeq": "198801068",
+   "name": "안테비놀정(아테놀롤)(수출용)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1988-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198801068"
+  },
+  {
+   "itemSeq": "198900577",
+   "name": "대우아테놀올정",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아테놀롤",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900577"
+  },
+  {
+   "itemSeq": "199100966",
+   "name": "삼천당아테놀올정(수출용)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1991-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199100966"
+  },
+  {
+   "itemSeq": "199400865",
+   "name": "아테노린정25밀리그램(아테놀롤)(수출용)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1994-09-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400865"
+  },
+  {
+   "itemSeq": "199504318",
+   "name": "현대테놀민정25밀리그램(아테놀롤)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1995-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199504318"
+  },
+  {
+   "itemSeq": "199501939",
+   "name": "신일아테놀올정(아테놀롤)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1995-08-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199501939"
+  },
+  {
+   "itemSeq": "200301771",
+   "name": "엠테놀정(아테놀롤)",
+   "company": "미래바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-11-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301771"
+  },
+  {
+   "itemSeq": "200404669",
+   "name": "아테놀민정50밀리그램(아테놀롤)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-01-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404669"
+  },
+  {
+   "itemSeq": "200403223",
+   "name": "테나롤정(아테놀롤)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-03-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403223"
+  },
+  {
+   "itemSeq": "200402399",
+   "name": "아테나정50밀리그램(아테놀롤)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402399"
+  },
+  {
+   "itemSeq": "200401353",
+   "name": "베테놀정(아테놀롤)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401353"
+  },
+  {
+   "itemSeq": "200404611",
+   "name": "아테날정(아테놀롤)",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404611"
+  },
+  {
+   "itemSeq": "201206305",
+   "name": "에이엘정(아테놀롤)(수출용)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206305"
+  },
+  {
+   "itemSeq": "201301654",
+   "name": "신일아테놀올정25밀리그램(아테놀롤)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201301654"
+  },
+  {
+   "itemSeq": "201601054",
+   "name": "올테놀정50mg(아테놀롤)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601054"
+  },
+  {
+   "itemSeq": "201907423",
+   "name": "알파아테놀올정(아테놀롤)",
+   "company": "알파제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907423"
+  },
+  {
+   "itemSeq": "198301004",
+   "name": "현대테노레틱정",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르탈리돈",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1983-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198301004"
+  },
+  {
+   "itemSeq": "200403982",
+   "name": "아소틴정(아테놀롤)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아테놀올",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-01-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403982"
+  },
+  {
+   "itemSeq": "200403255",
+   "name": "케이엠에스아테놀올정50mg",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아테놀롤",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아테놀올",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아테놀올",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403255"
+  }
+ ]
+}

@@ -1,0 +1,990 @@
+{
+ "id": "apixaban",
+ "query": [
+  "아픽사반"
+ ],
+ "fetched": "2026-11-27",
+ "total": 65,
+ "kept": 65,
+ "mfdsName": [
+  "아픽사반",
+  "아픽사반(미분화)"
+ ],
+ "items": [
+  {
+   "itemSeq": "201110501",
+   "name": "엘리퀴스정2.5밀리그램(아픽사반)",
+   "company": "(유)한국비엠에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반(미분화)",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201110501"
+  },
+  {
+   "itemSeq": "201305918",
+   "name": "엘리퀴스정5밀리그램(아픽사반)",
+   "company": "(유)한국비엠에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201305918"
+  },
+  {
+   "itemSeq": "201800478",
+   "name": "앤티사반정2.5mg(아픽사반)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800478"
+  },
+  {
+   "itemSeq": "201800477",
+   "name": "앤티사반정5mg(아픽사반)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800477"
+  },
+  {
+   "itemSeq": "201800475",
+   "name": "엘릭사반정2.5밀리그램(아픽사반)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800475"
+  },
+  {
+   "itemSeq": "201800474",
+   "name": "엘릭사반정5밀리그램(아픽사반)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800474"
+  },
+  {
+   "itemSeq": "201800487",
+   "name": "엘사반정2.5밀리그램(아픽사반)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반(미분화)",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800487"
+  },
+  {
+   "itemSeq": "201800488",
+   "name": "엘사반정5밀리그램(아픽사반)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800488"
+  },
+  {
+   "itemSeq": "201800502",
+   "name": "엘릭스정2.5mg(아픽사반)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800502"
+  },
+  {
+   "itemSeq": "201800501",
+   "name": "엘릭스정5mg(아픽사반)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800501"
+  },
+  {
+   "itemSeq": "201801005",
+   "name": "엘리반정2.5밀리그램(아픽사반)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801005"
+  },
+  {
+   "itemSeq": "201801006",
+   "name": "엘리반정5밀리그램(아픽사반)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801006"
+  },
+  {
+   "itemSeq": "201801416",
+   "name": "리퀴시아정2.5밀리그램(아픽사반)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801416"
+  },
+  {
+   "itemSeq": "201801417",
+   "name": "리퀴시아정5밀리그램(아픽사반)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801417"
+  },
+  {
+   "itemSeq": "201801517",
+   "name": "유한아픽사반정2.5mg(아픽사반)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801517"
+  },
+  {
+   "itemSeq": "201801518",
+   "name": "유한아픽사반정5mg(아픽사반)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801518"
+  },
+  {
+   "itemSeq": "201801643",
+   "name": "아픽큐정2.5밀리그램(아픽사반)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801643"
+  },
+  {
+   "itemSeq": "201801644",
+   "name": "아픽큐정5밀리그램(아픽사반)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801644"
+  },
+  {
+   "itemSeq": "201801765",
+   "name": "아피퀴스정2.5밀리그램(아픽사반)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801765"
+  },
+  {
+   "itemSeq": "201801764",
+   "name": "아피퀴스정5밀리그램(아픽사반)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801764"
+  },
+  {
+   "itemSeq": "201801830",
+   "name": "아픽사젠정2.5밀리그램(아픽사반)",
+   "company": "에스에스팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801830"
+  },
+  {
+   "itemSeq": "201801831",
+   "name": "아픽사젠정5밀리그램(아픽사반)",
+   "company": "에스에스팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801831"
+  },
+  {
+   "itemSeq": "201803813",
+   "name": "명인아픽사반정2.5mg",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803813"
+  },
+  {
+   "itemSeq": "201803814",
+   "name": "명인아픽사반정5mg",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803814"
+  },
+  {
+   "itemSeq": "201803815",
+   "name": "비알아픽스정2.5밀리그램(아픽사반)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803815"
+  },
+  {
+   "itemSeq": "201803816",
+   "name": "비알아픽스정5밀리그램(아픽사반)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803816"
+  },
+  {
+   "itemSeq": "201900685",
+   "name": "파비스아픽사반정2.5밀리그램",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900685"
+  },
+  {
+   "itemSeq": "201900684",
+   "name": "파비스아픽사반정5밀리그램",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900684"
+  },
+  {
+   "itemSeq": "201900897",
+   "name": "엘사정2.5mg(아픽사반(미분화))",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900897"
+  },
+  {
+   "itemSeq": "201900896",
+   "name": "엘사정5mg(아픽사반(미분화))",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반(미분화)",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900896"
+  },
+  {
+   "itemSeq": "201901739",
+   "name": "아픽사정2.5밀리그램(아픽사반)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901739"
+  },
+  {
+   "itemSeq": "201901740",
+   "name": "아픽사정5밀리그램(아픽사반)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901740"
+  },
+  {
+   "itemSeq": "201902188",
+   "name": "유닉사반정2.5밀리그램(아픽사반)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902188"
+  },
+  {
+   "itemSeq": "201902187",
+   "name": "유닉사반정5밀리그램(아픽사반)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902187"
+  },
+  {
+   "itemSeq": "201902237",
+   "name": "엘리픽사정2.5mg(아픽사반)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902237"
+  },
+  {
+   "itemSeq": "201902236",
+   "name": "엘리픽사정5mg(아픽사반)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902236"
+  },
+  {
+   "itemSeq": "201903566",
+   "name": "아픽코스정2.5밀리그램(아픽사반)(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903566"
+  },
+  {
+   "itemSeq": "201903565",
+   "name": "아픽코스정5밀리그램(아픽사반)(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903565"
+  },
+  {
+   "itemSeq": "201904397",
+   "name": "안국아픽사반정2.5밀리그램",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904397"
+  },
+  {
+   "itemSeq": "201904398",
+   "name": "안국아픽사반정5밀리그램",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904398"
+  },
+  {
+   "itemSeq": "201904400",
+   "name": "환인아픽사반정2.5밀리그램",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904400"
+  },
+  {
+   "itemSeq": "201904401",
+   "name": "환인아픽사반정5밀리그램",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904401"
+  },
+  {
+   "itemSeq": "201904601",
+   "name": "엔피퀴스정2.5밀리그램(아픽사반)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904601"
+  },
+  {
+   "itemSeq": "201904602",
+   "name": "엔피퀴스정5밀리그램(아픽사반)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904602"
+  },
+  {
+   "itemSeq": "201905371",
+   "name": "엘리사반정2.5밀리그램(아픽사반)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905371"
+  },
+  {
+   "itemSeq": "201905370",
+   "name": "엘리사반정5밀리그램(아픽사반)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905370"
+  },
+  {
+   "itemSeq": "201907176",
+   "name": "아픽플로정2.5밀리그램(아픽사반)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907176"
+  },
+  {
+   "itemSeq": "201907175",
+   "name": "아픽플로정5밀리그램(아픽사반)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907175"
+  },
+  {
+   "itemSeq": "201907267",
+   "name": "휴픽사반정2.5밀리그램(아픽사반)",
+   "company": "(주)휴메딕스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907267"
+  },
+  {
+   "itemSeq": "201907268",
+   "name": "휴픽사반정5밀리그램(아픽사반)",
+   "company": "(주)휴메딕스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907268"
+  },
+  {
+   "itemSeq": "201907632",
+   "name": "원픽사반정2.5밀리그램(아픽사반)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907632"
+  },
+  {
+   "itemSeq": "201907631",
+   "name": "원픽사반정5밀리그램(아픽사반)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907631"
+  },
+  {
+   "itemSeq": "201907754",
+   "name": "엘리하이정2.5밀리그램(아픽사반)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907754"
+  },
+  {
+   "itemSeq": "201907753",
+   "name": "엘리하이정5밀리그램(아픽사반)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907753"
+  },
+  {
+   "itemSeq": "201908231",
+   "name": "에이퀴스정 2.5밀리그램(아픽사반)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908231"
+  },
+  {
+   "itemSeq": "201908232",
+   "name": "에이퀴스정 5밀리그램(아픽사반)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908232"
+  },
+  {
+   "itemSeq": "202000524",
+   "name": "아픽솔정2.5밀리그램(아픽사반)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000524"
+  },
+  {
+   "itemSeq": "202000523",
+   "name": "아픽솔정5밀리그램(아픽사반)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000523"
+  },
+  {
+   "itemSeq": "202001995",
+   "name": "리사반정2.5밀리그램(아픽사반)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001995"
+  },
+  {
+   "itemSeq": "202002950",
+   "name": "엔빅사정2.5밀리그램(아픽사반)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002950"
+  },
+  {
+   "itemSeq": "202002949",
+   "name": "엔빅사정5밀리그램(아픽사반)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002949"
+  },
+  {
+   "itemSeq": "202004001",
+   "name": "알픽스정2.5밀리그램(아픽사반)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004001"
+  },
+  {
+   "itemSeq": "202004000",
+   "name": "알픽스정5밀리그램(아픽사반)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004000"
+  },
+  {
+   "itemSeq": "202400817",
+   "name": "아피가반정5밀리그램(아픽사반)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400817"
+  },
+  {
+   "itemSeq": "202401178",
+   "name": "아피가반정2.5밀리그램(아픽사반)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아픽사반",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401178"
+  }
+ ]
+}

@@ -1,0 +1,1879 @@
+{
+ "id": "topiramate",
+ "query": [
+  "토피라메이트"
+ ],
+ "fetched": "2026-11-27",
+ "total": 123,
+ "kept": 123,
+ "mfdsName": [
+  "토피라메이트"
+ ],
+ "items": [
+  {
+   "itemSeq": "200401252",
+   "name": "토파메이트정100밀리그램(토피라메이트)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401252"
+  },
+  {
+   "itemSeq": "200403319",
+   "name": "토팜정(토피라메이트)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403319"
+  },
+  {
+   "itemSeq": "200400323",
+   "name": "토파메드정100밀리그램(토피라메이트)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-12-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400323"
+  },
+  {
+   "itemSeq": "200500686",
+   "name": "토라맥정(토피라메이트)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500686"
+  },
+  {
+   "itemSeq": "200502866",
+   "name": "토피론정100밀리그램(토피라메이트)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502866"
+  },
+  {
+   "itemSeq": "200503065",
+   "name": "유니토파정100밀리그램(토피라메이트)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200503065"
+  },
+  {
+   "itemSeq": "200501237",
+   "name": "토피라트정100밀리그램(토피라메이트)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501237"
+  },
+  {
+   "itemSeq": "200502654",
+   "name": "토파민정(토피라메이트)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502654"
+  },
+  {
+   "itemSeq": "200512313",
+   "name": "토프람정100mg(토피라메이트)(수출용)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512313"
+  },
+  {
+   "itemSeq": "200502186",
+   "name": "토피라정100밀리그램(토피라메이트)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502186"
+  },
+  {
+   "itemSeq": "200501162",
+   "name": "토파메이트정25밀리그램(토피라메이트)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501162"
+  },
+  {
+   "itemSeq": "200502744",
+   "name": "토팜정25밀리그람(토피라메이트)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502744"
+  },
+  {
+   "itemSeq": "200502902",
+   "name": "토피론정25밀리그램(토피라메이트)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502902"
+  },
+  {
+   "itemSeq": "200600543",
+   "name": "세티정(토피라메이트)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-02-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600543"
+  },
+  {
+   "itemSeq": "200605461",
+   "name": "토펙스정100밀리그람(토피라메이트)(수출용)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-02-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605461"
+  },
+  {
+   "itemSeq": "200600081",
+   "name": "토파메드정25밀리그램(토피라메이트)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600081"
+  },
+  {
+   "itemSeq": "200604212",
+   "name": "토파씬정25밀리그램(토피라메이트)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604212"
+  },
+  {
+   "itemSeq": "200604258",
+   "name": "토피라맥스정25mg(토피라메이트)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604258"
+  },
+  {
+   "itemSeq": "200608183",
+   "name": "토피리드정25밀리그램(토피라메이트)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608183"
+  },
+  {
+   "itemSeq": "200604323",
+   "name": "토파민정25밀리그람(토피라메이트)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604323"
+  },
+  {
+   "itemSeq": "200605499",
+   "name": "유니토파정25밀리그람(토피라메이트)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605499"
+  },
+  {
+   "itemSeq": "200605410",
+   "name": "토피라트정25밀리그램(토피라메이트)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605410"
+  },
+  {
+   "itemSeq": "200608166",
+   "name": "토피라정25밀리그램(토피라메이트)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608166"
+  },
+  {
+   "itemSeq": "200608240",
+   "name": "세티정25밀리그람(토피라메이트)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-10-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608240"
+  },
+  {
+   "itemSeq": "200702019",
+   "name": "토핀정100밀리그램(토피라메이트)",
+   "company": "태극제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702019"
+  },
+  {
+   "itemSeq": "200702451",
+   "name": "토파씬정50밀리그램(토피라메이트)(수출용)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702451"
+  },
+  {
+   "itemSeq": "200702963",
+   "name": "토파케이정25mg(토피라메이트)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702963"
+  },
+  {
+   "itemSeq": "200703121",
+   "name": "토라맥정25mg(토피라메이트)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703121"
+  },
+  {
+   "itemSeq": "200703120",
+   "name": "폰다미스정25밀리그램(토피라메이트)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703120"
+  },
+  {
+   "itemSeq": "200703275",
+   "name": "토맥정 25밀리그램(토피라메이트)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703275"
+  },
+  {
+   "itemSeq": "200703233",
+   "name": "토펙스정25밀리그람(토피라메이트)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703233"
+  },
+  {
+   "itemSeq": "200704968",
+   "name": "토핀정25밀리그램(토피라메이트)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704968"
+  },
+  {
+   "itemSeq": "200705484",
+   "name": "토파드정25밀리그램(토피라메이트)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705484"
+  },
+  {
+   "itemSeq": "200706103",
+   "name": "토피론정50밀리그램(토피라메이트)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706103"
+  },
+  {
+   "itemSeq": "200804811",
+   "name": "토프람정50mg(토피라메이트)(수출용)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804811"
+  },
+  {
+   "itemSeq": "200806999",
+   "name": "토피트정(토피라메이트)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806999"
+  },
+  {
+   "itemSeq": "201309336",
+   "name": "폰다미스정100밀리그램(토피라메이트)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309336"
+  },
+  {
+   "itemSeq": "201400023",
+   "name": "토맥정(토피라메이트)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400023"
+  },
+  {
+   "itemSeq": "201400024",
+   "name": "토파씬정(토피라메이트)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400024"
+  },
+  {
+   "itemSeq": "201401064",
+   "name": "토파원정100밀리그램(토피라메이트)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401064"
+  },
+  {
+   "itemSeq": "201402171",
+   "name": "토피메정25밀리그램(토피라메이트)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402171"
+  },
+  {
+   "itemSeq": "201402937",
+   "name": "토피메정100밀리그램(토피라메이트)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402937"
+  },
+  {
+   "itemSeq": "201403151",
+   "name": "토피렉스정25밀리그램(토피라메이트)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403151"
+  },
+  {
+   "itemSeq": "201403599",
+   "name": "토파원정25밀리그램(토피라메이트)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403599"
+  },
+  {
+   "itemSeq": "201404441",
+   "name": "토맥스정100밀리그램(토피라메이트)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404441"
+  },
+  {
+   "itemSeq": "201405930",
+   "name": "토프라맥정25밀리그램(토피라메이트)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405930"
+  },
+  {
+   "itemSeq": "201502874",
+   "name": "토파로스정25밀리그램(토피라메이트)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502874"
+  },
+  {
+   "itemSeq": "201503517",
+   "name": "피엠에스토피라메이트정25밀리그램",
+   "company": "파마사이언스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503517"
+  },
+  {
+   "itemSeq": "201503842",
+   "name": "피엠에스토피라메이트정100밀리그램",
+   "company": "파마사이언스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503842"
+  },
+  {
+   "itemSeq": "201506136",
+   "name": "토파스정100밀리그램(토피라메이트)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506136"
+  },
+  {
+   "itemSeq": "201508116",
+   "name": "토피칸정25밀리그람(토피라메이트)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508116"
+  },
+  {
+   "itemSeq": "201601501",
+   "name": "토핀스정25밀리그램(토피라메이트)",
+   "company": "태극제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601501"
+  },
+  {
+   "itemSeq": "201602619",
+   "name": "토파린정100밀리그램(토피라메이트)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602619"
+  },
+  {
+   "itemSeq": "201603053",
+   "name": "토피렌정100밀리그램(토피라메이트)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603053"
+  },
+  {
+   "itemSeq": "201603054",
+   "name": "토피렌정25밀리그램(토피라메이트)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603054"
+  },
+  {
+   "itemSeq": "201603124",
+   "name": "토팔라스정25밀리그램(토피라메이트)",
+   "company": "정우신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603124"
+  },
+  {
+   "itemSeq": "201603565",
+   "name": "토라펜정(토피라메이트)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603565"
+  },
+  {
+   "itemSeq": "201704726",
+   "name": "토피메인정25밀리그램(토피라메이트)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704726"
+  },
+  {
+   "itemSeq": "201706471",
+   "name": "큐덱시서방캡슐100밀리그램(토피라메이트)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706471"
+  },
+  {
+   "itemSeq": "201706472",
+   "name": "큐덱시서방캡슐200밀리그램(토피라메이트)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706472"
+  },
+  {
+   "itemSeq": "201706473",
+   "name": "큐덱시서방캡슐25밀리그램(토피라메이트)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706473"
+  },
+  {
+   "itemSeq": "201706474",
+   "name": "큐덱시서방캡슐50밀리그램(토피라메이트)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706474"
+  },
+  {
+   "itemSeq": "201707452",
+   "name": "토라펜정100밀리그램(토피라메이트)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707452"
+  },
+  {
+   "itemSeq": "201800812",
+   "name": "토라메이트정(토피라메이트)",
+   "company": "(주)알피바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800812"
+  },
+  {
+   "itemSeq": "201801087",
+   "name": "토피메드정(토피라메이트)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801087"
+  },
+  {
+   "itemSeq": "201801153",
+   "name": "토피스정100밀리그램(토피라메이트)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801153"
+  },
+  {
+   "itemSeq": "201801152",
+   "name": "토피스정25밀리그램(토피라메이트)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801152"
+  },
+  {
+   "itemSeq": "201801418",
+   "name": "제스터정25밀리그램(토피라메이트)",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801418"
+  },
+  {
+   "itemSeq": "201802220",
+   "name": "피트메이트정(토피라메이트)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802220"
+  },
+  {
+   "itemSeq": "201803042",
+   "name": "토피맥스정25mg(토피라메이트)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803042"
+  },
+  {
+   "itemSeq": "201803489",
+   "name": "토파메트정25밀리그램(토피라메이트)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803489"
+  },
+  {
+   "itemSeq": "201804176",
+   "name": "토피버정100밀리그램(토피라메이트)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804176"
+  },
+  {
+   "itemSeq": "201804314",
+   "name": "토피라이정100밀리그램(토피라메이트)",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804314"
+  },
+  {
+   "itemSeq": "201804315",
+   "name": "토피라이정25밀리그램(토피라메이트)",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804315"
+  },
+  {
+   "itemSeq": "201804669",
+   "name": "토파엠정25밀리그램(토피라메이트)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804669"
+  },
+  {
+   "itemSeq": "201804893",
+   "name": "토파엠정100밀리그램(토피라메이트)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804893"
+  },
+  {
+   "itemSeq": "201805025",
+   "name": "피트메이트정100밀리그램(토피라메이트)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805025"
+  },
+  {
+   "itemSeq": "201901689",
+   "name": "토피맥스정100mg(토피라메이트)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901689"
+  },
+  {
+   "itemSeq": "201902183",
+   "name": "토라메이트정25mg(토피라메이트)",
+   "company": "(주)알피바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902183"
+  },
+  {
+   "itemSeq": "201902173",
+   "name": "토맥스정25밀리그램(토피라메이트)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902173"
+  },
+  {
+   "itemSeq": "201902238",
+   "name": "토피메드정100밀리그램(토피라메이트)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902238"
+  },
+  {
+   "itemSeq": "201906616",
+   "name": "토피버정25밀리그램(토피라메이트)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906616"
+  },
+  {
+   "itemSeq": "201907073",
+   "name": "아토맥정100밀리그램(토피라메이트)",
+   "company": "(주)아리제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907073"
+  },
+  {
+   "itemSeq": "201907140",
+   "name": "아토맥정25밀리그램(토피라메이트)",
+   "company": "(주)아리제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907140"
+  },
+  {
+   "itemSeq": "201907816",
+   "name": "한화토피라메이트정100밀리그램",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907816"
+  },
+  {
+   "itemSeq": "201907818",
+   "name": "한화토피라메이트정25밀리그램",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907818"
+  },
+  {
+   "itemSeq": "201908515",
+   "name": "토피스트정100밀리그램(토피라메이트)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908515"
+  },
+  {
+   "itemSeq": "201908514",
+   "name": "토피스트정25밀리그램(토피라메이트)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908514"
+  },
+  {
+   "itemSeq": "202000046",
+   "name": "토파맥정25밀리그램(토피라메이트)",
+   "company": "(주)바스칸바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000046"
+  },
+  {
+   "itemSeq": "202000433",
+   "name": "토파맥스스프링클캡슐50밀리그램(토피라메이트)",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000433"
+  },
+  {
+   "itemSeq": "202000434",
+   "name": "토파맥스스프링클캡슐25밀리그램(토피라메이트)",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000434"
+  },
+  {
+   "itemSeq": "202005251",
+   "name": "토피렌티정100밀리그램(토피라메이트)",
+   "company": "한국신텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005251"
+  },
+  {
+   "itemSeq": "202005395",
+   "name": "토피렌티정25밀리그램(토피라메이트)",
+   "company": "한국신텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005395"
+  },
+  {
+   "itemSeq": "202005672",
+   "name": "토파맥스정100밀리그램(토피라메이트)",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-08-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005672"
+  },
+  {
+   "itemSeq": "202005673",
+   "name": "토파맥스정25밀리그램(토피라메이트)",
+   "company": "(주)한국얀센",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-08-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005673"
+  },
+  {
+   "itemSeq": "202102646",
+   "name": "토라피정25밀리그램(토피라메이트)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102646"
+  },
+  {
+   "itemSeq": "202105130",
+   "name": "토피아정(토피라메이트)",
+   "company": "(주)서흥",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105130"
+  },
+  {
+   "itemSeq": "202105535",
+   "name": "에스토프정100mg(토피라메이트)",
+   "company": "(주)옵투스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105535"
+  },
+  {
+   "itemSeq": "202105534",
+   "name": "에스토프정25mg(토피라메이트)",
+   "company": "(주)옵투스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105534"
+  },
+  {
+   "itemSeq": "202105680",
+   "name": "토피에이정25밀리그램(토피라메이트)",
+   "company": "성이바이오제약주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105680"
+  },
+  {
+   "itemSeq": "202106014",
+   "name": "토피에이정(토피라메이트)",
+   "company": "성이바이오제약주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106014"
+  },
+  {
+   "itemSeq": "202106847",
+   "name": "토피메이트정25밀리그램(토피라메이트)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106847"
+  },
+  {
+   "itemSeq": "202106895",
+   "name": "토라피정100밀리그램(토피라메이트)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106895"
+  },
+  {
+   "itemSeq": "202107135",
+   "name": "토파미정100밀리그램(토피라메이트)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107135"
+  },
+  {
+   "itemSeq": "202107457",
+   "name": "토피린정25밀리그램(토피라메이트)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107457"
+  },
+  {
+   "itemSeq": "202107518",
+   "name": "토피탑정100밀리그램(토피라메이트)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107518"
+  },
+  {
+   "itemSeq": "202107517",
+   "name": "토피탑정25밀리그램(토피라메이트)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107517"
+  },
+  {
+   "itemSeq": "202200266",
+   "name": "토파린정25밀리그램(토피라메이트)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200266"
+  },
+  {
+   "itemSeq": "202402296",
+   "name": "토피메드서방정50밀리그램(토피라메이트)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402296"
+  },
+  {
+   "itemSeq": "202402815",
+   "name": "토피메드서방정25밀리그램(토피라메이트)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402815"
+  },
+  {
+   "itemSeq": "202402828",
+   "name": "세티서방정50밀리그램(토피라메이트)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402828"
+  },
+  {
+   "itemSeq": "202402827",
+   "name": "토라펜엑스알서방정50밀리그램(토피라메이트)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402827"
+  },
+  {
+   "itemSeq": "202402953",
+   "name": "토라펜엑스알서방정25밀리그램(토피라메이트)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402953"
+  },
+  {
+   "itemSeq": "202402973",
+   "name": "세티서방정25밀리그램(토피라메이트)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402973"
+  },
+  {
+   "itemSeq": "202500741",
+   "name": "토파미정25밀리그램(토피라메이트)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500741"
+  },
+  {
+   "itemSeq": "202501907",
+   "name": "종근당토피라메이트서방정25밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501907"
+  },
+  {
+   "itemSeq": "202501908",
+   "name": "종근당토피라메이트서방정50밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501908"
+  },
+  {
+   "itemSeq": "202602800",
+   "name": "토피메드서방정100밀리그램(토피라메이트)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-09-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602800"
+  },
+  {
+   "itemSeq": "202603250",
+   "name": "종근당토피라메이트서방정100밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "토피라메이트",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603250"
+  },
+  {
+   "itemSeq": "201905408",
+   "name": "큐시미아캡슐11.25mg/69mg",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "펜터민염산염",
+     "amount": "14.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토피라메이트",
+     "amount": "69.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905408"
+  },
+  {
+   "itemSeq": "201905407",
+   "name": "큐시미아캡슐15mg/92mg",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "펜터민염산염",
+     "amount": "18.66",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토피라메이트",
+     "amount": "92.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905407"
+  },
+  {
+   "itemSeq": "201905406",
+   "name": "큐시미아캡슐3.75mg/23mg",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "펜터민염산염",
+     "amount": "4.67",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토피라메이트",
+     "amount": "23.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905406"
+  },
+  {
+   "itemSeq": "201905405",
+   "name": "큐시미아캡슐7.5mg/46mg",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "펜터민염산염",
+     "amount": "9.33",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "토피라메이트",
+     "amount": "46.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905405"
+  }
+ ]
+}

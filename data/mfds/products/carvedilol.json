@@ -1,0 +1,1277 @@
+{
+ "id": "carvedilol",
+ "query": [
+  "카르베딜롤",
+  "카베딜롤"
+ ],
+ "fetched": "2026-11-26",
+ "total": 83,
+ "kept": 83,
+ "mfdsName": [
+  "카르베딜롤",
+  "카르베딜롤과립",
+  "카르베딜롤 과립"
+ ],
+ "items": [
+  {
+   "itemSeq": "199400114",
+   "name": "딜라트렌정25mg(카르베딜롤)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1994-08-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400114"
+  },
+  {
+   "itemSeq": "199800086",
+   "name": "딜라트렌정12.5mg(카르베딜롤)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199800086"
+  },
+  {
+   "itemSeq": "199800085",
+   "name": "딜라트렌정6.25mg(카르베딜롤)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "6.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199800085"
+  },
+  {
+   "itemSeq": "200003080",
+   "name": "카르베롤정25밀리그램(카르베딜롤)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200003080"
+  },
+  {
+   "itemSeq": "200101634",
+   "name": "원베롤정(카르베딜롤)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-06-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101634"
+  },
+  {
+   "itemSeq": "200100175",
+   "name": "카베딜정25밀리그람(카르베딜롤)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100175"
+  },
+  {
+   "itemSeq": "200100858",
+   "name": "알보젠카베디롤정25밀리그램(카르베딜롤)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-11-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100858"
+  },
+  {
+   "itemSeq": "200101040",
+   "name": "카터정25밀리그램(카르베딜롤)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-11-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200101040"
+  },
+  {
+   "itemSeq": "200201408",
+   "name": "카베돌정(카르베딜롤)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201408"
+  },
+  {
+   "itemSeq": "200201883",
+   "name": "카딜란정(카르베딜롤)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201883"
+  },
+  {
+   "itemSeq": "200200448",
+   "name": "카베디아정25밀리그램(카르베딜롤)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200448"
+  },
+  {
+   "itemSeq": "200200071",
+   "name": "카베날정25밀리그램(카르베딜롤)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200071"
+  },
+  {
+   "itemSeq": "200301032",
+   "name": "디란트정25밀리그램(카르베딜롤)(수출명:비미데신정(카르베딜롤))",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-01-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301032"
+  },
+  {
+   "itemSeq": "200301045",
+   "name": "카디렌정25밀리그램(카르베딜롤)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301045"
+  },
+  {
+   "itemSeq": "200308578",
+   "name": "바소트롤정25밀리그램(카르베딜롤)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308578"
+  },
+  {
+   "itemSeq": "200301305",
+   "name": "딜라돌정25밀리그램(카르베딜롤)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301305"
+  },
+  {
+   "itemSeq": "200300800",
+   "name": "안국카르베딜롤정25밀리그램",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300800"
+  },
+  {
+   "itemSeq": "200404060",
+   "name": "카르베정(카르베딜롤)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404060"
+  },
+  {
+   "itemSeq": "200401062",
+   "name": "카베딘정25밀리그람(카르베딜롤)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401062"
+  },
+  {
+   "itemSeq": "200401359",
+   "name": "카베타정(카르베딜롤)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401359"
+  },
+  {
+   "itemSeq": "200400565",
+   "name": "바이넥스카르베딜롤정25밀리그람",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400565"
+  },
+  {
+   "itemSeq": "200410892",
+   "name": "듀베롤정(카르베딜롤)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410892"
+  },
+  {
+   "itemSeq": "200401742",
+   "name": "인트랙정(카르베딜롤)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401742"
+  },
+  {
+   "itemSeq": "200402880",
+   "name": "카르디날정25mg(카르베딜롤)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402880"
+  },
+  {
+   "itemSeq": "200402952",
+   "name": "카베닐정(카르베딜롤)",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402952"
+  },
+  {
+   "itemSeq": "200411009",
+   "name": "알베롤정(카르베딜롤)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200411009"
+  },
+  {
+   "itemSeq": "200400300",
+   "name": "바소딜렌정(카르베딜롤)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400300"
+  },
+  {
+   "itemSeq": "200400177",
+   "name": "바소트롤정12.5밀리그램(카르베딜롤)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400177"
+  },
+  {
+   "itemSeq": "200403405",
+   "name": "카비롤정(카르베딜롤)(수출명 : CARVILOL tabs.)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403405"
+  },
+  {
+   "itemSeq": "200400683",
+   "name": "카디론정(카르베딜롤)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400683"
+  },
+  {
+   "itemSeq": "200402825",
+   "name": "카베올정(카르베딜롤)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402825"
+  },
+  {
+   "itemSeq": "200402352",
+   "name": "카딜란정12.5밀리그램(카르베딜롤)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-12-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402352"
+  },
+  {
+   "itemSeq": "200501395",
+   "name": "알파디롤정(카르베딜롤)",
+   "company": "삼남제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501395"
+  },
+  {
+   "itemSeq": "200502087",
+   "name": "카베트렌정(카르베딜롤)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502087"
+  },
+  {
+   "itemSeq": "200600352",
+   "name": "원베롤정12.5mg(카르베딜롤)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600352"
+  },
+  {
+   "itemSeq": "200701226",
+   "name": "카베날정12.5밀리그램(카르베딜롤)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701226"
+  },
+  {
+   "itemSeq": "200702199",
+   "name": "바이넥스카르베딜롤정12.5mg",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702199"
+  },
+  {
+   "itemSeq": "200702195",
+   "name": "안국카르베딜롤정12.5밀리그램",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702195"
+  },
+  {
+   "itemSeq": "200702200",
+   "name": "알보젠카베디롤정12.5밀리그램(카르베딜롤)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702200"
+  },
+  {
+   "itemSeq": "200702202",
+   "name": "인트랙정12.5밀리그램(카르베딜롤)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702202"
+  },
+  {
+   "itemSeq": "200702194",
+   "name": "카르디날정12.5mg(카르베딜롤)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702194"
+  },
+  {
+   "itemSeq": "200702191",
+   "name": "카베디아정12.5밀리그램(카르베딜롤)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702191"
+  },
+  {
+   "itemSeq": "200702521",
+   "name": "카르베롤정12.5밀리그램(카르베딜롤)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702521"
+  },
+  {
+   "itemSeq": "200705095",
+   "name": "카터정12.5밀리그램(카르베딜롤)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705095"
+  },
+  {
+   "itemSeq": "201001744",
+   "name": "딜라트렌에스알캡슐64밀리그램(카르베딜롤)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤과립",
+     "amount": "351.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001744"
+  },
+  {
+   "itemSeq": "201104026",
+   "name": "딜라트렌정3.125mg(카르베딜롤)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "3.125",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201104026"
+  },
+  {
+   "itemSeq": "201200186",
+   "name": "바소트롤정6.25밀리그램(카르베딜롤)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "6.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-01-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200186"
+  },
+  {
+   "itemSeq": "201206935",
+   "name": "딜라트렌에스알캡슐16밀리그램(카르베딜롤)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤과립",
+     "amount": "87.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206935"
+  },
+  {
+   "itemSeq": "201206936",
+   "name": "딜라트렌에스알캡슐32밀리그램(카르베딜롤)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤과립",
+     "amount": "175.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206936"
+  },
+  {
+   "itemSeq": "201206934",
+   "name": "딜라트렌에스알캡슐8밀리그램(카르베딜롤)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤과립",
+     "amount": "43.9",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206934"
+  },
+  {
+   "itemSeq": "201206939",
+   "name": "글로디올정(카르베딜롤)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206939"
+  },
+  {
+   "itemSeq": "201302990",
+   "name": "경보카르베딜롤정",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201302990"
+  },
+  {
+   "itemSeq": "201306136",
+   "name": "카르벨라정25밀리그램(카르베딜롤)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306136"
+  },
+  {
+   "itemSeq": "201404425",
+   "name": "카르베롤서방캡슐16밀리그램(카르베딜롤)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "16.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404425"
+  },
+  {
+   "itemSeq": "201404426",
+   "name": "카르베롤서방캡슐32밀리그램(카르베딜롤)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "32.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404426"
+  },
+  {
+   "itemSeq": "201404423",
+   "name": "카르베롤서방캡슐64밀리그램(카르베딜롤)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "64.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404423"
+  },
+  {
+   "itemSeq": "201404424",
+   "name": "카르베롤서방캡슐8밀리그램(카르베딜롤)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404424"
+  },
+  {
+   "itemSeq": "201603872",
+   "name": "뉴카르벨로정12.5밀리그램(카르베딜롤)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603872"
+  },
+  {
+   "itemSeq": "201603873",
+   "name": "뉴카르벨로정25밀리그램(카르베딜롤)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603873"
+  },
+  {
+   "itemSeq": "201604129",
+   "name": "딜라트롤정(카르베딜롤)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604129"
+  },
+  {
+   "itemSeq": "201803166",
+   "name": "딜라베딜정(카르베딜롤)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803166"
+  },
+  {
+   "itemSeq": "201804868",
+   "name": "달라트정12.5mg(카르베딜롤)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804868"
+  },
+  {
+   "itemSeq": "201804867",
+   "name": "달라트정25mg(카르베딜롤)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804867"
+  },
+  {
+   "itemSeq": "201805113",
+   "name": "뉴딜렌정12.5밀리그램(카르베딜롤)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805113"
+  },
+  {
+   "itemSeq": "201805114",
+   "name": "뉴딜렌정25밀리그램(카르베딜롤)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805114"
+  },
+  {
+   "itemSeq": "201805247",
+   "name": "카르베타정12.5밀리그램(카르베딜롤)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805247"
+  },
+  {
+   "itemSeq": "201805248",
+   "name": "카르베타정25밀리그램(카르베딜롤)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805248"
+  },
+  {
+   "itemSeq": "201904336",
+   "name": "인트랙정6.25밀리그램(카르베딜롤)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "6.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904336"
+  },
+  {
+   "itemSeq": "201905306",
+   "name": "카비롤정12.5밀리그램(카르베딜롤)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905306"
+  },
+  {
+   "itemSeq": "201905369",
+   "name": "딜라텐정12.5밀리그램(카르베딜롤)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905369"
+  },
+  {
+   "itemSeq": "201905582",
+   "name": "카베씨티정12.5mg(카르베딜롤)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905582"
+  },
+  {
+   "itemSeq": "201905581",
+   "name": "카베씨티정25mg(카르베딜롤)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905581"
+  },
+  {
+   "itemSeq": "201905686",
+   "name": "디카베엠정25mg(카르베딜롤)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905686"
+  },
+  {
+   "itemSeq": "201905923",
+   "name": "딜라텐정25밀리그램(카르베딜롤)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905923"
+  },
+  {
+   "itemSeq": "201905899",
+   "name": "카라베정25밀리그램(카르베딜롤)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905899"
+  },
+  {
+   "itemSeq": "201907207",
+   "name": "건카베딜정12.5밀리그램(카르베딜롤)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907207"
+  },
+  {
+   "itemSeq": "201907208",
+   "name": "건카베딜정25밀리그램(카르베딜롤)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907208"
+  },
+  {
+   "itemSeq": "201907723",
+   "name": "카르벳정(카르베딜롤)",
+   "company": "(주)킴스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907723"
+  },
+  {
+   "itemSeq": "201908436",
+   "name": "카베딜정12.5밀리그램(카르베딜롤)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908436"
+  },
+  {
+   "itemSeq": "202002674",
+   "name": "딜라트렌에스알정16밀리그램(카르베딜롤)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤과립",
+     "amount": "87.80",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002674"
+  },
+  {
+   "itemSeq": "202002673",
+   "name": "딜라트렌에스알정8밀리그램(카르베딜롤)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤과립",
+     "amount": "43.90",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002673"
+  },
+  {
+   "itemSeq": "202202662",
+   "name": "딜라트렌에스알정32밀리그램(카르베딜롤)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤 과립",
+     "amount": "175.60",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202662"
+  },
+  {
+   "itemSeq": "202202661",
+   "name": "딜라트렌에스알정64밀리그램(카르베딜롤)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르베딜롤 과립",
+     "amount": "351.20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202661"
+  }
+ ]
+}

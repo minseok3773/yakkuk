@@ -1,0 +1,385 @@
+{
+ "id": "enalapril",
+ "query": [
+  "에날라프릴"
+ ],
+ "fetched": "2026-11-26",
+ "total": 24,
+ "kept": 24,
+ "mfdsName": [
+  "에날라프릴말레산염",
+  "말레인산에날라프릴"
+ ],
+ "items": [
+  {
+   "itemSeq": "198800153",
+   "name": "에나프린정10밀리그램(에날라프릴말레산염)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에날라프릴말레산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1988-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198800153"
+  },
+  {
+   "itemSeq": "198900125",
+   "name": "에나프린정5밀리그램(에날라프릴말레산염)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에날라프릴말레산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에날라프릴말레산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900125"
+  },
+  {
+   "itemSeq": "199001919",
+   "name": "에날정(에날라프릴말레산염)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에날라프릴말레산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1990-06-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199001919"
+  },
+  {
+   "itemSeq": "199000574",
+   "name": "에포트릴정(에날라프릴말레산염)(수출용)",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에날라프릴말레산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1990-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199000574"
+  },
+  {
+   "itemSeq": "199100749",
+   "name": "에날린정(에날라프릴말레산염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에날라프릴말레산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1991-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199100749"
+  },
+  {
+   "itemSeq": "199200104",
+   "name": "에카릴정10밀리그람(에날라프릴말레산염)(수출명 : SHINAPRIL Tablet)(수출용)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에날라프릴말레산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1992-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199200104"
+  },
+  {
+   "itemSeq": "199301196",
+   "name": "에이린정10밀리그램(에날라프릴말레산염)(수출용)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에날라프릴말레산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1993-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199301196"
+  },
+  {
+   "itemSeq": "199302812",
+   "name": "에프린정(에날라프릴말레산염)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에날라프릴말레산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1993-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199302812"
+  },
+  {
+   "itemSeq": "199402362",
+   "name": "레프릴정10밀리그람(에날라프릴말레산염)(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에날라프릴말레산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1994-10-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199402362"
+  },
+  {
+   "itemSeq": "199502167",
+   "name": "엘포날정10밀리그램(에날라프릴말레산염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에날라프릴말레산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1995-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199502167"
+  },
+  {
+   "itemSeq": "199703561",
+   "name": "데번프릴정5밀리그람(말레인산에날라프릴)(수출용)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "말레인산에날라프릴",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199703561"
+  },
+  {
+   "itemSeq": "199803677",
+   "name": "바소텍정20mg(말레인산에날라프릴)(수출용)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "말레인산에날라프릴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199803677"
+  },
+  {
+   "itemSeq": "200003432",
+   "name": "씨엠지말레인산에날라프릴정10mg",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에날라프릴말레산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-01-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200003432"
+  },
+  {
+   "itemSeq": "200100264",
+   "name": "레니프릴정10밀리그램(에날라프릴말레산염)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에날라프릴말레산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100264"
+  },
+  {
+   "itemSeq": "200110053",
+   "name": "레니프릴정5밀리그램(에날라프릴말레산염)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에날라프릴말레산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200110053"
+  },
+  {
+   "itemSeq": "200404610",
+   "name": "라프릴정(에날라프릴말레산염)",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에날라프릴말레산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404610"
+  },
+  {
+   "itemSeq": "200400613",
+   "name": "날프릴정(에날라프릴말레산염)",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에날라프릴말레산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400613"
+  },
+  {
+   "itemSeq": "200402607",
+   "name": "엘프린정(에날라프릴말레산염)",
+   "company": "(주)아리제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에날라프릴말레산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402607"
+  },
+  {
+   "itemSeq": "200404866",
+   "name": "에날프릴정(에날라프릴말레산염)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에날라프릴말레산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404866"
+  },
+  {
+   "itemSeq": "200606688",
+   "name": "하원에날라프릴정5mg(말레인산에날라프릴)(수출용)",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "말레인산에날라프릴",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-11-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606688"
+  },
+  {
+   "itemSeq": "200612058",
+   "name": "나리텍정20mg(말레인산에날라프릴)(수출용)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "말레인산에날라프릴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200612058"
+  },
+  {
+   "itemSeq": "200701834",
+   "name": "엘라프릴정(말레인산에날라프릴)(수출용)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "말레인산에날라프릴",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701834"
+  },
+  {
+   "itemSeq": "200702080",
+   "name": "네프릴정5밀리그램(말레인산에날라프릴)(수출용)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "말레인산에날라프릴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702080"
+  },
+  {
+   "itemSeq": "200301151",
+   "name": "듀프릴정(수출용)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에날라프릴말레산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301151"
+  }
+ ]
+}

@@ -1,0 +1,783 @@
+{
+ "id": "selegiline",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "selegiline"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "almotriptan maleate (as almotriptan)",
+   "reason": "동맥 고혈압, 관상동맥 수축의 위험이 있음",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "bupropion hydrochloride",
+   "reason": "bupropion의 급성독성 증가",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "cyclobenzaprine hydrochloride",
+   "reason": "고혈압, 저혈압, 발한을 동반한 심각한 중추신경계 이상반응(현기, 진전, 발작등)",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "fluoxetine hydrochloride (as fluoxetine)",
+   "reason": "세로토닌성 증후군 (고혈압, 고열, 경련, 정신상태 변화등)",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "fluoxetine hydrochloride (as fluoxetine)",
+   "reason": "세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "frovatriptan succinate monohydrate (as frovatriptan)",
+   "reason": "동맥 고혈압, 관상동맥 수축의 위험이 있음",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "linezolid",
+   "reason": "고혈압 위기의 위험 증가, 투여 중지 후 MAO억제제인 다른 약물을 투여하기까지 적어도 14일 이상 사이를 두어야 함",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "morphine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "morphine sulfate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "naratriptan hydrochloride (as naratriptan)",
+   "reason": "동맥 고혈압, 관상동맥 수축의 위험이 있음",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "amitriptyline hydrochloride",
+   "reason": "이상고열, 전신경련, 발한, 불온, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "apraclonidine hydrochloride (as apraclonidine)",
+   "reason": "교감신경흥분제의 작용 증강 또는 연장(고혈압, 빈맥 등)",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "atomoxetine hydrochloride (as atomoxetine)",
+   "reason": "고열, 경직, 간대성근경련, 정신상태 변화 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "brimonidine tartrate",
+   "reason": "교감신경흥분제의 작용 증강 또는 연장(고혈압, 빈맥 등)",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "buspirone hydrochloride",
+   "reason": "혈압상승",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "carbamazepine",
+   "reason": "고혈압, 저혈압, 발한을 동반한 심각한 중추신경계 이상반응(현기, 진전, 발작 등)",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "clomipramine hydrochloride",
+   "reason": "고혈압위기, 이상고열증, 근간대경련, 격월성 발작, 정신착란, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "desvenlafaxine",
+   "reason": "세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등) 위험 증가 가능성",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "desvenlafaxine benzoate (as desvenlafaxine)",
+   "reason": "세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등) 위험 증가 가능성",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "desvenlafaxine succinate monohydrate (as desvenlafaxine)",
+   "reason": "세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등) 위험 증가 가능성",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "doxepin hydrochloride (as doxepin)",
+   "reason": "근독성, 간질, 세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "duloxetine hydrochloride (as duloxetine)",
+   "reason": "세로토닌 증후군 위험 증가 가능성",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "ephedrine hydrochloride",
+   "reason": "고혈압, 빈맥 유발",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "imipramine hydrochloride",
+   "reason": "근독성, 간질, 세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "levomepromazine maleate (as levomepromazine)",
+   "reason": "중추 흥분상태 증가",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "methylphenidate hydrochloride",
+   "reason": "고혈압성 위기(현저한 혈압상승)",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "mirtazapine",
+   "reason": "구역, 구토, 안면홍조, 어지러움, 진전, 산동, 강직, 발한, 고온증, 심장지표의 빠른 변화, 자율신경계의 불안정, 정신상태의 변화",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "nortriptyline hydrochloride (as nortriptyline)",
+   "reason": "근독성, 간질, 세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "ozanimod hydrochloride (as ozanimod)",
+   "reason": "Ozanimod의 노출을 감소시킬 수 있음",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "paroxetine hydrochloride (as paroxetine)",
+   "reason": "세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "pethidine hydrochloride",
+   "reason": "아편중추 흥분, 설사, 빈맥, 땀, 진전, 혼동, 혼수상태, 사망을 유발할 수 있는 세로토닌 증후군 보고 셀레길린-페티딘 병용 시 고도의 흥분,정신착란 등 보고",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "pethidine hydrochloride",
+   "reason": "중추 흥분, 설사, 빈맥, 땀, 진전, 혼동, 혼수상태, 사망을 유발할 수 있는 세로토닌 증후군 보고 셀레길린-페티딘 병용 시 고도의 흥분,정신착란 등 보고",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "pseudoephedrine hydrochloride",
+   "reason": "고혈압, 빈맥 유발",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "rasagiline mesylate (as rasagiline)",
+   "reason": "고혈압위기, 세로토닌증후군 발생 위험 증가",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "safinamide mesylate (as safinamide)",
+   "reason": "고혈압 위기",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "sertraline hydrochloride (as sertraline)",
+   "reason": "세로토닌성 증후군 (고열, 간대성근경련, 정신상태 변화등)",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "tapentadol hydrochloride",
+   "reason": "세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등) 위험 증가 가능성",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "tapentadol hydrochloride (as tapentadol)",
+   "reason": "세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등) 위험 증가 가능성",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "vortioxetine hydrobromide (as vortioxetine)",
+   "reason": "세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등) 위험 증가 가능성",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "sumatriptan succinate (as sumatriptan)",
+   "reason": "동맥 고혈압, 관상동맥 수축",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "tramadol hydrochloride",
+   "reason": "중추 흥분, 설사, 빈맥, 땀, 진전, 혼동, 혼수상태, 사망을 유발할 수 있는 세로토닌 증후군 보고",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "venlafaxine hydrochloride (as venlafaxine)",
+   "reason": "세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "zolmitriptan",
+   "reason": "동맥 고혈압, 관상동맥 수축의 위험이 있음",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "L-lysine hydrochloride+cyanocobalamin+cyproheptadine orotate+dl-carnitine hydrochloride",
+   "reason": "MAO 저해제의 효과를 증가시킬 수 있음",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+anhydrous caffeine+ascorbic acid+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+pseudoephedrine hydrochloride+riboflavin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+anhydrous caffeine+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+guaifenesin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+anhydrous caffeine+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+guaifenesin+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+anhydrous caffeine+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine maleate+guaifenesin+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+anhydrous caffeine+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+ephedrine hydrochloride+guaifenesin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+anhydrous caffeine+chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride+guaifenesin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+anhydrous caffeine+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+guaifenesin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+anhydrous caffeine+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride+guaifenesin+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+ascorbic acid coated+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+galgeun-tang ext.(10→1)+guaifenesin+pseudoephedrine hydrochloride+riboflavin+thiamine nitrate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+ascorbic acid granules 97%+benfotiamine+dextromethorphan hydrobromide hydrate+diphenhydramine hydrochloride+dl-methylephedrine hydrochloride+potassium guaiacolsulfonate+pseudoephedrine hydrochloride+riboflavin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+ascorbic acid+caffeine anhydrous+chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride+guaifenesin+pseudoephedrine hydrochloride+riboflavin(3배산)+thiamine nitrate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+ascorbic acid+caffeine anhydrous+chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride+guaifenesin+riboflavin(3배산)+thiamine nitrate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+ascorbic acid+caffeine anhydrous+chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride+pseudoephedrine hydrochloride+riboflavin(3배산)+thiamine nitrate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+ascorbic acid+caffeine anhydrous+chlorpheniramine maleate+dextromethorphan hydrobromide+dried ginseng ext.(14.5→1)+glycyrrhiza ext. powder(14.3→1)+guaifenesin+pseudoephedrine hydrochloride+riboflavin+thiamine nitrate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+ascorbic acid+caffeine anhydrous+chlorpheniramine maleate+dextromethorphan hydrobromide+guaifenesin+pseudoephedrine hydrochloride+갈근탕엑스(10→1)",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+ascorbic acid+caffeine anhydrous+chlorpheniramine maleate+dextromethorphan hydrobromide+potassium guaiacolsulfonate+pseudoephedrine hydrochloride+갈근탕엑스(10→1)",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+ascorbic acid+chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride+riboflavin+thiamine nitrate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+ascorbic acid+dextromethorphan hydrobromide hydrate+diphenhydramine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+ascorbic acid+dextromethorphan hydrobromide hydrate+diphenhydramine hydrochloride+dl-methylephedrine hydrochloride+glycine+guaifenesin+pseudoephedrine hydrochloride+riboflavin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+ascorbic acid+dextromethorphan hydrobromide hydrate+diphenhydramine hydrochloride+dl-methylephedrine hydrochloride+glycine+pseudoephedrine hydrochloride+riboflavin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+bromhexine hydrochloride+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+guaifenesin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+brompheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+guaifenesin+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+brompheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+brompheniramine maleate+dextromethorphan hydrobromide+guaifenesin+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+caffeine anhydrous+chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride+ethenzamide+fursultiamine hydrochloride+riboflavin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+caffeine anhydrous+chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride+glycyrrhiza ext. powder(5→1)+guaifenesin+thiamine nitrate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+caffeine anhydrous+chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride+guaifenesin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+caffeine anhydrous+chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride+potassium guaiacolsulfonate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+cinnamon bark dried extract (31.3→1)+dextromethorphan hydrobromide hydrate+glycyrrhiza dried extract (5→1)+guaifenesin+platycodon root 50% ethanol dried extract (10→1)+pseudoephedrine hydrochloride+riboflavin+thiamine nitrate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+cinnamon bark powder+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+coptis rhizome ext. powder+dextromethorphan hydrobromide+ethenzamide+guaifenesin+platycodon root 50% ethanol dried ext. (10→1)",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+coptis rhizome ext. powder+dextromethorphan hydrobromide+ethenzamide+platycodon root 50% ethanol dried ext. (10→1)+potassium guaiacolsulfonate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+coptis rhizome ext. powder+dextromethorphan hydrobromide+ethenzamide+platycodon root ext. powder",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+guaifenesin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+guaifenesin+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+guaifenesin+pseudoephedrine hydrochloride+riboflavin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine maleate+guaifenesin+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine+guaifenesin+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine+powdered cinnamon bark+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+guaifenesin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+guaifenesin+riboflavin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride+guaifenesin+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride+guaifenesin+riboflavin+thiamine nitrate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride+powdered cinnamon bark+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine+guaifenesin+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine+guaifenesin+pseudoephedrine hydrochloride+riboflavin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide+guaifenesin+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+chlorpheniramine maleate+dextromethorphan hydrobromide+pseudoephedrine hydrochloride+갈근탕엑스(10→1)",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+dextromethorphan hydrobromide hydrate+diphenhydramine hydrochloride+dl-methylephedrine hydrochloride+glycyrrhiza powder+guaifenesin+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+dextromethorphan hydrobromide hydrate+diphenhydramine hydrochloride+dl-methylephedrine+guaifenesin+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+guaifenesin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+guaifenesin+pseudoephedrine hydrochloride+triprolidine hydrochloride hydrate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+pseudoephedrine hydrochloride+triprolidine hydrochloride hydrate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+dextromethorphan hydrobromide hydrate+dl-methylephedrine maleate+guaifenesin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+dextromethorphan hydrobromide hydrate+dl-methylephedrine+guaifenesin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+dextromethorphan hydrobromide hydrate+doxylamine succinate+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+dextromethorphan hydrobromide hydrate+guaifenesin+noscapine hydrochloride hydrate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+dextromethorphan hydrobromide hydrate+guaifenesin+noscapine hydrochloride hydrate+triprolidine hydrochloride hydrate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+dextromethorphan hydrobromide+diphenhydramine hydrochloride+dl-methylephedrine hydrochloride+guaifenesin+phenylephrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride+guaifenesin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride+guaifenesin+pseudoephedrine hydrochloride+triprolidine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride+pseudoephedrine hydrochloride+triprolidine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+dextromethorphan hydrobromide+dl-methylephedrine+guaifenesin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+dextromethorphan hydrobromide+guaifenesin+noscapine hydrochloride+triprolidine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+dextromethorphan hydrobromide+guaifenesin+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "acetaminophen+dextromethorphan hydrobromide+phenylephrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "ammonium chloride+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "ammonium chloride+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "ammonium chloride+chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "bromhexine hydrochloride+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+guaifenesin+ibuprofen+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "bromhexine hydrochloride+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+guaifenesin+ibuprofen+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "bromhexine hydrochloride+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+guaifenesin+ibuprofen",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "carbinoxamine maleate+dextromethorphan hydrobromide+methylephedrine hydrochloride+noscapine+potassium guaiacolsulfonate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "carbinoxamine maleate+dextromethorphan hydrobromide+methylephedrine hydrochloride+noscapine+potassium guaiacolsulfonate+powdered glycyrrhizae+powdered platycodon root",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+guaifenesin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+guaifenesin+ibuprofen+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+plantago herb fluid extract+platycodon root fluid extract+potassium guaiacolsulfonate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+guaifenesin+trimetoquinol hydrochloride hydrate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine HCI+lysozyme hydrochloride+noscapine+potassium guaiacolsulfonate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride+guaifenesin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride+guaifenesin+ibuprofen+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "chlorpheniramine maleate+dextromethorphan hydrobromide+dl-methylephedrine hydrochloride+lysozyme chloride+noscapine hydrochloride+potassium guaiacolsulfonate",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "chlorpheniramine maleate+dextromethorphan hydrobromide+guaifenesin+noscapine hydrochloride+trimetoquinol hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "chlorpheniramine maleate+dextromethorphan hydrobromide+guaifenesin+trimetoquinol hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "chlorpheniramine maleate+dextromethorphan hydrobromide+methylephedrin hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "d-chlorpheniramine maleate+dextromethorphan hydrobromide+guaifenesin+noscapine hydrochloride+trimetoquinol hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "dapoxetine hydrochloride (as dapoxetine)",
+   "reason": "세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+guaifenesin+ibuprofen",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "dextromethorphan hydrobromide hydrate+dl-methylephedrine+guaifenesin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "dextromethorphan hydrobromide hydrate+guaifenesin+pseudoephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "dextromethorphan hydrobromide+diphenhydramine hydrochloride+diprophylline+dl-methylephedrine hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "dextromethorphan hydrobromide+guaifenesin",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "dextromethorphan hydrobromide+guaifenesin+trimetoquinol hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "diethylpropion hydrochloride",
+   "reason": "고혈압위기 유발",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "phendimetrazine tartrate",
+   "reason": "혈압상승 위험",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "phentermine HCl",
+   "reason": "혈압상승 위험",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "phentermine hydrochloride",
+   "reason": "혈압상승 위험",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "phentermine hydrochloride (as phentermine)",
+   "reason": "혈압상승 위험",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "phentermine hydrochloride (as phentermine)+topiramate",
+   "reason": "혈압상승 위험",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "valbenazine ditosylate (as valbenazine)",
+   "reason": "모노아민 신경전달 물질의 증가로 인한 세로토닌 증후군 위험 증가",
+   "self": "selegiline hydrochloride"
+  },
+  {
+   "ingredient": "xylometazoline hydrochloride",
+   "reason": "xylometazoline의 전신 작용(고혈압 위험) 증강 또는 연장",
+   "self": "selegiline hydrochloride"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립.",
+   "ingredient": "selegiline HCl"
+  }
+ ],
+ "elderly": [],
+ "dose": [
+  {
+   "text": "1일 최대투여량: 셀레길린염산염 10mg"
+  }
+ ],
+ "duration": [],
+ "class_duplication": [],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

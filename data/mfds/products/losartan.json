@@ -1,0 +1,5619 @@
+{
+ "id": "losartan",
+ "query": [
+  "로사르탄"
+ ],
+ "fetched": "2026-11-26",
+ "total": 297,
+ "kept": 297,
+ "mfdsName": [
+  "로사르탄칼륨"
+ ],
+ "items": [
+  {
+   "itemSeq": "200401773",
+   "name": "로잘정50mg(로사르탄칼륨)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401773"
+  },
+  {
+   "itemSeq": "200401755",
+   "name": "원살탄정(로사르탄칼륨)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401755"
+  },
+  {
+   "itemSeq": "200500963",
+   "name": "로사맥스정(로사르탄칼륨)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-02-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500963"
+  },
+  {
+   "itemSeq": "200501955",
+   "name": "로자정(로사르탄칼륨)",
+   "company": "(주)파마킹",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-02-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501955"
+  },
+  {
+   "itemSeq": "200500111",
+   "name": "이노엔로자탄정50밀리그램(로사르탄칼륨)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-02-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500111"
+  },
+  {
+   "itemSeq": "200500474",
+   "name": "코살정(로사르탄칼륨)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-02-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500474"
+  },
+  {
+   "itemSeq": "200501288",
+   "name": "카자탄정(로사르탄칼륨)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501288"
+  },
+  {
+   "itemSeq": "200502026",
+   "name": "로사벨정(로사르탄칼륨)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502026"
+  },
+  {
+   "itemSeq": "200503200",
+   "name": "로사정(로사르탄칼륨)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200503200"
+  },
+  {
+   "itemSeq": "200503652",
+   "name": "로테인정(로사르탄칼륨)",
+   "company": "(주)휴메딕스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200503652"
+  },
+  {
+   "itemSeq": "200501203",
+   "name": "일양로자탄정(로사르탄칼륨)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501203"
+  },
+  {
+   "itemSeq": "200500820",
+   "name": "코자살탄정50mg(로사르탄칼륨)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500820"
+  },
+  {
+   "itemSeq": "200501420",
+   "name": "뉴로탄정(로사르탄칼륨)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501420"
+  },
+  {
+   "itemSeq": "200500483",
+   "name": "로더스정50밀리그램(로사르탄칼륨)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500483"
+  },
+  {
+   "itemSeq": "200502507",
+   "name": "로이자정50밀리그램(로사르탄칼륨)",
+   "company": "(주)티디에스팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502507"
+  },
+  {
+   "itemSeq": "200501750",
+   "name": "로자틴정(로사르탄칼륨)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501750"
+  },
+  {
+   "itemSeq": "200502633",
+   "name": "로카탄정50mg(로사르탄칼륨)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502633"
+  },
+  {
+   "itemSeq": "200512244",
+   "name": "세자르정50밀리그람(로사르탄칼륨)(수출명:Cezaar Tab. 50mg)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512244"
+  },
+  {
+   "itemSeq": "200501954",
+   "name": "자라탄정50밀리그램(로사르탄칼륨)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501954"
+  },
+  {
+   "itemSeq": "200502672",
+   "name": "로코탄정50밀리그램(로사르탄칼륨)",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502672"
+  },
+  {
+   "itemSeq": "200500581",
+   "name": "코살탄정(로사르탄칼륨)",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500581"
+  },
+  {
+   "itemSeq": "200500391",
+   "name": "국제로잘탄정50밀리그램(로사르탄칼륨)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500391"
+  },
+  {
+   "itemSeq": "200500222",
+   "name": "로자칼정(로사르탄칼륨)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500222"
+  },
+  {
+   "itemSeq": "200500370",
+   "name": "대한로사르탄칼륨정(로사르탄칼륨)(수출용)",
+   "company": "대한약품공업(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500370"
+  },
+  {
+   "itemSeq": "200502119",
+   "name": "로자신정(로사르탄칼륨)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502119"
+  },
+  {
+   "itemSeq": "200501119",
+   "name": "로자케이정(로사르탄칼륨)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501119"
+  },
+  {
+   "itemSeq": "200500661",
+   "name": "제이더블유로사르탄정50밀리그램(로사르탄칼륨)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500661"
+  },
+  {
+   "itemSeq": "200501792",
+   "name": "코자탄정(로사르탄칼륨)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501792"
+  },
+  {
+   "itemSeq": "200502156",
+   "name": "자르탄정100밀리그램(로사르탄칼륨)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502156"
+  },
+  {
+   "itemSeq": "200502189",
+   "name": "오잘탄정50밀리그램(로사르탄칼륨)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502189"
+  },
+  {
+   "itemSeq": "200500565",
+   "name": "로자살탄정50밀리그람(로사르탄칼륨)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500565"
+  },
+  {
+   "itemSeq": "200502194",
+   "name": "오잘탄정100밀리그램(로사르탄칼륨)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-11-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502194"
+  },
+  {
+   "itemSeq": "200600087",
+   "name": "로살탄정(로사르탄칼륨)",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-02-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600087"
+  },
+  {
+   "itemSeq": "200600309",
+   "name": "프로자탄정(로사르탄칼륨)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-02-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600309"
+  },
+  {
+   "itemSeq": "200600222",
+   "name": "로자스타정(로사르탄칼륨)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-02-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600222"
+  },
+  {
+   "itemSeq": "200600156",
+   "name": "로자토정(로사르탄칼륨)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-02-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600156"
+  },
+  {
+   "itemSeq": "200600349",
+   "name": "에이알비정(로사르탄칼륨)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-02-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600349"
+  },
+  {
+   "itemSeq": "200600521",
+   "name": "코잘탄정(로사르탄칼륨)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-02-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600521"
+  },
+  {
+   "itemSeq": "200600489",
+   "name": "로자파정(로사르탄칼륨)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-02-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600489"
+  },
+  {
+   "itemSeq": "200600128",
+   "name": "바이코자정(로사르탄칼륨)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600128"
+  },
+  {
+   "itemSeq": "200600688",
+   "name": "코로자정50밀리그람(로사르탄칼륨)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600688"
+  },
+  {
+   "itemSeq": "200600527",
+   "name": "로사트정50밀리그램(로사르탄칼륨)",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600527"
+  },
+  {
+   "itemSeq": "200600827",
+   "name": "루자탄정50밀리그램(로사르탄칼륨)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600827"
+  },
+  {
+   "itemSeq": "200600718",
+   "name": "코자릴정(로사르탄칼륨)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600718"
+  },
+  {
+   "itemSeq": "200604178",
+   "name": "로사르정50밀리그램(로사르탄칼륨)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604178"
+  },
+  {
+   "itemSeq": "200604282",
+   "name": "자르탄정(로사르탄칼륨)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-05-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604282"
+  },
+  {
+   "itemSeq": "200607653",
+   "name": "로제트정(로사르탄칼륨)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607653"
+  },
+  {
+   "itemSeq": "200611097",
+   "name": "로사타정(로사르탄칼륨)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200611097"
+  },
+  {
+   "itemSeq": "200701405",
+   "name": "살로탄정50밀리그램(로사르탄칼륨)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701405"
+  },
+  {
+   "itemSeq": "200701872",
+   "name": "로자살탄정100밀리그람(로사르탄칼륨)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701872"
+  },
+  {
+   "itemSeq": "200702250",
+   "name": "코자르탄정100mg(로사르탄칼륨)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702250"
+  },
+  {
+   "itemSeq": "200703082",
+   "name": "자로탄정50밀리그램(로사르탄칼륨)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703082"
+  },
+  {
+   "itemSeq": "200703964",
+   "name": "코사탄정(로사르탄칼륨)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703964"
+  },
+  {
+   "itemSeq": "200708427",
+   "name": "세자르정100mg(로사르탄칼륨)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708427"
+  },
+  {
+   "itemSeq": "200708590",
+   "name": "비알살탄정100밀리그램(로사르탄칼륨)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708590"
+  },
+  {
+   "itemSeq": "200711953",
+   "name": "로자탐정100밀리그램(로사르탄칼륨)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711953"
+  },
+  {
+   "itemSeq": "200712759",
+   "name": "한림로자탄정(로사르탄칼륨)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712759"
+  },
+  {
+   "itemSeq": "200713685",
+   "name": "이노엔로자탄정100밀리그램(로사르탄칼륨)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200713685"
+  },
+  {
+   "itemSeq": "200802066",
+   "name": "살로탄정100밀리그램(로사르탄칼륨)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802066"
+  },
+  {
+   "itemSeq": "200803211",
+   "name": "코스카정100mg(로사르탄칼륨)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803211"
+  },
+  {
+   "itemSeq": "200803249",
+   "name": "로자틴정100밀리그램(로사르탄칼륨)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803249"
+  },
+  {
+   "itemSeq": "200803248",
+   "name": "일양로자탄정100밀리그램(로사르탄칼륨)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803248"
+  },
+  {
+   "itemSeq": "200803975",
+   "name": "코스카정50밀리그램(로사르탄칼륨)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803975"
+  },
+  {
+   "itemSeq": "200804090",
+   "name": "아비탄정100밀리그램(로사르탄칼륨)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804090"
+  },
+  {
+   "itemSeq": "200805113",
+   "name": "로지텐정100mg(로사르탄칼륨)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805113"
+  },
+  {
+   "itemSeq": "200807253",
+   "name": "코자르탄정50mg(로사르탄칼륨)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807253"
+  },
+  {
+   "itemSeq": "200807881",
+   "name": "비알살탄정50밀리그램(로사르탄칼륨)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807881"
+  },
+  {
+   "itemSeq": "200808078",
+   "name": "로자탐정50밀리그램(로사르탄칼륨)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808078"
+  },
+  {
+   "itemSeq": "200810031",
+   "name": "코자정100밀리그램(로사르탄칼륨)",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810031"
+  },
+  {
+   "itemSeq": "200811814",
+   "name": "코자정(로사르탄칼륨)",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811814"
+  },
+  {
+   "itemSeq": "201109188",
+   "name": "로자신정100밀리그램(로사르탄칼륨)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109188"
+  },
+  {
+   "itemSeq": "201306824",
+   "name": "로자타정50밀리그램(로사르탄칼륨)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306824"
+  },
+  {
+   "itemSeq": "201309020",
+   "name": "로사코정50mg(로사르탄칼륨)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309020"
+  },
+  {
+   "itemSeq": "201309287",
+   "name": "로사탄정(로사르탄칼륨)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309287"
+  },
+  {
+   "itemSeq": "201309883",
+   "name": "로카탄정100mg(로사르탄칼륨)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309883"
+  },
+  {
+   "itemSeq": "201310778",
+   "name": "씨엠지로자탄정(로사르탄칼륨)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310778"
+  },
+  {
+   "itemSeq": "201403084",
+   "name": "로사탄정100밀리그램(로사르탄칼륨)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403084"
+  },
+  {
+   "itemSeq": "201403695",
+   "name": "로자탈정(로사르탄칼륨)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403695"
+  },
+  {
+   "itemSeq": "201404243",
+   "name": "로탄정(로사르탄칼륨)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404243"
+  },
+  {
+   "itemSeq": "201501321",
+   "name": "셀티스셀자탄정(로사르탄칼륨)",
+   "company": "(주)텔콘알에프제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501321"
+  },
+  {
+   "itemSeq": "201501624",
+   "name": "코자휴정50밀리그램(로사르탄칼륨)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501624"
+  },
+  {
+   "itemSeq": "201503323",
+   "name": "로잘핀정(로사르탄칼륨)",
+   "company": "에스피씨(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503323"
+  },
+  {
+   "itemSeq": "201505005",
+   "name": "엘살탄정50밀리그램(로사르탄칼륨)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505005"
+  },
+  {
+   "itemSeq": "201507380",
+   "name": "코살정100밀리그램(로사르탄칼륨)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507380"
+  },
+  {
+   "itemSeq": "201507876",
+   "name": "로자인정100mg(로사르탄칼륨)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100,0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507876"
+  },
+  {
+   "itemSeq": "201507875",
+   "name": "로자인정50mg(로사르탄칼륨)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507875"
+  },
+  {
+   "itemSeq": "201508481",
+   "name": "뉴코사르정50밀리그램(로사르탄칼륨)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508481"
+  },
+  {
+   "itemSeq": "201601512",
+   "name": "코사로탄정50mg(로사르탄칼륨)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601512"
+  },
+  {
+   "itemSeq": "201603010",
+   "name": "베아로탄정100밀리그램(로사르탄칼륨)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603010"
+  },
+  {
+   "itemSeq": "201603009",
+   "name": "베아로탄정50밀리그램(로사르탄칼륨)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603009"
+  },
+  {
+   "itemSeq": "201603792",
+   "name": "로자탈정100밀리그램(로사르탄칼륨)(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603792"
+  },
+  {
+   "itemSeq": "201704862",
+   "name": "로사틴정100밀리그램(로사르탄칼륨)",
+   "company": "(주)바스칸바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704862"
+  },
+  {
+   "itemSeq": "201705799",
+   "name": "코자살탄정100밀리그램(로사르탄칼륨)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705799"
+  },
+  {
+   "itemSeq": "201900245",
+   "name": "로사윈정50밀리그램(로사르탄칼륨)",
+   "company": "코스맥스파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900245"
+  },
+  {
+   "itemSeq": "201902149",
+   "name": "코자로탄정100mg(로사르탄칼륨)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902149"
+  },
+  {
+   "itemSeq": "201902235",
+   "name": "코자뉴정50mg(로사르탄칼륨)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902235"
+  },
+  {
+   "itemSeq": "201902543",
+   "name": "코자로탄정(로사르탄칼륨)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902543"
+  },
+  {
+   "itemSeq": "201904187",
+   "name": "뉴로사탄정100mg(로사르탄칼륨)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904187"
+  },
+  {
+   "itemSeq": "201904186",
+   "name": "뉴로사탄정50mg(로사르탄칼륨)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904186"
+  },
+  {
+   "itemSeq": "201904185",
+   "name": "로사르정100mg(로사르탄칼륨)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904185"
+  },
+  {
+   "itemSeq": "201904334",
+   "name": "프로자탄정100밀리그램(로사르탄칼륨)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904334"
+  },
+  {
+   "itemSeq": "201904613",
+   "name": "로사탈정(로사르탄칼륨)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904613"
+  },
+  {
+   "itemSeq": "201906117",
+   "name": "로사칼정50밀리그램(로사르탄칼륨)",
+   "company": "(주)서흥",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906117"
+  },
+  {
+   "itemSeq": "201906380",
+   "name": "로사텍정(로사르탄칼륨)",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906380"
+  },
+  {
+   "itemSeq": "201906623",
+   "name": "자라탄정100밀리그램(로사르탄칼륨)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906623"
+  },
+  {
+   "itemSeq": "201907288",
+   "name": "에이로사정50밀리그램(로사르탄칼륨)",
+   "company": "(주)아리제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907288"
+  },
+  {
+   "itemSeq": "201907867",
+   "name": "로자딘정100mg(로사르탄칼륨)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907867"
+  },
+  {
+   "itemSeq": "201907866",
+   "name": "로자딘정50mg(로사르탄칼륨)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907866"
+  },
+  {
+   "itemSeq": "202000113",
+   "name": "뉴로탄정100mg(로사르탄칼륨)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000113"
+  },
+  {
+   "itemSeq": "202000343",
+   "name": "메가로사탄정(로사르탄칼륨)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000343"
+  },
+  {
+   "itemSeq": "202003304",
+   "name": "프리로탄정(로사르탄칼륨)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003304"
+  },
+  {
+   "itemSeq": "202103090",
+   "name": "코스카정25밀리그램(로사르탄칼륨)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103090"
+  },
+  {
+   "itemSeq": "202503377",
+   "name": "로카탄정25밀리그램(로사르탄칼륨)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-12-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503377"
+  },
+  {
+   "itemSeq": "200600478",
+   "name": "오잘탄플러스정50/12.5,100/25밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600478"
+  },
+  {
+   "itemSeq": "200600123",
+   "name": "로자살탄플러스정",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600123"
+  },
+  {
+   "itemSeq": "200604334",
+   "name": "코사틴플러스정",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-04-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200604334"
+  },
+  {
+   "itemSeq": "200608296",
+   "name": "세자르플러스에프정",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608296"
+  },
+  {
+   "itemSeq": "200608295",
+   "name": "세자르플러스정",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608295"
+  },
+  {
+   "itemSeq": "200607942",
+   "name": "로사플러스-에프정",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607942"
+  },
+  {
+   "itemSeq": "200607941",
+   "name": "로사플러스정",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607941"
+  },
+  {
+   "itemSeq": "200707373",
+   "name": "로제틴플러스정",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707373"
+  },
+  {
+   "itemSeq": "200606825",
+   "name": "코살탄플러스정",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-08-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606825"
+  },
+  {
+   "itemSeq": "200608152",
+   "name": "에스케이코스카플러스에프정",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-08-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608152"
+  },
+  {
+   "itemSeq": "200608151",
+   "name": "에스케이코스카플러스정",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-08-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608151"
+  },
+  {
+   "itemSeq": "200607692",
+   "name": "국제로잘탄플러스에프정",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607692"
+  },
+  {
+   "itemSeq": "200607693",
+   "name": "국제로잘탄플러스정",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607693"
+  },
+  {
+   "itemSeq": "200608192",
+   "name": "로더플러스정",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608192"
+  },
+  {
+   "itemSeq": "200608254",
+   "name": "로사닌플러스에프정",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608254"
+  },
+  {
+   "itemSeq": "200608255",
+   "name": "로사닌플러스정",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608255"
+  },
+  {
+   "itemSeq": "200607445",
+   "name": "아제르탄플러스에프정",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607445"
+  },
+  {
+   "itemSeq": "200706465",
+   "name": "일양로자탄플러스에프정",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706465"
+  },
+  {
+   "itemSeq": "200706454",
+   "name": "일양로자탄플러스정",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706454"
+  },
+  {
+   "itemSeq": "200608219",
+   "name": "로사트플러스정",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608219"
+  },
+  {
+   "itemSeq": "200607657",
+   "name": "로제트플러스정",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607657"
+  },
+  {
+   "itemSeq": "200607908",
+   "name": "뉴로탄플러스에프정",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607908"
+  },
+  {
+   "itemSeq": "200607907",
+   "name": "뉴로탄플러스정",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607907"
+  },
+  {
+   "itemSeq": "200607930",
+   "name": "로잘플러스정",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607930"
+  },
+  {
+   "itemSeq": "200607922",
+   "name": "원살탄플러스에프정",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607922"
+  },
+  {
+   "itemSeq": "200607921",
+   "name": "원살탄플러스정",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607921"
+  },
+  {
+   "itemSeq": "200611042",
+   "name": "이노엔로자탄플러스에프정",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200611042"
+  },
+  {
+   "itemSeq": "200611041",
+   "name": "이노엔로자탄플러스정",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200611041"
+  },
+  {
+   "itemSeq": "200607777",
+   "name": "로자타플러스에프정",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607777"
+  },
+  {
+   "itemSeq": "200607776",
+   "name": "로자타플러스정",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607776"
+  },
+  {
+   "itemSeq": "200608110",
+   "name": "자라탄플러스에프정",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608110"
+  },
+  {
+   "itemSeq": "200608109",
+   "name": "자라탄플러스정",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608109"
+  },
+  {
+   "itemSeq": "200607958",
+   "name": "로자틴플러스에프정",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607958"
+  },
+  {
+   "itemSeq": "200607957",
+   "name": "로자틴플러스정",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607957"
+  },
+  {
+   "itemSeq": "200607818",
+   "name": "로핀플러스정(로사르탄칼륨, 히드로클로로티아지드)",
+   "company": "태극제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607818"
+  },
+  {
+   "itemSeq": "200607707",
+   "name": "로살탄플러스정",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607707"
+  },
+  {
+   "itemSeq": "200607669",
+   "name": "로자칼플러스에프정(로사르탄칼륨,히드로클로로티아지드)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-11-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607669"
+  },
+  {
+   "itemSeq": "200607668",
+   "name": "로자칼플러스정(로사르탄칼륨, 히드로클로로티아지드)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-11-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607668"
+  },
+  {
+   "itemSeq": "200606808",
+   "name": "코잘탄-플러스정",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606808"
+  },
+  {
+   "itemSeq": "200611369",
+   "name": "대한뉴팜로잘탄플러스정",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-12-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200611369"
+  },
+  {
+   "itemSeq": "200700234",
+   "name": "로지텐플러스정",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700234"
+  },
+  {
+   "itemSeq": "200700388",
+   "name": "자로탄플러스정",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700388"
+  },
+  {
+   "itemSeq": "200700468",
+   "name": "로자살탄플러스에프정",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700468"
+  },
+  {
+   "itemSeq": "200700470",
+   "name": "루자탄플러스정",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700470"
+  },
+  {
+   "itemSeq": "200701917",
+   "name": "로사맥스플러스정",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701917"
+  },
+  {
+   "itemSeq": "200703170",
+   "name": "로사타플러스에프정",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703170"
+  },
+  {
+   "itemSeq": "200703169",
+   "name": "로사타플러스정",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703169"
+  },
+  {
+   "itemSeq": "200706059",
+   "name": "살로탄플러스에프정",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706059"
+  },
+  {
+   "itemSeq": "200706029",
+   "name": "살로탄플러스정",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706029"
+  },
+  {
+   "itemSeq": "200706030",
+   "name": "살로탄플러스프로정",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706030"
+  },
+  {
+   "itemSeq": "200708264",
+   "name": "로자신플러스정",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708264"
+  },
+  {
+   "itemSeq": "200710606",
+   "name": "오잘탄플러스정100/12.5밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710606"
+  },
+  {
+   "itemSeq": "200802545",
+   "name": "비알살탄플러스에프정",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802545"
+  },
+  {
+   "itemSeq": "200802546",
+   "name": "비알살탄플러스정",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802546"
+  },
+  {
+   "itemSeq": "200805735",
+   "name": "코자르탄플러스정",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805735"
+  },
+  {
+   "itemSeq": "200805918",
+   "name": "코자르탄플러스에프정",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805918"
+  },
+  {
+   "itemSeq": "200805895",
+   "name": "코자르탄플러스프로정",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805895"
+  },
+  {
+   "itemSeq": "200807469",
+   "name": "코자플러스에프정",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807469"
+  },
+  {
+   "itemSeq": "200807526",
+   "name": "코자플러스프로정",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807526"
+  },
+  {
+   "itemSeq": "200807633",
+   "name": "코사탄플러스정",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807633"
+  },
+  {
+   "itemSeq": "200808248",
+   "name": "로자살탄플러스프로정",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808248"
+  },
+  {
+   "itemSeq": "200809464",
+   "name": "로자탐플러스에프정",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809464"
+  },
+  {
+   "itemSeq": "200809791",
+   "name": "로자탐플러스정",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809791"
+  },
+  {
+   "itemSeq": "200811608",
+   "name": "코자플러스정",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-12-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200811608"
+  },
+  {
+   "itemSeq": "200902349",
+   "name": "아모잘탄정5/100밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902349"
+  },
+  {
+   "itemSeq": "200902350",
+   "name": "아모잘탄정5/50밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902350"
+  },
+  {
+   "itemSeq": "200905939",
+   "name": "세자르플러스프로정(로사르탄칼륨,히드로클로로티아지드)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905939"
+  },
+  {
+   "itemSeq": "200906584",
+   "name": "일양로자탄플러스프로정",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-08-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906584"
+  },
+  {
+   "itemSeq": "200906613",
+   "name": "에스케이코스카플러스프로정",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906613"
+  },
+  {
+   "itemSeq": "200906602",
+   "name": "원살탄플러스프로정",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906602"
+  },
+  {
+   "itemSeq": "200907446",
+   "name": "이노엔로자탄플러스프로정",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-10-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200907446"
+  },
+  {
+   "itemSeq": "200908186",
+   "name": "코자엑스큐정5/100밀리그램",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200908186"
+  },
+  {
+   "itemSeq": "200908185",
+   "name": "코자엑스큐정5/50밀리그램",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200908185"
+  },
+  {
+   "itemSeq": "201006206",
+   "name": "아모잘탄정10/50밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "15.68",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "15.68",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006206"
+  },
+  {
+   "itemSeq": "201006205",
+   "name": "코자엑스큐정10/50밀리그램",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "15.68",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006205"
+  },
+  {
+   "itemSeq": "201007281",
+   "name": "코사탄플러스프로정",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007281"
+  },
+  {
+   "itemSeq": "201207577",
+   "name": "코로자플러스정",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207577"
+  },
+  {
+   "itemSeq": "201310295",
+   "name": "로사탄플러스정",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310295"
+  },
+  {
+   "itemSeq": "201310333",
+   "name": "로자플엠정",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310333"
+  },
+  {
+   "itemSeq": "201400053",
+   "name": "로카탄플러스정",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400053"
+  },
+  {
+   "itemSeq": "201400438",
+   "name": "로카탄플러스프로정",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400438"
+  },
+  {
+   "itemSeq": "201400931",
+   "name": "로카탄플러스에프정",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400931"
+  },
+  {
+   "itemSeq": "201404809",
+   "name": "로탄플러스정",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404809"
+  },
+  {
+   "itemSeq": "201405989",
+   "name": "로잘핀플러스정",
+   "company": "에스피씨(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405989"
+  },
+  {
+   "itemSeq": "201500534",
+   "name": "대화로자탄플러스에프정",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500534"
+  },
+  {
+   "itemSeq": "201501500",
+   "name": "코자휴플러스정",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501500"
+  },
+  {
+   "itemSeq": "201502700",
+   "name": "동구잘탄정5/100밀리그램(암로디핀베실산염, 로사르탄칼륨)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502700"
+  },
+  {
+   "itemSeq": "201502701",
+   "name": "동구잘탄정5/50밀리그램(암로디핀베실산염, 로사르탄칼륨)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502701"
+  },
+  {
+   "itemSeq": "201502662",
+   "name": "로사디핀정5/100밀리그램(암로디핀, 로사르탄칼륨)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502662"
+  },
+  {
+   "itemSeq": "201502663",
+   "name": "로사디핀정5/50밀리그램(암로디핀, 로사르탄칼륨)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502663"
+  },
+  {
+   "itemSeq": "201502640",
+   "name": "베실살탄정10/50밀리그램(암로디핀, 로사르탄칼륨)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502640"
+  },
+  {
+   "itemSeq": "201502638",
+   "name": "베실살탄정5/100밀리그램(암로디핀, 로사르탄칼륨)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502638"
+  },
+  {
+   "itemSeq": "201502639",
+   "name": "베실살탄정5/50밀리그램(암로디핀, 로사르탄칼륨)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502639"
+  },
+  {
+   "itemSeq": "201502672",
+   "name": "베아잘탄정10/50밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502672"
+  },
+  {
+   "itemSeq": "201502674",
+   "name": "베아잘탄정5/100밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502674"
+  },
+  {
+   "itemSeq": "201502673",
+   "name": "베아잘탄정5/50밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502673"
+  },
+  {
+   "itemSeq": "201502690",
+   "name": "아모사르정5/100mg",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502690"
+  },
+  {
+   "itemSeq": "201502689",
+   "name": "아모사르정5/50mg",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502689"
+  },
+  {
+   "itemSeq": "201502652",
+   "name": "아모엘탄정5/100밀리그램(암로디핀, 로사르탄)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502652"
+  },
+  {
+   "itemSeq": "201502651",
+   "name": "아모엘탄정5/50밀리그램(암로디핀, 로사르탄)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502651"
+  },
+  {
+   "itemSeq": "201502659",
+   "name": "암로잘정5/100밀리그램(암로디핀베실산염, 로사르탄칼륨)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502659"
+  },
+  {
+   "itemSeq": "201502658",
+   "name": "암로잘정5/50밀리그램(암로디핀베실산염,로사르탄칼륨)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502658"
+  },
+  {
+   "itemSeq": "201502671",
+   "name": "코잘탄-엑스정5/100밀리그램(암로디핀, 로사르탄칼륨)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502671"
+  },
+  {
+   "itemSeq": "201502670",
+   "name": "코잘탄-엑스정5/50밀리그램(암로디핀, 로사르탄칼륨)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502670"
+  },
+  {
+   "itemSeq": "201502666",
+   "name": "하이로텐정10/50밀리그램(암로디핀,로사르탄칼륨)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502666"
+  },
+  {
+   "itemSeq": "201502665",
+   "name": "하이로텐정5/100밀리그램(암로디핀,로사르탄칼륨)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502665"
+  },
+  {
+   "itemSeq": "201502664",
+   "name": "하이로텐정5/50밀리그램(암로디핀,로사르탄칼륨)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502664"
+  },
+  {
+   "itemSeq": "201502969",
+   "name": "맥스잘탄정5/100밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502969"
+  },
+  {
+   "itemSeq": "201504047",
+   "name": "로자디핀정5/50밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504047"
+  },
+  {
+   "itemSeq": "201504051",
+   "name": "로자스크정5/50밀리그램",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504051"
+  },
+  {
+   "itemSeq": "201504048",
+   "name": "암로잘탄정5/50밀리그램(암로디핀, 로사르탄칼륨)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504048"
+  },
+  {
+   "itemSeq": "201504320",
+   "name": "노마로핀정5/100밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504320"
+  },
+  {
+   "itemSeq": "201504319",
+   "name": "노마로핀정5/50밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504319"
+  },
+  {
+   "itemSeq": "201504321",
+   "name": "맥스잘탄정5/50밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504321"
+  },
+  {
+   "itemSeq": "201504975",
+   "name": "로자스크정5/100밀리그램",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504975"
+  },
+  {
+   "itemSeq": "201505006",
+   "name": "엘살탄플러스정",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505006"
+  },
+  {
+   "itemSeq": "201507871",
+   "name": "암로잘탄정5/100밀리그램(암로디핀, 로사르탄칼륨)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507871"
+  },
+  {
+   "itemSeq": "201508004",
+   "name": "로자인플러스에프정",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508004"
+  },
+  {
+   "itemSeq": "201508003",
+   "name": "로자인플러스정",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508003"
+  },
+  {
+   "itemSeq": "201600623",
+   "name": "카로자플러스정",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600623"
+  },
+  {
+   "itemSeq": "201601510",
+   "name": "코사로탄플러스정",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601510"
+  },
+  {
+   "itemSeq": "201602986",
+   "name": "클로탄플러스정",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602986"
+  },
+  {
+   "itemSeq": "201603093",
+   "name": "베아로탄플러스에프정",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603093"
+  },
+  {
+   "itemSeq": "201603091",
+   "name": "베아로탄플러스정",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603091"
+  },
+  {
+   "itemSeq": "201603092",
+   "name": "베아로탄플러스프로정",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603092"
+  },
+  {
+   "itemSeq": "201603730",
+   "name": "로잘포스정10/50밀리그램(암로디핀,로사르탄칼륨)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603730"
+  },
+  {
+   "itemSeq": "201603729",
+   "name": "로잘포스정5/100밀리그램(암로디핀,로사르탄칼륨)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603729"
+  },
+  {
+   "itemSeq": "201603728",
+   "name": "로잘포스정5/50밀리그램(암로디핀,로사르탄칼륨)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603728"
+  },
+  {
+   "itemSeq": "201603900",
+   "name": "오코스탄플러스에프정(수출용)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603900"
+  },
+  {
+   "itemSeq": "201603901",
+   "name": "오코스탄플러스정(수출용)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603901"
+  },
+  {
+   "itemSeq": "201701753",
+   "name": "코자살탄플러스정",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701753"
+  },
+  {
+   "itemSeq": "201705044",
+   "name": "아모잘탄플러스정5/50/12.5밀리그램(암로디핀,로사르탄,클로르탈리돈)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르탈리돈",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705044"
+  },
+  {
+   "itemSeq": "201705043",
+   "name": "아모잘탄플러스정5/100/12.5밀리그램(암로디핀,로사르탄,클로르탈리돈)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르탈리돈",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르탈리돈",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705043"
+  },
+  {
+   "itemSeq": "201705042",
+   "name": "아모잘탄플러스정5/100/25밀리그램(암로디핀,로사르탄,클로르탈리돈)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르탈리돈",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르탈리돈",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705042"
+  },
+  {
+   "itemSeq": "201705687",
+   "name": "아모잘탄큐정5/100/5밀리그램(암로디핀,로사르탄,로수바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705687"
+  },
+  {
+   "itemSeq": "201705684",
+   "name": "아모잘탄큐정5/100/10밀리그램(암로디핀,로사르탄,로수바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705684"
+  },
+  {
+   "itemSeq": "201705686",
+   "name": "아모잘탄큐정5/100/20밀리그램(암로디핀,로사르탄,로수바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705686"
+  },
+  {
+   "itemSeq": "201705685",
+   "name": "아모잘탄큐정5/50/10밀리그램(암로디핀,로사르탄,로수바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705685"
+  },
+  {
+   "itemSeq": "201705688",
+   "name": "아모잘탄큐정5/50/5밀리그램(암로디핀,로사르탄,로수바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705688"
+  },
+  {
+   "itemSeq": "201705689",
+   "name": "아모잘탄큐정5/50/20밀리그램(암로디핀,로사르탄,로수바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀캄실산염",
+     "amount": "7.84",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705689"
+  },
+  {
+   "itemSeq": "201705814",
+   "name": "로사르플러스정",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705814"
+  },
+  {
+   "itemSeq": "201706873",
+   "name": "코살플러스정",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706873"
+  },
+  {
+   "itemSeq": "201708478",
+   "name": "로자탈플러스정",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708478"
+  },
+  {
+   "itemSeq": "201802434",
+   "name": "코스카이엑스정10/50밀리그램",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802434"
+  },
+  {
+   "itemSeq": "201802435",
+   "name": "코스카이엑스정5/100밀리그램",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802435"
+  },
+  {
+   "itemSeq": "201802436",
+   "name": "코스카이엑스정5/50밀리그램",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802436"
+  },
+  {
+   "itemSeq": "201802623",
+   "name": "로사틴플러스에프정",
+   "company": "(주)바스칸바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802623"
+  },
+  {
+   "itemSeq": "201804954",
+   "name": "로사윈플러스정",
+   "company": "코스맥스파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804954"
+  },
+  {
+   "itemSeq": "201903555",
+   "name": "로코탄플러스정",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903555"
+  },
+  {
+   "itemSeq": "201903730",
+   "name": "뉴코잘탄정10/50밀리그램(암로디핀, 로사르탄칼륨)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903730"
+  },
+  {
+   "itemSeq": "201903731",
+   "name": "뉴코잘탄정5/100밀리그램(암로디핀, 로사르탄칼륨)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903731"
+  },
+  {
+   "itemSeq": "201903732",
+   "name": "뉴코잘탄정5/50밀리그램(암로디핀, 로사르탄칼륨)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903732"
+  },
+  {
+   "itemSeq": "201904291",
+   "name": "코로잘탄정5/100밀리그램(암로디핀, 로사르탄칼륨)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904291"
+  },
+  {
+   "itemSeq": "201904374",
+   "name": "로사탈플러스정",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904374"
+  },
+  {
+   "itemSeq": "201904417",
+   "name": "코로잘탄정10/50밀리그램(암로디핀, 로사르탄칼륨)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904417"
+  },
+  {
+   "itemSeq": "201904416",
+   "name": "코로잘탄정5/50밀리그램(암로디핀, 로사르탄칼륨)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904416"
+  },
+  {
+   "itemSeq": "201906270",
+   "name": "로사르플러스에프정",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906270"
+  },
+  {
+   "itemSeq": "201906383",
+   "name": "로사텍플러스정",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906383"
+  },
+  {
+   "itemSeq": "201907293",
+   "name": "뉴코사르플러스정",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907293"
+  },
+  {
+   "itemSeq": "202000328",
+   "name": "로사크로디정",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000328"
+  },
+  {
+   "itemSeq": "202000847",
+   "name": "로자딘플러스정",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000847"
+  },
+  {
+   "itemSeq": "202001926",
+   "name": "암로잘탄정10/50밀리그램(암로디핀, 로사르탄칼륨)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001926"
+  },
+  {
+   "itemSeq": "202001999",
+   "name": "로사텍플러스에프정",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001999"
+  },
+  {
+   "itemSeq": "202002055",
+   "name": "로사베실정10/50밀리그램(암로디핀, 로사르탄칼륨)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002055"
+  },
+  {
+   "itemSeq": "202002054",
+   "name": "로사베실정5/100밀리그램(암로디핀, 로사르탄칼륨)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002054"
+  },
+  {
+   "itemSeq": "202002053",
+   "name": "로사베실정5/50밀리그램(암로디핀, 로사르탄칼륨)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002053"
+  },
+  {
+   "itemSeq": "202004054",
+   "name": "코자로탄플러스에프정",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004054"
+  },
+  {
+   "itemSeq": "202004055",
+   "name": "코자로탄플러스정",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004055"
+  },
+  {
+   "itemSeq": "202007695",
+   "name": "아모잘탄엑스큐정 5/100/20/10밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-11-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007695"
+  },
+  {
+   "itemSeq": "202007694",
+   "name": "아모잘탄엑스큐정 5/100/5/10밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-11-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007694"
+  },
+  {
+   "itemSeq": "202007696",
+   "name": "아모잘탄엑스큐정 5/100/10/10밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-11-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007696"
+  },
+  {
+   "itemSeq": "202007692",
+   "name": "아모잘탄엑스큐정 5/50/20/10밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-11-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007692"
+  },
+  {
+   "itemSeq": "202007693",
+   "name": "아모잘탄엑스큐정 5/50/10/10밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-11-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007693"
+  },
+  {
+   "itemSeq": "202007691",
+   "name": "아모잘탄엑스큐정 5/50/5/10밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-11-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007691"
+  },
+  {
+   "itemSeq": "202009024",
+   "name": "코자로탄플러스프로정",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009024"
+  },
+  {
+   "itemSeq": "202202296",
+   "name": "클로잘탄정100/12.5밀리그램(로사르탄,클로르탈리돈)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로르탈리돈",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202296"
+  },
+  {
+   "itemSeq": "202202297",
+   "name": "클로잘탄정50/12.5밀리그램(로사르탄,클로르탈리돈)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로르탈리돈",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202297"
+  },
+  {
+   "itemSeq": "202301412",
+   "name": "클로잘탄정50/6.25밀리그램(로사르탄,클로르탈리돈)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로르탈리돈",
+     "amount": "6.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301412"
+  },
+  {
+   "itemSeq": "202501344",
+   "name": "아모프렐정1.67/16.67/4.17밀리그램(암로디핀,로사르탄,클로르탈리돈)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "2.32",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로르탈리돈",
+     "amount": "4.17",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "16.67",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501344"
+  },
+  {
+   "itemSeq": "202502493",
+   "name": "베실살탄큐정5/100/10밀리그램(암로디핀,로사르탄,로수바스타틴)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502493"
+  },
+  {
+   "itemSeq": "202502494",
+   "name": "베실살탄큐정5/50/10밀리그램(암로디핀,로사르탄,로수바스타틴)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502494"
+  },
+  {
+   "itemSeq": "202502507",
+   "name": "아모잘탄엑스큐정 5/100/2.5/10밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "2.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502507"
+  },
+  {
+   "itemSeq": "202502506",
+   "name": "아모잘탄엑스큐정 5/50/2.5/10밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로사르탄칼륨",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "2.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502506"
+  },
+  {
+   "itemSeq": "202601697",
+   "name": "베실살탄큐정5/100/5밀리그램(암로디핀,로사르탄,로수바스타틴)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.94",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로사르탄칼륨",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601697"
+  }
+ ]
+}

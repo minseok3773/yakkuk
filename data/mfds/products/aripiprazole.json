@@ -1,0 +1,916 @@
+{
+ "id": "aripiprazole",
+ "query": [
+  "아리피프라졸"
+ ],
+ "fetched": "2026-11-26",
+ "total": 60,
+ "kept": 60,
+ "mfdsName": [
+  "아리피프라졸",
+  "아리피프라졸(미분화)",
+  "아리피프라졸일수화물"
+ ],
+ "items": [
+  {
+   "itemSeq": "200202889",
+   "name": "아빌리파이정10밀리그램(아리피프라졸)",
+   "company": "한국오츠카제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-08-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200202889"
+  },
+  {
+   "itemSeq": "200202890",
+   "name": "아빌리파이정15밀리그램(아리피프라졸)",
+   "company": "한국오츠카제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-08-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200202890"
+  },
+  {
+   "itemSeq": "200202888",
+   "name": "아빌리파이정5밀리그램(아리피프라졸)",
+   "company": "한국오츠카제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-08-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200202888"
+  },
+  {
+   "itemSeq": "200808451",
+   "name": "아빌리파이정2밀리그램(아리피프라졸)",
+   "company": "한국오츠카제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808451"
+  },
+  {
+   "itemSeq": "201003710",
+   "name": "아빌라핀정10밀리그램(아리피프라졸(미분화))",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201003710"
+  },
+  {
+   "itemSeq": "201005134",
+   "name": "아빌라핀정15밀리그램(아리피프라졸(미분화))",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201005134"
+  },
+  {
+   "itemSeq": "201005133",
+   "name": "아빌라핀정5밀리그램(아리피프라졸(미분화))",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201005133"
+  },
+  {
+   "itemSeq": "201006798",
+   "name": "싸이파이정10밀리그램(아리피프라졸)(수출용)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-11-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006798"
+  },
+  {
+   "itemSeq": "201006796",
+   "name": "싸이파이정15밀리그램(아리피프라졸)(수출용)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-11-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006796"
+  },
+  {
+   "itemSeq": "201006797",
+   "name": "싸이파이정5밀리그램(아리피프라졸)(수출용)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-11-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006797"
+  },
+  {
+   "itemSeq": "201102477",
+   "name": "아리피졸정10밀리그램(아리피프라졸)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201102477"
+  },
+  {
+   "itemSeq": "201102476",
+   "name": "아리피졸정15밀리그램(아리피프라졸)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201102476"
+  },
+  {
+   "itemSeq": "201103996",
+   "name": "레피졸정15밀리그램(아리피프라졸)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "15.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103996"
+  },
+  {
+   "itemSeq": "201106954",
+   "name": "레피졸정10밀리그램(아리피프라졸)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201106954"
+  },
+  {
+   "itemSeq": "201108885",
+   "name": "레피졸정5밀리그램(아리피프라졸)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201108885"
+  },
+  {
+   "itemSeq": "201205266",
+   "name": "아리피졸정5밀리그램(아리피프라졸)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205266"
+  },
+  {
+   "itemSeq": "201309520",
+   "name": "아빌리파이오디정10밀리그램(아리피프라졸)",
+   "company": "한국오츠카제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309520"
+  },
+  {
+   "itemSeq": "201309521",
+   "name": "아빌리파이오디정15밀리그램(아리피프라졸)",
+   "company": "한국오츠카제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309521"
+  },
+  {
+   "itemSeq": "201310577",
+   "name": "아빌리파이액(아리피프라졸)(수출용)",
+   "company": "한국오츠카제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310577"
+  },
+  {
+   "itemSeq": "201310914",
+   "name": "아리파이큐오디정10밀리그램(아리피프라졸)(수출용)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310914"
+  },
+  {
+   "itemSeq": "201310915",
+   "name": "아리파이큐오디정15밀리그램(아리피프라졸)(수출용)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310915"
+  },
+  {
+   "itemSeq": "201310926",
+   "name": "아리피진정10밀리그램(아리피프라졸(미분화))",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310926"
+  },
+  {
+   "itemSeq": "201310927",
+   "name": "아리피진정15밀리그램(아리피프라졸(미분화))",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310927"
+  },
+  {
+   "itemSeq": "201310937",
+   "name": "아리피코정10밀리그램(아리피프라졸)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310937"
+  },
+  {
+   "itemSeq": "201310992",
+   "name": "아리피코정15밀리그램(아리피프라졸)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310992"
+  },
+  {
+   "itemSeq": "201404314",
+   "name": "아라빌정10밀리그램(아리피프라졸(미분화))",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404314"
+  },
+  {
+   "itemSeq": "201404315",
+   "name": "아라빌정15밀리그램(아리피프라졸(미분화))",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404315"
+  },
+  {
+   "itemSeq": "201404313",
+   "name": "아라빌정5밀리그램(아리피프라졸(미분화))",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404313"
+  },
+  {
+   "itemSeq": "201502454",
+   "name": "아리피졸정2밀리그램(아리피프라졸)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502454"
+  },
+  {
+   "itemSeq": "201505192",
+   "name": "아리피졸정30밀리그램(아리피프라졸)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505192"
+  },
+  {
+   "itemSeq": "201508422",
+   "name": "아빌리파이메인테나주사300밀리그램(아리피프라졸일수화물)",
+   "company": "한국오츠카제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸일수화물",
+     "amount": "312",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508422"
+  },
+  {
+   "itemSeq": "201508423",
+   "name": "아빌리파이메인테나주사400밀리그램(아리피프라졸일수화물)",
+   "company": "한국오츠카제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸일수화물",
+     "amount": "416",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508423"
+  },
+  {
+   "itemSeq": "201600871",
+   "name": "한림아리피프라졸정10밀리그램",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600871"
+  },
+  {
+   "itemSeq": "201600872",
+   "name": "한림아리피프라졸정15밀리그램",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600872"
+  },
+  {
+   "itemSeq": "201600873",
+   "name": "한림아리피프라졸정5밀리그램",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600873"
+  },
+  {
+   "itemSeq": "201603078",
+   "name": "아리피원정10밀리그램(아리피프라졸)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603078"
+  },
+  {
+   "itemSeq": "201604198",
+   "name": "레피졸정30밀리그램(아리피프라졸)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "30.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604198"
+  },
+  {
+   "itemSeq": "201800321",
+   "name": "아리피진정5밀리그램(아리피프라졸(미분화))",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800321"
+  },
+  {
+   "itemSeq": "202003616",
+   "name": "아리피원정5밀리그램(아리피프라졸)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003616"
+  },
+  {
+   "itemSeq": "202003828",
+   "name": "아리피코정5밀리그램(아리피프라졸(미분화))",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003828"
+  },
+  {
+   "itemSeq": "202009331",
+   "name": "아리졸정10밀리그램(아리피프라졸(미분화))",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009331"
+  },
+  {
+   "itemSeq": "202009330",
+   "name": "아리졸정15밀리그램(아리피프라졸(미분화))",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009330"
+  },
+  {
+   "itemSeq": "202009329",
+   "name": "아리졸정5밀리그램(아리피프라졸(미분화))",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009329"
+  },
+  {
+   "itemSeq": "202107807",
+   "name": "아빌리파이정1밀리그램(아리피프라졸)",
+   "company": "한국오츠카제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107807"
+  },
+  {
+   "itemSeq": "202203420",
+   "name": "레피졸정1밀리그램(아리피프라졸)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203420"
+  },
+  {
+   "itemSeq": "202203419",
+   "name": "레피졸정2밀리그램(아리피프라졸)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203419"
+  },
+  {
+   "itemSeq": "202203530",
+   "name": "아라빌정2밀리그램(아리피프라졸(미분화))",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-09-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203530"
+  },
+  {
+   "itemSeq": "202204039",
+   "name": "아리피졸정1밀리그램(아리피프라졸)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "1.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204039"
+  },
+  {
+   "itemSeq": "202204409",
+   "name": "아리피진정2밀리그램(아리피프라졸(미분화))",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204409"
+  },
+  {
+   "itemSeq": "202204615",
+   "name": "아리피진정1밀리그램(아리피프라졸(미분화))",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "1.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204615"
+  },
+  {
+   "itemSeq": "202300817",
+   "name": "아라빌정1밀리그램(아리피프라졸(미분화))",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-03-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300817"
+  },
+  {
+   "itemSeq": "202400040",
+   "name": "아빌라핀정1밀리그램(아리피프라졸)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "1.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400040"
+  },
+  {
+   "itemSeq": "202400041",
+   "name": "아빌라핀정2밀리그램(아리피프라졸)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400041"
+  },
+  {
+   "itemSeq": "202500430",
+   "name": "아빌리파이아심투파이주사720밀리그램(아리피프라졸일수화물)",
+   "company": "한국오츠카제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸일수화물",
+     "amount": "748.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500430"
+  },
+  {
+   "itemSeq": "202500429",
+   "name": "아빌리파이아심투파이주사960밀리그램(아리피프라졸일수화물)",
+   "company": "한국오츠카제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸일수화물",
+     "amount": "998.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500429"
+  },
+  {
+   "itemSeq": "202501444",
+   "name": "아리피코정1밀리그램(아리피프라졸(미분화))",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501444"
+  },
+  {
+   "itemSeq": "202501473",
+   "name": "아리피코정2밀리그램(아리피프라졸(미분화))",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501473"
+  },
+  {
+   "itemSeq": "202502213",
+   "name": "한림아리피프라졸정1밀리그램",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502213"
+  },
+  {
+   "itemSeq": "202502214",
+   "name": "한림아리피프라졸정2밀리그램",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸(미분화)",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502214"
+  },
+  {
+   "itemSeq": "202600202",
+   "name": "레피졸정20밀리그램(아리피프라졸)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아리피프라졸",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600202"
+  }
+ ]
+}

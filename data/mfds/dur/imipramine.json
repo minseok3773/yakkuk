@@ -1,0 +1,60 @@
+{
+ "id": "imipramine",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "imipramine"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "amiodarone hydrochloride",
+   "reason": "Torsade de pointes 위험 증가",
+   "self": "imipramine hydrochloride"
+  },
+  {
+   "ingredient": "dronedarone",
+   "reason": "Torsade de pointes 위험 증가",
+   "self": "imipramine hydrochloride"
+  },
+  {
+   "ingredient": "pimozide",
+   "reason": "QT연장",
+   "self": "imipramine hydrochloride"
+  },
+  {
+   "ingredient": "selegiline hydrochloride",
+   "reason": "근독성, 간질, 세로토닌성 증후군(고혈압, 고열, 간대성 근경련, 정신상태 변화 등)",
+   "self": "imipramine hydrochloride"
+  },
+  {
+   "ingredient": "oxymetazoline hydrochloride",
+   "reason": "고혈압 초래 가능 혈관수축작용으로 혈압상승 가능",
+   "self": "imipramine hydrochloride"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "동물실험에서 최대 임상노출보다는 낮은 정도의 전신노출수준(AUC)에서 생식독성 나타냄. 임신말기에 복용시 신생아 중단증후군 발생 가능성.",
+   "ingredient": "imipramine HCl"
+  }
+ ],
+ "elderly": [
+  {
+   "reason": "",
+   "ingredient": "imipramine hydrochloride"
+  }
+ ],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "정신신경용제",
+   "subgroup": "Group 12",
+   "code": "117L0001"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

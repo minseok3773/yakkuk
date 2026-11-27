@@ -1,0 +1,218 @@
+{
+ "id": "ezetimibe",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "ezetimibe"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "atazanavir sulfate (as atazanavir)+cobicistat silicon dioxide (as cobicistat)",
+   "reason": "횡문근융해를 포함한 근육병증 위험 가능",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "clarithromycin",
+   "reason": "근육병증의 위험 증가 가능",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "cobicistat silicon dioxide (as cobicistat )+darunavir ethanolate (as darunavir)",
+   "reason": "근병증의 위험 증가 가능",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)",
+   "reason": "횡문근융해를 포함한 근육병증 위험 가능",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "cyclosporine",
+   "reason": "근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+   "self": "amlodipine besylate (as amlodipine   5mg)+ezetimibe+losartan potassium (as losartan   45.8mg)+rosuvastatin calcium (as rosuvastatin   2.5mg)"
+  },
+  {
+   "ingredient": "cyclosporine",
+   "reason": "신기능 악화를 수반하는 횡문근융해증 발현 가능",
+   "self": "ezetimibe+pitavastatin calcium"
+  },
+  {
+   "ingredient": "darunavir ethanolate (as darunavir)",
+   "reason": "근증/횡문근변성의 위험성이 증가",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "nirmatrelvir+ritonavir",
+   "reason": "횡문근융해증을 포함하는 근육병증의 잠재적인 가능성. 이 약의 투여 시작으로부터 최소 12시간 전, 투여 중 5일동안 및 투여완료 후 5일동안 심바스타틴의 사용을 중단할 것",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "glecaprevir+pibrentasvir",
+   "reason": "횡문근융해증을 포함한 근육병증 위험 가능",
+   "self": "atorvastatin calcium (as atorvastatin)+ezetimibe"
+  },
+  {
+   "ingredient": "glecaprevir+pibrentasvir",
+   "reason": "근병증의 위험 증가 가능",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "itraconazole",
+   "reason": "근육병증, 횡문근융해증 위험 증가 가능",
+   "self": "atorvastatin calcium (as atorvastatin)+ezetimibe"
+  },
+  {
+   "ingredient": "itraconazole",
+   "reason": "근육병증, 횡문근융해증의 위험성 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "ledipasvir+sofosbuvir",
+   "reason": "횡문근융해증을 포함한 근육병증 위험 증가 가능",
+   "self": "amlodipine besylate (as amlodipine   5mg)+ezetimibe+losartan potassium (as losartan   45.8mg)+rosuvastatin calcium (as rosuvastatin   2.5mg)"
+  },
+  {
+   "ingredient": "microemulsion cyclosporine",
+   "reason": "근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+   "self": "amlodipine besylate (as amlodipine   5mg)+ezetimibe+losartan potassium (as losartan   45.8mg)+rosuvastatin calcium (as rosuvastatin   2.5mg)"
+  },
+  {
+   "ingredient": "microemulsion cyclosporine",
+   "reason": "신기능 악화를 수반하는 횡문근융해증 발현 가능",
+   "self": "ezetimibe+pitavastatin calcium"
+  },
+  {
+   "ingredient": "posaconazole(micronized)",
+   "reason": "횡문근융해증 발생 가능",
+   "self": "atorvastatin calcium (as atorvastatin)+ezetimibe"
+  },
+  {
+   "ingredient": "posaconazole(micronized)",
+   "reason": "근육병증의 위험 증가 가능",
+   "self": "ezetimibe+simvastatin"
+  },
+  {
+   "ingredient": "ritonavir",
+   "reason": "근육병증의 위험 증가 가능",
+   "self": "ezetimibe+simvastatin"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰.",
+   "ingredient": "ezetimibe"
+  },
+  {
+   "grade": "1",
+   "reason": "atorvastatin: 임부에 대한 안전성 미확립.ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰.",
+   "ingredient": "atorvastatin calcium(as atorvastatin 10mg), ezetimibe"
+  },
+  {
+   "grade": "1",
+   "reason": "atorvastatin: 임부에 대한 안전성 미확립. ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소)",
+   "ingredient": "Atorvastatin Calcium Trihydrate, Ezetimibe"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고. ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰.",
+   "ingredient": "ezetimibe, rosuvastatin calcium (as rosuvastatin)"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin:임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고./ amlodipine:임부에 대한 안전성 미확립.인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남./ezetimibe:동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰./losartan:임신 제 2~3기에 ACE 저해제 투여시 태아와 신생아의 저혈압, 고칼륨혈증, 신생아 두개골발육부전, 무뇨증, 신부전, 자궁내 성장지체, 양수과소증(사지구축, 두개안면기형, 폐발육부전과 관련) 및 사망 등 보고. 임신 1기에 투여시 출생결함의 잠재적 위험과 관련됨.",
+   "ingredient": "amlodipine+ezetimibe+losartan+rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "rrosuvastatin:임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고./ amlodipine:임부에 대한 안전성 미확립.인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남./ezetimibe:동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰./losartan:임신 제 2~3기에 ACE 저해제 투여시 태아와 신생아의 저혈압, 고칼륨혈증, 신생아 두개골발육부전, 무뇨증, 신부전, 자궁내 성장지체, 양수과소증(사지구축, 두개안면기형, 폐발육부전과 관련) 및 사망 등 보고. 임신 1기에 투여시 출생결함의 잠재적 위험과 관련됨.",
+   "ingredient": "amlodipine+ezetimibe+losartan+rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "ezetimibe:동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰/pitavastatin:태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성",
+   "ingredient": "ezetimibe, pitavastatin calcium"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고./ ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰",
+   "ingredient": "ezetimibe+rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고/ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰/telmisartan: 임신 2기 및 3기에 투여시 태아 및 신생아에 저혈압, 신생아 두골형성부전, 무뇨, 신부전, 양수과소증(태아사지경축, 두개안면기형, 폐형성저하증과 관련) 및 사망과 관련됨.",
+   "ingredient": "rosuvastatin + ezetimibe + telmisartan"
+  },
+  {
+   "grade": "2",
+   "reason": "ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰./fenofibrate: 임신 3개월 이후 투여시 태아에 축적되어 태아독성 유발 가능성.",
+   "ingredient": "ezetimibe + fenofibrate"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고/amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남/ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰/telmisartan: 임신 2기 및 3기에 투여시 태아 및 신생아에 저혈압, 신생아 두골형성부전, 무뇨, 신부전, 양수과소증(태아사지경축, 두개안면기형, 폐형성저하증과 관련) 및 사망과 관련됨.",
+   "ingredient": "amlodipine + ezetimibe + rosuvastatin + telmisartan"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고/ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰/S-Amlodipine: 인체에 대한 최대권장용량의 50배에 해당하는 용량의 이 약을 투여한 랫트에서 분만지연 및 연장 나타남. 동물실험 중 고용량에서 생식독성 나타남/telmisartan: 임신 2기 및 3기에 투여시 태아 및 신생아에 저혈압, 신생아 두골형성부전, 무뇨, 신부전, 양수과소증(태아사지경축, 두개안면기형, 폐형성저하증과 관련) 및 사망과 관련됨",
+   "ingredient": "ezetimibe + rosuvastatin + s-amlodipine + telmisartan"
+  },
+  {
+   "grade": "1",
+   "reason": "atorvastatin: 임부에 대한 안전성 미확립. Ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰.",
+   "ingredient": "atorvastatin + ezetimibe"
+  },
+  {
+   "grade": "1",
+   "reason": "amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. atorvastatin: 임부에 대한 안전성 미확립. Ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰.",
+   "ingredient": "amlodipine + atorvastatin + ezetimibe"
+  },
+  {
+   "grade": "1",
+   "reason": "atorvastatin: 임부에 대한 안전성 미확립. / amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. / ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰.",
+   "ingredient": "amlodipine + atorvastatin + ezetimibe"
+  },
+  {
+   "grade": "1",
+   "reason": "amlodipine:임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남./atorvastatin:임부에 대한 안전성 미확립./ezetimibe:동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰.",
+   "ingredient": "amlodipine + atorvastatin + ezetimibe"
+  },
+  {
+   "grade": "1",
+   "reason": "rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고. / amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. / ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰.",
+   "ingredient": "amlodipine + ezetimibe + rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "ezetimibe : 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰. / rosuvastatin : 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고. / S-amlodipine : 인체에 대한 최대권장용량의 50배에 해당하는 용량의 이 약을 투여한 랫트에서 분만지연 및 연장 나타남. 동물실험 중 고용량에서 생식독성 나타남. / telmisartan : 임신 2기 및 3기에 투여시 태아 및 신생아에 저혈압, 신생아 두골형성부전, 무뇨, 신부전, 양수과소증(태아사지경축, 두개안면기형, 폐형성저하증과 관련) 및 사망과 관련됨.",
+   "ingredient": "ezetimibe + rosuvastatin + S-amlodipine + telmisartan"
+  },
+  {
+   "grade": "1",
+   "reason": "amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. / ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰. / losartan: 임신 제 2~3기에 ACE 저해제 투여시 태아와 신생아의 저혈압, 고칼륨혈증, 신생아 두개골발육부전, 무뇨증, 신부전, 자궁내 성장지체, 양수과소증(사지구축, 두개안면기형, 폐발육부전과 관련) 및 사망 등 보고. 임신 1기에 투여시 출생결함의 잠재적 위험과 관련됨. / rosuvastatin: 임부에 대한 안전성 미확립. 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성. 동물실험에서 제한된 생식독성 보고.",
+   "ingredient": "amlodipine + ezetimibe + losartan + rosuvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰. / pitavastatin: 태아 발육에 필수적인 콜레스테롤의 생합성 감소 가능성.",
+   "ingredient": "ezetimibe + pitavastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "atorvastatin: 임부에 대한 안전성 미확립. / ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰. / fimasartan: 임신 2~3기에 투여시 태아 및 신생아 저혈압, 신생아 두개골형성저하증, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐형성저하증과 관련), 및 사망 보고.",
+   "ingredient": "atorvastatin + ezetimibe + fimasartan"
+  }
+ ],
+ "elderly": [],
+ "dose": [
+  {
+   "text": "1일 최대투여량: 에제티미브 10mg/로수바스타틴 20mg"
+  }
+ ],
+ "duration": [],
+ "class_duplication": [],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

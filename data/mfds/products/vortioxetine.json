@@ -1,0 +1,224 @@
+{
+ "id": "vortioxetine",
+ "query": [
+  "보티옥세틴"
+ ],
+ "fetched": "2026-11-26",
+ "total": 14,
+ "kept": 14,
+ "mfdsName": [
+  "보티옥세틴브롬화수소산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "201403836",
+   "name": "브린텔릭스정10밀리그램(보티옥세틴브롬화수소산염)",
+   "company": "한국룬드벡(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "보티옥세틴브롬화수소산염",
+     "amount": "12.710",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403836"
+  },
+  {
+   "itemSeq": "201403837",
+   "name": "브린텔릭스정20밀리그램(보티옥세틴브롬화수소산염)",
+   "company": "한국룬드벡(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "보티옥세틴브롬화수소산염",
+     "amount": "25.420",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403837"
+  },
+  {
+   "itemSeq": "201403835",
+   "name": "브린텔릭스정5밀리그램(보티옥세틴브롬화수소산염)",
+   "company": "한국룬드벡(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "보티옥세틴브롬화수소산염",
+     "amount": "6.355",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403835"
+  },
+  {
+   "itemSeq": "202301254",
+   "name": "보세틴정10밀리그램(보티옥세틴브롬화수소산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "보티옥세틴브롬화수소산염",
+     "amount": "12.71",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301254"
+  },
+  {
+   "itemSeq": "202301255",
+   "name": "보세틴정15밀리그램(보티옥세틴브롬화수소산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "보티옥세틴브롬화수소산염",
+     "amount": "19.065",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301255"
+  },
+  {
+   "itemSeq": "202301256",
+   "name": "보세틴정20밀리그램(보티옥세틴브롬화수소산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "보티옥세틴브롬화수소산염",
+     "amount": "25.42",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301256"
+  },
+  {
+   "itemSeq": "202301253",
+   "name": "보세틴정5밀리그램(보티옥세틴브롬화수소산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "보티옥세틴브롬화수소산염",
+     "amount": "6.355",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301253"
+  },
+  {
+   "itemSeq": "202301275",
+   "name": "보티옥센정10밀리그램(보티옥세틴브롬화수소산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "보티옥세틴브롬화수소산염",
+     "amount": "12.71",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301275"
+  },
+  {
+   "itemSeq": "202301276",
+   "name": "보티옥센정15밀리그램(보티옥세틴브롬화수소산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "보티옥세틴브롬화수소산염",
+     "amount": "19.065",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301276"
+  },
+  {
+   "itemSeq": "202301277",
+   "name": "보티옥센정20밀리그램(보티옥세틴브롬화수소산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "보티옥세틴브롬화수소산염",
+     "amount": "25.42",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301277"
+  },
+  {
+   "itemSeq": "202301274",
+   "name": "보티옥센정5밀리그램(보티옥세틴브롬화수소산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "보티옥세틴브롬화수소산염",
+     "amount": "6.355",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301274"
+  },
+  {
+   "itemSeq": "202301538",
+   "name": "보티브정10밀리그램(보티옥세틴브롬화수소산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "보티옥세틴브롬화수소산염",
+     "amount": "12.71",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301538"
+  },
+  {
+   "itemSeq": "202301537",
+   "name": "보티브정20밀리그램(보티옥세틴브롬화수소산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "보티옥세틴브롬화수소산염",
+     "amount": "25.42",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301537"
+  },
+  {
+   "itemSeq": "202301539",
+   "name": "보티브정5밀리그램(보티옥세틴브롬화수소산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "보티옥세틴브롬화수소산염",
+     "amount": "6.355",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301539"
+  }
+ ]
+}

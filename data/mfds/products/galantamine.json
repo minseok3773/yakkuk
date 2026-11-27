@@ -1,0 +1,209 @@
+{
+ "id": "galantamine",
+ "query": [
+  "갈란타민"
+ ],
+ "fetched": "2026-11-26",
+ "total": 12,
+ "kept": 12,
+ "mfdsName": [
+  "갈란타민브롬화수소산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "200710849",
+   "name": "타미린서방정24밀리그램(갈란타민브롬화수소산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "갈란타민브롬화수소산염",
+     "amount": "30.76",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710849"
+  },
+  {
+   "itemSeq": "200810509",
+   "name": "뉴멘타민서방캡슐8밀리그램(갈란타민브롬화수소산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "갈란타민브롬화수소산염",
+     "amount": "10.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810509"
+  },
+  {
+   "itemSeq": "200810508",
+   "name": "명인갈란타민서방캡슐8밀리그램(갈란타민브롬화수소산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "갈란타민브롬화수소산염",
+     "amount": "10.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810508"
+  },
+  {
+   "itemSeq": "200904340",
+   "name": "타미린서방정16밀리그램(갈란타민브롬화수소산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "갈란타민브롬화수소산염",
+     "amount": "20.51",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904340"
+  },
+  {
+   "itemSeq": "200904349",
+   "name": "타미린서방정8밀리그램(갈란타민브롬화수소산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "갈란타민브롬화수소산염",
+     "amount": "10.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904349"
+  },
+  {
+   "itemSeq": "201006172",
+   "name": "뉴멘타민서방캡슐16밀리그램(갈란타민브롬화수소산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "갈란타민브롬화수소산염",
+     "amount": "20.51",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-10-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006172"
+  },
+  {
+   "itemSeq": "201006173",
+   "name": "뉴멘타민서방캡슐24밀리그램(갈란타민브롬화수소산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "갈란타민브롬화수소산염",
+     "amount": "30.76",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-10-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201006173"
+  },
+  {
+   "itemSeq": "201007257",
+   "name": "명인갈란타민서방캡슐16밀리그램(갈란타민브롬화수소산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "갈란타민브롬화수소산염",
+     "amount": "20.51",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007257"
+  },
+  {
+   "itemSeq": "201007258",
+   "name": "명인갈란타민서방캡슐24밀리그램(갈란타민브롬화수소산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "갈란타민브롬화수소산염",
+     "amount": "30.76",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007258"
+  },
+  {
+   "itemSeq": "202104932",
+   "name": "레미닐피알서방캡슐16밀리그램(갈란타민브롬화수소산염)",
+   "company": "클리니젠코리아(유)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "갈란타민브롬화수소산염",
+     "amount": "15.38",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "갈란타민브롬화수소산염",
+     "amount": "5.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104932"
+  },
+  {
+   "itemSeq": "202104931",
+   "name": "레미닐피알서방캡슐24밀리그램(갈란타민브롬화수소산염)",
+   "company": "클리니젠코리아(유)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "갈란타민브롬화수소산염",
+     "amount": "23.07",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "갈란타민브롬화수소산염",
+     "amount": "7.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104931"
+  },
+  {
+   "itemSeq": "202104933",
+   "name": "레미닐피알서방캡슐8밀리그램(갈란타민브롬화수소산염)",
+   "company": "클리니젠코리아(유)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "갈란타민브롬화수소산염",
+     "amount": "7.69",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "갈란타민브롬화수소산염",
+     "amount": "2.56",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104933"
+  }
+ ]
+}

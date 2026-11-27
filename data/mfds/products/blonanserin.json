@@ -1,0 +1,139 @@
+{
+ "id": "blonanserin",
+ "query": [
+  "블로난세린"
+ ],
+ "fetched": "2026-11-27",
+ "total": 8,
+ "kept": 8,
+ "mfdsName": [
+  "블로난세린"
+ ],
+ "items": [
+  {
+   "itemSeq": "200906540",
+   "name": "로나센정2밀리그램(블로난세린)/ 로나센정4밀리그램(블로난세린)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "블로난세린",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "블로난세린",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-08-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906540"
+  },
+  {
+   "itemSeq": "201504175",
+   "name": "로나센정8밀리그램(블로난세린)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "블로난세린",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504175"
+  },
+  {
+   "itemSeq": "201707313",
+   "name": "파마블로난세린정8밀리그램",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "블로난세린",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707313"
+  },
+  {
+   "itemSeq": "201708581",
+   "name": "파마블로난세린정2밀리그램",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "블로난세린",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708581"
+  },
+  {
+   "itemSeq": "201708582",
+   "name": "파마블로난세린정4밀리그램",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "블로난세린",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708582"
+  },
+  {
+   "itemSeq": "201900776",
+   "name": "로나큐정8밀리그램(블로난세린)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "블로난세린",
+     "amount": "8.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900776"
+  },
+  {
+   "itemSeq": "201901254",
+   "name": "로나큐정2밀리그램(블로난세린)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "블로난세린",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901254"
+  },
+  {
+   "itemSeq": "201901253",
+   "name": "로나큐정4밀리그램(블로난세린)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "블로난세린",
+     "amount": "4.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901253"
+  }
+ ]
+}

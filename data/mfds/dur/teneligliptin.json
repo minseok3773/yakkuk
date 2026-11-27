@@ -1,0 +1,88 @@
+{
+ "id": "teneligliptin",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "teneligliptin"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "ethyl esters of the iodised fatty acids of poppyseed oil",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "metformin hydrochloride+teneligliptin hydrochloride hydrate (as teneligliptin)",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iobitridol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "metformin hydrochloride+teneligliptin hydrochloride hydrate (as teneligliptin)",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iodixanol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "metformin hydrochloride+teneligliptin hydrochloride hydrate (as teneligliptin)",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iohexol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "metformin hydrochloride+teneligliptin hydrochloride hydrate (as teneligliptin)",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iomeprol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "metformin hydrochloride+teneligliptin hydrochloride hydrate (as teneligliptin)",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iopamidol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "metformin hydrochloride+teneligliptin hydrochloride hydrate (as teneligliptin)",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iopromide",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "metformin hydrochloride+teneligliptin hydrochloride hydrate (as teneligliptin)",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "ioversol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "metformin hydrochloride+teneligliptin hydrochloride hydrate (as teneligliptin)",
+   "remark": "48시간 이내 병용금기"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립.",
+   "ingredient": "teneligliptin hydrobromide hydrate"
+  },
+  {
+   "grade": "2",
+   "reason": "teneligliptin: 임부에 대한 안전성 미확립. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함.",
+   "ingredient": "metformin, teneligliptin hydrobromide hydrate"
+  },
+  {
+   "grade": "2",
+   "reason": "metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / teneligliptin: 임부에 대한 안전성 미확립.",
+   "ingredient": "metformin hydrochloride, teneligliptin"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "당뇨병용제",
+   "subgroup": "Group 6",
+   "code": "396F0008"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

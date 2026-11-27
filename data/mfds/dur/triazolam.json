@@ -1,0 +1,68 @@
+{
+ "id": "triazolam",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "triazolam"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "ritonavir",
+   "reason": "진정작용의 연장 또는 증가, 호흡 저하",
+   "self": "triazolam"
+  },
+  {
+   "ingredient": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)",
+   "reason": "Triazolam 혈중농도 증가, 진정 또는 호흡 억제의 연장 또는 증가",
+   "self": "triazolam"
+  },
+  {
+   "ingredient": "fluconazole",
+   "reason": "triazolam 의 약리학적 효과 및 작용증가",
+   "self": "triazolam"
+  },
+  {
+   "ingredient": "itraconazole",
+   "reason": "발작, 호흡저하, 혈관부종, 무호흡, 혼수 같은 약물이상반응 발생 위험 증가, itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "triazolam"
+  },
+  {
+   "ingredient": "nirmatrelvir+ritonavir",
+   "reason": "과도한 진정 및 호흡억제의 가능성",
+   "self": "triazolam"
+  }
+ ],
+ "age": [
+  {
+   "text": "18세 이하: 안전성 및 유효성 미확립",
+   "ingredient": "triazolam"
+  }
+ ],
+ "pregnancy": [
+  {
+   "grade": "1",
+   "reason": "벤조디아제핀계 약물의 최기형성 사례(대조군에 비해 높음), 신생아 포유곤란, 근긴장저하, 졸음, 황달 증가 및 분만전 연용시 신생아 금단증상(신경과민, 진전, 과다긴장 등) 보고.",
+   "ingredient": "triazolam"
+  }
+ ],
+ "elderly": [],
+ "dose": [
+  {
+   "text": "1일 최대투여량: 트리아졸람 0.25mg"
+  }
+ ],
+ "duration": [
+  {
+   "text": "최대투여기간: 21일"
+  }
+ ],
+ "class_duplication": [
+  {
+   "group": "최면진정제",
+   "subgroup": "Group 2",
+   "code": "112B0003"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

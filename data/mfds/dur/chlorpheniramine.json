@@ -1,0 +1,81 @@
+{
+ "id": "chlorpheniramine",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "chlorpheniramine"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "safinamide mesylate (as safinamide)",
+   "reason": "정신병 또는 기괴한 행동 등의 유발 보고됨",
+   "self": "acetaminophen+anhydrous caffeine+ascorbic acid+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+pseudoephedrine hydrochloride+riboflavin"
+  },
+  {
+   "ingredient": "rasagiline mesylate (as rasagiline)",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "acetaminophen+anhydrous caffeine+ascorbic acid+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+pseudoephedrine hydrochloride+riboflavin"
+  },
+  {
+   "ingredient": "selegiline hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "acetaminophen+anhydrous caffeine+ascorbic acid+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+pseudoephedrine hydrochloride+riboflavin"
+  }
+ ],
+ "age": [
+  {
+   "text": "12세 미만: 12세 미만 소아는 호흡억제 감수성이 큼. 12세 미만 소아에서 사망을 포함하는 중증 호흡억제 위험이 크다는 국외 보고 있음.",
+   "ingredient": "caffeine anhydrous, chlorpheniramine maleate, dihydrocodeine tartrate, DL-methylephedrine hydrochloride"
+  },
+  {
+   "text": "12세 미만: 중증 호흡억제가 나타날 수 있음, 12세 미만 소아에서 사망을 포함하는 중증 호흡억제 위험이 크다는 국외 보고 있음",
+   "ingredient": "Ammonium chloride + Chlorpheniramine + Dihydrocodeine + Methylephedrine + Pelargonium sidoides extract"
+  },
+  {
+   "text": "12세 미만:",
+   "ingredient": "Chlorpheniramine + Dipotassium Glycyrrhizinate + Naphazoline"
+  }
+ ],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립. 신생아 호흡억제 및 금단 증상 유발 가능.",
+   "ingredient": "caffeine anhydrous, chlorpheniramine maleate, dihydrocodeine tartrate, DL-methylephedrine hydrochloride"
+  },
+  {
+   "grade": "2",
+   "reason": "pseudoephedrine:임부에 대한 안전성 미확립.",
+   "ingredient": "acetaminophen + anhydrous caffeine + chlorpheniramine + pseudoephedrine"
+  }
+ ],
+ "elderly": [
+  {
+   "reason": "",
+   "ingredient": "chlorpheniramine maleate"
+  }
+ ],
+ "dose": [
+  {
+   "text": "1일 최대투여량: 클로르페니라민말레산염 24mg"
+  },
+  {
+   "text": "1일 최대투여량: 페닐레프린염산염 60mg/클로르페니라민말레산염 24mg"
+  },
+  {
+   "text": "1일 최대투여량: 아세트아미노펜으로써 4,000mg"
+  },
+  {
+   "text": "1일 최대투여량: 메클리진염산염수화물 75mg/카페인무수물 75mg/클로르페니라민말레산염 6mg/피리독신염산염 30mg"
+  }
+ ],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "호흡기관용약",
+   "subgroup": "Group 1",
+   "code": "222A0001"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

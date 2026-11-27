@@ -1,0 +1,339 @@
+{
+ "id": "lamotrigine",
+ "query": [
+  "라모트리진"
+ ],
+ "fetched": "2026-11-26",
+ "total": 21,
+ "kept": 21,
+ "mfdsName": [
+  "라모트리진"
+ ],
+ "items": [
+  {
+   "itemSeq": "200209641",
+   "name": "라믹탈정25밀리그램,50밀리그램,100밀리그램(라모트리진)",
+   "company": "(주)글락소스미스클라인",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "라모트리진",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "라모트리진",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200209641"
+  },
+  {
+   "itemSeq": "200500216",
+   "name": "라모진정100밀리그람(라모트리진)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500216"
+  },
+  {
+   "itemSeq": "200502871",
+   "name": "라비시틴정100밀리그램(라모트리진)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502871"
+  },
+  {
+   "itemSeq": "200603850",
+   "name": "라믹탈츄어블정5밀리그램(라모트리진)",
+   "company": "(주)글락소스미스클라인",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-03-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200603850"
+  },
+  {
+   "itemSeq": "200603851",
+   "name": "라믹탈츄어블정2밀리그램(라모트리진)",
+   "company": "(주)글락소스미스클라인",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-05-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200603851"
+  },
+  {
+   "itemSeq": "200611060",
+   "name": "라모티진정100밀리그램(라모트리진)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200611060"
+  },
+  {
+   "itemSeq": "200705098",
+   "name": "라비시틴정50밀리그램(라모트리진)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705098"
+  },
+  {
+   "itemSeq": "200706331",
+   "name": "라미아트정100밀리그램(라모트리진)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706331"
+  },
+  {
+   "itemSeq": "200706332",
+   "name": "라미아트정25밀리그램(라모트리진)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706332"
+  },
+  {
+   "itemSeq": "200706333",
+   "name": "라미아트정50밀리그램(라모트리진)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706333"
+  },
+  {
+   "itemSeq": "200708355",
+   "name": "라비시틴정25밀리그램(라모트리진)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708355"
+  },
+  {
+   "itemSeq": "200708888",
+   "name": "라모스탈정100밀리그램(라모트리진)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708888"
+  },
+  {
+   "itemSeq": "200809576",
+   "name": "라모티진정25밀리그램\n(라모트리진)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809576"
+  },
+  {
+   "itemSeq": "200809575",
+   "name": "라모티진정50밀리그램(라모트리진)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809575"
+  },
+  {
+   "itemSeq": "200901637",
+   "name": "라모진정25mg(라모트리진)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-03-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901637"
+  },
+  {
+   "itemSeq": "200901633",
+   "name": "라모진정50mg(라모트리진)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-03-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901633"
+  },
+  {
+   "itemSeq": "201001684",
+   "name": "라모스탈정50밀리그램(라모트리진)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201001684"
+  },
+  {
+   "itemSeq": "201200435",
+   "name": "테바라모트리진츄어블정50밀리그램",
+   "company": "(주)한독테바",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-01-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200435"
+  },
+  {
+   "itemSeq": "201201264",
+   "name": "테바라모트리진츄어블정100밀리그램",
+   "company": "(주)한독테바",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201201264"
+  },
+  {
+   "itemSeq": "201201263",
+   "name": "테바라모트리진츄어블정25밀리그램",
+   "company": "(주)한독테바",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201201263"
+  },
+  {
+   "itemSeq": "202603517",
+   "name": "라모스탈정25밀리그램(라모트리진)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라모트리진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-11-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603517"
+  }
+ ]
+}

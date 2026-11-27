@@ -1,0 +1,78 @@
+{
+ "id": "levodopa",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "levodopa",
+  "carbidopa"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "haloperidol",
+   "reason": "Levodopa의 치료효과 감소",
+   "self": "benserazide hydrochloride (as benserazide)+levodopa"
+  },
+  {
+   "ingredient": "haloperidol decanoate (as haloperidol)",
+   "reason": "Levodopa의 치료효과 감소",
+   "self": "benserazide hydrochloride (as benserazide)+levodopa"
+  },
+  {
+   "ingredient": "metoclopramide",
+   "reason": "레보도파 효과 감소",
+   "self": "benserazide hydrochloride (as benserazide)+levodopa"
+  },
+  {
+   "ingredient": "metoclopramide hydrochloride",
+   "reason": "레보도파 효과 감소",
+   "self": "benserazide hydrochloride (as benserazide)+levodopa"
+  }
+ ],
+ "age": [
+  {
+   "text": "25세 미만: 안전성 및 유효성 미확립. 동물실험에서 벤세라지드에 의해 골격기형이 나타남",
+   "ingredient": "benserazide hydrochloride (as benserazide), levodopa"
+  }
+ ],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "benserazide: 동물실험에서 골격기형 보고.levodopa: 동물실험에서 내장, 골격기형 발생 보고.",
+   "ingredient": "levodopa, benserazide HCl"
+  },
+  {
+   "grade": "2",
+   "reason": "carbidopa: 동물실험에서 내장, 골격기형 발생 보고.levodopa: 동물실험에서 내장, 골격기형 발생 보고.",
+   "ingredient": "levodopa, carbidopa"
+  },
+  {
+   "grade": "2",
+   "reason": "carbidopa: 동물실험에서 내장, 골격기형 발생 보고.entacapone: 임부에 대한 안전성 미확립. 동물실험에서 과용량 투여시 두정골, 측두골, 전두골의 골화지연 관찰, 확장된 전두비골 봉합 증가. 유전독성시험에서 염색체 이상 및 유전변이시험에서 유전자 돌연변이 관찰됨.levodopa: 동물실험에서 내장, 골격기형 발생 보고.",
+   "ingredient": "levodopa, entacapone, carbidopa monohydrate(as carbidopa)"
+  },
+  {
+   "grade": "2",
+   "reason": "benserazide: 동물실험에서 골격기형 보고. Levodopa: 동물실험에서 내장, 골격기형 발생 보고.",
+   "ingredient": "benserazide + levodopa"
+  }
+ ],
+ "elderly": [],
+ "dose": [
+  {
+   "text": "1일 최대투여량: 레보도파 1,500mg/카르비도파 375mg/엔타카폰 2,000mg"
+  },
+  {
+   "text": "1일 최대투여량: 레보도파 1,500mg"
+  }
+ ],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "정신신경용제",
+   "subgroup": "Group 2",
+   "code": "117B0001"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

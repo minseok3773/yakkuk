@@ -1,0 +1,479 @@
+{
+ "id": "ropinirole",
+ "query": [
+  "로피니롤"
+ ],
+ "fetched": "2026-11-27",
+ "total": 31,
+ "kept": 31,
+ "mfdsName": [
+  "로피니롤염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "200108698",
+   "name": "리큅정0.25밀리그램(로피니롤염산염)",
+   "company": "(주)글락소스미스클라인",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "0.285",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108698"
+  },
+  {
+   "itemSeq": "200108699",
+   "name": "리큅정1밀리그램(로피니롤염산염)",
+   "company": "(주)글락소스미스클라인",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "1.14",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108699"
+  },
+  {
+   "itemSeq": "200108700",
+   "name": "리큅정2밀리그램(로피니롤염산염)",
+   "company": "(주)글락소스미스클라인",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "2.28",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108700"
+  },
+  {
+   "itemSeq": "200108701",
+   "name": "리큅정5밀리그램(로피니롤염산염)",
+   "company": "(주)글락소스미스클라인",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "5.70",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108701"
+  },
+  {
+   "itemSeq": "200708444",
+   "name": "로피맥스정2밀리그램(로피니롤염산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "2.28",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708444"
+  },
+  {
+   "itemSeq": "200713637",
+   "name": "파키놀정1밀리그램(로피니롤염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "1.14",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-12-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200713637"
+  },
+  {
+   "itemSeq": "200803810",
+   "name": "뉴큅정2밀리그램(로피니롤염산염)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "2.28",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803810"
+  },
+  {
+   "itemSeq": "200805458",
+   "name": "리큅피디정2밀리그램(로피니롤염산염)",
+   "company": "(주)글락소스미스클라인",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "2.28",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805458"
+  },
+  {
+   "itemSeq": "200805459",
+   "name": "리큅피디정4밀리그램(로피니롤염산염)",
+   "company": "(주)글락소스미스클라인",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "4.56",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805459"
+  },
+  {
+   "itemSeq": "200805460",
+   "name": "리큅피디정8밀리그램(로피니롤염산염)",
+   "company": "(주)글락소스미스클라인",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "9.12",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805460"
+  },
+  {
+   "itemSeq": "200808560",
+   "name": "로피맥스정0.25밀리그램(로피니롤염산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "0.285",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808560"
+  },
+  {
+   "itemSeq": "200808559",
+   "name": "로피맥스정1밀리그램(로피니롤염산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "1.14",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808559"
+  },
+  {
+   "itemSeq": "200904641",
+   "name": "뉴큅정0.25밀리그램(로피니롤염산염)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "0.285",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904641"
+  },
+  {
+   "itemSeq": "200904640",
+   "name": "뉴큅정1밀리그램(로피니롤염산염)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "1.14",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904640"
+  },
+  {
+   "itemSeq": "200905216",
+   "name": "파키놀정0.25밀리그램(로피니롤염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "0.285",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200905216"
+  },
+  {
+   "itemSeq": "200908350",
+   "name": "파키놀정2밀리그램(로피니롤염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "2.28",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200908350"
+  },
+  {
+   "itemSeq": "201108824",
+   "name": "파키놀정5밀리그램(로피니롤염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "5.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201108824"
+  },
+  {
+   "itemSeq": "201309848",
+   "name": "프라큅정0.25밀리그램(로피니롤염산염)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "0.285",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309848"
+  },
+  {
+   "itemSeq": "201309850",
+   "name": "프라큅정2밀리그램(로피니롤염산염)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "2.28",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309850"
+  },
+  {
+   "itemSeq": "201901411",
+   "name": "로피맥스피디정2밀리그램(로피니롤염산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "2.28",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901411"
+  },
+  {
+   "itemSeq": "201901416",
+   "name": "로피맥스피디정4밀리그램(로피니롤염산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "4.56",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901416"
+  },
+  {
+   "itemSeq": "201901417",
+   "name": "로피맥스피디정8밀리그램(로피니롤염산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "9.12",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901417"
+  },
+  {
+   "itemSeq": "201901414",
+   "name": "리키롤피디정2밀리그램(로피니롤염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "2.28",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901414"
+  },
+  {
+   "itemSeq": "201901421",
+   "name": "리키롤피디정4밀리그램(로피니롤염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "4.56",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901421"
+  },
+  {
+   "itemSeq": "201901422",
+   "name": "리키롤피디정8밀리그램(로피니롤염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "9.12",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901422"
+  },
+  {
+   "itemSeq": "201901412",
+   "name": "파키놀피디정2밀리그램(로피니롤염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "2.28",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901412"
+  },
+  {
+   "itemSeq": "201901419",
+   "name": "파키놀피디정4밀리그램(로피니롤염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "4.56",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901419"
+  },
+  {
+   "itemSeq": "201901418",
+   "name": "파키놀피디정8밀리그램(로피니롤염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "9.12",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901418"
+  },
+  {
+   "itemSeq": "202000406",
+   "name": "리키롤정0.25밀리그램(로피니롤염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "0.285",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000406"
+  },
+  {
+   "itemSeq": "202000407",
+   "name": "리키롤정1밀리그램(로피니롤염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "1.14",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000407"
+  },
+  {
+   "itemSeq": "202000408",
+   "name": "리키롤정2밀리그램(로피니롤염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로피니롤염산염",
+     "amount": "2.28",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000408"
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "id": "bupropion",
+ "query": [
+  "부프로피온"
+ ],
+ "fetched": "2026-11-26",
+ "total": 11,
+ "kept": 11,
+ "mfdsName": [
+  "부프로피온염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "200202994",
+   "name": "웰정(부프로피온염산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "부프로피온염산염",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-01-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200202994"
+  },
+  {
+   "itemSeq": "200702571",
+   "name": "웰부트린엑스엘정150밀리그램(부프로피온염산염)",
+   "company": "(주)글락소스미스클라인",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "부프로피온염산염",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702571"
+  },
+  {
+   "itemSeq": "200702570",
+   "name": "웰부트린엑스엘정300밀리그램(부프로피온염산염)",
+   "company": "(주)글락소스미스클라인",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "부프로피온염산염",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702570"
+  },
+  {
+   "itemSeq": "200801900",
+   "name": "니코피온서방정150밀리그램(부프로피온염산염)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "부프로피온염산염",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801900"
+  },
+  {
+   "itemSeq": "201405262",
+   "name": "부로피온정(부프로피온염산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "부프로피온염산염",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405262"
+  },
+  {
+   "itemSeq": "201605158",
+   "name": "제로피온서방정150mg(부프로피온염산염)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "부프로피온염산염",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605158"
+  },
+  {
+   "itemSeq": "201605175",
+   "name": "애드피온서방정150밀리그램(부프로피온염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "부프로피온염산염",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605175"
+  },
+  {
+   "itemSeq": "201605178",
+   "name": "웰서방정(부프로피온염산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "부프로피온염산염",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605178"
+  },
+  {
+   "itemSeq": "201605177",
+   "name": "파피온서방정(부프로피온염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "부프로피온염산염",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605177"
+  },
+  {
+   "itemSeq": "201605174",
+   "name": "헬스피온서방정150밀리그램(부프로피온염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "부프로피온염산염",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605174"
+  },
+  {
+   "itemSeq": "201602430",
+   "name": "콘트라브서방정",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "부프로피온염산염",
+     "amount": "90.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "날트렉손염산염",
+     "amount": "8.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602430"
+  }
+ ]
+}

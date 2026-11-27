@@ -1,0 +1,1445 @@
+{
+ "id": "rivastigmine",
+ "query": [
+  "리바스티그민"
+ ],
+ "fetched": "2026-11-26",
+ "total": 93,
+ "kept": 93,
+ "mfdsName": [
+  "리바스티그민타르타르산염",
+  "리바스티그민"
+ ],
+ "items": [
+  {
+   "itemSeq": "200008769",
+   "name": "엑셀론캡슐1.5밀리그램(리바스티그민타르타르산염)",
+   "company": "한국노바티스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "2.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "2.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "2.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008769"
+  },
+  {
+   "itemSeq": "200008770",
+   "name": "엑셀론캡슐3.0밀리그램(리바스티그민타르타르산염)",
+   "company": "한국노바티스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "4.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "4.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008770"
+  },
+  {
+   "itemSeq": "200008771",
+   "name": "엑셀론캡슐4.5밀리그램(리바스티그민타르타르산염)",
+   "company": "한국노바티스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "7.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "7.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008771"
+  },
+  {
+   "itemSeq": "200008772",
+   "name": "엑셀론캡슐6.0밀리그램(리바스티그민타르타르산염)",
+   "company": "한국노바티스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "9.6",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "9.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008772"
+  },
+  {
+   "itemSeq": "200712636",
+   "name": "엑셀론패취10(리바스티그민)",
+   "company": "한국노바티스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "18.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712636"
+  },
+  {
+   "itemSeq": "200712637",
+   "name": "엑셀론패취5(리바스티그민)",
+   "company": "한국노바티스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "9.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200712637"
+  },
+  {
+   "itemSeq": "201307680",
+   "name": "엑셀론패취15(리바스티그민)",
+   "company": "한국노바티스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "27.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-06-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307680"
+  },
+  {
+   "itemSeq": "201307728",
+   "name": "디누보패취10(리바스티그민)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "18.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리바스티그민",
+     "amount": "18.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307728"
+  },
+  {
+   "itemSeq": "201307729",
+   "name": "디누보패취5(리바스티그민)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "9.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리바스티그민",
+     "amount": "9.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307729"
+  },
+  {
+   "itemSeq": "201401079",
+   "name": "원드론패취15(리바스티그민)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "27.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401079"
+  },
+  {
+   "itemSeq": "201401357",
+   "name": "리바멘사패취10(리바스티그민)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "18.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401357"
+  },
+  {
+   "itemSeq": "201401356",
+   "name": "리바멘사패취5(리바스티그민)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "9.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401356"
+  },
+  {
+   "itemSeq": "201401414",
+   "name": "리바그민패취10(리바스티그민)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "18.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401414"
+  },
+  {
+   "itemSeq": "201401413",
+   "name": "리바그민패취5(리바스티그민)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "9.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401413"
+  },
+  {
+   "itemSeq": "201401412",
+   "name": "리바덤패취10(리바스티그민)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "18.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401412"
+  },
+  {
+   "itemSeq": "201401411",
+   "name": "리바덤패취5(리바스티그민)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "9.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401411"
+  },
+  {
+   "itemSeq": "201401416",
+   "name": "몬스티패취10(리바스티그민)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "18.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401416"
+  },
+  {
+   "itemSeq": "201401415",
+   "name": "몬스티패취5(리바스티그민)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "9.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401415"
+  },
+  {
+   "itemSeq": "201401410",
+   "name": "휴온스리바스티그민패취10",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "18.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401410"
+  },
+  {
+   "itemSeq": "201401409",
+   "name": "휴온스리바스티그민패취5",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "9.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401409"
+  },
+  {
+   "itemSeq": "201401459",
+   "name": "리바메론패취10(리바스티그민)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "18.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401459"
+  },
+  {
+   "itemSeq": "201401458",
+   "name": "리바메론패취5(리바스티그민)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "9.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401458"
+  },
+  {
+   "itemSeq": "201401461",
+   "name": "스타그민패취10(리바스티그민)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "18.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401461"
+  },
+  {
+   "itemSeq": "201401460",
+   "name": "스타그민패취5(리바스티그민)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "9.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401460"
+  },
+  {
+   "itemSeq": "201401516",
+   "name": "리바론패취10(리바스티그민)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "18.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401516"
+  },
+  {
+   "itemSeq": "201401517",
+   "name": "리바론패취5(리바스티그민)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "9.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401517"
+  },
+  {
+   "itemSeq": "201401514",
+   "name": "부광리바스티그민패취10",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "18.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401514"
+  },
+  {
+   "itemSeq": "201401515",
+   "name": "부광리바스티그민패취5",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "9.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401515"
+  },
+  {
+   "itemSeq": "201401524",
+   "name": "원드론패취10(리바스티그민)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "18.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401524"
+  },
+  {
+   "itemSeq": "201401525",
+   "name": "원드론패취5(리바스티그민)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "9.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401525"
+  },
+  {
+   "itemSeq": "201404033",
+   "name": "리셀톤패취10(리바스티그민)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "18.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404033"
+  },
+  {
+   "itemSeq": "201404034",
+   "name": "리셀톤패취5(리바스티그민)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "9.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404034"
+  },
+  {
+   "itemSeq": "201500496",
+   "name": "유니셀론패취10(리바스티그민)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "18.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500496"
+  },
+  {
+   "itemSeq": "201500495",
+   "name": "유니셀론패취5(리바스티그민)(수출용)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "9.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500495"
+  },
+  {
+   "itemSeq": "201502385",
+   "name": "엑셀씨캡슐3밀리그램(리바스티그민타르타르산염)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "4.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502385"
+  },
+  {
+   "itemSeq": "201504070",
+   "name": "리셀톤캡슐3밀리그램(리바스티그민타르타르산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "4.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504070"
+  },
+  {
+   "itemSeq": "201504199",
+   "name": "리셀톤캡슐1.5밀리그램(리바스티그민타르타르산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "2.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504199"
+  },
+  {
+   "itemSeq": "201600452",
+   "name": "엑셀씨캡슐1.5밀리그램(리바스티그민타르타르산염)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "2.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600452"
+  },
+  {
+   "itemSeq": "201602434",
+   "name": "엑셀씨캡슐4.5밀리그램(리바스티그민타르타르산염)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "7.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602434"
+  },
+  {
+   "itemSeq": "201602435",
+   "name": "엑셀씨캡슐6밀리그램(리바스티그민타르타르산염)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "9.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602435"
+  },
+  {
+   "itemSeq": "201602909",
+   "name": "리셀톤캡슐4.5밀리그램(리바스티그민타르타르산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "7.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602909"
+  },
+  {
+   "itemSeq": "201602908",
+   "name": "리셀톤캡슐6.0밀리그램(리바스티그민타르타르산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "9.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602908"
+  },
+  {
+   "itemSeq": "201604620",
+   "name": "신신리바스티그민패취10",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "18.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604620"
+  },
+  {
+   "itemSeq": "201605440",
+   "name": "넥티민캡슐3mg(리바스티그민타르타르산염)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "4.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605440"
+  },
+  {
+   "itemSeq": "201605470",
+   "name": "알쯔스티그민캡슐3.0mg(리바스티그민타르타르산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "4.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-09-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605470"
+  },
+  {
+   "itemSeq": "201605847",
+   "name": "엑솔론캡슐3.0밀리그램(리바스티그민타르타르산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "4.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605847"
+  },
+  {
+   "itemSeq": "201606084",
+   "name": "몬스티캡슐1.5mg(리바스티그민타르타르산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "2.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-10-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606084"
+  },
+  {
+   "itemSeq": "201606085",
+   "name": "몬스티캡슐3mg(리바스티그민타르타르산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "4.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-10-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606085"
+  },
+  {
+   "itemSeq": "201606832",
+   "name": "리스티캡슐3.0밀리그램(리바스티그민타르타르산염)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "4.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606832"
+  },
+  {
+   "itemSeq": "201701020",
+   "name": "디멘리스캡슐1.5밀리그램(리바스티그민타르타르산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "2.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701020"
+  },
+  {
+   "itemSeq": "201701222",
+   "name": "리바덤패취15(리바스티그민)(수출용)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "27.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701222"
+  },
+  {
+   "itemSeq": "201701435",
+   "name": "리스티캡슐1.5밀리그램(리바스티그민타르타르산염)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "2.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701435"
+  },
+  {
+   "itemSeq": "201707671",
+   "name": "리바스론캡슐1.5밀리그램(리바스티그민타르타르산염)(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "2.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707671"
+  },
+  {
+   "itemSeq": "201707672",
+   "name": "리바스론캡슐3.0밀리그램(리바스티그민타르타르산염)(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "4.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707672"
+  },
+  {
+   "itemSeq": "201708187",
+   "name": "신신리바스티그민패취5",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "9",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708187"
+  },
+  {
+   "itemSeq": "201801580",
+   "name": "넥티민캡슐1.5밀리그램(리바스티그민타르타르산염)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "2.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801580"
+  },
+  {
+   "itemSeq": "201801584",
+   "name": "신신리바스티그민패취15",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "27.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801584"
+  },
+  {
+   "itemSeq": "201801782",
+   "name": "엑셀리바캡슐1.5밀리그램(리바스티그민타르타르산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "2.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801782"
+  },
+  {
+   "itemSeq": "201801781",
+   "name": "엑셀리바캡슐3밀리그램(리바스티그민타르타르산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "4.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801781"
+  },
+  {
+   "itemSeq": "201803069",
+   "name": "엑셀리바패취10(리바스티그민)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "18.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803069"
+  },
+  {
+   "itemSeq": "201803070",
+   "name": "엑셀리바패취15(리바스티그민)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "27.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803070"
+  },
+  {
+   "itemSeq": "201803068",
+   "name": "엑셀리바패취5(리바스티그민)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "9.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803068"
+  },
+  {
+   "itemSeq": "201803474",
+   "name": "리바그론패취10(리바스티그민)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "18.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803474"
+  },
+  {
+   "itemSeq": "201803473",
+   "name": "리바그론패취5(리바스티그민)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "9.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803473"
+  },
+  {
+   "itemSeq": "201804676",
+   "name": "몬스티캡슐4.5밀리그램(리바스티그민타르타르산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "7.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804676"
+  },
+  {
+   "itemSeq": "201804675",
+   "name": "몬스티캡슐6밀리그램(리바스티그민타르타르산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "9.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804675"
+  },
+  {
+   "itemSeq": "201805127",
+   "name": "엑셀리바캡슐4.5밀리그램(리바스티그민타르타르산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "7.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805127"
+  },
+  {
+   "itemSeq": "201805128",
+   "name": "엑셀리바캡슐6밀리그램(리바스티그민타르타르산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "9.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805128"
+  },
+  {
+   "itemSeq": "201900687",
+   "name": "리바마인캡슐1.5밀리그램(리바스티그민타르타르산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "2.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900687"
+  },
+  {
+   "itemSeq": "201900686",
+   "name": "리바마인캡슐3밀리그램(리바스티그민타르타르산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "4.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900686"
+  },
+  {
+   "itemSeq": "201901785",
+   "name": "오스그민캡슐1.5밀리그램(리바스티그민타르타르산염)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "2.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901785"
+  },
+  {
+   "itemSeq": "201901784",
+   "name": "오스그민캡슐3.0밀리그램(리바스티그민타르타르산염)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "4.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901784"
+  },
+  {
+   "itemSeq": "201901786",
+   "name": "유니리바캡슐1.5밀리그램(리바스티그민타르타르산염)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "2.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901786"
+  },
+  {
+   "itemSeq": "201901787",
+   "name": "유니리바캡슐3밀리그램(리바스타그민타르타르산염)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "4.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901787"
+  },
+  {
+   "itemSeq": "201901840",
+   "name": "아주셀론캡슐1.5밀리그램(리바스티그민타르타르산염)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "2.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901840"
+  },
+  {
+   "itemSeq": "201901839",
+   "name": "아주셀론캡슐3밀리그램(리바스티그민타르타르산염)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "4.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901839"
+  },
+  {
+   "itemSeq": "201901910",
+   "name": "엑솔론캡슐1.5밀리그램(리바스티그민타르타르산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "2.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901910"
+  },
+  {
+   "itemSeq": "201903423",
+   "name": "알보젠리바스티그민캡슐3밀리그램(리바스티그민타르타르산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "4.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903423"
+  },
+  {
+   "itemSeq": "201903422",
+   "name": "알보젠리바스티그민캡슐6밀리그램(리바스티그민타르타르산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "9.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903422"
+  },
+  {
+   "itemSeq": "201903421",
+   "name": "알보젠리바스티그민캡슐1.5밀리그램(리바스티그민타르타르산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "2.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903421"
+  },
+  {
+   "itemSeq": "201903420",
+   "name": "알보젠리바스티그민캡슐4.5밀리그램(리바스티그민타르타르산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "7.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903420"
+  },
+  {
+   "itemSeq": "202000033",
+   "name": "리바스톤캡슐1.5밀리그램(리바스티그민타르타르산염)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "2.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000033"
+  },
+  {
+   "itemSeq": "202000032",
+   "name": "리바스톤캡슐3.0밀리그램(리바스티그민타르타르산염)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "4.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000032"
+  },
+  {
+   "itemSeq": "202003635",
+   "name": "신신리바스티그민캡슐3.0밀리그램(리바스티그민타르타르산염)",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "4.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003635"
+  },
+  {
+   "itemSeq": "202003637",
+   "name": "신신리바스티그민캡슐6.0밀리그램(리바스티그민타르타르산염)",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "9.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003637"
+  },
+  {
+   "itemSeq": "202003638",
+   "name": "신신리바스티그민캡슐4.5밀리그램(리바스티그민타르타르산염)",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "7.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003638"
+  },
+  {
+   "itemSeq": "202003636",
+   "name": "신신리바스티그민캡슐1.5밀리그램(리바스티그민타르타르산염)",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민타르타르산염",
+     "amount": "2.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003636"
+  },
+  {
+   "itemSeq": "202202061",
+   "name": "리셀톤패취15(리바스티그민)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "27.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202061"
+  },
+  {
+   "itemSeq": "202203088",
+   "name": "리바그민패취15(리바스티그민)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "27.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203088"
+  },
+  {
+   "itemSeq": "202301019",
+   "name": "신신리바스티그민패취5(수출용)",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "9",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301019"
+  },
+  {
+   "itemSeq": "202301020",
+   "name": "신신리바스티그민패취10(수출용)",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "18.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301020"
+  },
+  {
+   "itemSeq": "202502151",
+   "name": "리셀톤멀티데이패취25.92밀리그램(리바스티그민)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "25.92",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502151"
+  },
+  {
+   "itemSeq": "202502150",
+   "name": "리셀톤멀티데이패취51.84밀리그램(리바스티그민)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리바스티그민",
+     "amount": "51.84",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502150"
+  }
+ ]
+}

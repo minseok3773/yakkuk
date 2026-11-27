@@ -1,0 +1,309 @@
+{
+ "id": "levothyroxine",
+ "query": [
+  "레보티록신"
+ ],
+ "fetched": "2026-11-27",
+ "total": 19,
+ "kept": 19,
+ "mfdsName": [
+  "레보티록신나트륨수화물"
+ ],
+ "items": [
+  {
+   "itemSeq": "197400278",
+   "name": "씬지로이드정0.1밀리그램(레보티록신나트륨수화물)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1974-04-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197400278"
+  },
+  {
+   "itemSeq": "200301632",
+   "name": "씬지로신정(레보티록신나트륨수화물)(수출용)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301632"
+  },
+  {
+   "itemSeq": "200301116",
+   "name": "씬지록신정100마이크로그램(레보티록신나트륨수화물)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301116"
+  },
+  {
+   "itemSeq": "200301117",
+   "name": "씬지록신정50마이크로그램(레보티록신나트륨수화물)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.05",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.05",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-12-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301117"
+  },
+  {
+   "itemSeq": "200401821",
+   "name": "씬지로이드정0.05밀리그램(레보티록신나트륨수화물)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.05",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401821"
+  },
+  {
+   "itemSeq": "200501664",
+   "name": "씬지로이드정0.15밀리그램(레보티록신나트륨수화물)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501664"
+  },
+  {
+   "itemSeq": "201604650",
+   "name": "씬지록신정150마이크로그램(레보티록신나트륨수화물)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604650"
+  },
+  {
+   "itemSeq": "201605340",
+   "name": "씬지로이드정0.075밀리그램(레보티록신나트륨수화물)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.075",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605340"
+  },
+  {
+   "itemSeq": "201700462",
+   "name": "엘지로이드정(레보티록신나트륨수화물)(수출용)",
+   "company": "삼남제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700462"
+  },
+  {
+   "itemSeq": "201706147",
+   "name": "씬지록신정75마이크로그램(레보티록신나트륨수화물)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.075",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706147"
+  },
+  {
+   "itemSeq": "201706645",
+   "name": "씬지록신정125마이크로그램(레보티록신나트륨수화물)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.125",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706645"
+  },
+  {
+   "itemSeq": "201706671",
+   "name": "씬지록신정25마이크로그램(레보티록신나트륨수화물)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.025",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706671"
+  },
+  {
+   "itemSeq": "201706861",
+   "name": "씬지록신정88마이크로그램(레보티록신나트륨수화물)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.088",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706861"
+  },
+  {
+   "itemSeq": "201804237",
+   "name": "씬지로이드정0.2밀리그램(레보티록신나트륨수화물)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804237"
+  },
+  {
+   "itemSeq": "201900107",
+   "name": "씬지로이드정0.112밀리그램(레보티록신나트륨수화물)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.112",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900107"
+  },
+  {
+   "itemSeq": "201902912",
+   "name": "씬지로이드정0.0375밀리그램(레보티록신나트륨수화물)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.0375",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902912"
+  },
+  {
+   "itemSeq": "201903264",
+   "name": "씬지로이드정0.025밀리그램(레보티록신나트륨수화물)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.025",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903264"
+  },
+  {
+   "itemSeq": "202500938",
+   "name": "씬지록신정112마이크로그램(레보티록신나트륨수화물)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.112",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500938"
+  },
+  {
+   "itemSeq": "202500949",
+   "name": "씬지록신정137마이크로그램(레보티록신나트륨수화물)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보티록신나트륨수화물",
+     "amount": "0.137",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500949"
+  }
+ ]
+}

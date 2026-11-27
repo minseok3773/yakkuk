@@ -1,0 +1,230 @@
+{
+ "id": "atorvastatin",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "atorvastatin"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "glecaprevir+pibrentasvir",
+   "reason": "횡문근융해증을 비롯한 근육질환 등 중증 이상반응",
+   "self": "atorvastatin calcium (as atorvastatin)"
+  },
+  {
+   "ingredient": "posaconazole(micronized)",
+   "reason": "횡문근융해를 비롯한 근육병증 발생가능성 증가",
+   "self": "atorvastatin calcium (as atorvastatin)"
+  },
+  {
+   "ingredient": "ethyl esters of the iodised fatty acids of poppyseed oil",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "atorvastatin calcium (as atorvastatin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iobitridol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "atorvastatin calcium (as atorvastatin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iodixanol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "atorvastatin calcium (as atorvastatin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iohexol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "atorvastatin calcium (as atorvastatin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iomeprol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "atorvastatin calcium (as atorvastatin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iopamidol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "atorvastatin calcium (as atorvastatin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iopromide",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "atorvastatin calcium (as atorvastatin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "ioversol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "atorvastatin calcium (as atorvastatin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "cyclosporine",
+   "reason": "근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+   "self": "amlodipine besylate (as amlodipine)+atorvastatin calcium (as atorvastatin)"
+  },
+  {
+   "ingredient": "cyclosporine",
+   "reason": "근육병증, 횡문근융해 위험 증가 가능",
+   "self": "amlodipine besylate (as amlodipine)+atorvastatin calcium (as atorvastatin)+candesartan cilexetil"
+  },
+  {
+   "ingredient": "cyclosporine",
+   "reason": "혈중농도 상승 및 근육병증/횡문근융해증 위험성 증가",
+   "self": "atorvastatin calcium (as atorvastatin)"
+  },
+  {
+   "ingredient": "glecaprevir+pibrentasvir",
+   "reason": "횡문근융해증을 포함한 근육병증 위험 가능",
+   "self": "amlodipine besylate (as amlodipine)+atorvastatin calcium (as atorvastatin)"
+  },
+  {
+   "ingredient": "itraconazole",
+   "reason": "근육병증, 횡문근융해증 위험 증가 가능",
+   "self": "amlodipine besylate (as amlodipine)+atorvastatin calcium (as atorvastatin)"
+  },
+  {
+   "ingredient": "microemulsion cyclosporine",
+   "reason": "근육통, 근육약화, 근염, 때때로 횡문근 변성을 포함한 근육독성 촉진 가능",
+   "self": "amlodipine besylate (as amlodipine)+atorvastatin calcium (as atorvastatin)"
+  },
+  {
+   "ingredient": "microemulsion cyclosporine",
+   "reason": "근육병증, 횡문근융해 위험 증가 가능",
+   "self": "amlodipine besylate (as amlodipine)+atorvastatin calcium (as atorvastatin)+candesartan cilexetil"
+  },
+  {
+   "ingredient": "microemulsion cyclosporine",
+   "reason": "혈중농도 상승 및 근육병증/횡문근융해증 위험성 증가",
+   "self": "atorvastatin calcium (as atorvastatin)"
+  },
+  {
+   "ingredient": "posaconazole(micronized)",
+   "reason": "횡문근융해증 발생 가능",
+   "self": "amlodipine besylate (as amlodipine)+atorvastatin calcium (as atorvastatin)"
+  },
+  {
+   "ingredient": "posaconazole(micronized)",
+   "reason": "근육병증, 횡문근융해 위험 증가 가능",
+   "self": "amlodipine besylate (as amlodipine)+atorvastatin calcium (as atorvastatin)+candesartan cilexetil"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "1",
+   "reason": "임부에 대한 안전성 미확립.",
+   "ingredient": "atorvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "atorvastatin: 임부에 대한 안전성 미확립/amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남.",
+   "ingredient": "amlodipine+atorvastatin"
+  },
+  {
+   "grade": "1",
+   "reason": "atorvastatin: 임부에 대한 안전성 미확립.irbesartan: 임신 2기 및 3기에 ACE 저해제 투여시 태아 위해 및 사망 보고.",
+   "ingredient": "atorvastatin(calcium), irbesartan"
+  },
+  {
+   "grade": "1",
+   "reason": "atorvastatin: 임부에 대한 안전성 미확립. irbesartan: 임신 2기 및 3기에 ACE 저해제 투여시 태아 위해 및 사망 보고.",
+   "ingredient": "atorvastatin calcium (as atorvastatin), irbesartan"
+  },
+  {
+   "grade": "1",
+   "reason": "atorvastatin: 임부에 대한 안전성 미확립.ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰.",
+   "ingredient": "atorvastatin calcium(as atorvastatin 10mg), ezetimibe"
+  },
+  {
+   "grade": "1",
+   "reason": "atorvastatin: 임부에 대한 안전성 미확립. ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소)",
+   "ingredient": "Atorvastatin Calcium Trihydrate, Ezetimibe"
+  },
+  {
+   "grade": "1",
+   "reason": "atorvastatin: 임부에 대한 안전성 미확립. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함.",
+   "ingredient": "atorvastatin +metformin"
+  },
+  {
+   "grade": "1",
+   "reason": "(atorvastatin) 임부에 대한 안전성 미확립. (fimasartan) 임신 2~3기에 투여시 태아 및 신생아 저혈압, 신생아 두개골형성저하증, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐형성저하증과 관련), 및 사망 보고.",
+   "ingredient": "atorvastatin, fimarsartan"
+  },
+  {
+   "grade": "1",
+   "reason": "amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. atorvastatin: 임부에 대한 안전성 미확립./ valsartan: 임신 2~3기에 ACE저해제 투여시 태아 및 신생아의 저혈압, 고칼륨혈증, 신생아 두개골 발육부전, 무뇨증, 신부전, 양수과소증(태아사지구축, 두개안면기형, 폐발육부전과 관련 있음) 및 사망과 관련됨.",
+   "ingredient": "amlodipine, atorvastatin, valsartan"
+  },
+  {
+   "grade": "1",
+   "reason": "amlodipine:임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. atorvastatin: 임부에 대한 안전성 미확립./ valsartan: 임신 2~3기에 ACE저해제 투여시 태아 및 신생아의 저혈압, 고칼륨혈증, 신생아 두개골 발육부전, 무뇨증, 신부전, 양수과소증(태아사지구축, 두개안면기형, 폐발육부전과 관련 있음) 및 사망과 관련됨.",
+   "ingredient": "amlodipine, atorvastatin, valsartan"
+  },
+  {
+   "grade": "1",
+   "reason": "amlodipine:임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남./ atorvastatin: 임부에 대한 안전성 미확립./ valsartan: 임신 2~3기에 ACE저해제 투여시 태아 및 신생아의 저혈압, 고칼륨혈증, 신생아 두개골 발육부전, 무뇨증, 신부전, 양수과소증(태아사지구축, 두개안면기형, 폐발육부전과 관련 있음) 및 사망과 관련됨.",
+   "ingredient": "amlodipine+atorvastatin+valsartan"
+  },
+  {
+   "grade": "1",
+   "reason": "atorvastatin: 임부에 대한 안전성 미확립./amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남/candesartan: 임신 2~3기중 투여시 태아 및 신생아 손상(저혈압, 신기능부전, 핍뇨 그리고/또는 무뇨, 양수과소증, 두개골발육부전, 자궁내 성장지체), 폐부전, 안면비정상, 사지연축 및 사망 가능성.",
+   "ingredient": "amlodipine+atorvastatin+candesartan"
+  },
+  {
+   "grade": "1",
+   "reason": "atorvastatin(1등급): 임부에 대한 안전성 미확립. / fimasartan(2등급): 임신 2~3기에 투여시 태아 및 신생아 저혈압, 신생아 두개골형성저하증, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐형성저하증과 관련), 및 사망 보고.",
+   "ingredient": "atorvastatin + fimasartan"
+  },
+  {
+   "grade": "1",
+   "reason": "atorvastatin: 임부에 대한 안전성 미확립. Ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰.",
+   "ingredient": "atorvastatin + ezetimibe"
+  },
+  {
+   "grade": "1",
+   "reason": "amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. atorvastatin: 임부에 대한 안전성 미확립. Ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰.",
+   "ingredient": "amlodipine + atorvastatin + ezetimibe"
+  },
+  {
+   "grade": "1",
+   "reason": "atorvastatin: 임부에 대한 안전성 미확립. / amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. / ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰.",
+   "ingredient": "amlodipine + atorvastatin + ezetimibe"
+  },
+  {
+   "grade": "1",
+   "reason": "amlodipine:임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남./atorvastatin:임부에 대한 안전성 미확립./ezetimibe:동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰.",
+   "ingredient": "amlodipine + atorvastatin + ezetimibe"
+  },
+  {
+   "grade": "1",
+   "reason": "atorvastatin: 임부에 대한 안전성 미확립. / ezetimibe: 동물실험에서 고용량 투여시 태자 골격이상(늑골추가형성, 경추중심부골화부전, 늑골축소) 발현 증가 관찰. / fimasartan: 임신 2~3기에 투여시 태아 및 신생아 저혈압, 신생아 두개골형성저하증, 무뇨증, 신부전, 양수과소증(사지연축, 두개안면기형, 폐형성저하증과 관련), 및 사망 보고.",
+   "ingredient": "atorvastatin + ezetimibe + fimasartan"
+  }
+ ],
+ "elderly": [],
+ "dose": [
+  {
+   "text": "1일 최대투여량: 암로디핀 10mg"
+  },
+  {
+   "text": "1일 최대투여량: 이르베사르탄 300mg"
+  }
+ ],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "지질저하제",
+   "subgroup": "Group 1",
+   "code": "218A0005"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

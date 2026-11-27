@@ -1,0 +1,74 @@
+{
+ "id": "ziprasidone",
+ "query": [
+  "지프라시돈"
+ ],
+ "fetched": "2026-11-26",
+ "total": 4,
+ "kept": 4,
+ "mfdsName": [
+  "지프라시돈염산염 일수화물"
+ ],
+ "items": [
+  {
+   "itemSeq": "200511055",
+   "name": "젤독스캡슐60밀리그램(지프라시돈염산염일수화물)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "지프라시돈염산염 일수화물",
+     "amount": "67.95",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511055"
+  },
+  {
+   "itemSeq": "200511056",
+   "name": "젤독스캡슐80밀리그램(지프라시돈염산염일수화물)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "지프라시돈염산염 일수화물",
+     "amount": "90.60",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511056"
+  },
+  {
+   "itemSeq": "200610661",
+   "name": "젤독스캡슐40밀리그램(지프라시돈염산염일수화물)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "지프라시돈염산염 일수화물",
+     "amount": "45.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-11-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200610661"
+  },
+  {
+   "itemSeq": "200708534",
+   "name": "젤독스캡슐20밀리그램(지프라시돈염산염일수화물)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "지프라시돈염산염 일수화물",
+     "amount": "22.65",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708534"
+  }
+ ]
+}

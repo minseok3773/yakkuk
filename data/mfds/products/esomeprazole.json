@@ -1,0 +1,4984 @@
+{
+ "id": "esomeprazole",
+ "query": [
+  "에스오메프라졸",
+  "에소메프라졸"
+ ],
+ "fetched": "2026-11-27",
+ "total": 308,
+ "kept": 308,
+ "mfdsName": [
+  "에스오메프라졸마그네슘삼수화물",
+  "에스오메프라졸마그네슘이수화물",
+  "에스오메프라졸마그네슘과립",
+  "에스오메프라졸마그네슘삼수화물(미분화)",
+  "에스오메프라졸",
+  "에스오메프라졸마그네슘삼수화물펠렛",
+  "에스오메프라졸스트론튬사수화물",
+  "에스오메프라졸장용코팅펠렛22.85%",
+  "에스오메프라졸나트륨",
+  "에스오메프라졸마그네슘염삼수화물"
+ ],
+ "items": [
+  {
+   "itemSeq": "200009027",
+   "name": "넥시움정20밀리그램(에스오메프라졸마그네슘)",
+   "company": "한국아스트라제네카(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-10-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009027"
+  },
+  {
+   "itemSeq": "200009026",
+   "name": "넥시움정40밀리그램(에스오메프라졸마그네슘)",
+   "company": "한국아스트라제네카(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-10-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009026"
+  },
+  {
+   "itemSeq": "200711655",
+   "name": "에소메졸캡슐40밀리그램(에스오메프라졸스트론튬사수화물)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸스트론튬사수화물",
+     "amount": "49.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-10-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711655"
+  },
+  {
+   "itemSeq": "200713519",
+   "name": "에소메졸캡슐20밀리그램(에스오메프라졸스트론튬사수화물)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸스트론튬사수화물",
+     "amount": "24.6",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-12-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200713519"
+  },
+  {
+   "itemSeq": "201101857",
+   "name": "에소프라졸캡슐20밀리그램(에스오메프라졸)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101857"
+  },
+  {
+   "itemSeq": "201402463",
+   "name": "에스원엠프정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402463"
+  },
+  {
+   "itemSeq": "201402464",
+   "name": "에스원엠프정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402464"
+  },
+  {
+   "itemSeq": "201402913",
+   "name": "오엠피에스정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402913"
+  },
+  {
+   "itemSeq": "201402912",
+   "name": "오엠피에스정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402912"
+  },
+  {
+   "itemSeq": "201403414",
+   "name": "네메올정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403414"
+  },
+  {
+   "itemSeq": "201403418",
+   "name": "네메올정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403418"
+  },
+  {
+   "itemSeq": "201403448",
+   "name": "에스넥졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403448"
+  },
+  {
+   "itemSeq": "201403449",
+   "name": "에스넥졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403449"
+  },
+  {
+   "itemSeq": "201403489",
+   "name": "에스프롤정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403489"
+  },
+  {
+   "itemSeq": "201403490",
+   "name": "에스프롤정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403490"
+  },
+  {
+   "itemSeq": "201403572",
+   "name": "에소메칸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403572"
+  },
+  {
+   "itemSeq": "201403573",
+   "name": "에소메칸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403573"
+  },
+  {
+   "itemSeq": "201403542",
+   "name": "엑소라졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물(미분화)",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403542"
+  },
+  {
+   "itemSeq": "201403543",
+   "name": "엑소라졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물(미분화)",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403543"
+  },
+  {
+   "itemSeq": "201403554",
+   "name": "엑시피움정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403554"
+  },
+  {
+   "itemSeq": "201403553",
+   "name": "엑시피움정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403553"
+  },
+  {
+   "itemSeq": "201403737",
+   "name": "에스졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물(미분화)",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403737"
+  },
+  {
+   "itemSeq": "201403736",
+   "name": "에스졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물(미분화)",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403736"
+  },
+  {
+   "itemSeq": "201403798",
+   "name": "넥스라졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403798"
+  },
+  {
+   "itemSeq": "201403797",
+   "name": "넥스라졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403797"
+  },
+  {
+   "itemSeq": "201403819",
+   "name": "코프라졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403819"
+  },
+  {
+   "itemSeq": "201403820",
+   "name": "코프라졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403820"
+  },
+  {
+   "itemSeq": "201403997",
+   "name": "넥시프라정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403997"
+  },
+  {
+   "itemSeq": "201403996",
+   "name": "넥시프라정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403996"
+  },
+  {
+   "itemSeq": "201404032",
+   "name": "넥스졸정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘염삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404032"
+  },
+  {
+   "itemSeq": "201404031",
+   "name": "넥스졸정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)옵투스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404031"
+  },
+  {
+   "itemSeq": "201404418",
+   "name": "한시움정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404418"
+  },
+  {
+   "itemSeq": "201404419",
+   "name": "한시움정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404419"
+  },
+  {
+   "itemSeq": "201404587",
+   "name": "앤티시움정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404587"
+  },
+  {
+   "itemSeq": "201404588",
+   "name": "앤티시움정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404588"
+  },
+  {
+   "itemSeq": "201404634",
+   "name": "엑스메졸정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404634"
+  },
+  {
+   "itemSeq": "201404633",
+   "name": "엑스메졸정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404633"
+  },
+  {
+   "itemSeq": "201404654",
+   "name": "넥스온정20mg (에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404654"
+  },
+  {
+   "itemSeq": "201404655",
+   "name": "넥스온정40mg (에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404655"
+  },
+  {
+   "itemSeq": "201404651",
+   "name": "에소넬정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404651"
+  },
+  {
+   "itemSeq": "201404652",
+   "name": "에소넬정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404652"
+  },
+  {
+   "itemSeq": "201404801",
+   "name": "넥스파정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404801"
+  },
+  {
+   "itemSeq": "201404800",
+   "name": "넥스파정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404800"
+  },
+  {
+   "itemSeq": "201404824",
+   "name": "에소맥스정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404824"
+  },
+  {
+   "itemSeq": "201404825",
+   "name": "에소맥스정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404825"
+  },
+  {
+   "itemSeq": "201405108",
+   "name": "에스오정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405108"
+  },
+  {
+   "itemSeq": "201405109",
+   "name": "에스오정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405109"
+  },
+  {
+   "itemSeq": "201500107",
+   "name": "에스라졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500107"
+  },
+  {
+   "itemSeq": "201500108",
+   "name": "에스라졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500108"
+  },
+  {
+   "itemSeq": "201501774",
+   "name": "에이치프라졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501774"
+  },
+  {
+   "itemSeq": "201502949",
+   "name": "넥트라캡슐20mg(에스오메프라졸마그네슘이수화물)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘과립",
+     "amount": "87.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502949"
+  },
+  {
+   "itemSeq": "201502948",
+   "name": "넥트라캡슐40mg(에스오메프라졸마그네슘이수화물)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘과립",
+     "amount": "175.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502948"
+  },
+  {
+   "itemSeq": "201503030",
+   "name": "넥시메졸캡슐20mg(에스오메프라졸마그네슘이수화물)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘과립",
+     "amount": "87.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503030"
+  },
+  {
+   "itemSeq": "201503032",
+   "name": "넥시메졸캡슐40mg(에스오메프라졸마그네슘이수화물)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘과립",
+     "amount": "175.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503032"
+  },
+  {
+   "itemSeq": "201503026",
+   "name": "오시움캡슐20mg(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘과립",
+     "amount": "87.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503026"
+  },
+  {
+   "itemSeq": "201503025",
+   "name": "오시움캡슐40mg(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘과립",
+     "amount": "175.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503025"
+  },
+  {
+   "itemSeq": "201503027",
+   "name": "유스메졸캡슐20mg(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘과립",
+     "amount": "87.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503027"
+  },
+  {
+   "itemSeq": "201503037",
+   "name": "에소놀캡슐20mg(에스오메프라졸마그네슘이수화물)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸장용코팅펠렛22.85%",
+     "amount": "87.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503037"
+  },
+  {
+   "itemSeq": "201503038",
+   "name": "에소놀캡슐40mg(에스오메프라졸마그네슘이수화물)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸장용코팅펠렛22.85%",
+     "amount": "175.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503038"
+  },
+  {
+   "itemSeq": "201503041",
+   "name": "에소마크캡슐20mg(에스오메프라졸마그네슘이수화물)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘과립",
+     "amount": "87.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503041"
+  },
+  {
+   "itemSeq": "201503052",
+   "name": "에소마크캡슐40mg(에스오메프라졸마그네슘이수화물)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘과립",
+     "amount": "175.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503052"
+  },
+  {
+   "itemSeq": "201503050",
+   "name": "에소멜캡슐20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘과립",
+     "amount": "87.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503050"
+  },
+  {
+   "itemSeq": "201503049",
+   "name": "에소멜캡슐40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘과립",
+     "amount": "175.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503049"
+  },
+  {
+   "itemSeq": "201503051",
+   "name": "에소파졸캡슐40mg(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘과립",
+     "amount": "175.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503051"
+  },
+  {
+   "itemSeq": "201503039",
+   "name": "에스오졸캡슐20mg(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)녹십자웰빙",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘과립",
+     "amount": "87.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503039"
+  },
+  {
+   "itemSeq": "201503040",
+   "name": "에스오졸캡슐40mg(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)녹십자웰빙",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘과립",
+     "amount": "175.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503040"
+  },
+  {
+   "itemSeq": "201503482",
+   "name": "에소파졸캡슐20mg(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘과립",
+     "amount": "87.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503482"
+  },
+  {
+   "itemSeq": "201504200",
+   "name": "엑소졸정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504200"
+  },
+  {
+   "itemSeq": "201504201",
+   "name": "엑소졸정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504201"
+  },
+  {
+   "itemSeq": "201504250",
+   "name": "에소리움정40mg(에스오메프라졸마그네슘이수화물)(수출명: FRIGERD tablet 40mg)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504250"
+  },
+  {
+   "itemSeq": "201505853",
+   "name": "에소라정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505853"
+  },
+  {
+   "itemSeq": "201506190",
+   "name": "에소리움정20mg(에스오메프라졸마그네슘이수화물)(수출명 : FRIGERD tablet 20mg)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506190"
+  },
+  {
+   "itemSeq": "201506635",
+   "name": "신에소메정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506635"
+  },
+  {
+   "itemSeq": "201506636",
+   "name": "신에소메정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506636"
+  },
+  {
+   "itemSeq": "201506665",
+   "name": "네오메졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506665"
+  },
+  {
+   "itemSeq": "201506666",
+   "name": "네오메졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506666"
+  },
+  {
+   "itemSeq": "201506736",
+   "name": "넥소메정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506736"
+  },
+  {
+   "itemSeq": "201506737",
+   "name": "넥소메정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506737"
+  },
+  {
+   "itemSeq": "201506743",
+   "name": "에스오엠정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506743"
+  },
+  {
+   "itemSeq": "201506744",
+   "name": "에스오엠정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506744"
+  },
+  {
+   "itemSeq": "201506833",
+   "name": "부소메졸정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506833"
+  },
+  {
+   "itemSeq": "201506832",
+   "name": "부소메졸정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506832"
+  },
+  {
+   "itemSeq": "201507071",
+   "name": "오메플정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507071"
+  },
+  {
+   "itemSeq": "201507072",
+   "name": "오메플정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507072"
+  },
+  {
+   "itemSeq": "201507272",
+   "name": "에스엠프라정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507272"
+  },
+  {
+   "itemSeq": "201507270",
+   "name": "에스엠프라정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507270"
+  },
+  {
+   "itemSeq": "201507290",
+   "name": "에소프라정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507290"
+  },
+  {
+   "itemSeq": "201507371",
+   "name": "예스오메정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507371"
+  },
+  {
+   "itemSeq": "201507370",
+   "name": "예스오메정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507370"
+  },
+  {
+   "itemSeq": "201507477",
+   "name": "넥시알디정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507477"
+  },
+  {
+   "itemSeq": "201507478",
+   "name": "넥시알디정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507478"
+  },
+  {
+   "itemSeq": "201507644",
+   "name": "아나프라졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507644"
+  },
+  {
+   "itemSeq": "201507645",
+   "name": "아나프라졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507645"
+  },
+  {
+   "itemSeq": "201507741",
+   "name": "넥사브이정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507741"
+  },
+  {
+   "itemSeq": "201507736",
+   "name": "오메스정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507736"
+  },
+  {
+   "itemSeq": "201507775",
+   "name": "에이치프라졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507775"
+  },
+  {
+   "itemSeq": "201507786",
+   "name": "유니시움정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507786"
+  },
+  {
+   "itemSeq": "201507785",
+   "name": "유니시움정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507785"
+  },
+  {
+   "itemSeq": "201507815",
+   "name": "에소졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물(미분화)",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507815"
+  },
+  {
+   "itemSeq": "201507831",
+   "name": "에프라민정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507831"
+  },
+  {
+   "itemSeq": "201507893",
+   "name": "에소프라졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물(미분화)",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507893"
+  },
+  {
+   "itemSeq": "201507892",
+   "name": "에소프라졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물(미분화)",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507892"
+  },
+  {
+   "itemSeq": "201507947",
+   "name": "넥사브이정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507947"
+  },
+  {
+   "itemSeq": "201507948",
+   "name": "넥스페졸정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507948"
+  },
+  {
+   "itemSeq": "201508280",
+   "name": "에소라정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508280"
+  },
+  {
+   "itemSeq": "201508308",
+   "name": "에소프라정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508308"
+  },
+  {
+   "itemSeq": "201508410",
+   "name": "에소메라정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508410"
+  },
+  {
+   "itemSeq": "201508409",
+   "name": "에소메라정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508409"
+  },
+  {
+   "itemSeq": "201508461",
+   "name": "에스메졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508461"
+  },
+  {
+   "itemSeq": "201508476",
+   "name": "에피움정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508476"
+  },
+  {
+   "itemSeq": "201508477",
+   "name": "에피움정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508477"
+  },
+  {
+   "itemSeq": "201508512",
+   "name": "넥스페졸정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508512"
+  },
+  {
+   "itemSeq": "201508505",
+   "name": "에소졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물(미분화)",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508505"
+  },
+  {
+   "itemSeq": "201508509",
+   "name": "에스시움정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508509"
+  },
+  {
+   "itemSeq": "201508511",
+   "name": "에스시움정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508511"
+  },
+  {
+   "itemSeq": "201600191",
+   "name": "에스오멕스정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600191"
+  },
+  {
+   "itemSeq": "201600209",
+   "name": "에소메프라정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600209"
+  },
+  {
+   "itemSeq": "201600210",
+   "name": "에소메프라정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600210"
+  },
+  {
+   "itemSeq": "201600320",
+   "name": "넥스프라졸정40mg(에스오메프라졸마그네슘이수화물)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600320"
+  },
+  {
+   "itemSeq": "201600519",
+   "name": "에스메졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600519"
+  },
+  {
+   "itemSeq": "201600679",
+   "name": "삼성에스오메프라졸정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600679"
+  },
+  {
+   "itemSeq": "201600760",
+   "name": "에소멜정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600760"
+  },
+  {
+   "itemSeq": "201600759",
+   "name": "에소멜정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600759"
+  },
+  {
+   "itemSeq": "201600875",
+   "name": "오메스정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600875"
+  },
+  {
+   "itemSeq": "201600986",
+   "name": "넥스프라졸정20mg(에스오메프라졸마그네슘이수화물)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600986"
+  },
+  {
+   "itemSeq": "201601492",
+   "name": "에소라졸정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601492"
+  },
+  {
+   "itemSeq": "201601493",
+   "name": "에소라졸정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601493"
+  },
+  {
+   "itemSeq": "201601693",
+   "name": "디에스오정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601693"
+  },
+  {
+   "itemSeq": "201601692",
+   "name": "디에스오정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601692"
+  },
+  {
+   "itemSeq": "201601786",
+   "name": "넥세라정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601786"
+  },
+  {
+   "itemSeq": "201601785",
+   "name": "넥세라정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601785"
+  },
+  {
+   "itemSeq": "201602142",
+   "name": "에스프리졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602142"
+  },
+  {
+   "itemSeq": "201602266",
+   "name": "넥씨엘정20mg(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)씨엘팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602266"
+  },
+  {
+   "itemSeq": "201602287",
+   "name": "에스프리졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602287"
+  },
+  {
+   "itemSeq": "201602905",
+   "name": "이마졸정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)한국팜비오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602905"
+  },
+  {
+   "itemSeq": "201602904",
+   "name": "이마졸정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)한국팜비오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602904"
+  },
+  {
+   "itemSeq": "201603023",
+   "name": "에소마크정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물(미분화)",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603023"
+  },
+  {
+   "itemSeq": "201603022",
+   "name": "에소마크정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물(미분화)",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603022"
+  },
+  {
+   "itemSeq": "201603063",
+   "name": "에스오피엠정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603063"
+  },
+  {
+   "itemSeq": "201603062",
+   "name": "에스오피엠정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603062"
+  },
+  {
+   "itemSeq": "201603584",
+   "name": "에프라졸정20mg(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603584"
+  },
+  {
+   "itemSeq": "201603652",
+   "name": "에스오메정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603652"
+  },
+  {
+   "itemSeq": "201603653",
+   "name": "에스오메정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603653"
+  },
+  {
+   "itemSeq": "201603678",
+   "name": "오메톤에스정20mg(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603678"
+  },
+  {
+   "itemSeq": "201603677",
+   "name": "오메톤에스정40mg(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603677"
+  },
+  {
+   "itemSeq": "201603745",
+   "name": "이소졸정(에스오메프라졸마그네슘삼수화물)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물(미분화)",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603745"
+  },
+  {
+   "itemSeq": "201604089",
+   "name": "넥소메라정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "정우신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604089"
+  },
+  {
+   "itemSeq": "201604106",
+   "name": "에소원정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)유유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604106"
+  },
+  {
+   "itemSeq": "201604270",
+   "name": "뉴에스오프라정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604270"
+  },
+  {
+   "itemSeq": "201604269",
+   "name": "뉴에스오프라정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604269"
+  },
+  {
+   "itemSeq": "201604346",
+   "name": "에스메정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604346"
+  },
+  {
+   "itemSeq": "201604349",
+   "name": "이소졸정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물(미분화)",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604349"
+  },
+  {
+   "itemSeq": "201604744",
+   "name": "에소원정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)유유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604744"
+  },
+  {
+   "itemSeq": "201604866",
+   "name": "에소시움정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "일양바이오팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604866"
+  },
+  {
+   "itemSeq": "201604867",
+   "name": "에소시움정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "일양바이오팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604867"
+  },
+  {
+   "itemSeq": "201605615",
+   "name": "넥시오메정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605615"
+  },
+  {
+   "itemSeq": "201605617",
+   "name": "넥시오메정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605617"
+  },
+  {
+   "itemSeq": "201606894",
+   "name": "오엠피에스주40밀리그램(에스오메프라졸나트륨)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸나트륨",
+     "amount": "42.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-12-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606894"
+  },
+  {
+   "itemSeq": "201700258",
+   "name": "에소시드정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700258"
+  },
+  {
+   "itemSeq": "201700280",
+   "name": "에소시드정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700280"
+  },
+  {
+   "itemSeq": "201700551",
+   "name": "넬프라정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700551"
+  },
+  {
+   "itemSeq": "201700615",
+   "name": "휴비메졸정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-02-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700615"
+  },
+  {
+   "itemSeq": "201700947",
+   "name": "넬프라정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700947"
+  },
+  {
+   "itemSeq": "201701082",
+   "name": "에스메프졸정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701082"
+  },
+  {
+   "itemSeq": "201701081",
+   "name": "에스메프졸정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701081"
+  },
+  {
+   "itemSeq": "201707157",
+   "name": "에소가드정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707157"
+  },
+  {
+   "itemSeq": "201707158",
+   "name": "에소가드정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707158"
+  },
+  {
+   "itemSeq": "201707493",
+   "name": "넥시메졸정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물(미분화)",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707493"
+  },
+  {
+   "itemSeq": "201707492",
+   "name": "넥시메졸정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물(미분화)",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707492"
+  },
+  {
+   "itemSeq": "201801462",
+   "name": "제뉴원에스오메프라졸마그네슘이수화물정40mg(수출용)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801462"
+  },
+  {
+   "itemSeq": "201801463",
+   "name": "제뉴원에스오메프라졸마그네슘이수화물정20mg(수출용)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801463"
+  },
+  {
+   "itemSeq": "201801827",
+   "name": "넥소칸정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801827"
+  },
+  {
+   "itemSeq": "201801828",
+   "name": "넥소칸정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801828"
+  },
+  {
+   "itemSeq": "201803141",
+   "name": "삼성에스오메프라졸정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803141"
+  },
+  {
+   "itemSeq": "201803140",
+   "name": "파마에스오메프라졸정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803140"
+  },
+  {
+   "itemSeq": "201803139",
+   "name": "파마에스오메프라졸정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803139"
+  },
+  {
+   "itemSeq": "201803826",
+   "name": "이소메정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)킴스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803826"
+  },
+  {
+   "itemSeq": "201803827",
+   "name": "이소메정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)킴스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803827"
+  },
+  {
+   "itemSeq": "201804137",
+   "name": "에소파졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804137"
+  },
+  {
+   "itemSeq": "201804136",
+   "name": "에소파졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804136"
+  },
+  {
+   "itemSeq": "201804329",
+   "name": "넥시온정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804329"
+  },
+  {
+   "itemSeq": "201900296",
+   "name": "에스오메투정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "코스맥스파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900296"
+  },
+  {
+   "itemSeq": "201900295",
+   "name": "에스오메투정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "코스맥스파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900295"
+  },
+  {
+   "itemSeq": "201900623",
+   "name": "넥시온정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900623"
+  },
+  {
+   "itemSeq": "201900628",
+   "name": "에소톤정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900628"
+  },
+  {
+   "itemSeq": "201900627",
+   "name": "에소톤정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900627"
+  },
+  {
+   "itemSeq": "201901521",
+   "name": "위메졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)서흥",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901521"
+  },
+  {
+   "itemSeq": "201901523",
+   "name": "위메졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)서흥",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901523"
+  },
+  {
+   "itemSeq": "201901885",
+   "name": "에넥시움정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901885"
+  },
+  {
+   "itemSeq": "201902217",
+   "name": "에넥시움정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902217"
+  },
+  {
+   "itemSeq": "201902734",
+   "name": "엑소움정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902734"
+  },
+  {
+   "itemSeq": "201902733",
+   "name": "엑소움정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902733"
+  },
+  {
+   "itemSeq": "201903113",
+   "name": "알피에소정20mg(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)알피바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903113"
+  },
+  {
+   "itemSeq": "201903269",
+   "name": "알피에소정40mg(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)알피바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903269"
+  },
+  {
+   "itemSeq": "201903605",
+   "name": "에프라졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903605"
+  },
+  {
+   "itemSeq": "201903752",
+   "name": "에스베트정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903752"
+  },
+  {
+   "itemSeq": "201903753",
+   "name": "에스베트정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903753"
+  },
+  {
+   "itemSeq": "201904443",
+   "name": "반젤리스정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904443"
+  },
+  {
+   "itemSeq": "201904444",
+   "name": "반젤리스정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904444"
+  },
+  {
+   "itemSeq": "201905067",
+   "name": "에스프라졸정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "독립바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905067"
+  },
+  {
+   "itemSeq": "201905236",
+   "name": "에스오피라졸정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905236"
+  },
+  {
+   "itemSeq": "201905243",
+   "name": "오메프로에스정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)새한제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905243"
+  },
+  {
+   "itemSeq": "201905244",
+   "name": "오메프로에스정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)새한제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905244"
+  },
+  {
+   "itemSeq": "201905343",
+   "name": "에스오텍정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905343"
+  },
+  {
+   "itemSeq": "201905342",
+   "name": "에스오텍정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905342"
+  },
+  {
+   "itemSeq": "201905655",
+   "name": "오메나정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905655"
+  },
+  {
+   "itemSeq": "201905654",
+   "name": "오메나정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905654"
+  },
+  {
+   "itemSeq": "201906199",
+   "name": "넥시퀸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906199"
+  },
+  {
+   "itemSeq": "201906198",
+   "name": "넥시퀸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906198"
+  },
+  {
+   "itemSeq": "201906202",
+   "name": "다림에스오메프라졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906202"
+  },
+  {
+   "itemSeq": "201906201",
+   "name": "다림에스오메프라졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906201"
+  },
+  {
+   "itemSeq": "201906448",
+   "name": "엑스푸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906448"
+  },
+  {
+   "itemSeq": "201906447",
+   "name": "엑스푸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906447"
+  },
+  {
+   "itemSeq": "201906566",
+   "name": "넥시어드정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906566"
+  },
+  {
+   "itemSeq": "201906565",
+   "name": "넥시어드정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906565"
+  },
+  {
+   "itemSeq": "201906609",
+   "name": "엑시다졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906609"
+  },
+  {
+   "itemSeq": "201906610",
+   "name": "엑시다졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906610"
+  },
+  {
+   "itemSeq": "201906673",
+   "name": "넥시텐정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906673"
+  },
+  {
+   "itemSeq": "201906915",
+   "name": "넥시텐정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906915"
+  },
+  {
+   "itemSeq": "201907046",
+   "name": "엔티오메정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)셀비온",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907046"
+  },
+  {
+   "itemSeq": "201907047",
+   "name": "엔티오메정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)셀비온",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907047"
+  },
+  {
+   "itemSeq": "201907091",
+   "name": "에스오피라졸정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907091"
+  },
+  {
+   "itemSeq": "201907455",
+   "name": "에소메딘정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907455"
+  },
+  {
+   "itemSeq": "201907454",
+   "name": "에소메딘정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907454"
+  },
+  {
+   "itemSeq": "201907479",
+   "name": "에소엠피정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907479"
+  },
+  {
+   "itemSeq": "201907480",
+   "name": "에소엠피정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907480"
+  },
+  {
+   "itemSeq": "201907879",
+   "name": "넥시엔정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907879"
+  },
+  {
+   "itemSeq": "201907881",
+   "name": "넥시엔정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907881"
+  },
+  {
+   "itemSeq": "201908380",
+   "name": "예스프라정20mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)유앤생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908380"
+  },
+  {
+   "itemSeq": "201908379",
+   "name": "예스프라정40mg(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)유앤생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908379"
+  },
+  {
+   "itemSeq": "202000181",
+   "name": "에소티졸정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000181"
+  },
+  {
+   "itemSeq": "202000182",
+   "name": "에소티졸정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000182"
+  },
+  {
+   "itemSeq": "202000225",
+   "name": "오메원정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "원광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000225"
+  },
+  {
+   "itemSeq": "202000226",
+   "name": "오메원정40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "원광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000226"
+  },
+  {
+   "itemSeq": "202001244",
+   "name": "에소메정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001244"
+  },
+  {
+   "itemSeq": "202002267",
+   "name": "에소마크주(에스오메프라졸나트륨)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸나트륨",
+     "amount": "42.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002267"
+  },
+  {
+   "itemSeq": "202002942",
+   "name": "에프라민정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002942"
+  },
+  {
+   "itemSeq": "202003557",
+   "name": "에소펠정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003557"
+  },
+  {
+   "itemSeq": "202003556",
+   "name": "에소펠정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003556"
+  },
+  {
+   "itemSeq": "202003714",
+   "name": "에소메정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003714"
+  },
+  {
+   "itemSeq": "202006602",
+   "name": "오스템에스오메프라졸정20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "오스템파마주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006602"
+  },
+  {
+   "itemSeq": "202006760",
+   "name": "에소메졸디알서방캡슐20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "11.125",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "11.125",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-10-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006760"
+  },
+  {
+   "itemSeq": "202006759",
+   "name": "에소메졸디알서방캡슐40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-10-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006759"
+  },
+  {
+   "itemSeq": "202007779",
+   "name": "엑소시움정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007779"
+  },
+  {
+   "itemSeq": "202007780",
+   "name": "엑소시움정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202007780"
+  },
+  {
+   "itemSeq": "202101869",
+   "name": "에스오텍디알서방캡슐40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101869"
+  },
+  {
+   "itemSeq": "202101870",
+   "name": "에스오텍디알서방캡슐20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101870"
+  },
+  {
+   "itemSeq": "202101872",
+   "name": "유스메졸디알서방캡슐20밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "10.85",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101872"
+  },
+  {
+   "itemSeq": "202101871",
+   "name": "유스메졸디알서방캡슐40밀리그램(에스오메프라졸마그네슘이수화물)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101871"
+  },
+  {
+   "itemSeq": "202105725",
+   "name": "신일에스오메프라졸마그네슘이수화물정40밀리그램(수출용)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105725"
+  },
+  {
+   "itemSeq": "202105726",
+   "name": "신일에스오메프라졸마그네슘이수화물정20밀리그램(수출용)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105726"
+  },
+  {
+   "itemSeq": "202107681",
+   "name": "에스오텍정10밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "11.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107681"
+  },
+  {
+   "itemSeq": "202107680",
+   "name": "에스코텐정(에스오메프라졸마그네슘삼수화물)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "11.15",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107680"
+  },
+  {
+   "itemSeq": "202203716",
+   "name": "에소메졸디알서방캡슐10밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "5.5625",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "5.5625",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203716"
+  },
+  {
+   "itemSeq": "201200417",
+   "name": "비모보정 500/20밀리그램",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-01-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200417"
+  },
+  {
+   "itemSeq": "201308928",
+   "name": "낙소졸정500/20밀리그램(나프록센,에스오메프라졸)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸스트론튬사수화물",
+     "amount": "24.60",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308928"
+  },
+  {
+   "itemSeq": "201402074",
+   "name": "낙센에스정500/20밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402074"
+  },
+  {
+   "itemSeq": "201403085",
+   "name": "나프메드정500/20밀리그램",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "나프록센",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403085"
+  },
+  {
+   "itemSeq": "201403727",
+   "name": "신플랙스세이프정500/20밀리그램",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "나프록센",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403727"
+  },
+  {
+   "itemSeq": "201403728",
+   "name": "에소록센정(나프록센, 에스오메프라졸)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "나프록센",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403728"
+  },
+  {
+   "itemSeq": "201403894",
+   "name": "나프라졸정",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "나프록센",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403894"
+  },
+  {
+   "itemSeq": "201508404",
+   "name": "넥시리움정20밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "21.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508404"
+  },
+  {
+   "itemSeq": "201508405",
+   "name": "넥시리움정40밀리그램(에스오메프라졸마그네슘삼수화물)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘이수화물",
+     "amount": "43.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508405"
+  },
+  {
+   "itemSeq": "201801860",
+   "name": "에소듀오정20/800밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물펠렛",
+     "amount": "120.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801860"
+  },
+  {
+   "itemSeq": "201907588",
+   "name": "에소듀오정40/800밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물펠렛",
+     "amount": "240.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907588"
+  },
+  {
+   "itemSeq": "202101156",
+   "name": "에소카보정20/600밀리그램",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101156"
+  },
+  {
+   "itemSeq": "202101157",
+   "name": "에소카보정40/600밀리그램",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101157"
+  },
+  {
+   "itemSeq": "202101158",
+   "name": "에소카정20/600밀리그램",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101158"
+  },
+  {
+   "itemSeq": "202101159",
+   "name": "에소카정40/600밀리그램",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101159"
+  },
+  {
+   "itemSeq": "202101154",
+   "name": "에소피드정20/600밀리그램",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101154"
+  },
+  {
+   "itemSeq": "202101155",
+   "name": "에소피드정40/600밀리그램",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101155"
+  },
+  {
+   "itemSeq": "202104524",
+   "name": "에소리움플러스정20/800밀리그램",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104524"
+  },
+  {
+   "itemSeq": "202104742",
+   "name": "네메올듀오정20/800밀리그램",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104742"
+  },
+  {
+   "itemSeq": "202104751",
+   "name": "넥스졸듀오정20/800밀리그램",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104751"
+  },
+  {
+   "itemSeq": "202104744",
+   "name": "넥스파듀오정20/800밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104744"
+  },
+  {
+   "itemSeq": "202104745",
+   "name": "넥시듀오정20/800밀리그램",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104745"
+  },
+  {
+   "itemSeq": "202104747",
+   "name": "베스듀오정20/800밀리그램",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104747"
+  },
+  {
+   "itemSeq": "202104753",
+   "name": "안국뉴팜에스오플러스정20/800밀리그램",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104753"
+  },
+  {
+   "itemSeq": "202104740",
+   "name": "에소맥스듀오정20/800밀리그램",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104740"
+  },
+  {
+   "itemSeq": "202104741",
+   "name": "에소미트정20/800밀리그램",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104741"
+  },
+  {
+   "itemSeq": "202104752",
+   "name": "에소에이블정20/800밀리그램",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104752"
+  },
+  {
+   "itemSeq": "202104750",
+   "name": "에소탄정20/800밀리그램",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104750"
+  },
+  {
+   "itemSeq": "202104749",
+   "name": "에소프로정20/800밀리그램",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104749"
+  },
+  {
+   "itemSeq": "202104746",
+   "name": "에스라졸듀오정20/800밀리그램",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104746"
+  },
+  {
+   "itemSeq": "202104692",
+   "name": "에스엠듀오정20/800밀리그램",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104692"
+  },
+  {
+   "itemSeq": "202104743",
+   "name": "에스오에스정20/800밀리그램",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104743"
+  },
+  {
+   "itemSeq": "202104748",
+   "name": "에피움듀오정20/800밀리그램",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104748"
+  },
+  {
+   "itemSeq": "202104846",
+   "name": "에스메졸듀오정20/800밀리그램",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104846"
+  },
+  {
+   "itemSeq": "202104835",
+   "name": "에스졸듀오정20/800밀리그램",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104835"
+  },
+  {
+   "itemSeq": "202104845",
+   "name": "오메나듀오정20/800밀리그램",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104845"
+  },
+  {
+   "itemSeq": "202104972",
+   "name": "네오듀오정20/800밀리그램",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104972"
+  },
+  {
+   "itemSeq": "202104971",
+   "name": "넥시리움듀오정20/800밀리그램",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104971"
+  },
+  {
+   "itemSeq": "202104969",
+   "name": "에소프라듀오정20/800밀리그램(에스오메프라졸마그네슘삼수화물,탄산수소나트륨)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104969"
+  },
+  {
+   "itemSeq": "202104973",
+   "name": "엑시다졸듀오정20/800밀리그램",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104973"
+  },
+  {
+   "itemSeq": "202107076",
+   "name": "에소메졸플러스정40/350밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "350.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107076"
+  },
+  {
+   "itemSeq": "202107198",
+   "name": "넥소듀오정20/800밀리그램",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "650.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107198"
+  },
+  {
+   "itemSeq": "202107348",
+   "name": "에소원탑정20/800밀리그램(에스오메프라졸마그네슘삼수화물,탄산수소나트륨)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "650.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107348"
+  },
+  {
+   "itemSeq": "202107366",
+   "name": "에소메가정20/800밀리그램",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "650.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107366"
+  },
+  {
+   "itemSeq": "202107383",
+   "name": "에소메딘플러스정20/800밀리그램",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "150",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "650.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107383"
+  },
+  {
+   "itemSeq": "202107455",
+   "name": "에소비카정20/800밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.26",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "150",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "650",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107455"
+  },
+  {
+   "itemSeq": "202201119",
+   "name": "에소메졸플러스정20/350밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "350.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201119"
+  },
+  {
+   "itemSeq": "202300663",
+   "name": "에소듀오에스정20/700밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물펠렛",
+     "amount": "70.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "700.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300663"
+  },
+  {
+   "itemSeq": "202300662",
+   "name": "에소듀오에스정40/700밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물펠렛",
+     "amount": "141.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "700.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300662"
+  },
+  {
+   "itemSeq": "202500425",
+   "name": "나소프라정500/20밀리그램(나프록센,에스오메프라졸)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500425"
+  },
+  {
+   "itemSeq": "202500515",
+   "name": "비모엠정500/20밀리그램(나프록센, 에스오메프라졸)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500515"
+  },
+  {
+   "itemSeq": "202500589",
+   "name": "엑소락센정500/20밀리그램(나프록센, 에스오메프라졸마그네슘삼수화물)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500589"
+  },
+  {
+   "itemSeq": "202500700",
+   "name": "제모보정500/20밀리그램(나프록센, 에스오메프라졸)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "나프록센",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500700"
+  },
+  {
+   "itemSeq": "202600876",
+   "name": "에소듀오미니정10/350밀리그램(에스오메프라졸, 탄산수소나트륨)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물펠렛",
+     "amount": "35.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "350.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600876"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "id": "flurazepam",
+ "query": [
+  "플루라제팜"
+ ],
+ "fetched": "2026-11-26",
+ "total": 1,
+ "kept": 1,
+ "mfdsName": [
+  "플루라제팜염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "199907280",
+   "name": "달마돔정(플루라제팜염산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "플루라제팜염산염",
+     "amount": "15.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-08-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199907280"
+  }
+ ]
+}

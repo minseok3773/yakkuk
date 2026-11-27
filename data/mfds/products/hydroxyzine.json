@@ -1,0 +1,120 @@
+{
+ "id": "hydroxyzine",
+ "query": [
+  "히드록시진",
+  "하이드록시진"
+ ],
+ "fetched": "2026-11-26",
+ "total": 7,
+ "kept": 7,
+ "mfdsName": [
+  "히드록시진염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "197800210",
+   "name": "아디팜정(히드록시진염산염)",
+   "company": "태극제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "히드록시진염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1978-07-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197800210"
+  },
+  {
+   "itemSeq": "199900645",
+   "name": "하이진정(히드록시진염산염)(수출명:히다락스정,필히다락스정)(수출용)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "히드록시진염산염",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900645"
+  },
+  {
+   "itemSeq": "200605269",
+   "name": "유시락스시럽(히드록시진염산염)",
+   "company": "(주)메디팁",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "히드록시진염산염",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605269"
+  },
+  {
+   "itemSeq": "201607375",
+   "name": "두드리진시럽(히드록시진염산염)",
+   "company": "삼아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "히드록시진염산염",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201607375"
+  },
+  {
+   "itemSeq": "201705739",
+   "name": "로진정25mg(히드록시진염산염)(수출용)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "히드록시진염산염",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705739"
+  },
+  {
+   "itemSeq": "202005261",
+   "name": "이치리진시럽(히드록시진염산염)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "히드록시진염산염",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005261"
+  },
+  {
+   "itemSeq": "202200690",
+   "name": "유록스시럽(히드록시진염산염)(수출명: Urox Syrup)(수출용)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "히드록시진염산염",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-02-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200690"
+  }
+ ]
+}

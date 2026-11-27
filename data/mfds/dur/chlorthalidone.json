@@ -1,0 +1,105 @@
+{
+ "id": "chlorthalidone",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "chlorthalidone"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "lithium carbonate",
+   "reason": "리튬독성증강",
+   "self": "chlorthalidone"
+  },
+  {
+   "ingredient": "lithium carbonate",
+   "reason": "리튬 독성 증가",
+   "self": "chlorthalidone"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "atenolol: 임부에 대한 안전성 미확립. 베타차단제는 태반관류를 감소시켜 자궁내 사망, 미숙분만, 조숙분만 야기 가능. 분만 또는 수유중 투여시 신생아에서 저혈당증이나 서맥 위험 가능.chlorthalidone: 저혈량증이나 혈액점도 증가, 태반환류 감소 가능성. 티아지드계 이뇨제의 사용은 태아 골수억제와 혈소판감소증 및 태아·신생아 황달과의 관련성 보고.",
+   "ingredient": "chlorthalidone, atenolol"
+  },
+  {
+   "grade": "2",
+   "reason": "저혈량증이나 혈액점도 증가, 태반환류 감소 가능성. 티아지드계 이뇨제의 사용은 태아 골수억제와 혈소판감소증 및 태아·신생아 황달과의 관련성 보고.",
+   "ingredient": "chlorthalidone"
+  },
+  {
+   "grade": "2",
+   "reason": "amlodipine:임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. Losartan: 임신 제 2~3기에 ACE 저해제 투여시 태아와 신생아의 저혈압, 고칼륨혈증, 신생아 두개골발육부전, 무뇨증, 신부전, 자궁내 성장지체, 양수과소증(사지구축, 두개안면기형, 폐발육부전과 관련) 및 사망 등 보고. 임신 1기에 투여시 출생결함의 잠재적 위험과 관련됨. Chlorthalidone: 저혈량증이나 혈액점도 증가, 태반환류 감소 가능성. 티아지드계 이뇨제의 사용은 태아 골수억제와 혈소판감소증 및 태아·신생아 황달과의 관련성 보고.",
+   "ingredient": "amlodipine + chlorthalidone + losartan"
+  },
+  {
+   "grade": "2",
+   "reason": "amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. Losartan: 임신 제 2~3기에 ACE 저해제 투여시 태아와 신생아의 저혈압, 고칼륨혈증, 신생아 두개골발육부전, 무뇨증, 신부전, 자궁내 성장지체, 양수과소증(사지구축, 두개안면기형, 폐발육부전과 관련) 및 사망 등 보고. 임신 1기에 투여시 출생결함의 잠재적 위험과 관련됨. Chlorthalidone: 저혈량증이나 혈액점도 증가, 태반환류 감소 가능성. 티아지드계 이뇨제의 사용은 태아 골수억제와 혈소판감소증 및 태아·신생아 황달과의 관련성 보고.",
+   "ingredient": "amlodipine + chlorthalidone + losartan"
+  },
+  {
+   "grade": "2",
+   "reason": "chlorthalidone:저혈량증이나 혈액점도 증가, 태반환류 감소 가능성. 티아지드계 이뇨제의 사용은 태아 골수억제와 혈소판감소증 및 태아·신생아 황달과의 관련성 보고/azilsartan:태아독성(신기능 감소, 양수과소증, 두개골 골화지연) 및 신생아 독성(신부전, 저혈압, 고칼륨혈증), 사망 유발 가능",
+   "ingredient": "azilsartan + chlorthalidone"
+  },
+  {
+   "grade": "2",
+   "reason": "(amlodipine) 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. (chlorthalidone) 저혈량증이나 혈액점도 증가, 태반환류 감소 가능성. 티아지드계 이뇨제의 사용은 태아 골수억제와 혈소판감소증 및 태아·신생아 황달과의 관련성 보고. (telmisartan) 임신 2기 및 3기에 투여시 태아 및 신생아에 저혈압, 신생아 두골형성부전, 무뇨, 신부전, 양수과소증(태아사지경축, 두개안면기형, 폐형성저하증과 관련) 및 사망과 관련됨.",
+   "ingredient": "amlodipine + chlorthalidone + telmisartan"
+  },
+  {
+   "grade": "2",
+   "reason": "(amlodipine)임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. (chlorthalidone) 저혈량증이나 혈액점도 증가, 태반환류 감소 가능성. 티아지드계 이뇨제의 사용은 태아 골수억제와 혈소판감소증 및 태아·신생아 황달과의 관련성 보고. (telmisartan) 임신 2기 및 3기에 투여시 태아 및 신생아에 저혈압, 신생아 두골형성부전, 무뇨, 신부전, 양수과소증(태아사지경축, 두개안면기형, 폐형성저하증과 관련) 및 사망과 관련됨.",
+   "ingredient": "amlodipine + chlorthalidone + telmisartan"
+  },
+  {
+   "grade": "2",
+   "reason": "losartan: 임신 제 2~3기에 ACE 저해제 투여시 태아와 신생아의 저혈압, 고칼륨혈증, 신생아 두개골발육부전, 무뇨증, 신부전, 자궁내 성장지체, 양수과소증(사지구축, 두개안면기형, 폐발육부전과 관련) 및 사망 등 보고. 임신 1기에 투여시 출생결함의 잠재적 위험과 관련됨/chlorthalidone: 저혈량증이나 혈액점도 증가, 태반환류 감소 가능성. 티아지드계 이뇨제의 사용은 태아 골수억제와 혈소판감소증 및 태아·신생아 황달과의 관련성 보고.",
+   "ingredient": "losartan + chlorthalidone"
+  },
+  {
+   "grade": "2",
+   "reason": "Chlorthalidone: 저혈량증이나 혈액점도 증가, 태반환류 감소 가능성. 티아지드계 이뇨제의 사용은 태아 골수억제와 혈소판감소증 및 태아·신생아 황달과의 관련성 보고. Losartan: 임신 제 2~3기에 ACE 저해제 투여시 태아와 신생아의 저혈압, 고칼륨혈증, 신생아 두개골발육부전, 무뇨증, 신부전, 자궁내 성장지체, 양수과소증(사지구축, 두개안면기형, 폐발육부전과 관련) 및 사망 등 보고. 임신 1기에 투여시 출생결함의 잠재적 위험과 관련됨.",
+   "ingredient": "chlorthalidone + losartan"
+  },
+  {
+   "grade": "2",
+   "reason": "amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남 / chlorthalidone: 저혈량증이나 혈액점도 증가, 태반환류 감소 가능성. 티아지드계 이뇨제의 사용은 태아 골수억제와 혈소판감소증 및 태아·신생아 황달과의 관련성 보고 / losartan: 임신 제 2~3기에 ACE 저해제 투여시 태아와 신생아의 저혈압, 고칼륨혈증, 신생아 두개골발육부전, 무뇨증, 신부전, 자궁내 성장지체, 양수과소증(사지구축, 두개안면기형, 폐발육부전과 관련) 및 사망 등 보고. 임신 1기에 투여시 출생결함의 잠재적 위험과 관련됨",
+   "ingredient": "amlodipine + chlorthalidone + losartan"
+  },
+  {
+   "grade": "2",
+   "reason": "amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. / chlorthalidone: 저혈량증이나 혈액점도 증가, 태반환류 감소 가능성. 티아지드계 이뇨제의 사용은 태아 골수억제와 혈소판감소증 및 태아·신생아 황달과의 관련성 보고. / telmisartan: 임신 2기 및 3기에 투여시 태아 및 신생아에 저혈압, 신생아 두골형성부전, 무뇨, 신부전, 양수과소증(태아사지경축, 두개안면기형, 폐형성저하증과 관련) 및 사망과 관련됨.",
+   "ingredient": "amlodipine + chlorthalidone + telmisartan"
+  },
+  {
+   "grade": "2",
+   "reason": "chlorthalidone: 저혈량증이나 혈액점도 증가, 태반환류 감소 가능성. 티아지드계 이뇨제의 사용은 태아 골수억제와 혈소판감소증 및 태아·신생아 황달과의 관련성 보고. / S-amlodipine: 인체에 대한 최대권장용량의 50배에 해당하는 용량의 이 약을 투여한 랫트에서 분만지연 및 연장 나타남. 동물실험 중 고용량에서 생식독성 나타남. / telmisartan: 임신 2기 및 3기에 투여시 태아 및 신생아에 저혈압, 신생아 두골형성부전, 무뇨, 신부전, 양수과소증(태아사지경축, 두개안면기형, 폐형성저하증과 관련) 및 사망과 관련됨.",
+   "ingredient": "chlorthalidone + S-amlodipine + telmisartan"
+  },
+  {
+   "grade": "2",
+   "reason": "amlodipine: 임부에 대한 안전성 미확립. 인체에 대한 최대 권장 용량의 50배에 해당하는 용량의 암로디핀을 투여한 랫드에서 분만지연 및 연장이 나타남. / chlorthalidone: 저혈량증이나 혈액점도 증가, 태반환류 감소 가능성. 티아지드계 이뇨제의 사용은 태아 골수억제와 혈소판감소증 및 태아·신생아 황달과의 관련성 보고. / valsartan: 임신 2~3기에 ACE저해제 투여시 태아 및 신생아의 저혈압, 고칼륨혈증, 신생아 두개골 발육부전, 무뇨증, 신부전, 양수과소증(태아사지구축, 두개안면기형, 폐발육부전과 관련 있음) 및 사망과 관련됨.",
+   "ingredient": "amlodipine + chlorthalidone + valsartan"
+  },
+  {
+   "grade": "2",
+   "reason": "chlorthalidone: 저혈량증이나 혈액점도 증가, 태반환류 감소 가능성. 티아지드계 이뇨제의 사용은 태아 골수억제와 혈소판감소증 및 태아·신생아 황달과의 관련성 보고. / telmisartan: 임신 2기 및 3기에 투여시 태아 및 신생아에 저혈압, 신생아 두골형성부전, 무뇨, 신부전, 양수과소증(태아사지경축, 두개안면기형, 폐형성저하증과 관련) 및 사망과 관련됨.",
+   "ingredient": "chlorthalidone + telmisartan"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "혈압강하작용의약품",
+   "subgroup": "Group 1",
+   "code": "214A0007"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

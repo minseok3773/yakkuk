@@ -1,0 +1,4489 @@
+{
+ "id": "pregabalin",
+ "query": [
+  "프레가발린"
+ ],
+ "fetched": "2026-11-26",
+ "total": 285,
+ "kept": 285,
+ "mfdsName": [
+  "프레가발린"
+ ],
+ "items": [
+  {
+   "itemSeq": "200511058",
+   "name": "리리카캡슐150밀리그램(프레가발린)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511058"
+  },
+  {
+   "itemSeq": "200511059",
+   "name": "리리카캡슐300밀리그램(프레가발린)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511059"
+  },
+  {
+   "itemSeq": "200511057",
+   "name": "리리카캡슐75밀리그램(프레가발린)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511057"
+  },
+  {
+   "itemSeq": "201108886",
+   "name": "뉴로카바-피지캡슐150밀리그램(프레가발린)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201108886"
+  },
+  {
+   "itemSeq": "201108892",
+   "name": "뉴로카바-피지캡슐75밀리그램(프레가발린)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201108892"
+  },
+  {
+   "itemSeq": "201109024",
+   "name": "라라카캡슐150밀리그램(프레가발린)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109024"
+  },
+  {
+   "itemSeq": "201109030",
+   "name": "라라카캡슐75밀리그램(프레가발린)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109030"
+  },
+  {
+   "itemSeq": "201109029",
+   "name": "프레갈캡슐150밀리그램(프레가발린)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109029"
+  },
+  {
+   "itemSeq": "201109028",
+   "name": "프레갈캡슐75밀리그램(프레가발린)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109028"
+  },
+  {
+   "itemSeq": "201108990",
+   "name": "프레발린캡슐150밀리그램(프레가발린)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201108990"
+  },
+  {
+   "itemSeq": "201108989",
+   "name": "프레발린캡슐75밀리그램(프레가발린)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201108989"
+  },
+  {
+   "itemSeq": "201109161",
+   "name": "리발린캡슐150밀리그램(프레가발린)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109161"
+  },
+  {
+   "itemSeq": "201109160",
+   "name": "리발린캡슐75밀리그램(프레가발린)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109160"
+  },
+  {
+   "itemSeq": "201109152",
+   "name": "프래디캡슐75밀리그램(프레가발린)",
+   "company": "(주)한국피엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109152"
+  },
+  {
+   "itemSeq": "201109142",
+   "name": "프레빈캡슐(프레가발린)",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109142"
+  },
+  {
+   "itemSeq": "201109151",
+   "name": "프레필캡슐150밀리그램(프레가발린)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109151"
+  },
+  {
+   "itemSeq": "201109150",
+   "name": "프레필캡슐75밀리그램(프레가발린)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109150"
+  },
+  {
+   "itemSeq": "201109154",
+   "name": "프리가바캡슐150밀리그램(프레가발린)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109154"
+  },
+  {
+   "itemSeq": "201109155",
+   "name": "프리가바캡슐75밀리그램(프레가발린)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109155"
+  },
+  {
+   "itemSeq": "201109159",
+   "name": "프리카캡슐150밀리그램(프레가발린)",
+   "company": "(주)새한제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109159"
+  },
+  {
+   "itemSeq": "201109158",
+   "name": "프리카캡슐75밀리그램(프레가발린)",
+   "company": "(주)새한제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109158"
+  },
+  {
+   "itemSeq": "201109144",
+   "name": "플린다캡슐150밀리그램(프레가발린)",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109144"
+  },
+  {
+   "itemSeq": "201109143",
+   "name": "플린다캡슐75밀리그램(프레가발린)",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109143"
+  },
+  {
+   "itemSeq": "201109141",
+   "name": "현대프레가발린캡슐150밀리그램",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109141"
+  },
+  {
+   "itemSeq": "201109140",
+   "name": "현대프레가발린캡슐75밀리그램",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109140"
+  },
+  {
+   "itemSeq": "201109257",
+   "name": "가바리카캡슐150밀리그램(프레가발린)(수출용)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109257"
+  },
+  {
+   "itemSeq": "201109256",
+   "name": "가바리카캡슐75밀리그램(프레가발린)(수출용)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109256"
+  },
+  {
+   "itemSeq": "201109232",
+   "name": "뉴리카캡슐150밀리그램(프레가발린)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109232"
+  },
+  {
+   "itemSeq": "201109231",
+   "name": "뉴리카캡슐75밀리그램(프레가발린)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109231"
+  },
+  {
+   "itemSeq": "201109237",
+   "name": "리가린캡슐150mg(프레가발린)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109237"
+  },
+  {
+   "itemSeq": "201109235",
+   "name": "리가린캡슐75mg(프레가발린)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109235"
+  },
+  {
+   "itemSeq": "201109261",
+   "name": "리바린캡슐75밀리그램(프레가발린)",
+   "company": "(주)한국비엠아이",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109261"
+  },
+  {
+   "itemSeq": "201109226",
+   "name": "리카발캡슐 75밀리그램(프레가발린)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109226"
+  },
+  {
+   "itemSeq": "201109221",
+   "name": "리카발캡슐150밀리그램(프레가발린)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109221"
+  },
+  {
+   "itemSeq": "201109230",
+   "name": "리프렌캡슐150밀리그램(프레가발린)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109230"
+  },
+  {
+   "itemSeq": "201109229",
+   "name": "리프렌캡슐75밀리그램(프레가발린)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109229"
+  },
+  {
+   "itemSeq": "201109223",
+   "name": "엔피린캡슐150밀리그램(프레가발린)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109223"
+  },
+  {
+   "itemSeq": "201109222",
+   "name": "엔피린캡슐75밀리그램(프레가발린)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109222"
+  },
+  {
+   "itemSeq": "201109254",
+   "name": "케이발린캡슐150밀리그램(프레가발린)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109254"
+  },
+  {
+   "itemSeq": "201109253",
+   "name": "케이발린캡슐75밀리그램(프레가발린)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109253"
+  },
+  {
+   "itemSeq": "201109238",
+   "name": "프레가린캡슐75밀리그램(프레가발린)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109238"
+  },
+  {
+   "itemSeq": "201109228",
+   "name": "프레가캡슐150밀리그램(프레가발린)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109228"
+  },
+  {
+   "itemSeq": "201109227",
+   "name": "프레가캡슐75밀리그램(프레가발린)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109227"
+  },
+  {
+   "itemSeq": "201109255",
+   "name": "프레갈캡슐300밀리그램(프레가발린)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109255"
+  },
+  {
+   "itemSeq": "201109225",
+   "name": "프레오린캡슐150밀리그램(프레가발린)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109225"
+  },
+  {
+   "itemSeq": "201109224",
+   "name": "프레오린캡슐75밀리그램(프레가발린)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109224"
+  },
+  {
+   "itemSeq": "201109260",
+   "name": "프리렙톨캡슐150밀리그램(프레가발린)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109260"
+  },
+  {
+   "itemSeq": "201109259",
+   "name": "프리렙톨캡슐75mg(프레가발린)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109259"
+  },
+  {
+   "itemSeq": "201109234",
+   "name": "프리린캡슐150밀리그램(프레가발린)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109234"
+  },
+  {
+   "itemSeq": "201109233",
+   "name": "프리린캡슐75밀리그램(프레가발린)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109233"
+  },
+  {
+   "itemSeq": "201109275",
+   "name": "가바뉴로캡슐150밀리그램(프레가발린)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109275"
+  },
+  {
+   "itemSeq": "201109274",
+   "name": "가바뉴로캡슐75밀리그램(프레가발린)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109274"
+  },
+  {
+   "itemSeq": "201109296",
+   "name": "뉴로페인캡슐150밀리그램(프레가발린)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109296"
+  },
+  {
+   "itemSeq": "201109291",
+   "name": "뉴로페인캡슐75밀리그램(프레가발린)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109291"
+  },
+  {
+   "itemSeq": "201109295",
+   "name": "리카뉴로캡슐150mg(프레가발린)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109295"
+  },
+  {
+   "itemSeq": "201109294",
+   "name": "리카뉴로캡슐75mg(프레가발린)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109294"
+  },
+  {
+   "itemSeq": "201109279",
+   "name": "리카프리캡슐150밀리그램(프레가발린)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109279"
+  },
+  {
+   "itemSeq": "201109278",
+   "name": "리카프리캡슐75밀리그램(프레가발린)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109278"
+  },
+  {
+   "itemSeq": "201109276",
+   "name": "아나리카캡슐150밀리그램(프레가발린)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109276"
+  },
+  {
+   "itemSeq": "201109277",
+   "name": "아나리카캡슐75밀리그램(프레가발린)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109277"
+  },
+  {
+   "itemSeq": "201109308",
+   "name": "프가틴캡슐150밀리그램(프레가발린)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109308"
+  },
+  {
+   "itemSeq": "201109307",
+   "name": "프가틴캡슐75밀리그램(프레가발린)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109307"
+  },
+  {
+   "itemSeq": "201109310",
+   "name": "프레리카캡슐150밀리그램(프레가발린)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109310"
+  },
+  {
+   "itemSeq": "201109309",
+   "name": "프레리카캡슐75밀리그램(프레가발린)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109309"
+  },
+  {
+   "itemSeq": "201109286",
+   "name": "프레스타캡슐150밀리그램(프레가발린)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109286"
+  },
+  {
+   "itemSeq": "201109285",
+   "name": "프레스타캡슐75밀리그램(프레가발린)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109285"
+  },
+  {
+   "itemSeq": "201109293",
+   "name": "프리가캡슐150밀리그램(프레가발린)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109293"
+  },
+  {
+   "itemSeq": "201109292",
+   "name": "프리가캡슐75밀리그램(프레가발린)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109292"
+  },
+  {
+   "itemSeq": "201112306",
+   "name": "동광프레가발린캡슐150밀리그램",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201112306"
+  },
+  {
+   "itemSeq": "201112307",
+   "name": "동광프레가발린캡슐75밀리그램",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201112307"
+  },
+  {
+   "itemSeq": "201203615",
+   "name": "가바리카캡슐300밀리그램(프레가발린)(수출용)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201203615"
+  },
+  {
+   "itemSeq": "201205828",
+   "name": "시리카캡슐150mg(프레가발린)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205828"
+  },
+  {
+   "itemSeq": "201205826",
+   "name": "시리카캡슐75mg(프레가발린)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205826"
+  },
+  {
+   "itemSeq": "201205827",
+   "name": "프랄린캡슐150밀리그램(프레가발린)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205827"
+  },
+  {
+   "itemSeq": "201205825",
+   "name": "프랄린캡슐75밀리그램(프레가발린)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205825"
+  },
+  {
+   "itemSeq": "201206123",
+   "name": "가바리카캡슐100밀리그램(프레가발린)(수출용)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-07-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206123"
+  },
+  {
+   "itemSeq": "201207232",
+   "name": "동방프레가발린캡슐150mg(수출용)",
+   "company": "동방에프티엘(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207232"
+  },
+  {
+   "itemSeq": "201207233",
+   "name": "동방프레가발린캡슐75mg(수출용)",
+   "company": "동방에프티엘(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207233"
+  },
+  {
+   "itemSeq": "201207234",
+   "name": "프레탑캡슐300밀리그램(프레가발린)(수출용)",
+   "company": "동방에프티엘(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "300",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "300",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207234"
+  },
+  {
+   "itemSeq": "201208481",
+   "name": "프레가린캡슐150밀리그램(프레가발린)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208481"
+  },
+  {
+   "itemSeq": "201500516",
+   "name": "프레발린캡슐300밀리그램(프레가발린)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500516"
+  },
+  {
+   "itemSeq": "201501153",
+   "name": "프레빈캡슐75밀리그램(프레가발린)",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501153"
+  },
+  {
+   "itemSeq": "201502555",
+   "name": "카발린캡슐150밀리그램(프레가발린)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502555"
+  },
+  {
+   "itemSeq": "201502554",
+   "name": "카발린캡슐75밀리그램(프레가발린)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502554"
+  },
+  {
+   "itemSeq": "201502967",
+   "name": "뉴로가발린캡슐150밀리그램(프레가발린)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502967"
+  },
+  {
+   "itemSeq": "201502966",
+   "name": "뉴로가발린캡슐75밀리그램(프레가발린)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502966"
+  },
+  {
+   "itemSeq": "201600254",
+   "name": "리레카캡슐150mg(프레가발린)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600254"
+  },
+  {
+   "itemSeq": "201600253",
+   "name": "리레카캡슐75mg(프레가발린)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600253"
+  },
+  {
+   "itemSeq": "201600856",
+   "name": "프레틴캡슐150밀리그램(프레가발린)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600856"
+  },
+  {
+   "itemSeq": "201600892",
+   "name": "라리칸캡슐150밀리그램(프레가발린)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600892"
+  },
+  {
+   "itemSeq": "201601186",
+   "name": "리카스타캡슐 150mg\n\n(프레가발린)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601186"
+  },
+  {
+   "itemSeq": "201601187",
+   "name": "리카스타캡슐 75mg\n\n(프레가발린)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601187"
+  },
+  {
+   "itemSeq": "201601284",
+   "name": "프레틴캡슐75밀리그램(프레가발린)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601284"
+  },
+  {
+   "itemSeq": "201602888",
+   "name": "리프레가캡슐150밀리그램(프레가발린)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602888"
+  },
+  {
+   "itemSeq": "201602889",
+   "name": "리프레가캡슐75밀리그램(프레가발린)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602889"
+  },
+  {
+   "itemSeq": "201603115",
+   "name": "팜리카캡슐150밀리그램(프레가발린)",
+   "company": "(주)한국팜비오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603115"
+  },
+  {
+   "itemSeq": "201603116",
+   "name": "팜리카캡슐75밀리그램(프레가발린)",
+   "company": "(주)한국팜비오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603116"
+  },
+  {
+   "itemSeq": "201603280",
+   "name": "삼성프레가발린캡슐150mg",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603280"
+  },
+  {
+   "itemSeq": "201603279",
+   "name": "삼성프레가발린캡슐75mg",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603279"
+  },
+  {
+   "itemSeq": "201603419",
+   "name": "레가바캡슐150mg(프레가발린)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603419"
+  },
+  {
+   "itemSeq": "201603420",
+   "name": "레가바캡슐75mg(프레가발린)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603420"
+  },
+  {
+   "itemSeq": "201603533",
+   "name": "넬슨프레가발린캡슐150mg(프레가발린)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603533"
+  },
+  {
+   "itemSeq": "201603532",
+   "name": "넬슨프레가발린캡슐75mg(프레가발린)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603532"
+  },
+  {
+   "itemSeq": "201603622",
+   "name": "넥리카캡슐150mg(프레가발린)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603622"
+  },
+  {
+   "itemSeq": "201603623",
+   "name": "넥리카캡슐75mg(프레가발린)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603623"
+  },
+  {
+   "itemSeq": "201603606",
+   "name": "프렙시캡슐150mg(프레가발린)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603606"
+  },
+  {
+   "itemSeq": "201603605",
+   "name": "프렙시캡슐75mg(프레가발린)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603605"
+  },
+  {
+   "itemSeq": "201603621",
+   "name": "프로카반캡슐150밀리그램(프레가발린)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603621"
+  },
+  {
+   "itemSeq": "201603620",
+   "name": "프로카반캡슐75밀리그램(프레가발린)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603620"
+  },
+  {
+   "itemSeq": "201603602",
+   "name": "프릴린캡슐150밀리그램(프레가발린)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603602"
+  },
+  {
+   "itemSeq": "201603601",
+   "name": "프릴린캡슐75밀리그램(프레가발린)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603601"
+  },
+  {
+   "itemSeq": "201603689",
+   "name": "프가바린캡슐150밀리그램(프레가발린)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603689"
+  },
+  {
+   "itemSeq": "201603690",
+   "name": "프가바린캡슐75밀리그램(프레가발린)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603690"
+  },
+  {
+   "itemSeq": "201603682",
+   "name": "프레가스타캡슐150밀리그램(프레가발린)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603682"
+  },
+  {
+   "itemSeq": "201603683",
+   "name": "프레가스타캡슐300밀리그램(프레가발린)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603683"
+  },
+  {
+   "itemSeq": "201603681",
+   "name": "프레가스타캡슐75밀리그램(프레가발린)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603681"
+  },
+  {
+   "itemSeq": "201604076",
+   "name": "프린캡슐150밀리그램(프레가발린)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604076"
+  },
+  {
+   "itemSeq": "201604075",
+   "name": "프린캡슐75밀리그램(프레가발린)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604075"
+  },
+  {
+   "itemSeq": "201605665",
+   "name": "피엠에스프레가발린캡슐75밀리그램",
+   "company": "파마사이언스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605665"
+  },
+  {
+   "itemSeq": "201605666",
+   "name": "피엠에스프레가발린캡슐150밀리그램",
+   "company": "파마사이언스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605666"
+  },
+  {
+   "itemSeq": "201605664",
+   "name": "피엠에스프레가발린캡슐300밀리그램",
+   "company": "파마사이언스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605664"
+  },
+  {
+   "itemSeq": "201701473",
+   "name": "유로가바캡슐150밀리그램(프레가발린)",
+   "company": "(주)유유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701473"
+  },
+  {
+   "itemSeq": "201701474",
+   "name": "유로가바캡슐75밀리그램(프레가발린)",
+   "company": "(주)유유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701474"
+  },
+  {
+   "itemSeq": "201702148",
+   "name": "레리카캡슐150밀리그램(프레가발린)",
+   "company": "(주)바스칸바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702148"
+  },
+  {
+   "itemSeq": "201702149",
+   "name": "레리카캡슐75밀리그램(프레가발린)",
+   "company": "(주)바스칸바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702149"
+  },
+  {
+   "itemSeq": "201702211",
+   "name": "리리베아캡슐150mg(프레가발린)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702211"
+  },
+  {
+   "itemSeq": "201702210",
+   "name": "리리베아캡슐75mg(프레가발린)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702210"
+  },
+  {
+   "itemSeq": "201702387",
+   "name": "프레캅캡슐75밀리그램(프레가발린)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702387"
+  },
+  {
+   "itemSeq": "201702674",
+   "name": "카발린캡슐25밀리그램(프레가발린)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702674"
+  },
+  {
+   "itemSeq": "201702673",
+   "name": "카발린캡슐50밀리그램(프레가발린)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702673"
+  },
+  {
+   "itemSeq": "201702684",
+   "name": "프레가바캡슐150mg(프레가발린)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702684"
+  },
+  {
+   "itemSeq": "201702685",
+   "name": "프레가바캡슐75mg(프레가발린)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702685"
+  },
+  {
+   "itemSeq": "201704854",
+   "name": "프레뉴캡슐150밀리그램(프레가발린)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704854"
+  },
+  {
+   "itemSeq": "201704853",
+   "name": "프레뉴캡슐75밀리그램(프레가발린)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704853"
+  },
+  {
+   "itemSeq": "201705789",
+   "name": "가벨린정150밀리그램(프레가발린)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705789"
+  },
+  {
+   "itemSeq": "201705790",
+   "name": "가벨린정75밀리그램(프레가발린)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705790"
+  },
+  {
+   "itemSeq": "201706389",
+   "name": "가바뉴로캡슐300밀리그램(프레가발린)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706389"
+  },
+  {
+   "itemSeq": "201706376",
+   "name": "뉴리카캡슐300밀리그램(프레가발린)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706376"
+  },
+  {
+   "itemSeq": "201706387",
+   "name": "리리베아캡슐300mg(프레가발린)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706387"
+  },
+  {
+   "itemSeq": "201706372",
+   "name": "카발린캡슐300밀리그램(프레가발린)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706372"
+  },
+  {
+   "itemSeq": "201706343",
+   "name": "프레라캡슐150밀리그램(프레가발린)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706343"
+  },
+  {
+   "itemSeq": "201706342",
+   "name": "프레라캡슐75밀리그램(프레가발린)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706342"
+  },
+  {
+   "itemSeq": "201706650",
+   "name": "센리카정150밀리그램(프레가발린)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706650"
+  },
+  {
+   "itemSeq": "201706651",
+   "name": "센리카정75밀리그램(프레가발린)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706651"
+  },
+  {
+   "itemSeq": "201706734",
+   "name": "리카발린캡슐75밀리그램(프레가발린)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706734"
+  },
+  {
+   "itemSeq": "201707564",
+   "name": "프로킨캡슐150밀리그램(프레가발린)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707564"
+  },
+  {
+   "itemSeq": "201707563",
+   "name": "프로킨캡슐75밀리그램(프레가발린)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707563"
+  },
+  {
+   "itemSeq": "201707653",
+   "name": "프리렙톨캡슐300밀리그램(프레가발린)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707653"
+  },
+  {
+   "itemSeq": "201708174",
+   "name": "뉴로카바피지캡슐300밀리그램(프레가발린)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708174"
+  },
+  {
+   "itemSeq": "201800512",
+   "name": "현대프레가발린정150밀리그램",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800512"
+  },
+  {
+   "itemSeq": "201800511",
+   "name": "현대프레가발린정75밀리그램",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800511"
+  },
+  {
+   "itemSeq": "201800719",
+   "name": "가바메드캡슐150밀리그램(프레가발린)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800719"
+  },
+  {
+   "itemSeq": "201800720",
+   "name": "가바메드캡슐75밀리그램(프레가발린)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800720"
+  },
+  {
+   "itemSeq": "201800762",
+   "name": "비씨프레가발린캡슐150밀리그램(수출용)",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800762"
+  },
+  {
+   "itemSeq": "201800763",
+   "name": "비씨프레가발린캡슐75밀리그램(수출용)",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800763"
+  },
+  {
+   "itemSeq": "201800767",
+   "name": "윈리카캡슐150밀리그램(프레가발린)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800767"
+  },
+  {
+   "itemSeq": "201800768",
+   "name": "윈리카캡슐75밀리그램(프레가발린)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800768"
+  },
+  {
+   "itemSeq": "201800928",
+   "name": "리리카캡슐25밀리그램(프레가발린)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800928"
+  },
+  {
+   "itemSeq": "201800929",
+   "name": "리리카캡슐50밀리그램(프레가발린)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800929"
+  },
+  {
+   "itemSeq": "201800935",
+   "name": "프레가린캡슐300밀리그램(프레가발린)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800935"
+  },
+  {
+   "itemSeq": "201801211",
+   "name": "프레탑캡슐150밀리그램(프레가발린)",
+   "company": "동방에프티엘(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801211"
+  },
+  {
+   "itemSeq": "201801696",
+   "name": "큐로리카캡슐150밀리그램(프레가발린)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801696"
+  },
+  {
+   "itemSeq": "201801697",
+   "name": "큐로리카캡슐75밀리그램(프레가발린)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801697"
+  },
+  {
+   "itemSeq": "201802138",
+   "name": "프레가린캡슐50밀리그램(프레가발린)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802138"
+  },
+  {
+   "itemSeq": "201802164",
+   "name": "리리프캡슐75밀리그램(프레가발린)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802164"
+  },
+  {
+   "itemSeq": "201802254",
+   "name": "프레가린캡슐25밀리그램(프레가발린)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802254"
+  },
+  {
+   "itemSeq": "201802297",
+   "name": "루루카캡슐150밀리그램(프레가발린)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802297"
+  },
+  {
+   "itemSeq": "201802678",
+   "name": "루루카캡슐75밀리그램(프레가발린)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802678"
+  },
+  {
+   "itemSeq": "201802990",
+   "name": "리리카CR서방정165밀리그램(프레가발린)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "165.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802990"
+  },
+  {
+   "itemSeq": "201802991",
+   "name": "리리카CR서방정330밀리그램(프레가발린)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "330.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802991"
+  },
+  {
+   "itemSeq": "201802989",
+   "name": "리리카CR서방정82.5밀리그램(프레가발린)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "82.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802989"
+  },
+  {
+   "itemSeq": "201804149",
+   "name": "프리렙톨캡슐25밀리그램(프레가발린)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804149"
+  },
+  {
+   "itemSeq": "201804580",
+   "name": "프레갈캡슐100밀리그램(프레가발린)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804580"
+  },
+  {
+   "itemSeq": "201804579",
+   "name": "프레갈캡슐25밀리그램(프레가발린)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804579"
+  },
+  {
+   "itemSeq": "201804578",
+   "name": "프레갈캡슐50밀리그램(프레가발린)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804578"
+  },
+  {
+   "itemSeq": "201804827",
+   "name": "뉴카펜캡슐150밀리그램(프레가발린)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804827"
+  },
+  {
+   "itemSeq": "201804826",
+   "name": "뉴카펜캡슐75밀리그램(프레가발린)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804826"
+  },
+  {
+   "itemSeq": "201804987",
+   "name": "뉴로카바피지캡슐25밀리그램(프레가발린)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804987"
+  },
+  {
+   "itemSeq": "201804988",
+   "name": "뉴로카바피지캡슐50밀리그램(프레가발린)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804988"
+  },
+  {
+   "itemSeq": "201805041",
+   "name": "리리베아캡슐25mg(프레가발린)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805041"
+  },
+  {
+   "itemSeq": "201805040",
+   "name": "리리베아캡슐50mg(프레가발린)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805040"
+  },
+  {
+   "itemSeq": "201900031",
+   "name": "유한프레가발린서방정150밀리그램(프레가발린)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900031"
+  },
+  {
+   "itemSeq": "201900030",
+   "name": "유한프레가발린서방정300밀리그램(프레가발린)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900030"
+  },
+  {
+   "itemSeq": "201900147",
+   "name": "가바뉴로서방정150밀리그램(프레가발린)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "70.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "70.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900147"
+  },
+  {
+   "itemSeq": "201900146",
+   "name": "가바뉴로서방정300밀리그램(프레가발린)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "101.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "188.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900146"
+  },
+  {
+   "itemSeq": "201900143",
+   "name": "리카뉴로서방정150mg(프레가발린)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "70.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "70.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900143"
+  },
+  {
+   "itemSeq": "201900142",
+   "name": "리카뉴로서방정300mg(프레가발린)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "101.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "188.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900142"
+  },
+  {
+   "itemSeq": "201900141",
+   "name": "제이가바CR서방정150밀리그램(프레가발린)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "70.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "70.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900141"
+  },
+  {
+   "itemSeq": "201900140",
+   "name": "제이가바CR서방정300밀리그램(프레가발린)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "101.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "188.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900140"
+  },
+  {
+   "itemSeq": "201900138",
+   "name": "젤리프서방정150밀리그램(프레가발린)",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "70.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "70.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900138"
+  },
+  {
+   "itemSeq": "201900139",
+   "name": "젤리프서방정300밀리그램(프레가발린)",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "101.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "188.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900139"
+  },
+  {
+   "itemSeq": "201900145",
+   "name": "카발린CR서방정150밀리그램(프레가발린)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "70.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "70.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900145"
+  },
+  {
+   "itemSeq": "201900144",
+   "name": "카발린CR서방정300밀리그램(프레가발린)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "101.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "188.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900144"
+  },
+  {
+   "itemSeq": "201900208",
+   "name": "제이가바캡슐25밀리그램(프레가발린)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900208"
+  },
+  {
+   "itemSeq": "201900209",
+   "name": "제이가바캡슐50밀리그램(프레가발린)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900209"
+  },
+  {
+   "itemSeq": "201900613",
+   "name": "프가틴캡슐25밀리그램(프레가발린)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900613"
+  },
+  {
+   "itemSeq": "201900612",
+   "name": "프가틴캡슐50밀리그램(프레가발린)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900612"
+  },
+  {
+   "itemSeq": "201900636",
+   "name": "프레탑캡슐75밀리그램(프레가발린)",
+   "company": "동방에프티엘(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900636"
+  },
+  {
+   "itemSeq": "201901231",
+   "name": "프레칸캡슐50밀리그램(프레가발린)",
+   "company": "코스맥스파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901231"
+  },
+  {
+   "itemSeq": "201901391",
+   "name": "가바뉴로캡슐25밀리그램(프레가발린)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901391"
+  },
+  {
+   "itemSeq": "201901392",
+   "name": "가바뉴로캡슐50밀리그램(프레가발린)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901392"
+  },
+  {
+   "itemSeq": "201901934",
+   "name": "뉴로발린캡슐150mg(프레가발린)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901934"
+  },
+  {
+   "itemSeq": "201901933",
+   "name": "뉴로발린캡슐75mg(프레가발린)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901933"
+  },
+  {
+   "itemSeq": "201902047",
+   "name": "씨트리카캡슐150밀리그램(프레가발린)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902047"
+  },
+  {
+   "itemSeq": "201902046",
+   "name": "씨트리카캡슐75밀리그램(프레가발린)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902046"
+  },
+  {
+   "itemSeq": "201902233",
+   "name": "프레딘캡슐75밀리그램(프레가발린)",
+   "company": "태극제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902233"
+  },
+  {
+   "itemSeq": "201902240",
+   "name": "프리가반캡슐75mg(프레가발린)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902240"
+  },
+  {
+   "itemSeq": "201902438",
+   "name": "비엘프레가캡슐75mg(프레가발린)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902438"
+  },
+  {
+   "itemSeq": "201902649",
+   "name": "리프렌캡슐25밀리그램(프레가발린)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902649"
+  },
+  {
+   "itemSeq": "201902648",
+   "name": "리프렌캡슐50밀리그램(프레가발린)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902648"
+  },
+  {
+   "itemSeq": "201902603",
+   "name": "프리카캡슐25밀리그램(프레가발린)",
+   "company": "(주)새한제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902603"
+  },
+  {
+   "itemSeq": "201902604",
+   "name": "프리카캡슐50밀리그램(프레가발린)",
+   "company": "(주)새한제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902604"
+  },
+  {
+   "itemSeq": "201903003",
+   "name": "프레칸캡슐150밀리그램(프레가발린)",
+   "company": "코스맥스파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903003"
+  },
+  {
+   "itemSeq": "201903004",
+   "name": "프레칸캡슐75밀리그램(프레가발린)",
+   "company": "코스맥스파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903004"
+  },
+  {
+   "itemSeq": "201903451",
+   "name": "리리큐어캡슐75밀리그램(프레가발린)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903451"
+  },
+  {
+   "itemSeq": "201903450",
+   "name": "아이리카캡슐150밀리그램(프레가발린)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903450"
+  },
+  {
+   "itemSeq": "201904256",
+   "name": "라리칸캡슐75밀리그램(프레가발린)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904256"
+  },
+  {
+   "itemSeq": "201904257",
+   "name": "리리큐어캡슐150mg(프레가발린)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904257"
+  },
+  {
+   "itemSeq": "201904423",
+   "name": "프레리카캡슐25밀리그램(프레가발린)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904423"
+  },
+  {
+   "itemSeq": "201904424",
+   "name": "프레리카캡슐50밀리그램(프레가발린)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904424"
+  },
+  {
+   "itemSeq": "201905358",
+   "name": "가벨린정25밀리그램(프레가발린)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905358"
+  },
+  {
+   "itemSeq": "201905357",
+   "name": "가벨린정50밀리그램(프레가발린)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905357"
+  },
+  {
+   "itemSeq": "201905364",
+   "name": "리레카캡슐25mg(프레가발린)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905364"
+  },
+  {
+   "itemSeq": "201905365",
+   "name": "리레카캡슐50mg(프레가발린)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905365"
+  },
+  {
+   "itemSeq": "201905353",
+   "name": "현대프레가발린정25밀리그램",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905353"
+  },
+  {
+   "itemSeq": "201905352",
+   "name": "현대프레가발린정50밀리그램",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905352"
+  },
+  {
+   "itemSeq": "201905645",
+   "name": "프릴린정150밀리그램(프레가발린)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905645"
+  },
+  {
+   "itemSeq": "201905644",
+   "name": "프릴린정75밀리그램(프레가발린)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905644"
+  },
+  {
+   "itemSeq": "201905663",
+   "name": "프레발캡슐150밀리그램(프레가발린)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905663"
+  },
+  {
+   "itemSeq": "201905662",
+   "name": "프레발캡슐75밀리그램(프레가발린)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905662"
+  },
+  {
+   "itemSeq": "201906161",
+   "name": "피에스가발린캡슐25밀리그램(프레가발린)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906161"
+  },
+  {
+   "itemSeq": "201906162",
+   "name": "피에스가발린캡슐50밀리그램(프레가발린)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906162"
+  },
+  {
+   "itemSeq": "201906206",
+   "name": "다림프레가발린캡슐150밀리그램(수출용)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906206"
+  },
+  {
+   "itemSeq": "201906205",
+   "name": "다림프레가발린캡슐75밀리그램(수출용)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906205"
+  },
+  {
+   "itemSeq": "201906847",
+   "name": "아발린캡슐150밀리그램(프레가발린)",
+   "company": "(주)셀비온",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906847"
+  },
+  {
+   "itemSeq": "201906857",
+   "name": "아발린캡슐75밀리그램(프레가발린)",
+   "company": "(주)셀비온",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906857"
+  },
+  {
+   "itemSeq": "201907774",
+   "name": "동광프레가발린캡슐50밀리그램",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907774"
+  },
+  {
+   "itemSeq": "201907791",
+   "name": "아이리카캡슐75밀리그램(프레가발린)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907791"
+  },
+  {
+   "itemSeq": "201907933",
+   "name": "루레카캡슐75밀리그램(프레가발린)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907933"
+  },
+  {
+   "itemSeq": "202000173",
+   "name": "루루카캡슐25밀리그램(프레가발린)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000173"
+  },
+  {
+   "itemSeq": "202000174",
+   "name": "루루카캡슐50밀리그램(프레가발린)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000174"
+  },
+  {
+   "itemSeq": "202000452",
+   "name": "가바메드캡슐25밀리그램(프레가발린)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000452"
+  },
+  {
+   "itemSeq": "202000453",
+   "name": "가바메드캡슐50밀리그램(프레가발린)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000453"
+  },
+  {
+   "itemSeq": "202000751",
+   "name": "제이가바캡슐150밀리그램(프레가발린)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000751"
+  },
+  {
+   "itemSeq": "202000752",
+   "name": "제이가바캡슐75밀리그램(프레가발린)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000752"
+  },
+  {
+   "itemSeq": "202001236",
+   "name": "프가린캡슐150밀리그램(프레가발린)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001236"
+  },
+  {
+   "itemSeq": "202001235",
+   "name": "프가린캡슐75밀리그램(프레가발린)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001235"
+  },
+  {
+   "itemSeq": "202001372",
+   "name": "메가프레가캡슐150밀리그램(프레가발린)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001372"
+  },
+  {
+   "itemSeq": "202001371",
+   "name": "메가프레가캡슐75밀리그램(프레가발린)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001371"
+  },
+  {
+   "itemSeq": "202001440",
+   "name": "센리카캡슐50밀리그램(프레가발린)",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001440"
+  },
+  {
+   "itemSeq": "202001648",
+   "name": "프로카반캡슐25밀리그램(프레가발린)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001648"
+  },
+  {
+   "itemSeq": "202001647",
+   "name": "프로카반캡슐50밀리그램(프레가발린)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001647"
+  },
+  {
+   "itemSeq": "202002266",
+   "name": "레가바정150밀리그램(프레가발린)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002266"
+  },
+  {
+   "itemSeq": "202002265",
+   "name": "레가바정50밀리그램(프레가발린)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002265"
+  },
+  {
+   "itemSeq": "202002264",
+   "name": "레가바정75밀리그램(프레가발린)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002264"
+  },
+  {
+   "itemSeq": "202002552",
+   "name": "프레펜틴정150밀리그램(프레가발린)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002552"
+  },
+  {
+   "itemSeq": "202002582",
+   "name": "프리가바캡슐300밀리그램(프레가발린)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002582"
+  },
+  {
+   "itemSeq": "202003059",
+   "name": "프레펜틴정75밀리그램(프레가발린)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003059"
+  },
+  {
+   "itemSeq": "202003561",
+   "name": "루레카캡슐150밀리그램(프레가발린)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003561"
+  },
+  {
+   "itemSeq": "202003631",
+   "name": "프레가바캡슐25밀리그램(프레가발린)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003631"
+  },
+  {
+   "itemSeq": "202003632",
+   "name": "프레가바캡슐50밀리그램(프레가발린)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003632"
+  },
+  {
+   "itemSeq": "202003710",
+   "name": "뉴로가발린캡슐50밀리그램(프레가발린)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003710"
+  },
+  {
+   "itemSeq": "202108022",
+   "name": "레가바정25밀리그램(프레가발린)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-12-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202108022"
+  },
+  {
+   "itemSeq": "202204702",
+   "name": "유한프레가발린서방정75밀리그램(프레가발린)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204702"
+  },
+  {
+   "itemSeq": "202301368",
+   "name": "프릴린정25밀리그램(프레가발린)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301368"
+  },
+  {
+   "itemSeq": "202301367",
+   "name": "프릴린정50밀리그램(프레가발린)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301367"
+  },
+  {
+   "itemSeq": "202401115",
+   "name": "카발린CR서방정75밀리그램(프레가발린)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "28.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "42.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401115"
+  },
+  {
+   "itemSeq": "202401342",
+   "name": "가바뉴로서방정75밀리그램(프레가발린)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "28.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "42.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401342"
+  },
+  {
+   "itemSeq": "202401341",
+   "name": "제이가바CR서방정75밀리그램(프레가발린)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "28.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "42.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401341"
+  },
+  {
+   "itemSeq": "202401340",
+   "name": "젤리프서방정75밀리그램(프레가발린)",
+   "company": "(주)엘지화학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "28.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "프레가발린",
+     "amount": "42.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401340"
+  },
+  {
+   "itemSeq": "202600401",
+   "name": "리리엘구강붕해정150밀리그램(프레가발린)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600401"
+  },
+  {
+   "itemSeq": "202600403",
+   "name": "리리엘구강붕해정50밀리그램(프레가발린)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600403"
+  },
+  {
+   "itemSeq": "202600402",
+   "name": "리리엘구강붕해정75밀리그램(프레가발린)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600402"
+  },
+  {
+   "itemSeq": "202600535",
+   "name": "루레카OD정150밀리그램(프레가발린)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600535"
+  },
+  {
+   "itemSeq": "202600534",
+   "name": "루레카OD정50밀리그램(프레가발린)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600534"
+  },
+  {
+   "itemSeq": "202600533",
+   "name": "루레카OD정75밀리그램(프레가발린)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600533"
+  },
+  {
+   "itemSeq": "202600538",
+   "name": "프레가구강붕해정150밀리그램(프레가발린)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600538"
+  },
+  {
+   "itemSeq": "202600537",
+   "name": "프레가구강붕해정50밀리그램(프레가발린)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600537"
+  },
+  {
+   "itemSeq": "202600536",
+   "name": "프레가구강붕해정75밀리그램(프레가발린)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600536"
+  },
+  {
+   "itemSeq": "202600530",
+   "name": "프레논구강붕해정150밀리그램(프레가발린)",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600530"
+  },
+  {
+   "itemSeq": "202600532",
+   "name": "프레논구강붕해정50밀리그램(프레가발린)",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600532"
+  },
+  {
+   "itemSeq": "202600531",
+   "name": "프레논구강붕해정75밀리그램(프레가발린)",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600531"
+  },
+  {
+   "itemSeq": "202602781",
+   "name": "프리렙톨캡슐50밀리그램(프레가발린)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-09-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602781"
+  },
+  {
+   "itemSeq": "202602919",
+   "name": "프리가바캡슐25밀리그램(프레가발린)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602919"
+  },
+  {
+   "itemSeq": "202602920",
+   "name": "프리가바캡슐50밀리그램(프레가발린)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프레가발린",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602920"
+  }
+ ]
+}

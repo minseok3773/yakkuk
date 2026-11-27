@@ -1,0 +1,8134 @@
+{
+ "id": "empagliflozin",
+ "query": [
+  "엠파글리플로진"
+ ],
+ "fetched": "2026-11-26",
+ "total": 420,
+ "kept": 420,
+ "mfdsName": [
+  "엠파글리플로진",
+  "엠파글리플로진(무정형)",
+  "엠파글리플로진 L-프롤린",
+  "엠파글리플로진 2L-프롤린",
+  "엠파글리플로진2L-프롤린",
+  "엠파글리플로진(미분화)"
+ ],
+ "items": [
+  {
+   "itemSeq": "201403744",
+   "name": "자디앙정10밀리그램(엠파글리플로진)",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403744"
+  },
+  {
+   "itemSeq": "201403745",
+   "name": "자디앙정25밀리그램(엠파글리플로진)",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403745"
+  },
+  {
+   "itemSeq": "202101825",
+   "name": "글리앙정10밀리그램(엠파글리플로진)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101825"
+  },
+  {
+   "itemSeq": "202101826",
+   "name": "글리앙정25밀리그램(엠파글리플로진)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101826"
+  },
+  {
+   "itemSeq": "202101835",
+   "name": "엠파앙정10밀리그램(엠파글리플로진)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101835"
+  },
+  {
+   "itemSeq": "202101834",
+   "name": "엠파앙정25밀리그램(엠파글리플로진)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101834"
+  },
+  {
+   "itemSeq": "202101971",
+   "name": "엠글리정10밀리그램(엠파글리플로진)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101971"
+  },
+  {
+   "itemSeq": "202101970",
+   "name": "엠글리정25밀리그램(엠파글리플로진)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101970"
+  },
+  {
+   "itemSeq": "202102033",
+   "name": "이엠파정25밀리그램(엠파글리플로진)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102033"
+  },
+  {
+   "itemSeq": "202102107",
+   "name": "다이디앙정10밀리그램(엠파글리플로진)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102107"
+  },
+  {
+   "itemSeq": "202102108",
+   "name": "다이디앙정25밀리그램(엠파글리플로진)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102108"
+  },
+  {
+   "itemSeq": "202102114",
+   "name": "엔피앙정10밀리그램(엠파글리플로진)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102114"
+  },
+  {
+   "itemSeq": "202102113",
+   "name": "엔피앙정25밀리그램(엠파글리플로진)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102113"
+  },
+  {
+   "itemSeq": "202102081",
+   "name": "엠파글리정10밀리그램(엠파글리플로진)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102081"
+  },
+  {
+   "itemSeq": "202102080",
+   "name": "엠파글리정25밀리그램(엠파글리플로진)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102080"
+  },
+  {
+   "itemSeq": "202102077",
+   "name": "엠포가정10밀리그램(엠파글리플로진)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102077"
+  },
+  {
+   "itemSeq": "202102076",
+   "name": "엠포가정25밀리그램(엠파글리플로진)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102076"
+  },
+  {
+   "itemSeq": "202102110",
+   "name": "엠포진정10밀리그램(엠파글리플로진)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102110"
+  },
+  {
+   "itemSeq": "202102109",
+   "name": "엠포진정25밀리그램(엠파글리플로진)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102109"
+  },
+  {
+   "itemSeq": "202102079",
+   "name": "엠플로정10밀리그램(엠파글리플로진)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102079"
+  },
+  {
+   "itemSeq": "202102078",
+   "name": "엠플로정25밀리그램(엠파글리플로진)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102078"
+  },
+  {
+   "itemSeq": "202102045",
+   "name": "엠플로진정10밀리그램(엠파글리플로진)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102045"
+  },
+  {
+   "itemSeq": "202102046",
+   "name": "엠플로진정25밀리그램(엠파글리플로진)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102046"
+  },
+  {
+   "itemSeq": "202102099",
+   "name": "위디앙정10밀리그램(엠파글리플로진)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102099"
+  },
+  {
+   "itemSeq": "202102100",
+   "name": "위디앙정25밀리그램(엠파글리플로진)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102100"
+  },
+  {
+   "itemSeq": "202102097",
+   "name": "이엠파정10밀리그램(엠파글리플로진)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102097"
+  },
+  {
+   "itemSeq": "202102090",
+   "name": "자디스정10밀리그램(엠파글리플로진)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102090"
+  },
+  {
+   "itemSeq": "202102089",
+   "name": "자디스정25밀리그램(엠파글리플로진)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102089"
+  },
+  {
+   "itemSeq": "202102104",
+   "name": "자디플로진정10밀리그램(엠파글리플로진)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102104"
+  },
+  {
+   "itemSeq": "202102103",
+   "name": "자디플로진정25밀리그램(엠파글리플로진)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102103"
+  },
+  {
+   "itemSeq": "202102283",
+   "name": "엠파디앙정10밀리그램(엠파글리플로진)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102283"
+  },
+  {
+   "itemSeq": "202102282",
+   "name": "엠파디앙정25밀리그램(엠파글리플로진)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102282"
+  },
+  {
+   "itemSeq": "202102270",
+   "name": "자디하트정10밀리그램(엠파글리플로진)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102270"
+  },
+  {
+   "itemSeq": "202102269",
+   "name": "자디하트정25밀리그램(엠파글리플로진)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102269"
+  },
+  {
+   "itemSeq": "202102373",
+   "name": "엠파하나정10밀리그램(엠파글리플로진)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102373"
+  },
+  {
+   "itemSeq": "202102374",
+   "name": "엠파하나정25밀리그램(엠파글리플로진)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102374"
+  },
+  {
+   "itemSeq": "202102364",
+   "name": "엠플디엠정10밀리그램(엠파글리플로진)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102364"
+  },
+  {
+   "itemSeq": "202102363",
+   "name": "엠플디엠정25밀리그램(엠파글리플로진)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102363"
+  },
+  {
+   "itemSeq": "202102580",
+   "name": "엠플진정10밀리그램(엠파글리플로진)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102580"
+  },
+  {
+   "itemSeq": "202102601",
+   "name": "엠플진정25밀리그램(엠파글리플로진)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102601"
+  },
+  {
+   "itemSeq": "202102825",
+   "name": "파마엠파로우정10밀리그램(엠파글리플로진)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102825"
+  },
+  {
+   "itemSeq": "202102824",
+   "name": "파마엠파로우정25밀리그램(엠파글리플로진)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102824"
+  },
+  {
+   "itemSeq": "202104995",
+   "name": "제파진정25밀리그램(엠파글리플로진)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104995"
+  },
+  {
+   "itemSeq": "202105425",
+   "name": "휴디앙정10밀리그램(엠파글리플로진)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105425"
+  },
+  {
+   "itemSeq": "202105424",
+   "name": "휴디앙정25밀리그램(엠파글리플로진)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105424"
+  },
+  {
+   "itemSeq": "202105449",
+   "name": "엠파프로정10밀리그램(엠파글리플로진)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105449"
+  },
+  {
+   "itemSeq": "202105450",
+   "name": "엠파프로정25밀리그램(엠파글리플로진)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105450"
+  },
+  {
+   "itemSeq": "202105444",
+   "name": "제파진정10밀리그램(엠파글리플로진)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105444"
+  },
+  {
+   "itemSeq": "202105537",
+   "name": "부디앙정10밀리그램(엠파글리플로진)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105537"
+  },
+  {
+   "itemSeq": "202105536",
+   "name": "부디앙정25밀리그램(엠파글리플로진)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105536"
+  },
+  {
+   "itemSeq": "202105533",
+   "name": "자디엠파정10밀리그램(엠파글리플로진)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105533"
+  },
+  {
+   "itemSeq": "202105532",
+   "name": "자디엠파정25밀리그램(엠파글리플로진)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105532"
+  },
+  {
+   "itemSeq": "202105546",
+   "name": "네오엠파정10밀리그램(엠파글리플로진)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105546"
+  },
+  {
+   "itemSeq": "202105545",
+   "name": "네오엠파정25밀리그램(엠파글리플로진)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105545"
+  },
+  {
+   "itemSeq": "202105614",
+   "name": "엠파원정10밀리그램(엠파글리플로진)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105614"
+  },
+  {
+   "itemSeq": "202105613",
+   "name": "엠파원정25밀리그램(엠파글리플로진)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105613"
+  },
+  {
+   "itemSeq": "202105609",
+   "name": "엠파칸정10밀리그램(엠파글리플로진)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105609"
+  },
+  {
+   "itemSeq": "202105610",
+   "name": "엠파칸정25밀리그램(엠파글리플로진)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105610"
+  },
+  {
+   "itemSeq": "202105612",
+   "name": "자디원정10밀리그램(엠파글리플로진)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105612"
+  },
+  {
+   "itemSeq": "202105611",
+   "name": "자디원정25밀리그램(엠파글리플로진)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105611"
+  },
+  {
+   "itemSeq": "202105615",
+   "name": "트루엠파정10밀리그램(엠파글리플로진)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105615"
+  },
+  {
+   "itemSeq": "202105616",
+   "name": "트루엠파정25밀리그램(엠파글리플로진)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105616"
+  },
+  {
+   "itemSeq": "202105908",
+   "name": "셀파엠정10밀리그램(엠파글리플로진)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105908"
+  },
+  {
+   "itemSeq": "202105907",
+   "name": "셀파엠정25밀리그램(엠파글리플로진)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105907"
+  },
+  {
+   "itemSeq": "202105849",
+   "name": "엠파론정10밀리그램(엠파글리플로진)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105849"
+  },
+  {
+   "itemSeq": "202105848",
+   "name": "엠파론정25밀리그램(엠파글리플로진)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105848"
+  },
+  {
+   "itemSeq": "202107167",
+   "name": "엠파맥스정10밀리그램(엠파글리플로진L-프롤린)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "12.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107167"
+  },
+  {
+   "itemSeq": "202107168",
+   "name": "엠파맥스정25밀리그램(엠파글리플로진L-프롤린)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "31.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107168"
+  },
+  {
+   "itemSeq": "202502437",
+   "name": "엠슈벳정10밀리그램(엠파글리플로진2L-프롤린)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진2L-프롤린",
+     "amount": "15.107",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502437"
+  },
+  {
+   "itemSeq": "202502438",
+   "name": "엠슈벳정25밀리그램(엠파글리플로진2L-프롤린)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진2L-프롤린",
+     "amount": "37.766",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502438"
+  },
+  {
+   "itemSeq": "202502902",
+   "name": "엠파자정10밀리그램(엠파글리플로진2L-프롤린)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "15.11",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502902"
+  },
+  {
+   "itemSeq": "202502903",
+   "name": "엠파자정25밀리그램(엠파글리플로진2L-프롤린)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "37.77",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502903"
+  },
+  {
+   "itemSeq": "202502961",
+   "name": "자디글리엠정10밀리그램(엠파글리플로진 2L-프롤린)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "15.12",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502961"
+  },
+  {
+   "itemSeq": "202502963",
+   "name": "자디글리엠정25밀리그램(엠파글리플로진 2L-프롤린)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "37.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502963"
+  },
+  {
+   "itemSeq": "202601734",
+   "name": "와이에스엠파정10밀리그램(엠파글리플로진)",
+   "company": "(주)와이에스생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601734"
+  },
+  {
+   "itemSeq": "202601735",
+   "name": "와이에스엠파정25밀리그램(엠파글리플로진)",
+   "company": "(주)와이에스생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601735"
+  },
+  {
+   "itemSeq": "201600388",
+   "name": "자디앙듀오정12.5/500밀리그램",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600388"
+  },
+  {
+   "itemSeq": "201600390",
+   "name": "자디앙듀오정12.5/1000밀리그램",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600390"
+  },
+  {
+   "itemSeq": "201600389",
+   "name": "자디앙듀오정12.5/850밀리그램",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600389"
+  },
+  {
+   "itemSeq": "201600387",
+   "name": "자디앙듀오정5/1000밀리그램",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600387"
+  },
+  {
+   "itemSeq": "201600385",
+   "name": "자디앙듀오정5/500밀리그램",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600385"
+  },
+  {
+   "itemSeq": "201600386",
+   "name": "자디앙듀오정5/850밀리그램",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600386"
+  },
+  {
+   "itemSeq": "201701586",
+   "name": "에스글리토정10/5밀리그램",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701586"
+  },
+  {
+   "itemSeq": "201701587",
+   "name": "에스글리토정25/5밀리그램",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701587"
+  },
+  {
+   "itemSeq": "202107450",
+   "name": "엠파맥스엠정12.5/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "15.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107450"
+  },
+  {
+   "itemSeq": "202107451",
+   "name": "엠파맥스엠정12.5/850밀리그램(엠파글리플로진,메트포르민)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "15.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107451"
+  },
+  {
+   "itemSeq": "202107452",
+   "name": "엠파맥스엠정12.5/500밀리그램(엠파글리플로진,메트포르민)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "15.70",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107452"
+  },
+  {
+   "itemSeq": "202107472",
+   "name": "엠파맥스엠정5/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "6.28",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107472"
+  },
+  {
+   "itemSeq": "202107474",
+   "name": "엠파맥스엠정5/500밀리그램(엠파글리플로진,메트포르민)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "6.28",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107474"
+  },
+  {
+   "itemSeq": "202107473",
+   "name": "엠파맥스엠정5/850밀리그램(엠파글리플로진,메트포르민)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "6.28",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107473"
+  },
+  {
+   "itemSeq": "202201391",
+   "name": "글리앙듀오정5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201391"
+  },
+  {
+   "itemSeq": "202201389",
+   "name": "글리앙듀오정5/500밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201389"
+  },
+  {
+   "itemSeq": "202201390",
+   "name": "글리앙듀오정5/850밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201390"
+  },
+  {
+   "itemSeq": "202201379",
+   "name": "엔피앙듀오정5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201379"
+  },
+  {
+   "itemSeq": "202201381",
+   "name": "엔피앙듀오정5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201381"
+  },
+  {
+   "itemSeq": "202201380",
+   "name": "엔피앙듀오정5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201380"
+  },
+  {
+   "itemSeq": "202201342",
+   "name": "엠파그린듀오정5/1000밀리그램",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201342"
+  },
+  {
+   "itemSeq": "202201344",
+   "name": "엠파그린듀오정5/500밀리그램",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201344"
+  },
+  {
+   "itemSeq": "202201343",
+   "name": "엠파그린듀오정5/850밀리그램",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201343"
+  },
+  {
+   "itemSeq": "202201399",
+   "name": "엠파글엠정5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201399"
+  },
+  {
+   "itemSeq": "202201400",
+   "name": "엠파글엠정5/500밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201400"
+  },
+  {
+   "itemSeq": "202201398",
+   "name": "엠파글엠정5/850밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201398"
+  },
+  {
+   "itemSeq": "202201339",
+   "name": "엠파다운듀오정5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201339"
+  },
+  {
+   "itemSeq": "202201341",
+   "name": "엠파다운듀오정5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201341"
+  },
+  {
+   "itemSeq": "202201340",
+   "name": "엠파다운듀오정5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201340"
+  },
+  {
+   "itemSeq": "202201394",
+   "name": "엠파디듀오정5/1000밀리그램",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201394"
+  },
+  {
+   "itemSeq": "202201392",
+   "name": "엠파디듀오정5/500밀리그램",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201392"
+  },
+  {
+   "itemSeq": "202201393",
+   "name": "엠파디듀오정5/850밀리그램",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201393"
+  },
+  {
+   "itemSeq": "202201395",
+   "name": "엠파디앙듀오정5/1000밀리그램",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201395"
+  },
+  {
+   "itemSeq": "202201397",
+   "name": "엠파디앙듀오정5/500밀리그램",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201397"
+  },
+  {
+   "itemSeq": "202201396",
+   "name": "엠파디앙듀오정5/850밀리그램",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201396"
+  },
+  {
+   "itemSeq": "202201361",
+   "name": "엠파루틴듀오정5/1000밀리그램",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201361"
+  },
+  {
+   "itemSeq": "202201360",
+   "name": "엠파루틴듀오정5/500밀리그램",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201360"
+  },
+  {
+   "itemSeq": "202201362",
+   "name": "엠파루틴듀오정5/850밀리그램",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201362"
+  },
+  {
+   "itemSeq": "202201403",
+   "name": "엠파릴듀오정5/1000밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201403"
+  },
+  {
+   "itemSeq": "202201401",
+   "name": "엠파릴듀오정5/500밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201401"
+  },
+  {
+   "itemSeq": "202201402",
+   "name": "엠파릴듀오정5/850밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201402"
+  },
+  {
+   "itemSeq": "202201366",
+   "name": "엠파메타정5/1000밀리그램",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201366"
+  },
+  {
+   "itemSeq": "202201367",
+   "name": "엠파메타정5/500밀리그램",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201367"
+  },
+  {
+   "itemSeq": "202201368",
+   "name": "엠파메타정5/850밀리그램",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201368"
+  },
+  {
+   "itemSeq": "202201384",
+   "name": "엠파메트정5/1000밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201384"
+  },
+  {
+   "itemSeq": "202201383",
+   "name": "엠파메트정5/500밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201383"
+  },
+  {
+   "itemSeq": "202201382",
+   "name": "엠파메트정5/850밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201382"
+  },
+  {
+   "itemSeq": "202201298",
+   "name": "엠파앙듀오정5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201298"
+  },
+  {
+   "itemSeq": "202201297",
+   "name": "엠파앙듀오정5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201297"
+  },
+  {
+   "itemSeq": "202201299",
+   "name": "엠파앙듀오정5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201299"
+  },
+  {
+   "itemSeq": "202201335",
+   "name": "엠파콤비정5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201335"
+  },
+  {
+   "itemSeq": "202201333",
+   "name": "엠파콤비정5/500밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201333"
+  },
+  {
+   "itemSeq": "202201334",
+   "name": "엠파콤비정5/850밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201334"
+  },
+  {
+   "itemSeq": "202201363",
+   "name": "엠포가듀오정5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201363"
+  },
+  {
+   "itemSeq": "202201365",
+   "name": "엠포가듀오정5/500밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201365"
+  },
+  {
+   "itemSeq": "202201364",
+   "name": "엠포가듀오정5/850밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201364"
+  },
+  {
+   "itemSeq": "202201376",
+   "name": "엠플로엠정5/1000밀리그램",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201376"
+  },
+  {
+   "itemSeq": "202201378",
+   "name": "엠플로엠정5/500밀리그램",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201378"
+  },
+  {
+   "itemSeq": "202201377",
+   "name": "엠플로엠정5/850밀리그램",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201377"
+  },
+  {
+   "itemSeq": "202201345",
+   "name": "엠플로진듀오정5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201345"
+  },
+  {
+   "itemSeq": "202201346",
+   "name": "엠플로진듀오정5/500밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201346"
+  },
+  {
+   "itemSeq": "202201347",
+   "name": "엠플로진듀오정5/850밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201347"
+  },
+  {
+   "itemSeq": "202201373",
+   "name": "엠피앙듀오정5/1000밀리그램",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201373"
+  },
+  {
+   "itemSeq": "202201375",
+   "name": "엠피앙듀오정5/500밀리그램",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201375"
+  },
+  {
+   "itemSeq": "202201374",
+   "name": "엠피앙듀오정5/850밀리그램",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201374"
+  },
+  {
+   "itemSeq": "202201371",
+   "name": "위디앙듀오정5/1000밀리그램",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201371"
+  },
+  {
+   "itemSeq": "202201372",
+   "name": "위디앙듀오정5/500밀리그램",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201372"
+  },
+  {
+   "itemSeq": "202201370",
+   "name": "위디앙듀오정5/850밀리그램",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201370"
+  },
+  {
+   "itemSeq": "202201338",
+   "name": "이디앙듀오정5/1000밀리그램",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201338"
+  },
+  {
+   "itemSeq": "202201337",
+   "name": "이디앙듀오정5/500밀리그램",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201337"
+  },
+  {
+   "itemSeq": "202201336",
+   "name": "이디앙듀오정5/850밀리그램",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201336"
+  },
+  {
+   "itemSeq": "202201351",
+   "name": "자디스듀오정5/1000밀리그램(엠파글리플로진, 메트포르민)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201351"
+  },
+  {
+   "itemSeq": "202201353",
+   "name": "자디스듀오정5/500밀리그램(엠파글리플로진, 메트포르민)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201353"
+  },
+  {
+   "itemSeq": "202201352",
+   "name": "자디스듀오정5/850밀리그램(엠파글리플로진, 메트포르민)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201352"
+  },
+  {
+   "itemSeq": "202201385",
+   "name": "자디엠파듀오정5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201385"
+  },
+  {
+   "itemSeq": "202201386",
+   "name": "자디엠파듀오정5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201386"
+  },
+  {
+   "itemSeq": "202201387",
+   "name": "자디엠파듀오정5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201387"
+  },
+  {
+   "itemSeq": "202201404",
+   "name": "자디원듀오정5/1000밀리그램",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201404"
+  },
+  {
+   "itemSeq": "202201406",
+   "name": "자디원듀오정5/500밀리그램",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201406"
+  },
+  {
+   "itemSeq": "202201405",
+   "name": "자디원듀오정5/850밀리그램",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201405"
+  },
+  {
+   "itemSeq": "202201354",
+   "name": "자디플로진엠정5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201354"
+  },
+  {
+   "itemSeq": "202201356",
+   "name": "자디플로진엠정5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201356"
+  },
+  {
+   "itemSeq": "202201355",
+   "name": "자디플로진엠정5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201355"
+  },
+  {
+   "itemSeq": "202201359",
+   "name": "파리엠듀오정5/1000밀리그램",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201359"
+  },
+  {
+   "itemSeq": "202201358",
+   "name": "파리엠듀오정5/500밀리그램",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201358"
+  },
+  {
+   "itemSeq": "202201357",
+   "name": "파리엠듀오정5/850밀리그램",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201357"
+  },
+  {
+   "itemSeq": "202201445",
+   "name": "엠플진메트정5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201445"
+  },
+  {
+   "itemSeq": "202201443",
+   "name": "엠플진메트정5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201443"
+  },
+  {
+   "itemSeq": "202201446",
+   "name": "엠플진메트정5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201446"
+  },
+  {
+   "itemSeq": "202201538",
+   "name": "엠포진듀오정5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201538"
+  },
+  {
+   "itemSeq": "202201540",
+   "name": "엠포진듀오정5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201540"
+  },
+  {
+   "itemSeq": "202201539",
+   "name": "엠포진듀오정5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201539"
+  },
+  {
+   "itemSeq": "202201696",
+   "name": "파마엠파로우듀오정5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201696"
+  },
+  {
+   "itemSeq": "202201695",
+   "name": "파마엠파로우듀오정5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201695"
+  },
+  {
+   "itemSeq": "202201697",
+   "name": "파마엠파로우듀오정5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201697"
+  },
+  {
+   "itemSeq": "202201733",
+   "name": "엠글리듀오정5/1000밀리그램",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201733"
+  },
+  {
+   "itemSeq": "202201735",
+   "name": "엠글리듀오정5/500밀리그램",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201735"
+  },
+  {
+   "itemSeq": "202201734",
+   "name": "엠글리듀오정5/850밀리그램",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201734"
+  },
+  {
+   "itemSeq": "202201743",
+   "name": "자디메트정5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201743"
+  },
+  {
+   "itemSeq": "202201742",
+   "name": "자디메트정5/500밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201742"
+  },
+  {
+   "itemSeq": "202201741",
+   "name": "자디메트정5/850밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201741"
+  },
+  {
+   "itemSeq": "202201746",
+   "name": "자이로메트정5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201746"
+  },
+  {
+   "itemSeq": "202201745",
+   "name": "자이로메트정5/500밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201745"
+  },
+  {
+   "itemSeq": "202201744",
+   "name": "자이로메트정5/850밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201744"
+  },
+  {
+   "itemSeq": "202302303",
+   "name": "엠파앙듀오정12.5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302303"
+  },
+  {
+   "itemSeq": "202302305",
+   "name": "엠파앙듀오정12.5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302305"
+  },
+  {
+   "itemSeq": "202302304",
+   "name": "엠파앙듀오정12.5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302304"
+  },
+  {
+   "itemSeq": "202302540",
+   "name": "엠플진메트정12.5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302540"
+  },
+  {
+   "itemSeq": "202302542",
+   "name": "엠플진메트정12.5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302542"
+  },
+  {
+   "itemSeq": "202302541",
+   "name": "엠플진메트정12.5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302541"
+  },
+  {
+   "itemSeq": "202302580",
+   "name": "에이디앙듀오정12.5/500밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302580"
+  },
+  {
+   "itemSeq": "202302581",
+   "name": "에이디앙듀오정12.5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302581"
+  },
+  {
+   "itemSeq": "202302582",
+   "name": "에이디앙듀오정12.5/850밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302582"
+  },
+  {
+   "itemSeq": "202302587",
+   "name": "엠파글엠정12.5/850밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302587"
+  },
+  {
+   "itemSeq": "202302586",
+   "name": "엠파글엠정12.5/500밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302586"
+  },
+  {
+   "itemSeq": "202302588",
+   "name": "엠파글엠정12.5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302588"
+  },
+  {
+   "itemSeq": "202302570",
+   "name": "엠파디앙듀오정12.5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302570"
+  },
+  {
+   "itemSeq": "202302571",
+   "name": "엠파디앙듀오정12.5/500밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302571"
+  },
+  {
+   "itemSeq": "202302569",
+   "name": "엠파디앙듀오정12.5/850밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302569"
+  },
+  {
+   "itemSeq": "202302565",
+   "name": "엠파루틴듀오정12.5/1000밀리그램",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302565"
+  },
+  {
+   "itemSeq": "202302564",
+   "name": "엠파루틴듀오정12.5/850밀리그램",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302564"
+  },
+  {
+   "itemSeq": "202302563",
+   "name": "엠파루틴듀오정12.5/500밀리그램",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302563"
+  },
+  {
+   "itemSeq": "202302579",
+   "name": "이디앙듀오정12.5/500밀리그램",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302579"
+  },
+  {
+   "itemSeq": "202302578",
+   "name": "이디앙듀오정12.5/850밀리그램",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302578"
+  },
+  {
+   "itemSeq": "202302577",
+   "name": "이디앙듀오정12.5/1000밀리그램",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302577"
+  },
+  {
+   "itemSeq": "202302568",
+   "name": "자디엠파듀오정12.5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302568"
+  },
+  {
+   "itemSeq": "202302584",
+   "name": "자디원듀오정12.5/850밀리그램",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302584"
+  },
+  {
+   "itemSeq": "202302583",
+   "name": "자디원듀오정12.5/1000밀리그램",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302583"
+  },
+  {
+   "itemSeq": "202302585",
+   "name": "자디원듀오정12.5/500밀리그램",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302585"
+  },
+  {
+   "itemSeq": "202302605",
+   "name": "엠파다운듀오정12.5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302605"
+  },
+  {
+   "itemSeq": "202302606",
+   "name": "엠파다운듀오정12.5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302606"
+  },
+  {
+   "itemSeq": "202302607",
+   "name": "엠파다운듀오정12.5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302607"
+  },
+  {
+   "itemSeq": "202302610",
+   "name": "엠플로진듀오정12.5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302610"
+  },
+  {
+   "itemSeq": "202302609",
+   "name": "엠플로진듀오정12.5/850밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302609"
+  },
+  {
+   "itemSeq": "202302608",
+   "name": "엠플로진듀오정12.5/500밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302608"
+  },
+  {
+   "itemSeq": "202302630",
+   "name": "자디메트정12.5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302630"
+  },
+  {
+   "itemSeq": "202302631",
+   "name": "자디메트정12.5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302631"
+  },
+  {
+   "itemSeq": "202302632",
+   "name": "자디메트정12.5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302632"
+  },
+  {
+   "itemSeq": "202302647",
+   "name": "엠파디듀오정12.5/500밀리그램",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302647"
+  },
+  {
+   "itemSeq": "202302648",
+   "name": "엠파디듀오정12.5/850밀리그램",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302648"
+  },
+  {
+   "itemSeq": "202302649",
+   "name": "엠파디듀오정12.5/1000밀리그램",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302649"
+  },
+  {
+   "itemSeq": "202302637",
+   "name": "엠파릴듀오정12.5/850밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302637"
+  },
+  {
+   "itemSeq": "202302636",
+   "name": "엠파릴듀오정12.5/500밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302636"
+  },
+  {
+   "itemSeq": "202302638",
+   "name": "엠파릴듀오정12.5/1000밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302638"
+  },
+  {
+   "itemSeq": "202302639",
+   "name": "엠파메트정12.5/1000밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302639"
+  },
+  {
+   "itemSeq": "202302640",
+   "name": "엠파메트정12.5/850밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302640"
+  },
+  {
+   "itemSeq": "202302641",
+   "name": "엠파메트정12.5/500밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302641"
+  },
+  {
+   "itemSeq": "202302633",
+   "name": "엠플디엠메트정12.5/850밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302633"
+  },
+  {
+   "itemSeq": "202302635",
+   "name": "엠플디엠메트정12.5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302635"
+  },
+  {
+   "itemSeq": "202302644",
+   "name": "파마엠파로우듀오정12.5/500밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302644"
+  },
+  {
+   "itemSeq": "202302642",
+   "name": "파마엠파로우듀오정12.5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302642"
+  },
+  {
+   "itemSeq": "202302643",
+   "name": "파마엠파로우듀오정12.5/850밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302643"
+  },
+  {
+   "itemSeq": "202302664",
+   "name": "엔피앙듀오정12.5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302664"
+  },
+  {
+   "itemSeq": "202302662",
+   "name": "엔피앙듀오정12.5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302662"
+  },
+  {
+   "itemSeq": "202302663",
+   "name": "엔피앙듀오정12.5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302663"
+  },
+  {
+   "itemSeq": "202302659",
+   "name": "엠파콤비정12.5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302659"
+  },
+  {
+   "itemSeq": "202302660",
+   "name": "엠파콤비정12.5/500밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302660"
+  },
+  {
+   "itemSeq": "202302661",
+   "name": "엠파콤비정12.5/850밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302661"
+  },
+  {
+   "itemSeq": "202302699",
+   "name": "엠포진듀오정12.5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302699"
+  },
+  {
+   "itemSeq": "202302700",
+   "name": "엠포진듀오정12.5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302700"
+  },
+  {
+   "itemSeq": "202302698",
+   "name": "엠포진듀오정12.5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302698"
+  },
+  {
+   "itemSeq": "202302695",
+   "name": "자디플로진엠정12.5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302695"
+  },
+  {
+   "itemSeq": "202302697",
+   "name": "자디플로진엠정12.5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302697"
+  },
+  {
+   "itemSeq": "202302696",
+   "name": "자디플로진엠정12.5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302696"
+  },
+  {
+   "itemSeq": "202302734",
+   "name": "엠파메타정12.5/850밀리그램",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302734"
+  },
+  {
+   "itemSeq": "202302733",
+   "name": "엠파메타정12.5/500밀리그램",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302733"
+  },
+  {
+   "itemSeq": "202302735",
+   "name": "엠파메타정12.5/1000밀리그램",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302735"
+  },
+  {
+   "itemSeq": "202302723",
+   "name": "엠피앙듀오정12.5/500밀리그램",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302723"
+  },
+  {
+   "itemSeq": "202302724",
+   "name": "엠피앙듀오정12.5/1000밀리그램",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302724"
+  },
+  {
+   "itemSeq": "202302725",
+   "name": "엠피앙듀오정12.5/850밀리그램",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302725"
+  },
+  {
+   "itemSeq": "202302749",
+   "name": "위디앙듀오정12.5/850밀리그램",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302749"
+  },
+  {
+   "itemSeq": "202302748",
+   "name": "위디앙듀오정12.5/1000밀리그램",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302748"
+  },
+  {
+   "itemSeq": "202302750",
+   "name": "위디앙듀오정12.5/500밀리그램",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302750"
+  },
+  {
+   "itemSeq": "202302747",
+   "name": "자디엠파듀오정12.5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302747"
+  },
+  {
+   "itemSeq": "202302746",
+   "name": "자디엠파듀오정12.5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302746"
+  },
+  {
+   "itemSeq": "202302758",
+   "name": "엠파그린듀오정12.5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302758"
+  },
+  {
+   "itemSeq": "202302757",
+   "name": "엠파그린듀오정12.5/500밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302757"
+  },
+  {
+   "itemSeq": "202302756",
+   "name": "엠파그린듀오정12.5/850밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302756"
+  },
+  {
+   "itemSeq": "202302785",
+   "name": "엠포가듀오정12.5/500밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302785"
+  },
+  {
+   "itemSeq": "202302784",
+   "name": "엠포가듀오정12.5/850밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302784"
+  },
+  {
+   "itemSeq": "202302783",
+   "name": "엠포가듀오정12.5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302783"
+  },
+  {
+   "itemSeq": "202302787",
+   "name": "자디스듀오정12.5/500밀리그램(엠파글리플로진, 메트포르민)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302787"
+  },
+  {
+   "itemSeq": "202302788",
+   "name": "자디스듀오정12.5/850밀리그램(엠파글리플로진, 메트포르민)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302788"
+  },
+  {
+   "itemSeq": "202302786",
+   "name": "자디스듀오정12.5/1000밀리그램(엠파글리플로진, 메트포르민)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302786"
+  },
+  {
+   "itemSeq": "202302840",
+   "name": "트라디앙정10/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302840"
+  },
+  {
+   "itemSeq": "202302839",
+   "name": "트라디앙정25/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302839"
+  },
+  {
+   "itemSeq": "202402211",
+   "name": "엠플로엠서방정10/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402211"
+  },
+  {
+   "itemSeq": "202402282",
+   "name": "리나엠파정10/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402282"
+  },
+  {
+   "itemSeq": "202402281",
+   "name": "리나엠파정25/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402281"
+  },
+  {
+   "itemSeq": "202402465",
+   "name": "휴리엠정10/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402465"
+  },
+  {
+   "itemSeq": "202402466",
+   "name": "휴리엠정25/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(미분화)",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402466"
+  },
+  {
+   "itemSeq": "202500098",
+   "name": "엠플로엠서방정25/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-01-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500098"
+  },
+  {
+   "itemSeq": "202500418",
+   "name": "엠파비아정10/5밀리그램(엠파글리플로진, 리나글립틴)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500418"
+  },
+  {
+   "itemSeq": "202500417",
+   "name": "엠파비아정25/5밀리그램(엠파글리플로진, 리나글립틴)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500417"
+  },
+  {
+   "itemSeq": "202500550",
+   "name": "엠플로엠서방정12.5/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500550"
+  },
+  {
+   "itemSeq": "202500551",
+   "name": "엠플로엠서방정5/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500551"
+  },
+  {
+   "itemSeq": "202500685",
+   "name": "엠파앙듀오서방정10/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500685"
+  },
+  {
+   "itemSeq": "202500686",
+   "name": "엠파앙듀오서방정12.5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500686"
+  },
+  {
+   "itemSeq": "202500687",
+   "name": "엠파앙듀오서방정25/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500687"
+  },
+  {
+   "itemSeq": "202500684",
+   "name": "엠파앙듀오서방정5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500684"
+  },
+  {
+   "itemSeq": "202500764",
+   "name": "엠파콤비서방정25/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1,000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500764"
+  },
+  {
+   "itemSeq": "202500782",
+   "name": "엠파메트서방정10/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염 콜로이드성이산화규소",
+     "amount": "1010",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500782"
+  },
+  {
+   "itemSeq": "202500781",
+   "name": "엠파메트서방정25/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염 콜로이드성이산화규소",
+     "amount": "1010",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500781"
+  },
+  {
+   "itemSeq": "202500822",
+   "name": "엠파맥스에스정10/100밀리그램(엠파글리플로진,시타글립틴)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "12.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500822"
+  },
+  {
+   "itemSeq": "202500821",
+   "name": "엠파맥스에스정25/100밀리그램(엠파글리플로진,시타글립틴)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "31.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500821"
+  },
+  {
+   "itemSeq": "202500917",
+   "name": "엠시폴민서방정10/100/1000밀리그램(엠파글리플로진,시타글립틴,메트포르민)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "12.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500917"
+  },
+  {
+   "itemSeq": "202500914",
+   "name": "엠시폴민서방정12.5/50/750밀리그램(엠파글리플로진,시타글립틴,메트포르민)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "750.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "64.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "15.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500914"
+  },
+  {
+   "itemSeq": "202500915",
+   "name": "엠시폴민서방정25/100/1000밀리그램(엠파글리플로진,시타글립틴,메트포르민)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "31.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500915"
+  },
+  {
+   "itemSeq": "202500916",
+   "name": "엠시폴민서방정5/50/750밀리그램(엠파글리플로진,시타글립틴,메트포르민)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "750.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "64.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "6.28",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500916"
+  },
+  {
+   "itemSeq": "202500926",
+   "name": "글리앙듀오정12.5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500926"
+  },
+  {
+   "itemSeq": "202500992",
+   "name": "엠플디엠메트서방정10/1000밀리그램(엠파글리플로진, 메트포르민)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500992"
+  },
+  {
+   "itemSeq": "202500993",
+   "name": "엠플디엠메트서방정25/1000밀리그램(엠파글리플로진, 메트포르민)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500993"
+  },
+  {
+   "itemSeq": "202501135",
+   "name": "엠파콤비서방정10/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1,000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-05-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501135"
+  },
+  {
+   "itemSeq": "202501234",
+   "name": "트루엠파엠서방정25/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501234"
+  },
+  {
+   "itemSeq": "202501247",
+   "name": "자디스듀오서방정10/1000밀리그램(엠파글리플로진, 메트포르민)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501247"
+  },
+  {
+   "itemSeq": "202501246",
+   "name": "자디스듀오서방정25/1000밀리그램(엠파글리플로진, 메트포르민)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501246"
+  },
+  {
+   "itemSeq": "202501305",
+   "name": "엠글리토정10/5밀리그램(엠파글리플로진, 리나글립틴)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501305"
+  },
+  {
+   "itemSeq": "202501306",
+   "name": "엠글리토정25/5밀리그램(엠파글리플로진, 리나글립틴)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501306"
+  },
+  {
+   "itemSeq": "202501339",
+   "name": "트루엠파엠서방정10/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501339"
+  },
+  {
+   "itemSeq": "202501416",
+   "name": "엠글리듀오서방정10/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1,000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501416"
+  },
+  {
+   "itemSeq": "202501417",
+   "name": "엠글리듀오서방정25/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1,000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501417"
+  },
+  {
+   "itemSeq": "202501433",
+   "name": "엠파시타정10/100밀리그램(엠파글리플로진,시타글립틴)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501433"
+  },
+  {
+   "itemSeq": "202501434",
+   "name": "엠파시타정25/100밀리그램(엠파글리플로진,시타글립틴)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501434"
+  },
+  {
+   "itemSeq": "202501536",
+   "name": "엠파시타엠서방정10/100/1000밀리그램(엠파글리플로진,시타글립틴,메트포르민염산염)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염 콜로이드성이산화규소",
+     "amount": "1010.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501536"
+  },
+  {
+   "itemSeq": "202501537",
+   "name": "엠파시타엠서방정25/100/1000밀리그램(엠파글리플로진,시타글립틴,메트포르민염산염)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염 콜로이드성이산화규소",
+     "amount": "1010.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501537"
+  },
+  {
+   "itemSeq": "202501542",
+   "name": "유한엠메트서방정10/1000밀리그램(엠파글리플로진, 메트포르민)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501542"
+  },
+  {
+   "itemSeq": "202501552",
+   "name": "휴디앙듀오서방정10/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501552"
+  },
+  {
+   "itemSeq": "202501553",
+   "name": "휴디앙듀오서방정25/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501553"
+  },
+  {
+   "itemSeq": "202501578",
+   "name": "엠파릴듀오서방정25/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501578"
+  },
+  {
+   "itemSeq": "202501595",
+   "name": "엠파릴듀오서방정10/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501595"
+  },
+  {
+   "itemSeq": "202501632",
+   "name": "휴디앙듀오서방정12.5/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501632"
+  },
+  {
+   "itemSeq": "202501631",
+   "name": "휴디앙듀오서방정5/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501631"
+  },
+  {
+   "itemSeq": "202501667",
+   "name": "엠파벡스정5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501667"
+  },
+  {
+   "itemSeq": "202501669",
+   "name": "엠파벡스정5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501669"
+  },
+  {
+   "itemSeq": "202501668",
+   "name": "엠파벡스정5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501668"
+  },
+  {
+   "itemSeq": "202501684",
+   "name": "엔글리나정25/5밀리그램(엠파글리플로진, 리나글립틴)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501684"
+  },
+  {
+   "itemSeq": "202501691",
+   "name": "글리앙듀오정12.5/850밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501691"
+  },
+  {
+   "itemSeq": "202501692",
+   "name": "글리앙듀오정12.5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501692"
+  },
+  {
+   "itemSeq": "202501690",
+   "name": "엠파로엠정5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501690"
+  },
+  {
+   "itemSeq": "202501688",
+   "name": "엠파로엠정5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501688"
+  },
+  {
+   "itemSeq": "202501689",
+   "name": "엠파로엠정5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501689"
+  },
+  {
+   "itemSeq": "202501701",
+   "name": "엠파벡스정12.5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501701"
+  },
+  {
+   "itemSeq": "202501700",
+   "name": "엠파벡스정12.5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501700"
+  },
+  {
+   "itemSeq": "202501702",
+   "name": "엠파벡스정12.5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501702"
+  },
+  {
+   "itemSeq": "202501729",
+   "name": "엠파칸듀오정12.5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501729"
+  },
+  {
+   "itemSeq": "202501730",
+   "name": "엠파칸듀오정12.5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501730"
+  },
+  {
+   "itemSeq": "202501731",
+   "name": "엠파칸듀오정12.5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501731"
+  },
+  {
+   "itemSeq": "202501728",
+   "name": "엠파칸듀오정5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501728"
+  },
+  {
+   "itemSeq": "202501727",
+   "name": "엠파칸듀오정5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501727"
+  },
+  {
+   "itemSeq": "202501726",
+   "name": "엠파칸듀오정5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501726"
+  },
+  {
+   "itemSeq": "202501724",
+   "name": "엠파프로메트서방정10/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501724"
+  },
+  {
+   "itemSeq": "202501721",
+   "name": "엠파프로메트서방정12.5/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501721"
+  },
+  {
+   "itemSeq": "202501723",
+   "name": "엠파프로메트서방정25/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501723"
+  },
+  {
+   "itemSeq": "202501722",
+   "name": "엠파프로메트서방정5/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501722"
+  },
+  {
+   "itemSeq": "202501719",
+   "name": "엠플진메트서방정10/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501719"
+  },
+  {
+   "itemSeq": "202501718",
+   "name": "엠플진메트서방정12.5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501718"
+  },
+  {
+   "itemSeq": "202501720",
+   "name": "엠플진메트서방정25/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501720"
+  },
+  {
+   "itemSeq": "202501717",
+   "name": "엠플진메트서방정5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501717"
+  },
+  {
+   "itemSeq": "202501716",
+   "name": "폴민엠파서방정10/1000밀리그램(엠파글리플로진, 메트포르민)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501716"
+  },
+  {
+   "itemSeq": "202501713",
+   "name": "폴민엠파서방정12.5/1000밀리그램(엠파글리플로진, 메트포르민)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501713"
+  },
+  {
+   "itemSeq": "202501715",
+   "name": "폴민엠파서방정25/1000밀리그램(엠파글리플로진, 메트포르민)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501715"
+  },
+  {
+   "itemSeq": "202501714",
+   "name": "폴민엠파서방정5/1000밀리그램(엠파글리플로진, 메트포르민)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501714"
+  },
+  {
+   "itemSeq": "202501741",
+   "name": "제파진듀오정5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501741"
+  },
+  {
+   "itemSeq": "202501742",
+   "name": "제파진듀오정5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501742"
+  },
+  {
+   "itemSeq": "202501740",
+   "name": "제파진듀오정5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501740"
+  },
+  {
+   "itemSeq": "202501760",
+   "name": "엠파론듀오서방정10/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501760"
+  },
+  {
+   "itemSeq": "202501759",
+   "name": "엠파론듀오서방정25/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501759"
+  },
+  {
+   "itemSeq": "202501804",
+   "name": "리나칸엠파정10/5밀리그램(엠파글리플로진, 리나글립틴)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501804"
+  },
+  {
+   "itemSeq": "202501803",
+   "name": "리나칸엠파정25/5밀리그램(엠파글리플로진, 리나글립틴)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501803"
+  },
+  {
+   "itemSeq": "202501819",
+   "name": "제파진듀오정12.5/850밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501819"
+  },
+  {
+   "itemSeq": "202501820",
+   "name": "제파진듀오정12.5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501820"
+  },
+  {
+   "itemSeq": "202501818",
+   "name": "제파진듀오정12.5/500밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501818"
+  },
+  {
+   "itemSeq": "202501903",
+   "name": "엠파론듀오서방정12.5/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501903"
+  },
+  {
+   "itemSeq": "202501902",
+   "name": "엠파론듀오서방정5/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501902"
+  },
+  {
+   "itemSeq": "202501898",
+   "name": "엠파맥스엠서방정10/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "12.55",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1,000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501898"
+  },
+  {
+   "itemSeq": "202501900",
+   "name": "엠파맥스엠서방정12.5/750밀리그램(엠파글리플로진,메트포르민)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "15.69",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "750.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501900"
+  },
+  {
+   "itemSeq": "202501901",
+   "name": "엠파맥스엠서방정12.5/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "15.69",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1,000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501901"
+  },
+  {
+   "itemSeq": "202501899",
+   "name": "엠파맥스엠서방정25/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "31.38",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1,000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501899"
+  },
+  {
+   "itemSeq": "202501916",
+   "name": "엠파로엠정12.5/850밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501916"
+  },
+  {
+   "itemSeq": "202501915",
+   "name": "엠파로엠정12.5/1000밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501915"
+  },
+  {
+   "itemSeq": "202501917",
+   "name": "엠파로엠정12.5/500밀리그램(엠파글리플로진, 메트포르민염산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501917"
+  },
+  {
+   "itemSeq": "202501912",
+   "name": "엠파메트서방정12.5/750밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염 콜로이드성이산화규소",
+     "amount": "757.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501912"
+  },
+  {
+   "itemSeq": "202501914",
+   "name": "엠파메트서방정12.5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염 콜로이드성이산화규소",
+     "amount": "1010",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501914"
+  },
+  {
+   "itemSeq": "202501911",
+   "name": "엠파메트서방정5/1000밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염 콜로이드성이산화규소",
+     "amount": "1010",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501911"
+  },
+  {
+   "itemSeq": "202501913",
+   "name": "엠파메트서방정5/750밀리그램(엠파글리플로진,메트포르민염산염)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염 콜로이드성이산화규소",
+     "amount": "757.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501913"
+  },
+  {
+   "itemSeq": "202501909",
+   "name": "엠포진듀오서방정10/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501909"
+  },
+  {
+   "itemSeq": "202501910",
+   "name": "엠포진듀오서방정25/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501910"
+  },
+  {
+   "itemSeq": "202501954",
+   "name": "유한엠메트서방정25/1000밀리그램(엠파글리플로진, 메트포르민)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501954"
+  },
+  {
+   "itemSeq": "202501955",
+   "name": "트라듀오엠파서방정10/5/1000밀리그램(엠파글리플로진, 리나글립틴, 메트포르민)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501955"
+  },
+  {
+   "itemSeq": "202501956",
+   "name": "트라듀오엠파서방정25/5/1000밀리그램(엠파글리플로진, 리나글립틴, 메트포르민)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501956"
+  },
+  {
+   "itemSeq": "202501988",
+   "name": "엠파시타엠서방정12.5/50/750밀리그램(엠파글리플로진,시타글립틴,메트포르민염산염)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "64.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염 콜로이드성이산화규소",
+     "amount": "757.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501988"
+  },
+  {
+   "itemSeq": "202501987",
+   "name": "엠파시타엠서방정5/50/750밀리그램(엠파글리플로진,시타글립틴,메트포르민염산염)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "64.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염 콜로이드성이산화규소",
+     "amount": "757.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501987"
+  },
+  {
+   "itemSeq": "202502003",
+   "name": "엠포진듀오서방정12.5/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502003"
+  },
+  {
+   "itemSeq": "202502002",
+   "name": "엠포진듀오서방정5/1000밀리그램(엠파글리플로진,메트포르민)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502002"
+  },
+  {
+   "itemSeq": "202502161",
+   "name": "알리엠정10/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502161"
+  },
+  {
+   "itemSeq": "202502160",
+   "name": "알리엠정25/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502160"
+  },
+  {
+   "itemSeq": "202502185",
+   "name": "에스엠파정25/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502185"
+  },
+  {
+   "itemSeq": "202502188",
+   "name": "엔글리나정10/5밀리그램(엠파글리플로진, 리나글립틴)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502188"
+  },
+  {
+   "itemSeq": "202502302",
+   "name": "리나플로엠서방정10/5/1000밀리그램(엠파글리플로진,리나글립틴,메트포르민염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502302"
+  },
+  {
+   "itemSeq": "202502389",
+   "name": "트루엠파엘정25/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502389"
+  },
+  {
+   "itemSeq": "202502393",
+   "name": "트루엠파엘정10/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502393"
+  },
+  {
+   "itemSeq": "202502428",
+   "name": "자디리나정10/5밀리그램(엠파글리플로진2L-프롤린,리나글립틴)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "15.107",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502428"
+  },
+  {
+   "itemSeq": "202502429",
+   "name": "자디리나정25/5밀리그램(엠파글리플로진2L-프롤린,리나글립틴)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "37.766",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502429"
+  },
+  {
+   "itemSeq": "202502441",
+   "name": "엠파리나정10/5밀리그램(엠파글리플로진,리나글립틴(미분화))",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502441"
+  },
+  {
+   "itemSeq": "202502451",
+   "name": "에스엠파정10/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502451"
+  },
+  {
+   "itemSeq": "202502505",
+   "name": "엠파리나정25/5밀리그램(엠파글리플로진,리나글립틴(미분화))",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502505"
+  },
+  {
+   "itemSeq": "202502558",
+   "name": "엠파칸리나정10/5밀리그램(엠파글리플로진2L-프롤린,리나글립틴)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "15.107",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502558"
+  },
+  {
+   "itemSeq": "202502559",
+   "name": "엠파칸리나정25/5밀리그램(엠파글리플로진2L-프롤린,리나글립틴)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "37.766",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502559"
+  },
+  {
+   "itemSeq": "202502781",
+   "name": "리나플로엠서방정12.5/2.5/1000밀리그램(엠파글리플로진,리나글립틴,메트포르민염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502781"
+  },
+  {
+   "itemSeq": "202502782",
+   "name": "리나플로엠서방정25/5/1000밀리그램(엠파글리플로진,리나글립틴,메트포르민염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502782"
+  },
+  {
+   "itemSeq": "202502780",
+   "name": "리나플로엠서방정5/2.5/1000밀리그램(엠파글리플로진,리나글립틴,메트포르민염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502780"
+  },
+  {
+   "itemSeq": "202502793",
+   "name": "리나틴엠파정10/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502793"
+  },
+  {
+   "itemSeq": "202502794",
+   "name": "리나틴엠파정25/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502794"
+  },
+  {
+   "itemSeq": "202502869",
+   "name": "자디글리엠메트정12.5/1000밀리그램(엠파글리플로진 2L-프롤린, 메트포르민)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "18.9",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502869"
+  },
+  {
+   "itemSeq": "202502920",
+   "name": "엠파자메트정5/500밀리그램(엠파글리플로진2L-프롤린,메트포르민)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "7.55",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502920"
+  },
+  {
+   "itemSeq": "202502921",
+   "name": "엠파자메트정5/850밀리그램(엠파글리플로진2L-프롤린,메트포르민)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "7.55",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502921"
+  },
+  {
+   "itemSeq": "202502936",
+   "name": "에스글리엠정10/5밀리그램(엠파글리플로진, 리나글립틴베실산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "6.67",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502936"
+  },
+  {
+   "itemSeq": "202502935",
+   "name": "에스글리엠정25/5밀리그램(엠파글리플로진, 리나글립틴베실산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "6.67",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502935"
+  },
+  {
+   "itemSeq": "202502937",
+   "name": "엠파자메트정12.5/850밀리그램(엠파글리플로진 2L-프롤린,메트포르민)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "18.88",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502937"
+  },
+  {
+   "itemSeq": "202502938",
+   "name": "엠파자메트정5/1000밀리그램(엠파글리플로진 2L-프롤린,메트포르민)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "7.55",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502938"
+  },
+  {
+   "itemSeq": "202502977",
+   "name": "엠파자메트정12.5/500밀리그램(엠파글리플로진2L-프롤린,메트포르민)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "18.88",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502977"
+  },
+  {
+   "itemSeq": "202502978",
+   "name": "엠파자메트정12.5/1000밀리그램(엠파글리플로진2L-프롤린,메트포르민)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "18.88",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502978"
+  },
+  {
+   "itemSeq": "202503006",
+   "name": "자디글리엠메트정5/500밀리그램(엠파글리플로진 2L-프롤린, 메트포르민)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "7.56",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503006"
+  },
+  {
+   "itemSeq": "202503024",
+   "name": "자디글리엠메트정5/850밀리그램(엠파글리플로진 2L-프롤린, 메트포르민)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "7.56",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503024"
+  },
+  {
+   "itemSeq": "202503038",
+   "name": "자디글리엠메트정12.5/850밀리그램(엠파글리플로진 2L-프롤린, 메트포르민)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "18.9",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503038"
+  },
+  {
+   "itemSeq": "202503039",
+   "name": "자디글리엠메트정5/1000밀리그램(엠파글리플로진 2L-프롤린, 메트포르민)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "7.56",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503039"
+  },
+  {
+   "itemSeq": "202503049",
+   "name": "케이글리토정10/5밀리그램(엠파글리플로진, 리나글립틴베실산염)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "6.67",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503049"
+  },
+  {
+   "itemSeq": "202503048",
+   "name": "케이글리토정25/5밀리그램(엠파글리플로진, 리나글립틴베실산염)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "6.67",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503048"
+  },
+  {
+   "itemSeq": "202503083",
+   "name": "엠파젠타정25/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503083"
+  },
+  {
+   "itemSeq": "202503120",
+   "name": "엠파젠타정10/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503120"
+  },
+  {
+   "itemSeq": "202503331",
+   "name": "듀비엠파정0.5/10밀리그램(로베글리타존,엠파글리플로진)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "12.55",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로베글리타존황산염",
+     "amount": "0.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503331"
+  },
+  {
+   "itemSeq": "202503330",
+   "name": "듀비엠파정0.5/25밀리그램(로베글리타존,엠파글리플로진)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "31.38",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로베글리타존황산염",
+     "amount": "0.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503330"
+  },
+  {
+   "itemSeq": "202600010",
+   "name": "자디글리엠메트정12.5/500밀리그램(엠파글리플로진 2L-프롤린, 메트포르민)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "18.9",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-01-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600010"
+  },
+  {
+   "itemSeq": "202600398",
+   "name": "엠파린정10/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600398"
+  },
+  {
+   "itemSeq": "202600399",
+   "name": "엠파린정25/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600399"
+  },
+  {
+   "itemSeq": "202600714",
+   "name": "듀비엠폴서방정0.25/12.5/1000밀리그램(로베글리타존,엠파글리플로진,메트포르민)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로베글리타존황산염",
+     "amount": "0.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "15.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600714"
+  },
+  {
+   "itemSeq": "202600715",
+   "name": "듀비엠폴서방정0.5/10/1000밀리그램(로베글리타존,엠파글리플로진,메트포르민)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로베글리타존황산염",
+     "amount": "0.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "12.55",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600715"
+  },
+  {
+   "itemSeq": "202600716",
+   "name": "듀비엠폴서방정0.5/25/1000밀리그램(로베글리타존,엠파글리플로진,메트포르민)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로베글리타존황산염",
+     "amount": "0.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진 L-프롤린",
+     "amount": "31.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600716"
+  },
+  {
+   "itemSeq": "202601360",
+   "name": "엠파가드정100/12.5밀리그램(아나글립틴,엠파글리플로진)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아나글립틴",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601360"
+  },
+  {
+   "itemSeq": "202601361",
+   "name": "엠파가드정100/5밀리그램(아나글립틴,엠파글리플로진)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아나글립틴",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601361"
+  },
+  {
+   "itemSeq": "202601731",
+   "name": "트루엠파엘엠서방정10/5/1000밀리그램(엠파글리플로진,리나글립틴,메트포르민염산염)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601731"
+  },
+  {
+   "itemSeq": "202601730",
+   "name": "트루엠파엘엠서방정25/5/1000밀리그램(엠파글리플로진,리나글립틴,메트포르민염산염)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601730"
+  },
+  {
+   "itemSeq": "202603310",
+   "name": "슈가엠파정5/10밀리그램(에보글립틴,엠파글리플로진)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에보글립틴타르타르산염",
+     "amount": "6.87",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603310"
+  },
+  {
+   "itemSeq": "202603311",
+   "name": "슈가엠파정5/25밀리그램(에보글립틴,엠파글리플로진)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에보글립틴타르타르산염",
+     "amount": "6.87",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603311"
+  }
+ ]
+}

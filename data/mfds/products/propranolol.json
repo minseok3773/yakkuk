@@ -1,0 +1,74 @@
+{
+ "id": "propranolol",
+ "query": [
+  "프로프라놀롤"
+ ],
+ "fetched": "2026-11-26",
+ "total": 4,
+ "kept": 4,
+ "mfdsName": [
+  "프로프라놀롤염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "197400040",
+   "name": "인데놀정10mg(프로프라놀롤염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프로프라놀롤염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1974-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197400040"
+  },
+  {
+   "itemSeq": "197600046",
+   "name": "인데놀정40mg(프로프라놀롤염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프로프라놀롤염산염",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1976-10-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197600046"
+  },
+  {
+   "itemSeq": "198100091",
+   "name": "테프라정40밀리그램(프로프라놀롤염산염)",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "프로프라놀롤염산염",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1981-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198100091"
+  },
+  {
+   "itemSeq": "201506664",
+   "name": "헤만지올액(프로프라놀롤염산염)",
+   "company": "한미약품(주)",
+   "type": "전문의약품(희귀)",
+   "ingredients": [
+    {
+     "name": "프로프라놀롤염산염",
+     "amount": "0.428",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2015-09-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506664"
+  }
+ ]
+}

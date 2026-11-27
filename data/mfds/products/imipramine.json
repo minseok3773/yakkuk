@@ -1,0 +1,44 @@
+{
+ "id": "imipramine",
+ "query": [
+  "이미프라민"
+ ],
+ "fetched": "2026-11-26",
+ "total": 2,
+ "kept": 2,
+ "mfdsName": [
+  "이미프라민염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "198200325",
+   "name": "환인이미프라민염산염정25밀리그램",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이미프라민염산염",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1982-12-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198200325"
+  },
+  {
+   "itemSeq": "198500628",
+   "name": "명인이미프라민염산염정",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "이미프라민염산염",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-09-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500628"
+  }
+ ]
+}

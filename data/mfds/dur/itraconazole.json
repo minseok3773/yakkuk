@@ -1,0 +1,296 @@
+{
+ "id": "itraconazole",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "itraconazole"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "apixaban",
+   "reason": "Apixaban 관련 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 권장하지 않음",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "dronedarone",
+   "reason": "Dronedarone의 혈중농도 증가. QT 연장, 심혈관계 사망 같은 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "edoxaban tosylate hydrate (as edoxaban)",
+   "reason": "Edoxaban 관련 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 권장하지 않음",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "eliglustat tartrate (as eliglustat)",
+   "reason": "PR, QTc 및/또는 QRS 심전도 간격 연장, 심부정맥 같은 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "felodipine",
+   "reason": "Felodipine의 혈중농도 증가. 저혈압, 말초부종 같은 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "irinotecan hydrochloride",
+   "reason": "골수억제 및 설사 같은 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "Ibrutinib",
+   "reason": "Ibrutinib의 혈중 농도 증가, 항암제 관련 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 권장하지 않음",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "alfuzosin hydrochloride",
+   "reason": "Alfuzosin의 혈중농도 증가로 약물이상반응 발생 위험 증가",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "alprazolam",
+   "reason": "alprazolam의 혈장농도 증가, 수면 및 진정작용 증강 및 연장",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "amlodipine besylate (as amlodipine)+atorvastatin calcium (as atorvastatin)",
+   "reason": "근육병증, 횡문근융해증 위험 증가 가능",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "amlodipine besylate (as amlodipine)+atorvastatin calcium (as atorvastatin)+candesartan cilexetil",
+   "reason": "근육병증, 횡문근융해증 위험 증가 가능",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "amlodipine besylate (as amlodipine)+atorvastatin calcium (as atorvastatin)+valsartan",
+   "reason": "근육병증, 횡문근융해증 위험 증가 가능",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "atorvastatin calcium (as atorvastatin)",
+   "reason": "근육병증, 횡문근융해증 위험 증가 가능",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "atorvastatin calcium (as atorvastatin)+ezetimibe",
+   "reason": "근육병증, 횡문근융해증 위험 증가 가능",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "atorvastatin calcium (as atorvastatin)+fimasartan potassium trihydrate (as fimasartan potassium)",
+   "reason": "근육병증, 횡문근융해증 위험 증가 가능",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "atorvastatin calcium (as atorvastatin)+irbesartan",
+   "reason": "근육병증, 횡문근융해증 위험 증가 가능",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "atorvastatin calcium (as atorvastatin)+metformin hydrochloride",
+   "reason": "근육병증, 횡문근융해증 위험 증가 가능",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "atorvastatin calcium (as atorvastatin)+omega-3-acid ethyl esters90",
+   "reason": "근육병증, 횡문근융해증 위험 증가 가능",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "atorvastatin calcium (as atorvastatin)+omega-3-acid ethyl esters90 (as EPA ethylester   0.46g, DHA ethylester   0.38g)",
+   "reason": "근육병증, 횡문근융해증 위험 증가 가능",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "atorvastatin calcium(as atorvastatin)+ezetimibe",
+   "reason": "근육병증, 횡문근융해증 위험 증가 가능",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "atorvastatin strontium pentahydrate (as atorvastatin)",
+   "reason": "근육병증, 횡문근융해증 위험 증가 가능",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "caffeine anhydrous+ergotamine tartrate",
+   "reason": "맥각독성(혈관경련, 말단 및 기타조직 허혈), Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "dabigatran etexilate mesylate (as dabigatran etexilate)",
+   "reason": "다비가트란의 혈중농도가 상승하여 출혈위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "domperidone",
+   "reason": "중대한 심실성 부정맥, 급성심장사 같은 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "domperidone maleate (as domperidone)",
+   "reason": "중대한 심실성 부정맥, 급성심장사 같은 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "ezetimibe+simvastatin",
+   "reason": "근육병증, 횡문근융해증의 위험성 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "finerenone",
+   "reason": "Finerenone의 혈중농도 증가로 인한 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "fluticasone propionate+salmeterol xinafoate (as salmeterol)",
+   "reason": "Fluticasone의 혈중농도 증가로 쿠싱증후군 및 부신억제와 같은 전신 코르티코스테로이드 효과 나타날 수 있음. Salmeterol의 혈중농도 증가로 QT연장, 심계항진 등 심혈관계 이상반응 위험 증가",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "ivabradine hydrochloride (as ivabradine)",
+   "reason": "Ivabradine의 혈중농도 증가, 심방세동, 서맥, 심방정지 및 심장 차단 같은 Ivabradine 관련 약물이상반응 발생 위험이 증가함. Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "lurasidone hydrochloride",
+   "reason": "저혈압, 순환허탈, 중증의 추체외로 증상, 발작과 같은 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "palbociclib",
+   "reason": "팔보시클립의 혈장 농도 증가",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "rivaroxaban(micronized)",
+   "reason": "Rivaroxaban의 혈중농도가 상승하여 출혈위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 권장하지 않음.",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "silodosin",
+   "reason": "실로도신의 혈중농도 증가",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "silodosin",
+   "reason": "Silodosin의 혈중농도 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "tolvaptan",
+   "reason": "Tolvaptan의 혈중농도 증가로 인한 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 권장하지 않음.",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "tolvaptan SD powder (as tolvaptan)",
+   "reason": "Tolvaptan의 혈중농도 증가로 인한 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 권장하지 않음.",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "trastuzumab emtansine (as trastuzumab)",
+   "reason": "이 약의 구성 성분인 DM1이 주로 CYP3A4에 의해 대사됨. 강한 CYP3A4억제제와 병용시 DM1 노출과 독성 증가 가능성, 항암제 관련 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 권장하지 않음",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "vincristine sulfate",
+   "reason": "신경정신계 이상반응 증가, 항암제 관련 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 권장하지 않음",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "lercanidipine hydrochloride",
+   "reason": "Lercanidipine의 혈중농도 증가. 저혈압, 말초부종 같은 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "methylergonovine maleate",
+   "reason": "맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "mizolastine",
+   "reason": "QT 연장 같은 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "nanoliposomal irinotecan hydrochloride (as irinotecan)",
+   "reason": "골수억제 및 설사 같은 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "pimozide",
+   "reason": "QT 연장, TdP을 동반할 가능성이 높은 심부정맥 같은 약물이상반응 발생 위험 증가, Itraconaozole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "simvastatin",
+   "reason": "근육병증, 횡문근융해증, 간효소이상 같은 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "ticagrelor",
+   "reason": "출혈 같은 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "triazolam",
+   "reason": "발작, 호흡저하, 혈관부종, 무호흡, 혼수 같은 약물이상반응 발생 위험 증가, itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "venetoclax",
+   "reason": "Venetoclax의 혈장 농도 및 종양용해증후군 위험 증가 가능",
+   "self": "itraconazole",
+   "remark": "만성 림프구성 백혈병 환자에서 치료 시작 시와 용량 증량 기간 동안 병용금기"
+  },
+  {
+   "ingredient": "dapoxetine hydrochloride (as dapoxetine)",
+   "reason": "기립성 저혈압, 눈에 대한 영향 같은 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "edoxaban besilate hydrate (as edoxaban)",
+   "reason": "Edoxaban 관련 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 권장하지 않음",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "atorvastatin calcium hydrate (as atorvastatin)+omega-3-acid ethyl ester 90 (as EPA ethylester 0.46g, DHA ethylester 0.38g)",
+   "reason": "근육병증, 횡문근융해증 위험 증가 가능",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "atorvastatin calcium hydrate+omega-3-acid ethyl esters 90",
+   "reason": "근육병증, 횡문근융해증 위험 증가 가능",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "ranolazine",
+   "reason": "Ranolazine의 혈중농도 증가, QT 연장, 신부전 같은 약물이상반응 발생 위험 증가, Itraconaozle 투여 중 및 종료 후 2주 간 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "methylergometrine maleate",
+   "reason": "맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "itraconazole"
+  },
+  {
+   "ingredient": "vardenafil hydrochloride hydrate (as vardenafil)",
+   "reason": "Vardenafil의 혈중농도 증가로 인한 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 권장하지 않음.",
+   "self": "itraconazole",
+   "remark": "75세 이상 남성 병용금기"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립.동물실험에서 고용량 투여시 태자 기형발생 증가, 배자독성 유발됨.",
+   "ingredient": "itraconazole"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

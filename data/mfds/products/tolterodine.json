@@ -1,0 +1,105 @@
+{
+ "id": "tolterodine",
+ "query": [
+  "톨테로딘",
+  "tolterodine"
+ ],
+ "fetched": "2026-11-27",
+ "total": 6,
+ "kept": 6,
+ "mfdsName": [
+  "톨터로딘-L-타르타르산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "200501635",
+   "name": "디트로딘에스알캡슐4밀리그램(톨터로딘-L-타르타르산염)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "톨터로딘-L-타르타르산염",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501635"
+  },
+  {
+   "itemSeq": "200501981",
+   "name": "텔로딘정(톨터로딘-L-타르타르산염)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "톨터로딘-L-타르타르산염",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-11-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501981"
+  },
+  {
+   "itemSeq": "200608248",
+   "name": "유로큐서방정4밀리그램(톨터로딘-L-타르타르산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "톨터로딘-L-타르타르산염",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608248"
+  },
+  {
+   "itemSeq": "200108384",
+   "name": "디트루시톨SR캡슐2밀리그람(톨터로딘-L-타르타르산염)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "톨터로딘-L-타르타르산염",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108384"
+  },
+  {
+   "itemSeq": "200008568",
+   "name": "디트루시톨SR캡슐4밀리그람(톨터로딘-L-타르타르산염)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "톨터로딘-L-타르타르산염",
+     "amount": "4.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008568"
+  },
+  {
+   "itemSeq": "200803187",
+   "name": "디트로딘에스알캡슐2밀리그램(톨터로딘-L-타르타르산염)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "톨터로딘-L-타르타르산염",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803187"
+  }
+ ]
+}

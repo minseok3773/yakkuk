@@ -1,0 +1,88 @@
+{
+ "id": "topiramate",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "topiramate"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "acetazolamide",
+   "reason": "신결석",
+   "self": "topiramate"
+  },
+  {
+   "ingredient": "acetazolamide sodium (as acetazolamide)",
+   "reason": "신결석",
+   "self": "topiramate"
+  },
+  {
+   "ingredient": "bupropion hydrochloride+naltrexone hydrochloride",
+   "reason": "판막심장병 위험",
+   "self": "phentermine hydrochloride (as phentermine)+topiramate"
+  },
+  {
+   "ingredient": "diethylpropion hydrochloride",
+   "reason": "판막심장병 위험",
+   "self": "phentermine hydrochloride (as phentermine)+topiramate"
+  },
+  {
+   "ingredient": "phendimetrazine tartrate",
+   "reason": "판막심장병 위험",
+   "self": "phentermine hydrochloride (as phentermine)+topiramate"
+  },
+  {
+   "ingredient": "phentermine HCl",
+   "reason": "판막심장병 위험",
+   "self": "phentermine hydrochloride (as phentermine)+topiramate"
+  },
+  {
+   "ingredient": "phentermine hydrochloride",
+   "reason": "판막심장병 위험",
+   "self": "phentermine hydrochloride (as phentermine)+topiramate"
+  },
+  {
+   "ingredient": "phentermine hydrochloride (as phentermine)",
+   "reason": "판막심장병 위험",
+   "self": "phentermine hydrochloride (as phentermine)+topiramate"
+  },
+  {
+   "ingredient": "selegiline hydrochloride",
+   "reason": "혈압상승 위험",
+   "self": "phentermine hydrochloride (as phentermine)+topiramate"
+  }
+ ],
+ "age": [
+  {
+   "text": "2세 미만: 안전성 및 유효성 미확립",
+   "ingredient": "topiramate"
+  },
+  {
+   "text": "18세 미만: 안전성 및 유효성 미확립",
+   "ingredient": "Phentermine + Topiramate"
+  }
+ ],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "선천성기형(구순열, 구개열, 두개안면결손, 요도밑열림증 등)및 신경 발달 장애(자폐 스펙트럼 장애 및 지능 장애)의 위험 증가. 태아 손상 및 태아성장제한(부당경량아 및 저체중출생) 야기. 본제 포함 항뇌전증약 사용과 관련한 조기 진통 및 조산의 위험 증가.",
+   "ingredient": "topiramate"
+  },
+  {
+   "grade": "2",
+   "reason": "선천성기형(구순열, 구개열, 두개안면결손, 요도밑열림증 등) 및 신경 발달 장애(자폐 스펙트럼 장애 및 지능 장애)의 위험 증가. 태아 손상 및 태아성장제한(부당경량아 및 저체중출생) 야기. 본제 포함 항뇌전증약 사용과 관련한 조기 진통 및 조산의 위험 증가.",
+   "ingredient": "topiramate"
+  },
+  {
+   "grade": "1",
+   "reason": "(phentermine) 임부에 안전성 미확립. 치료상의 유익성이 위험성을 상회한다고 판단되는 경우에만 투여, (Topiramate) 선천성기형(구순열, 구개열, 두개안면결손, 요도밑열림증 등)및 신경 발달 장애(자폐 스펙트럼 장애 및 지능 장애)의 위험 증가. 태아 손상 및 태아성장제한(부당경량아 및 저체중출생) 야기. 본제 포함 항뇌전증약 사용과 관련한 조기 진통 및 조산의 위험 증가.",
+   "ingredient": "phentermine + topiramate"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

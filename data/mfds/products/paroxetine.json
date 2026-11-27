@@ -1,0 +1,375 @@
+{
+ "id": "paroxetine",
+ "query": [
+  "파록세틴"
+ ],
+ "fetched": "2026-11-26",
+ "total": 24,
+ "kept": 24,
+ "mfdsName": [
+  "파록세틴염산염수화물",
+  "파록세틴염산염반수화물"
+ ],
+ "items": [
+  {
+   "itemSeq": "199301007",
+   "name": "한독세로자트정20밀리그램(파록세틴염산염수화물)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "22.88",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1993-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199301007"
+  },
+  {
+   "itemSeq": "199900921",
+   "name": "한독세로자트정10밀리그램(파록세틴염산염수화물)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "11.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900921"
+  },
+  {
+   "itemSeq": "200308836",
+   "name": "파록센정(파록세틴염산염반수화물)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염반수화물",
+     "amount": "22.88",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308836"
+  },
+  {
+   "itemSeq": "200409980",
+   "name": "팍실CR정12.5밀리그램(파록세틴염산염수화물)",
+   "company": "(주)글락소스미스클라인",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "14.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200409980"
+  },
+  {
+   "itemSeq": "200403201",
+   "name": "팍세틸정(파록세틴염산염반수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염반수화물",
+     "amount": "22.88",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403201"
+  },
+  {
+   "itemSeq": "200401247",
+   "name": "파록스정20밀리그램(파록세틴염산염수화물)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "22.88",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401247"
+  },
+  {
+   "itemSeq": "200512186",
+   "name": "파로세닌정20밀리그램(파록세틴염산염수화물)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "22.88",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512186"
+  },
+  {
+   "itemSeq": "200605344",
+   "name": "파로세닌정10밀리그램(파록세틴염산염수화물)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "11.44",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605344"
+  },
+  {
+   "itemSeq": "200607910",
+   "name": "파마파록세틴정20밀리그램(파록세틴염산염수화물)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "22.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607910"
+  },
+  {
+   "itemSeq": "200702802",
+   "name": "팍세틸씨알정(파록세틴염산염수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "14.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702802"
+  },
+  {
+   "itemSeq": "200805986",
+   "name": "파록스씨알정25밀리그램(파록세틴염산염수화물)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "28.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805986"
+  },
+  {
+   "itemSeq": "200806022",
+   "name": "에이자트씨알정25밀리그램(파록세틴염산염수화물)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "28.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806022"
+  },
+  {
+   "itemSeq": "200806300",
+   "name": "에이자트씨알정12.5밀리그램(파록세틴염산염수화물)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "14.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806300"
+  },
+  {
+   "itemSeq": "200806299",
+   "name": "파록스씨알정12.5밀리그램(파록세틴염산염수화물)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "14.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806299"
+  },
+  {
+   "itemSeq": "200808754",
+   "name": "팍세론틴서방정12.5밀리그램(파록세틴염산염수화물)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "14.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808754"
+  },
+  {
+   "itemSeq": "200809458",
+   "name": "팍세론틴서방정25밀리그램(파록세틴염산염수화물)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "28.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809458"
+  },
+  {
+   "itemSeq": "201503768",
+   "name": "환인파록세틴정20밀리그램(파록세틴염산염수화물)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "22.88",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503768"
+  },
+  {
+   "itemSeq": "201701519",
+   "name": "영진파록세틴씨알정(파록세틴염산염수화물)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "14.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701519"
+  },
+  {
+   "itemSeq": "201701536",
+   "name": "파마파록세틴정10밀리그램(파록세틴염산염수화물)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "11.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701536"
+  },
+  {
+   "itemSeq": "201906187",
+   "name": "파로자트정10밀리그램(파록세틴염산염수화물)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "11.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906187"
+  },
+  {
+   "itemSeq": "201906197",
+   "name": "파로자트정20밀리그램(파록세틴염산염수화물)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "22.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906197"
+  },
+  {
+   "itemSeq": "202104810",
+   "name": "파로자트씨알정12.5밀리그램(파록세틴염산염수화물)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "14.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104810"
+  },
+  {
+   "itemSeq": "202104811",
+   "name": "파로자트씨알정25밀리그램(파록세틴염산염수화물)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "28.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104811"
+  },
+  {
+   "itemSeq": "202201670",
+   "name": "파록스정10밀리그램(파록세틴염산염수화물)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "파록세틴염산염수화물",
+     "amount": "11.44",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201670"
+  }
+ ]
+}

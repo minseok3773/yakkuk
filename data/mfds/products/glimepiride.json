@@ -1,0 +1,4014 @@
+{
+ "id": "glimepiride",
+ "query": [
+  "글리메피리드"
+ ],
+ "fetched": "2026-11-26",
+ "total": 234,
+ "kept": 234,
+ "mfdsName": [
+  "글리메피리드"
+ ],
+ "items": [
+  {
+   "itemSeq": "199600863",
+   "name": "아마릴정1밀리그람(글리메피리드)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1996-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199600863"
+  },
+  {
+   "itemSeq": "199600864",
+   "name": "아마릴정2밀리그람(글리메피리드)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1996-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199600864"
+  },
+  {
+   "itemSeq": "199900923",
+   "name": "아마릴정4밀리그람(글리메피리드)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900923"
+  },
+  {
+   "itemSeq": "200201439",
+   "name": "글리마릴정(글리메피리드)(수출명:GlipirenTabs.)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201439"
+  },
+  {
+   "itemSeq": "200202855",
+   "name": "메피리드정(글리메피리드)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200202855"
+  },
+  {
+   "itemSeq": "200308551",
+   "name": "디아그릴정2밀리그램(글리메피리드)(수출명:Diarinletablet)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308551"
+  },
+  {
+   "itemSeq": "200300334",
+   "name": "건일글리메피리드정2밀리그램",
+   "company": "건일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300334"
+  },
+  {
+   "itemSeq": "200300409",
+   "name": "유글렉스정2밀리그램(글리메피리드)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300409"
+  },
+  {
+   "itemSeq": "200300131",
+   "name": "메프릴정(글리메피리드)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300131"
+  },
+  {
+   "itemSeq": "200300200",
+   "name": "메피그릴정(글리메피리드)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300200"
+  },
+  {
+   "itemSeq": "200300661",
+   "name": "글리매핀정(글리메피리드)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300661"
+  },
+  {
+   "itemSeq": "200300770",
+   "name": "디어메디정2밀리그람(글리메피리드)(수출명:글루메디정2밀리그람)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300770"
+  },
+  {
+   "itemSeq": "200302483",
+   "name": "유니마릴정(글리메피리드)(수출명:유니디아정)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302483"
+  },
+  {
+   "itemSeq": "200300296",
+   "name": "한올글리메피리드정",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300296"
+  },
+  {
+   "itemSeq": "200300923",
+   "name": "보령글리메피리드정2밀리그램",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300923"
+  },
+  {
+   "itemSeq": "200300313",
+   "name": "글리메정(글리메피리드)(GLIMETablet)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300313"
+  },
+  {
+   "itemSeq": "200300259",
+   "name": "다이메릴정(글리메피리드)(수출명:비나겐정)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300259"
+  },
+  {
+   "itemSeq": "200300104",
+   "name": "네오마릴정2밀리그램(글리메피리드)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300104"
+  },
+  {
+   "itemSeq": "200301128",
+   "name": "글리원정2밀리그램(글리메피리드)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301128"
+  },
+  {
+   "itemSeq": "200301601",
+   "name": "글리민정(글리메피리드)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-12-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301601"
+  },
+  {
+   "itemSeq": "200300604",
+   "name": "글리메릴정(글리메피리드)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-12-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300604"
+  },
+  {
+   "itemSeq": "200300530",
+   "name": "글리필정2밀리그램(글리메피리드)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-12-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300530"
+  },
+  {
+   "itemSeq": "200301118",
+   "name": "디아릴정2밀리그램(글리메피리드)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-12-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301118"
+  },
+  {
+   "itemSeq": "200300284",
+   "name": "글리팜정(글리메피리드)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-12-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300284"
+  },
+  {
+   "itemSeq": "200300034",
+   "name": "크리메릴정2밀리그램(글리메피리드)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-12-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300034"
+  },
+  {
+   "itemSeq": "200301831",
+   "name": "그리메피드정2밀리그램(글리메피리드)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-12-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301831"
+  },
+  {
+   "itemSeq": "200300144",
+   "name": "글리멜정2mg(글리메피리드)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-12-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300144"
+  },
+  {
+   "itemSeq": "200301134",
+   "name": "랙스정2밀리그람(글리메피리드)",
+   "company": "삼남제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-12-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301134"
+  },
+  {
+   "itemSeq": "200303280",
+   "name": "제뉴원글리메피리드정",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-12-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200303280"
+  },
+  {
+   "itemSeq": "200308841",
+   "name": "미아릴정(글리메피리드)(수출명:메니다정)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308841"
+  },
+  {
+   "itemSeq": "200401323",
+   "name": "다이피릴정2밀리그램(글리메피리드)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401323"
+  },
+  {
+   "itemSeq": "200402602",
+   "name": "미디아정(글리메피리드)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402602"
+  },
+  {
+   "itemSeq": "200400777",
+   "name": "글리멥정(글리메피리드)",
+   "company": "삼아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400777"
+  },
+  {
+   "itemSeq": "200401535",
+   "name": "일성글리메피리드정2밀리그람",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401535"
+  },
+  {
+   "itemSeq": "200401743",
+   "name": "글레딘정(글리메피리드)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401743"
+  },
+  {
+   "itemSeq": "200400686",
+   "name": "아로밀정(글리메피리드)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400686"
+  },
+  {
+   "itemSeq": "200400166",
+   "name": "글리멜정1mg(글리메피리드)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400166"
+  },
+  {
+   "itemSeq": "200400124",
+   "name": "글리텍정2밀리그램(글리메피리드)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400124"
+  },
+  {
+   "itemSeq": "200401285",
+   "name": "글리메드정2밀리그램(글리메피리드)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401285"
+  },
+  {
+   "itemSeq": "200401371",
+   "name": "로글리코정(글리메피리드)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401371"
+  },
+  {
+   "itemSeq": "200402490",
+   "name": "글리메츠정(글리메피리드)",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402490"
+  },
+  {
+   "itemSeq": "200402949",
+   "name": "그리마린정(글리메피리드)",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402949"
+  },
+  {
+   "itemSeq": "200403237",
+   "name": "메피릴정(글리메피리드)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403237"
+  },
+  {
+   "itemSeq": "200401747",
+   "name": "메리클정(글리메피리드)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401747"
+  },
+  {
+   "itemSeq": "200400570",
+   "name": "아모린정(글리메피리드)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400570"
+  },
+  {
+   "itemSeq": "200401494",
+   "name": "글리파정(글리메피리드)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401494"
+  },
+  {
+   "itemSeq": "200404740",
+   "name": "글리피드정2mg(글리메피리드)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404740"
+  },
+  {
+   "itemSeq": "200402485",
+   "name": "글루펜정2mg(글리메피리드)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-07-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402485"
+  },
+  {
+   "itemSeq": "200400063",
+   "name": "그루리스정2밀리그램(글리메피리드)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400063"
+  },
+  {
+   "itemSeq": "200403269",
+   "name": "글리메피드정2mg(글리메피리드)",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403269"
+  },
+  {
+   "itemSeq": "200400801",
+   "name": "글루피드정(글리메피리드)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400801"
+  },
+  {
+   "itemSeq": "200400660",
+   "name": "글리밀정(글리메피리드)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400660"
+  },
+  {
+   "itemSeq": "200410943",
+   "name": "글루비정(글리메피리드)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410943"
+  },
+  {
+   "itemSeq": "200402913",
+   "name": "아마필정(글리메피리드)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402913"
+  },
+  {
+   "itemSeq": "200402623",
+   "name": "그리메피드정1밀리그램(글리메피리드)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402623"
+  },
+  {
+   "itemSeq": "200401108",
+   "name": "글리베타정2밀리그람(글리메피리드)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401108"
+  },
+  {
+   "itemSeq": "200411065",
+   "name": "아마리아정(글리메피리드)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200411065"
+  },
+  {
+   "itemSeq": "200402823",
+   "name": "위더스글리메피리드정2mg",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402823"
+  },
+  {
+   "itemSeq": "200400194",
+   "name": "제이마릴정2밀리그램(글리메피리드)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400194"
+  },
+  {
+   "itemSeq": "200404038",
+   "name": "아메리드정(글리메피리드)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404038"
+  },
+  {
+   "itemSeq": "200401699",
+   "name": "글리프릴정2밀리그램(글리메피리드)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401699"
+  },
+  {
+   "itemSeq": "200403462",
+   "name": "메디롤정2mg(글리메피리드)(수출명 : MEDIROL Tab. 2mg)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403462"
+  },
+  {
+   "itemSeq": "200404217",
+   "name": "디메릴정2밀리그램(글리메피리드)(수출명:LEPRI Tablet)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404217"
+  },
+  {
+   "itemSeq": "200400276",
+   "name": "에이프로젠글리메피리드정(수출명: Glim Tablet)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400276"
+  },
+  {
+   "itemSeq": "200410897",
+   "name": "제이알글리메피리드정",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410897"
+  },
+  {
+   "itemSeq": "200410907",
+   "name": "케이마릴정2밀리그람(글리메피리드)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410907"
+  },
+  {
+   "itemSeq": "200403680",
+   "name": "글리피린정(글리메피리드)",
+   "company": "(주)알피바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403680"
+  },
+  {
+   "itemSeq": "200404852",
+   "name": "아마정(글리메피리드)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404852"
+  },
+  {
+   "itemSeq": "200400894",
+   "name": "아마디엠정(글리메피리드)",
+   "company": "동성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400894"
+  },
+  {
+   "itemSeq": "200400122",
+   "name": "네오마릴정1밀리그램(글리메피리드)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400122"
+  },
+  {
+   "itemSeq": "200512325",
+   "name": "글리큐정(글리메피리드)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512325"
+  },
+  {
+   "itemSeq": "200500559",
+   "name": "글라디엠정1밀리그램(글리메피리드)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500559"
+  },
+  {
+   "itemSeq": "200501372",
+   "name": "디아릴정3밀리그램(글리메피리드)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501372"
+  },
+  {
+   "itemSeq": "200500561",
+   "name": "글라디엠정4밀리그램(글리메피리드)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500561"
+  },
+  {
+   "itemSeq": "200502693",
+   "name": "다이아킴정(글리메피리드)(수출용)(수출명:DIAKIMTab)",
+   "company": "초당약품공업(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-11-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502693"
+  },
+  {
+   "itemSeq": "200605448",
+   "name": "그리메피드정4밀리그램(글리메피리드)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605448"
+  },
+  {
+   "itemSeq": "200606835",
+   "name": "코오롱글리메피리드정2밀리그람(글리메피리드)",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606835"
+  },
+  {
+   "itemSeq": "200612743",
+   "name": "글리메정4밀리그램(글리메피리드)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-12-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200612743"
+  },
+  {
+   "itemSeq": "200703797",
+   "name": "다이리드정(글리메피리드)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703797"
+  },
+  {
+   "itemSeq": "200704611",
+   "name": "게리드정4밀리그램(글리메피리드)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704611"
+  },
+  {
+   "itemSeq": "200704615",
+   "name": "글리피론정4밀리그램(글리메피리드)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704615"
+  },
+  {
+   "itemSeq": "200704612",
+   "name": "다이피릴정4밀리그램(글리메피리드)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704612"
+  },
+  {
+   "itemSeq": "200704613",
+   "name": "디아리드정4밀리그램(글리메피리드)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704613"
+  },
+  {
+   "itemSeq": "200704614",
+   "name": "아베린정4밀리그램(글리메피리드)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704614"
+  },
+  {
+   "itemSeq": "200705107",
+   "name": "베아릴정2밀리그램(글리메피리드)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705107"
+  },
+  {
+   "itemSeq": "200706320",
+   "name": "디아릴정4밀리그램(글리메피리드)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706320"
+  },
+  {
+   "itemSeq": "200709818",
+   "name": "글리팜정4밀리그램(글리메피리드)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709818"
+  },
+  {
+   "itemSeq": "200801332",
+   "name": "글리멜정3mg(글리메피리드)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "3.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801332"
+  },
+  {
+   "itemSeq": "200801333",
+   "name": "글리멜정4mg(글리메피리드)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801333"
+  },
+  {
+   "itemSeq": "200801495",
+   "name": "메아릴정(글리메피리드)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-02-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801495"
+  },
+  {
+   "itemSeq": "200802788",
+   "name": "글리원정 4밀리그램(글리메피리드)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802788"
+  },
+  {
+   "itemSeq": "200803973",
+   "name": "글라디엠정2밀리그램(글리메피리드)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803973"
+  },
+  {
+   "itemSeq": "200805496",
+   "name": "티지피글리메피리드정2밀리그램",
+   "company": "태극제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805496"
+  },
+  {
+   "itemSeq": "201203608",
+   "name": "글리베타정4밀리그램(글리메피리드)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201203608"
+  },
+  {
+   "itemSeq": "201301370",
+   "name": "그릴정(글리메피리드)",
+   "company": "에스피씨(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201301370"
+  },
+  {
+   "itemSeq": "201306343",
+   "name": "글리피론정2밀리그램(글리메피리드)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306343"
+  },
+  {
+   "itemSeq": "201306526",
+   "name": "디아리드정2밀리그램(글리메피리드)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306526"
+  },
+  {
+   "itemSeq": "201306527",
+   "name": "디어메디정4밀리그램(글리메피리드)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306527"
+  },
+  {
+   "itemSeq": "201307042",
+   "name": "글리피온정(글리메피리드)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307042"
+  },
+  {
+   "itemSeq": "201307473",
+   "name": "게리드정2밀리그램(글리메피리드)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307473"
+  },
+  {
+   "itemSeq": "201307853",
+   "name": "글리메프정2밀리그램(글리메피리드)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307853"
+  },
+  {
+   "itemSeq": "201308597",
+   "name": "다글리정(글리메피리드)",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308597"
+  },
+  {
+   "itemSeq": "201309458",
+   "name": "이글리드정(글리메피리드)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309458"
+  },
+  {
+   "itemSeq": "201402185",
+   "name": "글리메틴정2밀리그램(글리메피리드)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402185"
+  },
+  {
+   "itemSeq": "201403417",
+   "name": "글리미드정2mg(글리메피리드)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403417"
+  },
+  {
+   "itemSeq": "201403458",
+   "name": "글리피딘정2mg(글리메피리드)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403458"
+  },
+  {
+   "itemSeq": "201403732",
+   "name": "글피드정(글리메피리드)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403732"
+  },
+  {
+   "itemSeq": "201403961",
+   "name": "리메드정2mg(글리메피리드)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403961"
+  },
+  {
+   "itemSeq": "201404010",
+   "name": "글리메피젠정2밀리그램(글리메피리드)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404010"
+  },
+  {
+   "itemSeq": "201404009",
+   "name": "글리메피젠정4밀리그램(글리메피리드)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404009"
+  },
+  {
+   "itemSeq": "201404267",
+   "name": "다이릴정(글리메피리드)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404267"
+  },
+  {
+   "itemSeq": "201501001",
+   "name": "셀피리드정(글리메피리드)",
+   "company": "(주)텔콘알에프제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501001"
+  },
+  {
+   "itemSeq": "201503191",
+   "name": "휴니즈글리메피리드정",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503191"
+  },
+  {
+   "itemSeq": "201504970",
+   "name": "글리프릴정4mg(글리메피리드)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504970"
+  },
+  {
+   "itemSeq": "201508304",
+   "name": "디메리드정2밀리그램(글리메피리드)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508304"
+  },
+  {
+   "itemSeq": "201600980",
+   "name": "그리피드정(글리메피리드)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600980"
+  },
+  {
+   "itemSeq": "201603555",
+   "name": "뉴글리필드정2밀리그램(글리메피리드)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603555"
+  },
+  {
+   "itemSeq": "201603556",
+   "name": "뉴글리필드정4밀리그램(글리메피리드)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603556"
+  },
+  {
+   "itemSeq": "201604202",
+   "name": "오코마릴정4mg(글리메피리드)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604202"
+  },
+  {
+   "itemSeq": "201702259",
+   "name": "메디롤정4mg(글리메피리드)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702259"
+  },
+  {
+   "itemSeq": "201801002",
+   "name": "글리메프정4밀리그램(글리메피리드)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801002"
+  },
+  {
+   "itemSeq": "201801110",
+   "name": "그리멜정2mg(글리메피리드)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801110"
+  },
+  {
+   "itemSeq": "201801327",
+   "name": "비엘글리메정2밀리그램(글리메피리드)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801327"
+  },
+  {
+   "itemSeq": "201802132",
+   "name": "씨티릴정(글리메피리드)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802132"
+  },
+  {
+   "itemSeq": "201901114",
+   "name": "글리맥스정4밀리그램(글리메피리드)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901114"
+  },
+  {
+   "itemSeq": "201901300",
+   "name": "글리메윈정(글리메피리드)",
+   "company": "코스맥스파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901300"
+  },
+  {
+   "itemSeq": "201901767",
+   "name": "글리메디정(글리메피리드)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901767"
+  },
+  {
+   "itemSeq": "201902153",
+   "name": "글리메피릴정2mg(글리메피리드)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902153"
+  },
+  {
+   "itemSeq": "201903381",
+   "name": "건메피드정4밀리그램(글리메피리드)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903381"
+  },
+  {
+   "itemSeq": "201903394",
+   "name": "베아릴정1밀리그램(글리메피리드)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903394"
+  },
+  {
+   "itemSeq": "201904175",
+   "name": "글리메피릴정4밀리그램(글리메피리드)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904175"
+  },
+  {
+   "itemSeq": "201904477",
+   "name": "글리다정(글리메피리드)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904477"
+  },
+  {
+   "itemSeq": "201906153",
+   "name": "글레리드정(글리메피리드)",
+   "company": "독립바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906153"
+  },
+  {
+   "itemSeq": "201906350",
+   "name": "베아릴정4밀리그램(글리메피리드)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906350"
+  },
+  {
+   "itemSeq": "201906365",
+   "name": "케이릴정2밀리그램(글리메피리드)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906365"
+  },
+  {
+   "itemSeq": "201906464",
+   "name": "아그릴정2밀리그램(글리메피리드)",
+   "company": "(주)아리제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906464"
+  },
+  {
+   "itemSeq": "201906632",
+   "name": "글리메디정4mg(글리메피리드)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906632"
+  },
+  {
+   "itemSeq": "201907571",
+   "name": "글리킴정(글리메피리드)",
+   "company": "(주)킴스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907571"
+  },
+  {
+   "itemSeq": "202000324",
+   "name": "일성글리메피리드정4밀리그램",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000324"
+  },
+  {
+   "itemSeq": "202000415",
+   "name": "그루리스정4밀리그램(글리메피리드)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000415"
+  },
+  {
+   "itemSeq": "202000688",
+   "name": "다나릴정(글리메피리드)",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000688"
+  },
+  {
+   "itemSeq": "202001769",
+   "name": "건메피드정2밀리그램(글리메피리드)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001769"
+  },
+  {
+   "itemSeq": "202002116",
+   "name": "메비드정(글리메피리드)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002116"
+  },
+  {
+   "itemSeq": "202002784",
+   "name": "그리피드정4밀리그램(글리메피리드)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002784"
+  },
+  {
+   "itemSeq": "200500971",
+   "name": "아마릴엠정1/250밀리그람(수출명 : 코아마릴1/250밀리그람)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "250",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "250",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500971"
+  },
+  {
+   "itemSeq": "200500972",
+   "name": "아마릴엠정2/500밀리그람(수출명 : 코아마릴2/500밀리그람)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500972"
+  },
+  {
+   "itemSeq": "200713518",
+   "name": "아마릴엠정1/500밀리그램",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-12-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200713518"
+  },
+  {
+   "itemSeq": "200805555",
+   "name": "아마릴-멕스서방정2/500밀리그램",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805555"
+  },
+  {
+   "itemSeq": "201106782",
+   "name": "그리마린엠정2/500밀리그램",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201106782"
+  },
+  {
+   "itemSeq": "201106781",
+   "name": "아마리아엠정2/500밀리그램",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201106781"
+  },
+  {
+   "itemSeq": "201106952",
+   "name": "글루비엠정2/500밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201106952"
+  },
+  {
+   "itemSeq": "201106950",
+   "name": "글리메드엠정2/500밀리그램",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201106950"
+  },
+  {
+   "itemSeq": "201106951",
+   "name": "글리피론엠정2/500밀리그램",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201106951"
+  },
+  {
+   "itemSeq": "201106953",
+   "name": "아로밀엠정2/500밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201106953"
+  },
+  {
+   "itemSeq": "201106982",
+   "name": "글라포민엠정2/500밀리그램",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201106982"
+  },
+  {
+   "itemSeq": "201107003",
+   "name": "글리팜엠정2/500밀리그램",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107003"
+  },
+  {
+   "itemSeq": "201107002",
+   "name": "다이피릴엠정2/500밀리그램",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107002"
+  },
+  {
+   "itemSeq": "201106980",
+   "name": "메리클엠정2/500mg",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201106980"
+  },
+  {
+   "itemSeq": "201107004",
+   "name": "메피릴엠정2/500밀리그램",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107004"
+  },
+  {
+   "itemSeq": "201107173",
+   "name": "글리메릴엠정",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107173"
+  },
+  {
+   "itemSeq": "201107176",
+   "name": "글리포르민정2/500밀리그램",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107176"
+  },
+  {
+   "itemSeq": "201107175",
+   "name": "다이메릴엠정2/500밀리그램",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107175"
+  },
+  {
+   "itemSeq": "201107174",
+   "name": "포디엠정2/500밀리그램",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107174"
+  },
+  {
+   "itemSeq": "201107221",
+   "name": "게리메트정2/500밀리그램",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107221"
+  },
+  {
+   "itemSeq": "201107226",
+   "name": "글라포민엠정1/250 밀리그램",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "250.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107226"
+  },
+  {
+   "itemSeq": "201107227",
+   "name": "글라포민엠정1/500밀리그램",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107227"
+  },
+  {
+   "itemSeq": "201107204",
+   "name": "글레딘엠정2/500밀리그램",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107204"
+  },
+  {
+   "itemSeq": "201107234",
+   "name": "글리메론정",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107234"
+  },
+  {
+   "itemSeq": "201107224",
+   "name": "글리포르민정1/250밀리그램",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107224"
+  },
+  {
+   "itemSeq": "201107202",
+   "name": "글리필엠정2/500밀리그램",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107202"
+  },
+  {
+   "itemSeq": "201107219",
+   "name": "네오마릴엠정2/500밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107219"
+  },
+  {
+   "itemSeq": "201107220",
+   "name": "다이리드엠정2/500밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107220"
+  },
+  {
+   "itemSeq": "201107200",
+   "name": "디어메디엠정2/500밀리그램",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107200"
+  },
+  {
+   "itemSeq": "201107199",
+   "name": "메디롤엠정2/500밀리그램(글리메피리드,메트포르민염산염)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107199"
+  },
+  {
+   "itemSeq": "201107201",
+   "name": "미아릴엠정2/500밀리그램",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107201"
+  },
+  {
+   "itemSeq": "201107229",
+   "name": "아베린엠정2/500밀리그램(글리메피리드, 메트포르민염산염)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107229"
+  },
+  {
+   "itemSeq": "201107233",
+   "name": "윈글리엠정2/500밀리그램",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107233"
+  },
+  {
+   "itemSeq": "201107205",
+   "name": "지엠정2/500밀리그램",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107205"
+  },
+  {
+   "itemSeq": "201107232",
+   "name": "케이마릴엠정2/500밀리그램",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107232"
+  },
+  {
+   "itemSeq": "201107231",
+   "name": "크리메릴엠정2/500밀리그램",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107231"
+  },
+  {
+   "itemSeq": "201107273",
+   "name": "글레아정2/500밀리그램",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107273"
+  },
+  {
+   "itemSeq": "201107272",
+   "name": "글리멜엠정2/500밀리그램",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107272"
+  },
+  {
+   "itemSeq": "201107274",
+   "name": "글리엠정2/500밀리그램",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107274"
+  },
+  {
+   "itemSeq": "201107276",
+   "name": "포디엠정1/250밀리그램",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "250",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107276"
+  },
+  {
+   "itemSeq": "201107514",
+   "name": "게리드엠정",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107514"
+  },
+  {
+   "itemSeq": "201107513",
+   "name": "글루폴민정2/500밀리그램(글리메피리드, 메트포르민염산염)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107513"
+  },
+  {
+   "itemSeq": "201107530",
+   "name": "글리매핀엠정2/500밀리그램",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107530"
+  },
+  {
+   "itemSeq": "201107516",
+   "name": "글리메엠정2/500밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107516"
+  },
+  {
+   "itemSeq": "201107526",
+   "name": "글리멜엠정1/250밀리그램",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107526"
+  },
+  {
+   "itemSeq": "201107515",
+   "name": "글리미드엠정",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107515"
+  },
+  {
+   "itemSeq": "201107512",
+   "name": "글리베타엠정",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107512"
+  },
+  {
+   "itemSeq": "201107525",
+   "name": "네오마릴엠정1/250밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107525"
+  },
+  {
+   "itemSeq": "201107508",
+   "name": "디아그릴엠정2/500밀리그램",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107508"
+  },
+  {
+   "itemSeq": "201107521",
+   "name": "디어메디엠정1/250밀리그램(수출용)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "250.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107521"
+  },
+  {
+   "itemSeq": "201107507",
+   "name": "로글리코엠정",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107507"
+  },
+  {
+   "itemSeq": "201107511",
+   "name": "메트마릴정1/250밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "1.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "250.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107511"
+  },
+  {
+   "itemSeq": "201107510",
+   "name": "메트마릴정2/500밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107510"
+  },
+  {
+   "itemSeq": "201107536",
+   "name": "메포민플러스정",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107536"
+  },
+  {
+   "itemSeq": "201107537",
+   "name": "메피리드엠정2/500밀리그램",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107537"
+  },
+  {
+   "itemSeq": "201107290",
+   "name": "윈글리엠정1/250밀리그램",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107290"
+  },
+  {
+   "itemSeq": "201107509",
+   "name": "유니마릴엠정",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107509"
+  },
+  {
+   "itemSeq": "201107543",
+   "name": "글리메엠정1/250밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107543"
+  },
+  {
+   "itemSeq": "201107542",
+   "name": "미아릴엠정1/250밀리그램",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201107542"
+  },
+  {
+   "itemSeq": "201109149",
+   "name": "글리마릴엠정2/500밀리그램",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109149"
+  },
+  {
+   "itemSeq": "201109280",
+   "name": "글리파엠정2/500밀리그램",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201109280"
+  },
+  {
+   "itemSeq": "201200586",
+   "name": "아메리드엠정2/500밀리그램",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200586"
+  },
+  {
+   "itemSeq": "201200975",
+   "name": "네오마릴엠정1/500밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-02-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200975"
+  },
+  {
+   "itemSeq": "201205527",
+   "name": "랙스엠정2/500밀리그램",
+   "company": "삼남제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-06-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201205527"
+  },
+  {
+   "itemSeq": "201206668",
+   "name": "글로엠정",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206668"
+  },
+  {
+   "itemSeq": "201206792",
+   "name": "디아그릴-멕스서방정2/500밀리그램",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206792"
+  },
+  {
+   "itemSeq": "201206847",
+   "name": "그리메폴서방정2/500밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206847"
+  },
+  {
+   "itemSeq": "201301375",
+   "name": "베아릴엠정2/500밀리그램(글리메피리드,메트포르민염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201301375"
+  },
+  {
+   "itemSeq": "201308664",
+   "name": "그루리스엠정(글리메피리드,메트포르민염산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308664"
+  },
+  {
+   "itemSeq": "201309844",
+   "name": "액토스릴정30/2밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309844"
+  },
+  {
+   "itemSeq": "201309845",
+   "name": "액토스릴정30/4밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309845"
+  },
+  {
+   "itemSeq": "201403981",
+   "name": "이글리드엠정2/500밀리그램(수출용)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403981"
+  },
+  {
+   "itemSeq": "201404215",
+   "name": "휴메트정",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404215"
+  },
+  {
+   "itemSeq": "201500899",
+   "name": "글루펜엠정",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500899"
+  },
+  {
+   "itemSeq": "201603971",
+   "name": "리메포민정2/500밀리그램(글리메피리드, 메트포르민염산염)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603971"
+  },
+  {
+   "itemSeq": "201604018",
+   "name": "오코마릴엠정2/500밀리그램",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604018"
+  },
+  {
+   "itemSeq": "201800310",
+   "name": "다이릴엠정",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800310"
+  },
+  {
+   "itemSeq": "201801420",
+   "name": "글리스타엠정",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801420"
+  },
+  {
+   "itemSeq": "201803772",
+   "name": "리메트폴정2/500밀리그램(글리메피리드,메트포르민)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803772"
+  },
+  {
+   "itemSeq": "201900246",
+   "name": "글리메윈플러스정",
+   "company": "코스맥스파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900246"
+  },
+  {
+   "itemSeq": "201902053",
+   "name": "메프릴엠정2/500밀리그램(글리메피리드, 메트포르민염산염)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902053"
+  },
+  {
+   "itemSeq": "201905506",
+   "name": "글리밀엠정2/500mg",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905506"
+  },
+  {
+   "itemSeq": "201906557",
+   "name": "엠글리메포정2/500밀리그램",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906557"
+  },
+  {
+   "itemSeq": "201908350",
+   "name": "케이릴엠정1/250밀리그램",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908350"
+  },
+  {
+   "itemSeq": "201908349",
+   "name": "케이릴엠정2/500밀리그램",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908349"
+  },
+  {
+   "itemSeq": "202000697",
+   "name": "글리포엠정(글리메피리드, 메트포르민염산염)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "글리메피리드",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000697"
+  },
+  {
+   "itemSeq": "202300664",
+   "name": "다파그린지정10/4밀리그램",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300664"
+  },
+  {
+   "itemSeq": "202300715",
+   "name": "그루시가정10/4밀리그램",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300715"
+  },
+  {
+   "itemSeq": "202300717",
+   "name": "다파메피정10/4밀리그램",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300717"
+  },
+  {
+   "itemSeq": "202300716",
+   "name": "직더블엠정10/4밀리그램(다파글리플로진, 글리메피리드)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.3",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300716"
+  }
+ ]
+}

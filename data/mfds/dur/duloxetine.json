@@ -1,0 +1,34 @@
+{
+ "id": "duloxetine",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "duloxetine"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "selegiline hydrochloride",
+   "reason": "세로토닌 증후군 위험 증가 가능성",
+   "self": "duloxetine hydrochloride (as duloxetine)"
+  }
+ ],
+ "age": [
+  {
+   "text": "18세 미만: 소아 및 18세 미만의 청소년의 주요우울장애의 치료에는 사용해서는 안됨.만 7세에서 17세까지의 주요우울장애 환자에서 플루옥세틴 군보다 이상사례(주로 오심)로 인한 중단 및 자살행동 높음.",
+   "ingredient": "duloxetine hydrochloride (as duloxetine)"
+  }
+ ],
+ "pregnancy": [],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "정신신경용제",
+   "subgroup": "Group 14",
+   "code": "117N0002"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

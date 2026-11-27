@@ -1,0 +1,74 @@
+{
+ "id": "sulpiride",
+ "query": [
+  "설피리드"
+ ],
+ "fetched": "2026-11-26",
+ "total": 4,
+ "kept": 4,
+ "mfdsName": [
+  "설피리드"
+ ],
+ "items": [
+  {
+   "itemSeq": "199801193",
+   "name": "설피딘정200밀리그램(설피리드)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설피리드",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801193"
+  },
+  {
+   "itemSeq": "200001965",
+   "name": "스토가드캡슐(설피리드)(수출용)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설피리드",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001965"
+  },
+  {
+   "itemSeq": "200402886",
+   "name": "알파설피리드캡슐50밀리그람[수출명:GAMOTIL CAP](수출용)",
+   "company": "알파제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설피리드",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402886"
+  },
+  {
+   "itemSeq": "200608201",
+   "name": "쎌라트설피리드캡슐(설피리드)(수출용)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설피리드",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200608201"
+  }
+ ]
+}

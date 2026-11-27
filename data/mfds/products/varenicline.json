@@ -1,0 +1,345 @@
+{
+ "id": "varenicline",
+ "query": [
+  "바레니클린"
+ ],
+ "fetched": "2026-11-26",
+ "total": 22,
+ "kept": 22,
+ "mfdsName": [
+  "바레니클린살리실산염",
+  "바레니클린옥살산염수화물"
+ ],
+ "items": [
+  {
+   "itemSeq": "201802479",
+   "name": "니코위너정0.5밀리그램(바레니클린살리실산염)",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "0.825",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802479"
+  },
+  {
+   "itemSeq": "201802480",
+   "name": "니코위너정1밀리그램(바레니클린살리실산염)",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "1.65",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802480"
+  },
+  {
+   "itemSeq": "201802482",
+   "name": "연휴정0.5밀리그램(바레니클린살리실산염)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "0.825",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802482"
+  },
+  {
+   "itemSeq": "201802481",
+   "name": "연휴정1밀리그램(바레니클린살리실산염)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "1.65",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802481"
+  },
+  {
+   "itemSeq": "201802906",
+   "name": "니코픽스정0.5mg(바레니클린살리실산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "0.825",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802906"
+  },
+  {
+   "itemSeq": "201802905",
+   "name": "니코픽스정1mg(바레니클린살리실산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "1.65",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802905"
+  },
+  {
+   "itemSeq": "201803328",
+   "name": "니코브렉정0.5mg(바레니클린살리실산염)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "0.825",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803328"
+  },
+  {
+   "itemSeq": "201803337",
+   "name": "니코브렉정1mg(바레니클린살리실산염)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "1.65",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803337"
+  },
+  {
+   "itemSeq": "201803330",
+   "name": "제로코틴정0.5mg(바레니클린살리실산염)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "0.825",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803330"
+  },
+  {
+   "itemSeq": "201803335",
+   "name": "제로코틴정1mg(바레니클린살리실산염)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "1.65",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803335"
+  },
+  {
+   "itemSeq": "201803353",
+   "name": "금픽스정0.5밀리그램(바레니클린살리실산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "0.825",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803353"
+  },
+  {
+   "itemSeq": "201803354",
+   "name": "금픽스정1밀리그램(바레니클린살리실산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "1.65",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803354"
+  },
+  {
+   "itemSeq": "201803355",
+   "name": "탑픽스정0.5밀리그램(바레니클린살리실산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "0.825",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803355"
+  },
+  {
+   "itemSeq": "201803356",
+   "name": "탑픽스정1밀리그램(바레니클린살리실산염)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "1.65",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803356"
+  },
+  {
+   "itemSeq": "201803380",
+   "name": "니코버정0.5밀리그램(바레니클린살리실산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "0.825",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803380"
+  },
+  {
+   "itemSeq": "201803379",
+   "name": "니코버정1밀리그램(바레니클린살리실산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "1.65",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803379"
+  },
+  {
+   "itemSeq": "201803881",
+   "name": "스모클린정0.5밀리그램(바레니클린살리실산염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "0.825",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803881"
+  },
+  {
+   "itemSeq": "201803880",
+   "name": "스모클린정1밀리그램(바레니클린살리실산염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "1.65",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803880"
+  },
+  {
+   "itemSeq": "202002939",
+   "name": "니코챔스정0.5밀리그램(바레니클린살리실산염)",
+   "company": "제일헬스사이언스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "0.825",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002939"
+  },
+  {
+   "itemSeq": "202002938",
+   "name": "니코챔스정1밀리그램(바레니클린살리실산염)",
+   "company": "제일헬스사이언스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린살리실산염",
+     "amount": "1.65",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002938"
+  },
+  {
+   "itemSeq": "202301090",
+   "name": "노코틴정0.5밀리그램(바레니클린옥살산염수화물)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린옥살산염수화물",
+     "amount": "0.760",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301090"
+  },
+  {
+   "itemSeq": "202301089",
+   "name": "노코틴정1밀리그램(바레니클린옥살산염수화물)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "바레니클린옥살산염수화물",
+     "amount": "1.510",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301089"
+  }
+ ]
+}

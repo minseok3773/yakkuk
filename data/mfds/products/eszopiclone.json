@@ -1,0 +1,149 @@
+{
+ "id": "eszopiclone",
+ "query": [
+  "에스조피클론"
+ ],
+ "fetched": "2026-11-26",
+ "total": 9,
+ "kept": 9,
+ "mfdsName": [
+  "에스조피클론"
+ ],
+ "items": [
+  {
+   "itemSeq": "201902863",
+   "name": "조피스타정1밀리그램(에스조피클론)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스조피클론",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902863"
+  },
+  {
+   "itemSeq": "201902864",
+   "name": "조피스타정2밀리그램(에스조피클론)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스조피클론",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902864"
+  },
+  {
+   "itemSeq": "201902865",
+   "name": "조피스타정3밀리그램(에스조피클론)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스조피클론",
+     "amount": "3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902865"
+  },
+  {
+   "itemSeq": "202002178",
+   "name": "조스정1밀리그램(에스조피클론)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스조피클론",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002178"
+  },
+  {
+   "itemSeq": "202002180",
+   "name": "조스정2밀리그램(에스조피클론)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스조피클론",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002180"
+  },
+  {
+   "itemSeq": "202002179",
+   "name": "조스정3밀리그램(에스조피클론)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스조피클론",
+     "amount": "3.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002179"
+  },
+  {
+   "itemSeq": "202008746",
+   "name": "영진조피클론정1밀리그램(에스조피클론)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스조피클론",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008746"
+  },
+  {
+   "itemSeq": "202008747",
+   "name": "영진조피클론정2밀리그램(에스조피클론)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스조피클론",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008747"
+  },
+  {
+   "itemSeq": "202008748",
+   "name": "영진조피클론정3밀리그램(에스조피클론)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스조피클론",
+     "amount": "3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008748"
+  }
+ ]
+}

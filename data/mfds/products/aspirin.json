@@ -1,0 +1,1630 @@
+{
+ "id": "aspirin",
+ "query": [
+  "아스피린"
+ ],
+ "fetched": "2026-11-27",
+ "total": 92,
+ "kept": 92,
+ "mfdsName": [
+  "아스피린",
+  "아스피린장용펠렛",
+  "아스피린 장용펠렛",
+  "아스피린장용과립",
+  "아스피린 장용과립",
+  "주사용아스피린리신90%",
+  "아스피린과립"
+ ],
+ "items": [
+  {
+   "itemSeq": "199901188",
+   "name": "알타질주(주사용아스피린리신90%)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "주사용아스피린리신90%",
+     "amount": "1",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "1999-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901188"
+  },
+  {
+   "itemSeq": "199001012",
+   "name": "보령아스트릭스캡슐100밀리그람(아스피린)",
+   "company": "(주)보령",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린 장용과립",
+     "amount": "120.98",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1990-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199001012"
+  },
+  {
+   "itemSeq": "199703010",
+   "name": "초당아스피린장용정100mg(아스피린)",
+   "company": "초당약품공업(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-01-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199703010"
+  },
+  {
+   "itemSeq": "200008591",
+   "name": "바이엘아스피린정500밀리그람",
+   "company": "바이엘코리아(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008591"
+  },
+  {
+   "itemSeq": "200003092",
+   "name": "한미아스피린장용정100밀리그램",
+   "company": "한미약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200003092"
+  },
+  {
+   "itemSeq": "200108429",
+   "name": "아스피린프로텍트정100밀리그람",
+   "company": "바이엘코리아(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-09-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108429"
+  },
+  {
+   "itemSeq": "200200734",
+   "name": "영진아스피린장용정",
+   "company": "영진약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-08-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200734"
+  },
+  {
+   "itemSeq": "200906484",
+   "name": "보령바이오아스트릭스캡슐100밀리그램(아스피린장용과립)",
+   "company": "(주)보령바이오파마",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린장용과립",
+     "amount": "119.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-08-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906484"
+  },
+  {
+   "itemSeq": "201206625",
+   "name": "이텍스아스피린장용정100mg(아스피린)",
+   "company": "(주)테라젠이텍스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206625"
+  },
+  {
+   "itemSeq": "201206820",
+   "name": "경보아스피린장용정",
+   "company": "(주)경보제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206820"
+  },
+  {
+   "itemSeq": "201207417",
+   "name": "아나피린장용정100밀리그램(아스피린)",
+   "company": "아주약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207417"
+  },
+  {
+   "itemSeq": "201208281",
+   "name": "아스테린정(아스피린)",
+   "company": "성원애드콕제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208281"
+  },
+  {
+   "itemSeq": "201210591",
+   "name": "에이에스피장용정100mg(아스피린)",
+   "company": "(주)파마킹",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-12-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201210591"
+  },
+  {
+   "itemSeq": "201211564",
+   "name": "삼익아스피린장용정",
+   "company": "삼익제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201211564"
+  },
+  {
+   "itemSeq": "201300051",
+   "name": "아스텍트정(아스피린)",
+   "company": "(주)동구바이오제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201300051"
+  },
+  {
+   "itemSeq": "201301377",
+   "name": "유니온아스피린장용정",
+   "company": "부광유니파마(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201301377"
+  },
+  {
+   "itemSeq": "201301656",
+   "name": "프라임아스피린장용정100밀리그램",
+   "company": "한국프라임제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201301656"
+  },
+  {
+   "itemSeq": "201306112",
+   "name": "아스필장용정(아스피린100밀리그람)",
+   "company": "익수제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306112"
+  },
+  {
+   "itemSeq": "201306277",
+   "name": "아스피바장용정(아스피린)",
+   "company": "(주)바이넥스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306277"
+  },
+  {
+   "itemSeq": "201307061",
+   "name": "린아스장용정(아스피린)",
+   "company": "알리코제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307061"
+  },
+  {
+   "itemSeq": "201307928",
+   "name": "에이스린장용정(아스피린)",
+   "company": "(주)한국파비스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307928"
+  },
+  {
+   "itemSeq": "201308448",
+   "name": "아스피드정(아스피린)",
+   "company": "(주)일화",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308448"
+  },
+  {
+   "itemSeq": "201308924",
+   "name": "하원아스피린장용정100mg",
+   "company": "(주)하원제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308924"
+  },
+  {
+   "itemSeq": "201309112",
+   "name": "경동아스피린장용정",
+   "company": "경동제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309112"
+  },
+  {
+   "itemSeq": "201310133",
+   "name": "영일아스피린장용정100mg(아스피린)",
+   "company": "영일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-11-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310133"
+  },
+  {
+   "itemSeq": "201310207",
+   "name": "명문아스피린장용정100mg",
+   "company": "명문제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310207"
+  },
+  {
+   "itemSeq": "201310349",
+   "name": "넥스핀장용정100mg(아스피린)",
+   "company": "(주)넥스팜코리아",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310349"
+  },
+  {
+   "itemSeq": "201310592",
+   "name": "바소피린장용정(아스피린)",
+   "company": "조아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310592"
+  },
+  {
+   "itemSeq": "201400318",
+   "name": "유한아스피린장용정(아스피린)",
+   "company": "(주)유한양행",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400318"
+  },
+  {
+   "itemSeq": "201400493",
+   "name": "유영아스피린장용정100mg",
+   "company": "(주)유영제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400493"
+  },
+  {
+   "itemSeq": "201401484",
+   "name": "씨엠지아스피린장용정100mg",
+   "company": "(주)씨엠지제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401484"
+  },
+  {
+   "itemSeq": "201402678",
+   "name": "삼진아스피린장용정",
+   "company": "삼진제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-06-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402678"
+  },
+  {
+   "itemSeq": "201402959",
+   "name": "글로아스피린장용정100mg(아스피린)",
+   "company": "(주)킵스바이오파마",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402959"
+  },
+  {
+   "itemSeq": "201404364",
+   "name": "알피린장용정(아스피린)(수출용)",
+   "company": "(주)제일제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404364"
+  },
+  {
+   "itemSeq": "201404696",
+   "name": "휴비스트아스피린장용정",
+   "company": "(주)휴비스트제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404696"
+  },
+  {
+   "itemSeq": "201405003",
+   "name": "아사프장용정100mg(아스피린)",
+   "company": "(주)제뉴파마",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405003"
+  },
+  {
+   "itemSeq": "201600396",
+   "name": "아스텍션장용정100밀리그램(아스피린)",
+   "company": "(주)셀트리온제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600396"
+  },
+  {
+   "itemSeq": "201603416",
+   "name": "아스필로장용정100밀리그램(아스피린)",
+   "company": "안국약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603416"
+  },
+  {
+   "itemSeq": "201702015",
+   "name": "광동아스피린장용정100mg",
+   "company": "광동제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702015"
+  },
+  {
+   "itemSeq": "201702179",
+   "name": "코미아스피린정(수출용)",
+   "company": "(주)코미팜",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702179"
+  },
+  {
+   "itemSeq": "201706882",
+   "name": "아스팜장용정(아스피린)",
+   "company": "한국코러스(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706882"
+  },
+  {
+   "itemSeq": "201708490",
+   "name": "비엘피린장용정100밀리그램(아스피린)",
+   "company": "(주)씨엘팜",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708490"
+  },
+  {
+   "itemSeq": "201801356",
+   "name": "뉴스피린장용정100밀리그램(아스피린)",
+   "company": "(주)다산제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801356"
+  },
+  {
+   "itemSeq": "201802534",
+   "name": "휴텍스아스피린장용정100mg(아스피린)",
+   "company": "한국휴텍스제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802534"
+  },
+  {
+   "itemSeq": "201803126",
+   "name": "대웅바이오아스피린장용정100밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803126"
+  },
+  {
+   "itemSeq": "201803431",
+   "name": "마더스아스피린장용정100mg(아스피린)",
+   "company": "(주)마더스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803431"
+  },
+  {
+   "itemSeq": "201900178",
+   "name": "서울아스피린장용정",
+   "company": "(주)서울제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900178"
+  },
+  {
+   "itemSeq": "201900221",
+   "name": "케이아스피린장용정(아스피린)",
+   "company": "한국넬슨제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900221"
+  },
+  {
+   "itemSeq": "201901869",
+   "name": "지엘아스피린장용정100밀리그램",
+   "company": "지엘팜텍(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901869"
+  },
+  {
+   "itemSeq": "201908303",
+   "name": "보령바이오아스피린장용정100밀리그램",
+   "company": "(주)보령바이오파마",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908303"
+  },
+  {
+   "itemSeq": "202001489",
+   "name": "삼성아스피린장용정100밀리그램",
+   "company": "삼성제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001489"
+  },
+  {
+   "itemSeq": "202300475",
+   "name": "에이스린장용정(아스피린)(수출용)",
+   "company": "(주)한국파비스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-02-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300475"
+  },
+  {
+   "itemSeq": "201111150",
+   "name": "클라빅신듀오캡슐75/100밀리그램(클로피도그렐,아스피린)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201111150"
+  },
+  {
+   "itemSeq": "201111148",
+   "name": "클라스핀캡슐75/100밀리그램(클로피도그렐,아스피린)",
+   "company": "한국바이오켐제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201111148"
+  },
+  {
+   "itemSeq": "201111149",
+   "name": "클로스원캡슐",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201111149"
+  },
+  {
+   "itemSeq": "201200635",
+   "name": "슈퍼피린캡슐75/100밀리그램(클로피도그렐, 아스피린)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200635"
+  },
+  {
+   "itemSeq": "201200636",
+   "name": "아리그렐캡슐",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200636"
+  },
+  {
+   "itemSeq": "201200634",
+   "name": "클로피린캡슐",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201200634"
+  },
+  {
+   "itemSeq": "201202398",
+   "name": "코프리그렐캡슐",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201202398"
+  },
+  {
+   "itemSeq": "201600889",
+   "name": "아디녹스캡슐",
+   "company": "초당약품공업(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "디피리다몰",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600889"
+  },
+  {
+   "itemSeq": "201603148",
+   "name": "플라빅스에이정",
+   "company": "(주)사노피-아벤티스코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아스피린과립",
+     "amount": "111.111",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.880",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603148"
+  },
+  {
+   "itemSeq": "201605650",
+   "name": "아스피도캡슐",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린 장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201605650"
+  },
+  {
+   "itemSeq": "201700400",
+   "name": "아스그렐캡슐(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700400"
+  },
+  {
+   "itemSeq": "201700402",
+   "name": "피도겔듀오캡슐",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700402"
+  },
+  {
+   "itemSeq": "201700540",
+   "name": "클로렌캡슐",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700540"
+  },
+  {
+   "itemSeq": "201700718",
+   "name": "클로본스에이캡슐",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-02-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201700718"
+  },
+  {
+   "itemSeq": "201701038",
+   "name": "플빅스에이캡슐",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린 장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701038"
+  },
+  {
+   "itemSeq": "201701528",
+   "name": "에라빅스플러스캡슐",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701528"
+  },
+  {
+   "itemSeq": "201702432",
+   "name": "디피아녹스서방캡슐",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "디피리다몰",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-05-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702432"
+  },
+  {
+   "itemSeq": "201706909",
+   "name": "아나빅스듀오캡슐",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706909"
+  },
+  {
+   "itemSeq": "201706891",
+   "name": "클로아핀캡슐",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706891"
+  },
+  {
+   "itemSeq": "201708219",
+   "name": "슈퍼피린캡슐75/75밀리그램(클로피도그렐, 아스피린)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708219"
+  },
+  {
+   "itemSeq": "201708499",
+   "name": "클로스피린캡슐(클로피도그렐황산염, 아스피린장용펠렛)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708499"
+  },
+  {
+   "itemSeq": "201800668",
+   "name": "프래빅스듀오캡슐",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린장용펠렛",
+     "amount": "122.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800668"
+  },
+  {
+   "itemSeq": "201800764",
+   "name": "클라빅신듀오캡슐75/75밀리그램",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800764"
+  },
+  {
+   "itemSeq": "201803083",
+   "name": "클라스핀캡슐75/75밀리그램",
+   "company": "한국바이오켐제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로피도그렐황산염",
+     "amount": "97.875",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "75",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803083"
+  },
+  {
+   "itemSeq": "202303032",
+   "name": "라스피린캡슐100/5밀리그램(아스피린,라베프라졸)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아스피린 장용펠렛",
+     "amount": "132.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "라베프라졸나트륨",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303032"
+  },
+  {
+   "itemSeq": "202401364",
+   "name": "라베피린캡슐100/5밀리그램(아스피린,라베프라졸)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라베프라졸나트륨",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401364"
+  },
+  {
+   "itemSeq": "202401369",
+   "name": "아스프라졸캡슐100/5밀리그램(아스피린,라베프라졸)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라베프라졸나트륨",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401369"
+  },
+  {
+   "itemSeq": "202402338",
+   "name": "아라텍트캡슐100/5밀리그램(아스피린,라베프라졸)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라베프라졸나트륨",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402338"
+  },
+  {
+   "itemSeq": "202402347",
+   "name": "아스라베캡슐100/5밀리그램(아스피린,라베프라졸)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라베프라졸나트륨",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402347"
+  },
+  {
+   "itemSeq": "202402348",
+   "name": "아스라졸캡슐100/5밀리그램(아스피린,라베프라졸)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라베프라졸나트륨",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402348"
+  },
+  {
+   "itemSeq": "202402464",
+   "name": "라베트릭스캡슐100/5밀리그램(아스피린,라베프라졸)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라베프라졸나트륨",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402464"
+  },
+  {
+   "itemSeq": "202500715",
+   "name": "아스베린캡슐100/5밀리그램(아스피린,라베프라졸)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라베프라졸나트륨",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500715"
+  },
+  {
+   "itemSeq": "200804143",
+   "name": "이텍스엑세드린정(수출용)",
+   "company": "(주)테라젠이텍스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "250",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "250",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "무수카페인",
+     "amount": "65",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-04-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200804143"
+  },
+  {
+   "itemSeq": "200807674",
+   "name": "이텍스아나신정(수출용)",
+   "company": "(주)테라젠이텍스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "400",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카페인무수물",
+     "amount": "32",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807674"
+  },
+  {
+   "itemSeq": "201400930",
+   "name": "알카파워정",
+   "company": "익수제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시트르산",
+     "amount": "1000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "1916",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400930"
+  },
+  {
+   "itemSeq": "202303263",
+   "name": "코아피린산375/100밀리그램",
+   "company": "(주)코아팜바이오",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "375",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스코르브산",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-12-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303263"
+  },
+  {
+   "itemSeq": "202402526",
+   "name": "코아피린리보정100/2밀리그램",
+   "company": "(주)코아팜바이오",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아스피린",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리보플라빈",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402526"
+  },
+  {
+   "itemSeq": "202502194",
+   "name": "스피다정",
+   "company": "명인제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "250.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "250.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카페인무수물",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502194"
+  },
+  {
+   "itemSeq": "202502660",
+   "name": "페인싹트리플정",
+   "company": "(주)한풍제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카페인무수물",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502660"
+  },
+  {
+   "itemSeq": "202603167",
+   "name": "안티싹트리플정",
+   "company": "(주)시어스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "아세트아미노펜",
+     "amount": "325",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "아스피린",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카페인무수물",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603167"
+  }
+ ]
+}

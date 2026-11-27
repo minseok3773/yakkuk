@@ -1,0 +1,55 @@
+{
+ "id": "meloxicam",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "meloxicam"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "ketorolac tromethamine",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "meloxicam"
+  },
+  {
+   "ingredient": "methotrexate",
+   "reason": "신세뇨관에서 Methotrexate 배설이 지연되어 Methotrexate의 혈액학적 독성 증가",
+   "self": "meloxicam",
+   "remark": "1주에 MTX 15mg 이상 투여시 병용금기"
+  }
+ ],
+ "age": [
+  {
+   "text": "15세 이하:",
+   "ingredient": "meloxicam"
+  }
+ ],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임신 초기 사용시 유산, 심장기형, 배벽갈림증 위험 증가.임신 말기 사용시 심폐독성, 신기능장애, 출혈시간 연장, 항응집 효과, 자궁수축 억제 가능성.동물실험에서 착상 전후 손실, 배태자 사망률 및 기형발생 증가 보고.",
+   "ingredient": "meloxicam"
+  }
+ ],
+ "elderly": [
+  {
+   "reason": "",
+   "ingredient": "meloxicam"
+  }
+ ],
+ "dose": [
+  {
+   "text": "1일 최대투여량: 멜록시캄 15mg"
+  }
+ ],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "해열진통소염제",
+   "subgroup": "Group 1",
+   "code": "114A0029"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

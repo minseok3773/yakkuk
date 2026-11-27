@@ -1,0 +1,83 @@
+{
+ "id": "lurasidone",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "lurasidone"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "St. John's Wort 80% methanol ext.",
+   "reason": "Lurasidone의 노출을 감소시킬 수 있음",
+   "self": "lurasidone hydrochloride"
+  },
+  {
+   "ingredient": "carbamazepine",
+   "reason": "Lurasidone의 노출을 감소시킬 수 있음",
+   "self": "lurasidone hydrochloride"
+  },
+  {
+   "ingredient": "clarithromycin",
+   "reason": "Lurasidone의 노출을 증가시킬 수 있음",
+   "self": "lurasidone hydrochloride"
+  },
+  {
+   "ingredient": "diphenylhydantoin sodium",
+   "reason": "Lurasidone의 노출을 감소시킬 수 있음",
+   "self": "lurasidone hydrochloride"
+  },
+  {
+   "ingredient": "itraconazole",
+   "reason": "저혈압, 순환허탈, 중증의 추체외로 증상, 발작과 같은 약물이상반응 발생 위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 금기",
+   "self": "lurasidone hydrochloride"
+  },
+  {
+   "ingredient": "nirmatrelvir+ritonavir",
+   "reason": "심장 부정맥과 같은 중대한 및/또는 생명을 위협하는 반응의 가능성",
+   "self": "lurasidone hydrochloride"
+  },
+  {
+   "ingredient": "phenytoin sodium",
+   "reason": "Lurasidone의 노출을 감소시킬 수 있음",
+   "self": "lurasidone hydrochloride"
+  },
+  {
+   "ingredient": "rifampicin",
+   "reason": "Lurasidone의 노출을 감소시킬 수 있음",
+   "self": "lurasidone hydrochloride"
+  },
+  {
+   "ingredient": "ritonavir",
+   "reason": "Lurasidone의 노출을 증가시킬 수 있음",
+   "self": "lurasidone hydrochloride"
+  },
+  {
+   "ingredient": "voriconazole",
+   "reason": "Lurasidone의 노출을 증가시킬 수 있음",
+   "self": "lurasidone hydrochloride"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립. 임신 3기 동안 항정신병 약물에 노출된 신생아에서 추체외로 및/또는 금단 증상 보고(초조, 근긴장 항진증, 근긴장 저하증, 진정, 졸림, 호흡 곤란, 섭식 장애 포함)",
+   "ingredient": "Lurasidone"
+  }
+ ],
+ "elderly": [
+  {
+   "reason": "",
+   "ingredient": "lurasidone hydrochloride"
+  }
+ ],
+ "dose": [
+  {
+   "text": "1일 최대투여량: (조현병) 루라시돈 160mg / (양극성 장애) 루라시돈 120mg"
+  }
+ ],
+ "duration": [],
+ "class_duplication": [],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

@@ -1,0 +1,145 @@
+{
+ "id": "ramipril",
+ "query": [
+  "라미프릴"
+ ],
+ "fetched": "2026-11-26",
+ "total": 8,
+ "kept": 8,
+ "mfdsName": [
+  "라미프릴",
+  "히드록시프로필메틸셀룰로오스로제피한라미프릴과립"
+ ],
+ "items": [
+  {
+   "itemSeq": "199200884",
+   "name": "트리테이스정2.5밀리그람(라미프릴)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "히드록시프로필메틸셀룰로오스로제피한라미프릴과립",
+     "amount": "2.941",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1992-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199200884"
+  },
+  {
+   "itemSeq": "199200883",
+   "name": "트리테이스정5밀리그람(라미프릴)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "히드록시프로필메틸셀룰로오스로제피한라미프릴과립",
+     "amount": "5.882",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1992-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199200883"
+  },
+  {
+   "itemSeq": "200500974",
+   "name": "트리테이스프로텍트정(라미프릴)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "히드록시프로필메틸셀룰로오스로제피한라미프릴과립",
+     "amount": "11.765",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500974"
+  },
+  {
+   "itemSeq": "200502436",
+   "name": "알파라미프릴캡슐(라미프릴)(수출용)",
+   "company": "알파제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라미프릴",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502436"
+  },
+  {
+   "itemSeq": "200500140",
+   "name": "하트프릴정2.5밀리그램(라미프릴)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라미프릴",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-11-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500140"
+  },
+  {
+   "itemSeq": "200600028",
+   "name": "하트프릴프로텍트정(라미프릴)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라미프릴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600028"
+  },
+  {
+   "itemSeq": "200300698",
+   "name": "트리아핀정2.5/2.5mg",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "펠로디핀",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "라미프릴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300698"
+  },
+  {
+   "itemSeq": "200300699",
+   "name": "트리아핀정5/5mg",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "라미프릴",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "펠로디핀",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300699"
+  }
+ ]
+}

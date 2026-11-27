@@ -1,0 +1,73 @@
+{
+ "id": "bisacodyl",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "bisacodyl"
+ ],
+ "contraindicated_with": [],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임부 투여금기",
+   "ingredient": "Bisacodyl"
+  },
+  {
+   "grade": "2",
+   "reason": "senna ex.: 대황의 자궁 수축 작용 혹은 골반내 장기의 유출작용에 의해 유조산의 위험 가능성./ Bisacodyl:임부 투여금기",
+   "ingredient": "senna ex., Bisacodyl, Docusate"
+  },
+  {
+   "grade": "2",
+   "reason": "Bisacodyl:임부 투여금기",
+   "ingredient": "sennoside, Bisacodyl, Docusate"
+  },
+  {
+   "grade": "2",
+   "reason": "bisacodyl: 임부 투여금기/senna: 대황의 자궁 수축 작용 혹은 골반내 장기의 유출작용에 의해 유조산의 위험 가능성.",
+   "ingredient": "bisacodyl + docusate sodium"
+  },
+  {
+   "grade": "2",
+   "reason": "bisacodyl: 임부 투여금기/docusate: -",
+   "ingredient": "bisacodyl, docusate"
+  },
+  {
+   "grade": "2",
+   "reason": "bisacodyl: 임부 투여금기",
+   "ingredient": "bisacodyl + docusate"
+  },
+  {
+   "grade": "2",
+   "reason": "bisacodyl:임부 투여금기/sennae:대황의 자궁 수축 작용 혹은 골반내 장기의 유출작용에 의해 유조산의 위험 가능성.",
+   "ingredient": "bisacodyl +sennae fructus powder"
+  },
+  {
+   "grade": "2",
+   "reason": "bisacodyl:임부 투여금기/docusate 2등급/sennoside 2등급",
+   "ingredient": "bisacodyl 포함 복합성분"
+  },
+  {
+   "grade": "2",
+   "reason": "bisacodyl: 임부 투여금기 / docusate: - / sennoside: -",
+   "ingredient": "bisacodyl + docusate + sennoside"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [
+  {
+   "text": "최대투여기간: 7일"
+  },
+  {
+   "text": "최대투여기간: 7일 (bisacodyl 함유제제)"
+  },
+  {
+   "text": "최대투여기간: 7일 (Bisacodyl 함유제제)"
+  }
+ ],
+ "class_duplication": [],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

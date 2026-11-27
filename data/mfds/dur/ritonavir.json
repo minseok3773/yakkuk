@@ -1,0 +1,470 @@
+{
+ "id": "ritonavir",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "ritonavir"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "St. John's Wort 80% methanol ext.",
+   "reason": "Nirmatrelvir+Ritonavir의 혈중농도가 현저히 감소하여 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성. CYP3A 유도제의 지연된 효과(offset)로 인해 St. John's Wort 중단한 직후에는 Nirmatrelvir/Ritonavir 시작할 수 없음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "alfuzosin hydrochloride",
+   "reason": "저혈압의 가능성",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "amiodarone hydrochloride",
+   "reason": "심장 부정맥의 가능성",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "apalutamide",
+   "reason": "Nirmatrelvir+Ritonavir의 혈중농도가 현저히 감소하여 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성. CYP3A 유도제의 지연된 효과(offset)로 인해 Apalutamide 중단한 직후에는 Nirmatrelvir/Ritonavir 시작할 수 없음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "blonanserin",
+   "reason": "신경학적 또는 기타 독성의 빈도 및 강도가 증가",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "bosentan hydrate (as bosentan)",
+   "reason": "Bosentan의 혈중농도를 증가시키고, Nirmatrelvir+Ritonavir의 혈중농도를 감소시킬 수 있음. 이 약의 투여 시작으로부터 최소 36시간 전에 Bosentan의 사용을 중단할 것",
+   "self": "nirmatrelvir+ritonavir",
+   "remark": "36시간 이내 병용금기"
+  },
+  {
+   "ingredient": "caffeine anhydrous+ergotamine tartrate",
+   "reason": "사지 및 중추신경계를 포함하는 기타 조직의 혈관 경련 및 허혈을 특징으로 하는 급성 맥각 독성의 잠재적인 가능성",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "carbamazepine",
+   "reason": "Nirmatrelvir+Ritonavir의 혈중농도가 현저히 감소하여 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성. CYP3A 유도제의 지연된 효과(offset)로 인해 Carbamazepine 중단한 직후에는 Nirmatrelvir/Ritonavir 시작할 수 없음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "clopidogrel besylate (as clopidogrel)",
+   "reason": "Clopidogrel 활성대사체의 농도를 감소시킬 수 있음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "clopidogrel bisulfate (as clopidogrel)",
+   "reason": "Clopidogrel 활성대사체의 농도를 감소시킬 수 있음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "clopidogrel camsylate (as clopidogrel)",
+   "reason": "Clopidogrel 활성대사체의 농도를 감소시킬 수 있음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "clopidogrel napadisilate monohydrate (as clopidogrel)",
+   "reason": "Clopidogrel 활성대사체의 농도를 감소시킬 수 있음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "clopidogrel resinate (as clopidogrel)",
+   "reason": "Clopidogrel 활성대사체의 농도를 감소시킬 수 있음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "colchicine",
+   "reason": "신장 및/또는 간장애가 있는 환자에서 중대한 및/또는 생명을 위협하는 반응의 가능성",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "cyclosporine",
+   "reason": "Cyclosporine의 혈중농도를 증가시키고 중대한 이상반응 초래할 수 있음. 병용투여할 경우, 면역억제제의 용량 조절 및 이상반응에 대한 면밀한 모니터링 권장됨",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "diphenylhydantoin sodium",
+   "reason": "Nirmatrelvir+Ritonavir의 혈중농도가 현저히 감소하여 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성. CYP3A 유도제의 지연된 효과(offset)로 인해 Phenytoin 중단한 직후에는 Nirmatrelvir/Ritonavir 시작할 수 없음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "dronedarone",
+   "reason": "심장 부정맥의 가능성",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "enzalutamide",
+   "reason": "Nirmatrelvir+Ritonavir의 혈중농도가 현저히 감소하여 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성. CYP3A 유도제의 지연된 효과(offset)로 인해 Enzalutamide 중단한 직후에는 Nirmatrelvir/Ritonavir 시작할 수 없음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "ethambutol hydrochloride+isoniazid+pyrazinamide+rifampicin",
+   "reason": "Nirmatrelvir+Ritonavir의 혈중농도가 현저히 감소하여 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성. CYP3A 유도제의 지연된 효과(offset)로 인해 Rifampicin 함유제제 중단한 직후에는 Nirmatrelvir/Ritonavir 시작할 수 없음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "everolimus",
+   "reason": "Everolimus의 혈중농도를 증가시킬 수 있음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "ezetimibe+simvastatin",
+   "reason": "횡문근융해증을 포함하는 근육병증의 잠재적인 가능성. 이 약의 투여 시작으로부터 최소 12시간 전, 투여 중 5일동안 및 투여완료 후 5일동안 심바스타틴의 사용을 중단할 것",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "finerenone",
+   "reason": "고칼륨혈증, 저혈압 및 저나트륨혈증을 포함하는 중대한 이상반응의 가능성",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "flecainide acetate",
+   "reason": "심장 부정맥의 가능성",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "flecainide acetate",
+   "reason": "부정맥, 혈액장애, 경련등",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "fluticasone propionate+salmeterol xinafoate (as salmeterol)",
+   "reason": "QT 연장, 심계항진, 동성빈맥(sinus tachycardia)을 포함하여 살메테롤과 관련된 심혈관 부작용의 위험을 증가시킬 수 있음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "glecaprevir+pibrentasvir",
+   "reason": "증가된 Glecaprevir 농도는 알라닌아미노전달효소(ALT) 상승을 유발할 수 있음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "isoniazid+rifampicin",
+   "reason": "Nirmatrelvir+Ritonavir의 혈중농도가 현저히 감소하여 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성. CYP3A 유도제의 지연된 효과(offset)로 인해 Rifampicin 함유제제 중단한 직후에는 Nirmatrelvir/Ritonavir 시작할 수 없음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "ivabradine hydrochloride (as ivabradine)",
+   "reason": "서맥 또는 전도장애의 가능성",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "lurasidone hydrochloride",
+   "reason": "심장 부정맥과 같은 중대한 및/또는 생명을 위협하는 반응의 가능성",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "methylergonovine maleate",
+   "reason": "사지 및 중추신경계를 포함하는 기타 조직의 혈관경련 및 허혈을 특징으로 하는 급성 맥각독성의 잠재적인 가능성",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "microemulsion cyclosporine",
+   "reason": "Cyclosporine의 혈중농도를 증가시키고 중대한 이상반응 초래할 수 있음. 병용투여할 경우, 면역억제제의 용량 조절 및 이상반응에 대한 면밀한 모니터링 권장됨",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "phenobarbital",
+   "reason": "Nirmatrelvir+Ritonavir의 혈중농도가 현저히 감소하여 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성. CYP3A 유도제의 지연된 효과(offset)로 인해 Phenobarbital 중단한 직후에는 Nirmatrelvir/Ritonavir 시작할 수 없음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "phenobarbital sodium",
+   "reason": "Nirmatrelvir+Ritonavir의 혈중농도가 현저히 감소하여 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성. CYP3A 유도제의 지연된 효과(offset)로 인해 Phenobarbital 중단한 직후에는 Nirmatrelvir/Ritonavir 시작할 수 없음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "phenytoin sodium",
+   "reason": "Nirmatrelvir+Ritonavir의 혈중농도가 현저히 감소하여 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성. CYP3A 유도제의 지연된 효과(offset)로 인해 Phenytoin 중단한 직후에는 Nirmatrelvir/Ritonavir 시작할 수 없음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "pimozide",
+   "reason": "심장 부정맥과 같은 중대한 및/또는 생명을 위협하는 반응의 가능성",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "primidone",
+   "reason": "Nirmatrelvir+Ritonavir의 혈중농도가 현저히 감소하여 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성. CYP3A 유도제의 지연된 효과(offset)로 인해 Primidone 중단한 직후에는 Nirmatrelvir/Ritonavir 시작할 수 없음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "propafenone hydrochloride",
+   "reason": "심장 부정맥의 가능성",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "rifampicin",
+   "reason": "Nirmatrelvir+Ritonavir의 혈중농도가 현저히 감소하여 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성. CYP3A 유도제의 지연된 효과(offset)로 인해 Rifampicin 중단한 직후에는 Nirmatrelvir/Ritonavir 시작할 수 없음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "Ibrutinib",
+   "reason": "Ibrutinib의 혈중 농도 증가. Ibrutinib의 노출 증가로 종양 용해 증후군의 위험을 포함한 독성 위험성 증가",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "St. John's Wort 80% methanol ext.",
+   "reason": "병용 시 항바이러스 약의 치료효과가 떨어지고 내성 발현 가능",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "alfuzosin hydrochloride",
+   "reason": "Alfuzosin의 혈중농도 증가로 저혈압의 가능성",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "amiodarone hydrochloride",
+   "reason": "부정맥, 혈액장애, 발작 등 중대한 이상반응",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "caffeine anhydrous+ergotamine tartrate",
+   "reason": "맥각독성(혈관경련, 말단 및 기타조직 허혈)",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "domperidone",
+   "reason": "QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성. 강력한 CYP억제제가 돔페리돈의 대사를 감소시켜, 돔페리돈의 영향(이상반응 포함) 증대 가능성",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "domperidone maleate (as domperidone)",
+   "reason": "QTc 연장 효과 증대로 심각한 위험(Torsade de Pointes, 심각한 심실성 부정맥 포함) 가능성. 강력한 CYP억제제가 돔페리돈의 대사를 감소시켜, 돔페리돈의 영향(이상반응 포함) 증대 가능성",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "dronedarone",
+   "reason": "Dronedarone 노출량 증가",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "ezetimibe+simvastatin",
+   "reason": "근육병증의 위험 증가 가능",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "finerenone",
+   "reason": "Finerenone 혈중농도의 현저한 증가가 예상됨",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "fluticasone propionate+salmeterol xinafoate (as salmeterol)",
+   "reason": "Fluticasone의 혈중농도 증가로 쿠싱증후군 및 부신억제와 같은 전신 코르티코스테로이드 효과 나타날 수 있음. Salmeterol의 혈중농도 증가로 QT연장, 심계항진 등 심혈관계 이상반응 위험 증가",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "ivabradine hydrochloride (as ivabradine)",
+   "reason": "이바브라딘의 혈중농도 증가",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "lurasidone hydrochloride",
+   "reason": "Lurasidone의 노출을 증가시킬 수 있음",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "methylergonovine maleate",
+   "reason": "맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "palbociclib",
+   "reason": "팔보시클립의 혈장 농도 증가",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "pethidine hydrochloride",
+   "reason": "Ritonavir와 병용 시 Pethidine의 독성이 나타날 위험이 있음",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "pimozide",
+   "reason": "QT 연장, 심실성 빈맥, 심실세동 및 torsades de pointes 등 심독성위험 증가",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "rivaroxaban(micronized)",
+   "reason": "리바록사반의 혈중농도가 상승하여 출혈위험 증가",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "sildenafil citrate(as sildenafil)",
+   "reason": "sildenafil 혈중농도 증가",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "silodosin",
+   "reason": "실로도신의 혈중농도 증가",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "simvastatin",
+   "reason": "횡문근융해증을 비롯한 근육질환 등 중증 이상반응",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "ticagrelor",
+   "reason": "티카그렐러의 혈중농도 증가",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "tolvaptan",
+   "reason": "톨밥탄의 혈중농도 증가",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "tolvaptan SD powder (as tolvaptan)",
+   "reason": "톨밥탄의 혈중농도 증가",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "trastuzumab emtansine (as trastuzumab)",
+   "reason": "이 약의 구성 성분인 DM1이 주로 CYP3A4에 의해 대사됨. 강한 CYP3A4억제제와 병용시 DM1 노출과 독성 증가 가능성",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "triazolam",
+   "reason": "진정작용의 연장 또는 증가, 호흡 저하",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "voriconazole",
+   "reason": "Voriconazole의 혈장 농도를 감소시켜 항진균 효과를 상실시킬 수 있음",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "rivaroxaban(micronized)",
+   "reason": "출혈 위험의 증가",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "sildenafil citrate(as sildenafil)",
+   "reason": "시각 이상, 발기 시간 지연 및 실신을 포함한 Sildenafil 관련 이상반응의 가능성. 폐고혈압 치료에 사용 시 병용투여 금기, 발기부전에 사용 시 Sildenafil의 용량조절이 권장됨",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "silodosin",
+   "reason": "기립성저혈압의 가능성",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "simvastatin",
+   "reason": "횡문근융해증을 포함하는 근육병증의 잠재적인 가능성. 이 약의 투여 시작으로부터 최소 12시간 전, 투여 중 5일동안 및 투여완료 후 5일동안 Simvastatin 사용을 중단할 것",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "sirolimus",
+   "reason": "Sirolimus의 혈중농도를 증가시킬 수 있음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "tacrolimus hydrate (as tacrolimus)",
+   "reason": "Tacrolimus의 혈중농도를 증가시키고 중대한 이상반응 초래할 수 있음. 병용투여할 경우, 면역억제제의 용량 조절 및 이상반응에 대한 면밀한 모니터링 권장됨",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "tamsulosin hydrochloride",
+   "reason": "Tamsulosin의 혈중농도를 증가시킬 수 있음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "ticagrelor",
+   "reason": "Ticagrelor의 혈중농도를 증가시킬 수 있음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "tolvaptan",
+   "reason": "탈수, 저혈량증 및 고칼륨혈증의 가능성",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "tolvaptan SD powder (as tolvaptan)",
+   "reason": "탈수, 저혈량증 및 고칼륨혈증의 가능성",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "triazolam",
+   "reason": "과도한 진정 및 호흡억제의 가능성",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "voriconazole",
+   "reason": "Voriconazole의 혈중농도를 감소시킬 수 있음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "cimicifuga rhizome ext.+st. john's wort 80% methanol ext.",
+   "reason": "Nirmatrelvir+Ritonavir의 혈중농도가 현저히 감소하여 바이러스 반응의 손실 및 내성 발현의 잠재적인 가능성. CYP3A 유도제의 지연된 효과(offset)로 인해 St. john’s wort 함유제제 중단한 직후에는 Nirmatrelvir/Ritonavir 시작할 수 없음",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "clomipramine hydrochloride+sildenafil citrate (as sildenafil)",
+   "reason": "시각 이상, 발기 시간 지연 및 실신을 포함한 실데나필 관련 이상반응의 가능성. 폐고혈압 치료에 사용 시 병용투여 금기, 발기부전에 사용 시 실데나필의 용량조절이 권장됨",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "methylergometrine maleate",
+   "reason": "사지 및 중추신경계를 포함하는 기타 조직의 혈관경련 및 허혈을 특징으로 하는 급성 맥각독성의 잠재적인 가능성",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "ranolazine",
+   "reason": "중대한 및/또는 생명을 위협하는 반응의 가능성",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "isavuconazonium sulfate (as isavuconazole)",
+   "reason": "고용량의 Ritonavir(>200mg, 1일 2회)와 병용투여 금기",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "methylergometrine maleate",
+   "reason": "맥각독성(말초혈관 경련, 사지와 기타 조직의 허혈, 감각이상 등) 위험 증가",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "sildenafil",
+   "reason": "sildenafil 혈중농도 증가",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "sildenafil citrate (as sildenafil)",
+   "reason": "sildenafil 혈중농도 증가",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "vardenafil hydrochloride hydrate (as vardenafil)",
+   "reason": "vardenafil 혈중농도 증가",
+   "self": "ritonavir"
+  },
+  {
+   "ingredient": "sildenafil",
+   "reason": "시각 이상, 발기 시간 지연 및 실신을 포함한 Sildenafil 관련 이상반응의 가능성. 폐고혈압 치료에 사용 시 병용투여 금기, 발기부전에 사용 시 Sildenafil의 용량조절이 권장됨",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "sildenafil citrate (as sildenafil)",
+   "reason": "시각 이상, 발기 시간 지연 및 실신을 포함한 Sildenafil 관련 이상반응의 가능성. 폐고혈압 치료에 사용 시 병용투여 금기, 발기부전에 사용 시 Sildenafil의 용량조절이 권장됨",
+   "self": "nirmatrelvir+ritonavir"
+  },
+  {
+   "ingredient": "tadalafil",
+   "reason": "Tadalafil의 혈중농도를 증가시킬 수 있음. 폐고혈압 치료에 사용 시 병용투여 금기, 발기부전에 사용 시 Tadalafil의 용량조절이 권장됨",
+   "self": "nirmatrelvir+ritonavir"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립. 사람에서 Ritonavir의 태반 전달 및 태아 노출 관찰. 동물실험에서 골화지연, 발달 변이, 태자 체중 감소 관찰",
+   "ingredient": "Nirmatrelvir + Ritonavir"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

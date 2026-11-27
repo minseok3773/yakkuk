@@ -1,0 +1,135 @@
+{
+ "id": "oxcarbazepine",
+ "query": [
+  "옥스카르바제핀",
+  "옥스카바제핀"
+ ],
+ "fetched": "2026-11-26",
+ "total": 8,
+ "kept": 8,
+ "mfdsName": [
+  "옥스카르바제핀"
+ ],
+ "items": [
+  {
+   "itemSeq": "200008776",
+   "name": "트리렙탈필름코팅정150밀리그램(옥스카르바제핀)",
+   "company": "한국노바티스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "옥스카르바제핀",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-08-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008776"
+  },
+  {
+   "itemSeq": "200008777",
+   "name": "트리렙탈필름코팅정300밀리그램(옥스카르바제핀)",
+   "company": "한국노바티스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "옥스카르바제핀",
+     "amount": "300.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-08-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008777"
+  },
+  {
+   "itemSeq": "200008778",
+   "name": "트리렙탈필름코팅정600밀리그램(옥스카르바제핀)",
+   "company": "한국노바티스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "옥스카르바제핀",
+     "amount": "600.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-08-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200008778"
+  },
+  {
+   "itemSeq": "200403783",
+   "name": "유니렙시정(옥스카르바제핀)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "옥스카르바제핀",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403783"
+  },
+  {
+   "itemSeq": "200611514",
+   "name": "트리렙탈현탁액6%(옥스카르바제핀)",
+   "company": "한국노바티스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "옥스카르바제핀",
+     "amount": "6.000",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2006-11-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200611514"
+  },
+  {
+   "itemSeq": "201309501",
+   "name": "옥사제핀정300밀리그램(옥스카르바제핀)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "옥스카르바제핀",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309501"
+  },
+  {
+   "itemSeq": "201405474",
+   "name": "옥사제핀정150밀리그램(옥스카르바제핀)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "옥스카르바제핀",
+     "amount": "150.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405474"
+  },
+  {
+   "itemSeq": "201604015",
+   "name": "옥사제핀정600밀리그램(옥스카르바제핀)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "옥스카르바제핀",
+     "amount": "600.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604015"
+  }
+ ]
+}

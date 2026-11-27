@@ -1,0 +1,79 @@
+{
+ "id": "dabigatran",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "dabigatran"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "St. John's Wort 80% methanol ext.",
+   "reason": "다비가트란의 혈중농도 감소",
+   "self": "dabigatran etexilate mesylate (as dabigatran etexilate)"
+  },
+  {
+   "ingredient": "carbamazepine",
+   "reason": "다비가트란의 혈중농도 감소",
+   "self": "dabigatran etexilate mesylate (as dabigatran etexilate)"
+  },
+  {
+   "ingredient": "cyclosporine",
+   "reason": "다비가트란의 혈중농도가 상승하여 출혈위험 증가",
+   "self": "dabigatran etexilate mesylate (as dabigatran etexilate)"
+  },
+  {
+   "ingredient": "diphenylhydantoin sodium",
+   "reason": "다비가트란의 혈중농도 감소",
+   "self": "dabigatran etexilate mesylate (as dabigatran etexilate)"
+  },
+  {
+   "ingredient": "dronedarone",
+   "reason": "다비가트란의 혈중농도가 상승하여 출혈위험 증가",
+   "self": "dabigatran etexilate mesylate (as dabigatran etexilate)"
+  },
+  {
+   "ingredient": "ethambutol hydrochloride+isoniazid+pyrazinamide+rifampicin",
+   "reason": "다비가트란의 혈중농도 감소",
+   "self": "dabigatran etexilate mesylate (as dabigatran etexilate)"
+  },
+  {
+   "ingredient": "isoniazid+rifampicin",
+   "reason": "다비가트란의 혈중농도 감소",
+   "self": "dabigatran etexilate mesylate (as dabigatran etexilate)"
+  },
+  {
+   "ingredient": "itraconazole",
+   "reason": "다비가트란의 혈중농도가 상승하여 출혈위험 증가, Itraconazole 투여 중 및 종료 후 2주 간 해당 성분 투여 금기",
+   "self": "dabigatran etexilate mesylate (as dabigatran etexilate)"
+  },
+  {
+   "ingredient": "microemulsion cyclosporine",
+   "reason": "다비가트란의 혈중농도가 상승하여 출혈위험 증가",
+   "self": "dabigatran etexilate mesylate (as dabigatran etexilate)"
+  },
+  {
+   "ingredient": "phenytoin sodium",
+   "reason": "다비가트란의 혈중농도 감소",
+   "self": "dabigatran etexilate mesylate (as dabigatran etexilate)"
+  },
+  {
+   "ingredient": "rifampicin",
+   "reason": "다비가트란의 혈중농도 감소",
+   "self": "dabigatran etexilate mesylate (as dabigatran etexilate)"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립.모체독성용량에서 태자의 체중감소, 태자변이 증가, 배태자 생존력 감소 보고.",
+   "ingredient": "dabigatran etexilate mesylate(as dabigatran etexilate)"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

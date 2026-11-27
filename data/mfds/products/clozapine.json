@@ -1,0 +1,104 @@
+{
+ "id": "clozapine",
+ "query": [
+  "클로자핀"
+ ],
+ "fetched": "2026-11-26",
+ "total": 6,
+ "kept": 6,
+ "mfdsName": [
+  "클로자핀"
+ ],
+ "items": [
+  {
+   "itemSeq": "200307799",
+   "name": "클로자릴정100밀리그램(클로자핀)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로자핀",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307799"
+  },
+  {
+   "itemSeq": "200307798",
+   "name": "클로자릴정25밀리그램(클로자핀)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로자핀",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200307798"
+  },
+  {
+   "itemSeq": "201309789",
+   "name": "클자핀정100밀리그램(클로자핀)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로자핀",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309789"
+  },
+  {
+   "itemSeq": "201309790",
+   "name": "클자핀정25밀리그램(클로자핀)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로자핀",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309790"
+  },
+  {
+   "itemSeq": "201804185",
+   "name": "클자핀정50밀리그램(클로자핀)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로자핀",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804185"
+  },
+  {
+   "itemSeq": "201804474",
+   "name": "클자핀정200밀리그램(클로자핀)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로자핀",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804474"
+  }
+ ]
+}

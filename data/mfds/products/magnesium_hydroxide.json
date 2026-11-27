@@ -1,0 +1,1881 @@
+{
+ "id": "magnesium_hydroxide",
+ "query": [
+  "수산화마그네슘"
+ ],
+ "fetched": "2026-11-27",
+ "total": 68,
+ "kept": 68,
+ "mfdsName": [
+  "수산화마그네슘",
+  "건조수산화알루미늄 겔",
+  "수산화마그네슘30%페이스트"
+ ],
+ "items": [
+  {
+   "itemSeq": "197400246",
+   "name": "마그밀정(수산화마그네슘)",
+   "company": "삼남제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1974-09-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=197400246"
+  },
+  {
+   "itemSeq": "198802327",
+   "name": "마로겔정500밀리그람(수산화마그네슘)",
+   "company": "조아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1988-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198802327"
+  },
+  {
+   "itemSeq": "199802384",
+   "name": "신일엠정(수산화마그네슘)",
+   "company": "신일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199802384"
+  },
+  {
+   "itemSeq": "202107076",
+   "name": "에소메졸플러스정40/350밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "44.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "350.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107076"
+  },
+  {
+   "itemSeq": "202201119",
+   "name": "에소메졸플러스정20/350밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에스오메프라졸마그네슘삼수화물",
+     "amount": "22.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "350.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201119"
+  },
+  {
+   "itemSeq": "198400258",
+   "name": "미란타액",
+   "company": "(주)대웅제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화알루미늄겔",
+     "amount": "15.152",
+     "unit": "그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "4.002",
+     "unit": "그램"
+    },
+    {
+     "name": "시메치콘30%에멀젼",
+     "amount": "1.333",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "1984-02-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198400258"
+  },
+  {
+   "itemSeq": "199200590",
+   "name": "미란타투액",
+   "company": "(주)대웅제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화알루미늄겔",
+     "amount": "30.303",
+     "unit": "그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "8.004",
+     "unit": "그램"
+    },
+    {
+     "name": "시메티콘30%에멀젼",
+     "amount": "2.667",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "1992-08-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199200590"
+  },
+  {
+   "itemSeq": "199400883",
+   "name": "겔포스엠현탁액",
+   "company": "(주)보령",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "인산알루미늄겔",
+     "amount": "61.9",
+     "unit": "그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "2.0",
+     "unit": "그램"
+    },
+    {
+     "name": "시메티콘",
+     "amount": "0.2",
+     "unit": "그램"
+    },
+    {
+     "name": "인산알루미늄겔",
+     "amount": "61.9",
+     "unit": "그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "2.0",
+     "unit": "그램"
+    },
+    {
+     "name": "시메티콘",
+     "amount": "0.2",
+     "unit": "그램"
+    },
+    {
+     "name": "인산알루미늄겔",
+     "amount": "61.9",
+     "unit": "그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "2.0",
+     "unit": "그램"
+    },
+    {
+     "name": "시메티콘",
+     "amount": "0.2",
+     "unit": "그램"
+    },
+    {
+     "name": "인산알루미늄겔",
+     "amount": "61.9",
+     "unit": "그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "2.0",
+     "unit": "그램"
+    },
+    {
+     "name": "시메티콘",
+     "amount": "0.2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "1994-07-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400883"
+  },
+  {
+   "itemSeq": "199901559",
+   "name": "트리겔현탁액",
+   "company": "대원제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "건조수산화알루미늄겔",
+     "amount": "5.82",
+     "unit": "그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "1.96",
+     "unit": "그램"
+    },
+    {
+     "name": "옥세타자인",
+     "amount": "0.2",
+     "unit": "그램"
+    },
+    {
+     "name": "건조수산화알루미늄겔",
+     "amount": "5.82",
+     "unit": "그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "1.96",
+     "unit": "그램"
+    },
+    {
+     "name": "옥세타자인",
+     "amount": "0.2",
+     "unit": "그램"
+    },
+    {
+     "name": "건조수산화알루미늄겔",
+     "amount": "5.82",
+     "unit": "그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "1.96",
+     "unit": "그램"
+    },
+    {
+     "name": "옥세타자인",
+     "amount": "0.2",
+     "unit": "그램"
+    },
+    {
+     "name": "건조수산화알루미늄겔",
+     "amount": "5.82",
+     "unit": "그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "1.96",
+     "unit": "그램"
+    },
+    {
+     "name": "옥세타자인",
+     "amount": "0.2",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "1999-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901559"
+  },
+  {
+   "itemSeq": "200001378",
+   "name": "바루돈현탁액",
+   "company": "태극제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "옥세타자인",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "건조수산화알루미늄 겔",
+     "amount": "582",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "196",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001378"
+  },
+  {
+   "itemSeq": "200100576",
+   "name": "뉴란타액(수출명:NewlantineSuspension)",
+   "company": "(주)대웅제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화알루미늄겔(13%)",
+     "amount": "15.385",
+     "unit": "그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "4.000",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2001-12-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200100576"
+  },
+  {
+   "itemSeq": "200302155",
+   "name": "파모콤푸츄정",
+   "company": "지엘팜텍(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "800",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "165",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-10-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302155"
+  },
+  {
+   "itemSeq": "200302007",
+   "name": "마로엘정",
+   "company": "조아제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "500.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회 건조엑스",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-10-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302007"
+  },
+  {
+   "itemSeq": "200502601",
+   "name": "마이다정",
+   "company": "(주)휴온스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회건조엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502601"
+  },
+  {
+   "itemSeq": "200502133",
+   "name": "쾌이락큐정",
+   "company": "미래바이오제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502133"
+  },
+  {
+   "itemSeq": "200502054",
+   "name": "쿨리브정",
+   "company": "(주)팜젠사이언스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502054"
+  },
+  {
+   "itemSeq": "200502014",
+   "name": "두스카정",
+   "company": "한국넬슨제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502014"
+  },
+  {
+   "itemSeq": "200704808",
+   "name": "바로겔현탁액(수출용)",
+   "company": "신풍제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화알루미늄 겔",
+     "amount": "45.96",
+     "unit": "그램"
+    },
+    {
+     "name": "수산화마그네슘30%페이스트",
+     "amount": "26.68",
+     "unit": "그램"
+    },
+    {
+     "name": "시메치콘30%에멀젼",
+     "amount": "2.66",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2007-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704808"
+  },
+  {
+   "itemSeq": "200808755",
+   "name": "마노엘정",
+   "company": "대한뉴팜(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808755"
+  },
+  {
+   "itemSeq": "200810662",
+   "name": "스토마겔현탁액(수출용)",
+   "company": "한림제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "옥세타자인",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "건조수산화알루미늄겔",
+     "amount": "582",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "196",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200810662"
+  },
+  {
+   "itemSeq": "200902395",
+   "name": "우르스정",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회엑스",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-04-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200902395"
+  },
+  {
+   "itemSeq": "200904538",
+   "name": "다비움정",
+   "company": "제이더블유신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회건조엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200904538"
+  },
+  {
+   "itemSeq": "201101870",
+   "name": "지노펜현탁액(수출명:G.Pan Suspension)(수출용)",
+   "company": "영일제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "건조수산화알루미늄겔",
+     "amount": "5.82",
+     "unit": "그램"
+    },
+    {
+     "name": "옥세타자인",
+     "amount": "0.2",
+     "unit": "그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "1.96",
+     "unit": "그램"
+    },
+    {
+     "name": "옥세타자인",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "건조수산화알루미늄겔",
+     "amount": "582",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "196",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101870"
+  },
+  {
+   "itemSeq": "201206673",
+   "name": "뉴스트겔현탁액(수출용)",
+   "company": "대한뉴팜(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "옥세타자인",
+     "amount": "0.2",
+     "unit": "그램"
+    },
+    {
+     "name": "건조수산화알루미늄겔",
+     "amount": "5.82",
+     "unit": "그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "1.96",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2012-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206673"
+  },
+  {
+   "itemSeq": "201400237",
+   "name": "가스트로겔현탁액(수출용)",
+   "company": "(주)테라젠이텍스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "건조수산화알루미늄겔",
+     "amount": "5.82",
+     "unit": "그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "1.96",
+     "unit": "그램"
+    },
+    {
+     "name": "옥세타자인",
+     "amount": "0.2",
+     "unit": "그램"
+    },
+    {
+     "name": "옥세타자인",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "건조수산화알루미늄 겔",
+     "amount": "582",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "196",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400237"
+  },
+  {
+   "itemSeq": "201403328",
+   "name": "쾌락스정",
+   "company": "(주)휴온스메디텍",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회건조엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403328"
+  },
+  {
+   "itemSeq": "201501255",
+   "name": "제뉴원옥시젠현탁액",
+   "company": "주식회사제뉴원사이언스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "옥세타자인",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "건조수산화알루미늄 겔",
+     "amount": "582",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "196",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501255"
+  },
+  {
+   "itemSeq": "201506162",
+   "name": "노루모에스산",
+   "company": "일양약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "탄산수소나트륨",
+     "amount": "400",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메타규산알루민산마그네슘",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "감초가루",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "디아스타제·프로테아제·셀룰라제1000",
+     "amount": "60",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "육계가루",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "건강가루",
+     "amount": "35",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "용담가루",
+     "amount": "17",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506162"
+  },
+  {
+   "itemSeq": "201506663",
+   "name": "미라겔현탁액(수출용)",
+   "company": "태극제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화알루미늄겔",
+     "amount": "1515.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "400.2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "시메티콘 유제30%",
+     "amount": "133.3",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506663"
+  },
+  {
+   "itemSeq": "201602500",
+   "name": "에스린정",
+   "company": "(주)휴비스트제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602500"
+  },
+  {
+   "itemSeq": "201602688",
+   "name": "비우미정",
+   "company": "(주)씨엠지제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회 건조엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602688"
+  },
+  {
+   "itemSeq": "201708580",
+   "name": "겔포스엘현탁액",
+   "company": "(주)보령",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "인산알루미늄겔",
+     "amount": "12.5",
+     "unit": "그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "2",
+     "unit": "그램"
+    },
+    {
+     "name": "시메티콘",
+     "amount": "0.225",
+     "unit": "그램"
+    },
+    {
+     "name": "DL-카르니틴염산염",
+     "amount": "0.75",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2017-12-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708580"
+  },
+  {
+   "itemSeq": "201802851",
+   "name": "둘코라인정",
+   "company": "한국휴텍스제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회 엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802851"
+  },
+  {
+   "itemSeq": "201803704",
+   "name": "벤비노정",
+   "company": "(주)아이월드제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회건조엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803704"
+  },
+  {
+   "itemSeq": "201803896",
+   "name": "리치정",
+   "company": "미래바이오제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "판토텐산칼슘",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803896"
+  },
+  {
+   "itemSeq": "201904705",
+   "name": "제이비정",
+   "company": "코스맥스파마(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회 엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904705"
+  },
+  {
+   "itemSeq": "201905516",
+   "name": "로에굿정",
+   "company": "동국제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905516"
+  },
+  {
+   "itemSeq": "201907340",
+   "name": "아너웰정",
+   "company": "(주)바스칸바이오제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907340"
+  },
+  {
+   "itemSeq": "202000147",
+   "name": "마그네정",
+   "company": "(주)인트로바이오파마",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000147"
+  },
+  {
+   "itemSeq": "202000466",
+   "name": "트립겔현탁액(수출용)",
+   "company": "(주)한국파마",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "옥세타자인",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "건조수산화알루미늄 겔",
+     "amount": "582",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "196",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000466"
+  },
+  {
+   "itemSeq": "202005973",
+   "name": "리치칼비정",
+   "company": "미래바이오제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회 엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "판토텐산칼슘",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피리독신염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "푸르설티아민",
+     "amount": "1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "티아민질산염",
+     "amount": "2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005973"
+  },
+  {
+   "itemSeq": "202008389",
+   "name": "바루돈현탁액(수출용)",
+   "company": "태극제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "옥세타자인",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "건조수산화알루미늄 겔",
+     "amount": "582",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "196",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008389"
+  },
+  {
+   "itemSeq": "202008834",
+   "name": "페리에정",
+   "company": "(주)인트로바이오파마",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "165",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008834"
+  },
+  {
+   "itemSeq": "202103743",
+   "name": "비앤비정",
+   "company": "주식회사 노바엠헬스케어",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회 건조엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103743"
+  },
+  {
+   "itemSeq": "202104243",
+   "name": "제트유플러스정",
+   "company": "일양약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "탄산수소나트륨",
+     "amount": "150",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "16.7",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "스코폴리아엑스3배산",
+     "amount": "15",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메틸메티오닌설포늄염화물",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104243"
+  },
+  {
+   "itemSeq": "202104688",
+   "name": "파미딘플러스정",
+   "company": "(주)종근당",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "165",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104688"
+  },
+  {
+   "itemSeq": "202105133",
+   "name": "소가프텐정",
+   "company": "동화약품(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "165",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105133"
+  },
+  {
+   "itemSeq": "202105229",
+   "name": "듀얼파모정",
+   "company": "광동제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "165",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105229"
+  },
+  {
+   "itemSeq": "202105999",
+   "name": "파모콤푸정",
+   "company": "지엘팜텍(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "165",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105999"
+  },
+  {
+   "itemSeq": "202106639",
+   "name": "베니에프정",
+   "company": "(주)엘앤씨바이오",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회건조엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106639"
+  },
+  {
+   "itemSeq": "202106861",
+   "name": "파모컴정",
+   "company": "정우신약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "165",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106861"
+  },
+  {
+   "itemSeq": "202107279",
+   "name": "그린알로정",
+   "company": "(주)시어스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회건조엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107279"
+  },
+  {
+   "itemSeq": "202200157",
+   "name": "넥시겔현탁액(수출명: Nexigel suspension)(수출용)",
+   "company": "(주)넥스팜코리아",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "옥세타자인",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "건조수산화알루미늄 겔",
+     "amount": "582",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "196",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200157"
+  },
+  {
+   "itemSeq": "202201650",
+   "name": "파모포스정",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "165",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201650"
+  },
+  {
+   "itemSeq": "202202795",
+   "name": "미란타에스액",
+   "company": "(주)대웅제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화알루미늄 겔",
+     "amount": "20.111",
+     "unit": "그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "4.00",
+     "unit": "그램"
+    },
+    {
+     "name": "시메티콘30%에멀젼",
+     "amount": "1.333",
+     "unit": "그램"
+    }
+   ],
+   "permitDate": "2022-07-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202795"
+  },
+  {
+   "itemSeq": "202203892",
+   "name": "핑큐린정",
+   "company": "(주)일화",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회 건조엑스",
+     "amount": "100.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203892"
+  },
+  {
+   "itemSeq": "202301678",
+   "name": "비비엔정",
+   "company": "진양제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회 건조엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301678"
+  },
+  {
+   "itemSeq": "202302877",
+   "name": "마민에스정",
+   "company": "메딕스제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "티아민질산염",
+     "amount": "1.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-10-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302877"
+  },
+  {
+   "itemSeq": "202303360",
+   "name": "마로씬정",
+   "company": "(주)바이넥스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회 건조엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-12-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303360"
+  },
+  {
+   "itemSeq": "202402367",
+   "name": "마이올정",
+   "company": "(주)바스칸바이오제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "판토텐산칼슘",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-10-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402367"
+  },
+  {
+   "itemSeq": "202402385",
+   "name": "리스비움정",
+   "company": "(주)바스칸바이오제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "판토텐산칼슘",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피리독신염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "티아민질산염",
+     "amount": "2",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "푸르설티아민",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-10-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402385"
+  },
+  {
+   "itemSeq": "202500940",
+   "name": "마로엔정",
+   "company": "케이엠에스제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회건조엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500940"
+  },
+  {
+   "itemSeq": "202500948",
+   "name": "이로마정",
+   "company": "성이바이오제약주식회사",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "1.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500948"
+  },
+  {
+   "itemSeq": "202501521",
+   "name": "벨리라이트정",
+   "company": "(주)옵투스제약",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회엑스",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-06-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501521"
+  },
+  {
+   "itemSeq": "202601105",
+   "name": "비우넬정",
+   "company": "한국넬슨제약(주)",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "250",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회엑스",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601105"
+  },
+  {
+   "itemSeq": "202601366",
+   "name": "바로엘정",
+   "company": "(주)인트로바이오파마",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "수산화마그네슘",
+     "amount": "250",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회엑스",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601366"
+  },
+  {
+   "itemSeq": "202601555",
+   "name": "겔포스더블액션정",
+   "company": "(주)보령",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "파모티딘",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "165",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "800",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601555"
+  },
+  {
+   "itemSeq": "202602751",
+   "name": "쿨리브세미정",
+   "company": "(주)팜젠사이언스",
+   "type": "일반",
+   "ingredients": [
+    {
+     "name": "우르소데옥시콜산",
+     "amount": "6.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "수산화마그네슘",
+     "amount": "250.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "노회건조엑스",
+     "amount": "70.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-09-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602751"
+  }
+ ]
+}

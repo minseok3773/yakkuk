@@ -1,0 +1,812 @@
+{
+ "id": "omeprazole",
+ "query": [
+  "오메프라졸"
+ ],
+ "fetched": "2026-11-27",
+ "total": 49,
+ "kept": 49,
+ "mfdsName": [
+  "오메프라졸장용성과립",
+  "오메프라졸",
+  "오메프라졸 장용성과립",
+  "오메프라졸장용과립"
+ ],
+ "items": [
+  {
+   "itemSeq": "199200236",
+   "name": "오엠피정20밀리그램(오메프라졸)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1992-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199200236"
+  },
+  {
+   "itemSeq": "199302187",
+   "name": "오메드정20밀리그램(오메프라졸)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1993-09-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199302187"
+  },
+  {
+   "itemSeq": "199700548",
+   "name": "오메큐캡슐(오메프라졸)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "230",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700548"
+  },
+  {
+   "itemSeq": "199700918",
+   "name": "아주오메프라졸캡슐",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "230",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-09-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700918"
+  },
+  {
+   "itemSeq": "199701293",
+   "name": "오피졸캡슐(오메프라졸)(수출용)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "230",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-10-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701293"
+  },
+  {
+   "itemSeq": "199802675",
+   "name": "오멕스캡슐(오메프라졸)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199802675"
+  },
+  {
+   "itemSeq": "199801548",
+   "name": "오메놀캡슐(오메프라졸)(수출명:PeprazoleCaps.OprazecCaps.)(수출용)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "230",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801548"
+  },
+  {
+   "itemSeq": "199907296",
+   "name": "바로메졸캡슐(오메프라졸)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "230",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199907296"
+  },
+  {
+   "itemSeq": "199900120",
+   "name": "오엠피정40밀리그램(오메프라졸)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸",
+     "amount": "40.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-10-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199900120"
+  },
+  {
+   "itemSeq": "199902308",
+   "name": "오메드정10밀리그램(오메프라졸)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199902308"
+  },
+  {
+   "itemSeq": "200200709",
+   "name": "큐라졸캅셀(오메프라졸)(수출명:노티졸캡슐,보파얼서프라졸캡슐)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "230",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200709"
+  },
+  {
+   "itemSeq": "200301653",
+   "name": "오메드정40밀리그램(오메프라졸)(수출용)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301653"
+  },
+  {
+   "itemSeq": "200302518",
+   "name": "대한뉴팜오엠프라졸캡슐(오메프라졸)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸 장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200302518"
+  },
+  {
+   "itemSeq": "200403121",
+   "name": "엠프라캡슐(오메프라졸장용성과립)(수출명:OMERAMEXcap.)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "230",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403121"
+  },
+  {
+   "itemSeq": "200411087",
+   "name": "애니시드캡슐(오메프라졸장용성과립)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "230",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200411087"
+  },
+  {
+   "itemSeq": "200410999",
+   "name": "바이넥스오메프라졸캡슐(오메프라졸장용성과립)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410999"
+  },
+  {
+   "itemSeq": "200402023",
+   "name": "오메딘캡슐(오메프라졸)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402023"
+  },
+  {
+   "itemSeq": "200400949",
+   "name": "오큐졸캡슐(오메프라졸)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400949"
+  },
+  {
+   "itemSeq": "200402992",
+   "name": "메프라졸캡슐(오메프라졸)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402992"
+  },
+  {
+   "itemSeq": "200401579",
+   "name": "뉴섹캡슐(오메프라졸)(수출용)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "230",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401579"
+  },
+  {
+   "itemSeq": "200404039",
+   "name": "오프졸캡슐(오메프라졸)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "230",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "230",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404039"
+  },
+  {
+   "itemSeq": "200411077",
+   "name": "클라졸캡슐(오메프라졸)(수출용)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "230",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200411077"
+  },
+  {
+   "itemSeq": "200411207",
+   "name": "아메졸캡슐(오메프라졸)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200411207"
+  },
+  {
+   "itemSeq": "200402816",
+   "name": "오프라캡슐(오메프라졸)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402816"
+  },
+  {
+   "itemSeq": "200401456",
+   "name": "오메톤캡슐(오메프라졸)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "230",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401456"
+  },
+  {
+   "itemSeq": "200402694",
+   "name": "오메존캡슐(오메프라졸)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "230",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402694"
+  },
+  {
+   "itemSeq": "200400232",
+   "name": "오프라졸캡슐(오메프라졸)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400232"
+  },
+  {
+   "itemSeq": "200411095",
+   "name": "오메라졸캡슐(오메프라졸)(수출명 : OMERAZOLE Caps.)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "230",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200411095"
+  },
+  {
+   "itemSeq": "200403772",
+   "name": "코러스오메프라졸캡슐",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "235",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "230",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403772"
+  },
+  {
+   "itemSeq": "200702504",
+   "name": "이연오메프라졸캡슐",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용과립",
+     "amount": "230",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702504"
+  },
+  {
+   "itemSeq": "200707212",
+   "name": "오라섹캡슐(오메프라졸)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "230",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707212"
+  },
+  {
+   "itemSeq": "200903567",
+   "name": "코러스오메프라졸캡슐10mg\n(오메프라졸)(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "115.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200903567"
+  },
+  {
+   "itemSeq": "201308902",
+   "name": "오메프라존캡슐(오메프라졸)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308902"
+  },
+  {
+   "itemSeq": "201405114",
+   "name": "오메졸캡슐(오메프라졸)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405114"
+  },
+  {
+   "itemSeq": "201502449",
+   "name": "오메타졸캡슐(오메프라졸)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502449"
+  },
+  {
+   "itemSeq": "201505489",
+   "name": "오메라핀캡슐(오메프라졸)",
+   "company": "에스피씨(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505489"
+  },
+  {
+   "itemSeq": "201602713",
+   "name": "오메푸졸캡슐(오메프라졸)",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602713"
+  },
+  {
+   "itemSeq": "201704833",
+   "name": "셀트리온오메프라졸캡슐20밀리그램(오메프라졸)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸 장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704833"
+  },
+  {
+   "itemSeq": "201900638",
+   "name": "오피라졸캡슐(오메프라졸)",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900638"
+  },
+  {
+   "itemSeq": "201902081",
+   "name": "오메프투캡슐(오메프라졸)",
+   "company": "코스맥스파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902081"
+  },
+  {
+   "itemSeq": "201903858",
+   "name": "오메다캡슐(오메프라졸)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸 장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903858"
+  },
+  {
+   "itemSeq": "201906572",
+   "name": "오메프란캡슐20밀리그램(오메프라졸)",
+   "company": "(주)셀비온",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸 장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906572"
+  },
+  {
+   "itemSeq": "202003930",
+   "name": "오메그린캡슐(오메프라졸)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸장용성과립",
+     "amount": "233",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003930"
+  },
+  {
+   "itemSeq": "201504045",
+   "name": "가나플럭스정40/1100밀리그램(오메프라졸,탄산수소나트륨)",
+   "company": "한국애보트(유)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "340.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "760.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504045"
+  },
+  {
+   "itemSeq": "201504046",
+   "name": "제로시드정40/1100밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "340.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "760.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504046"
+  },
+  {
+   "itemSeq": "201706222",
+   "name": "가나플럭스정20/1100밀리그램(오메프라졸,탄산수소나트륨)",
+   "company": "한국애보트(유)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "340.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "760.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706222"
+  },
+  {
+   "itemSeq": "201706221",
+   "name": "제로시드정20/1100밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "340.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "탄산수소나트륨",
+     "amount": "760.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706221"
+  },
+  {
+   "itemSeq": "202601398",
+   "name": "오메드플러스정10/300mg(오메프라졸,침강탄산칼슘)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601398"
+  },
+  {
+   "itemSeq": "202601399",
+   "name": "오메드플러스정20/600mg(오메프라졸,침강탄산칼슘)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "오메프라졸",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "침강탄산칼슘",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601399"
+  }
+ ]
+}

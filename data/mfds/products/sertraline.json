@@ -1,0 +1,330 @@
+{
+ "id": "sertraline",
+ "query": [
+  "설트랄린",
+  "서트랄린"
+ ],
+ "fetched": "2026-11-26",
+ "total": 21,
+ "kept": 21,
+ "mfdsName": [
+  "설트랄린염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "200003086",
+   "name": "셀트라정50밀리그램(설트랄린염산염)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "55.95",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200003086"
+  },
+  {
+   "itemSeq": "200200939",
+   "name": "트라린정50밀리그램(설트랄린염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "55.95",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200939"
+  },
+  {
+   "itemSeq": "200410506",
+   "name": "산도스설트랄린정(설트랄린염산염)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "55.95",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410506"
+  },
+  {
+   "itemSeq": "200511068",
+   "name": "졸로푸트정50밀리그람(설트랄린염산염)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "55.950",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511068"
+  },
+  {
+   "itemSeq": "201007672",
+   "name": "졸로푸트정100밀리그램(설트랄린염산염)",
+   "company": "비아트리스코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "111.900",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-12-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007672"
+  },
+  {
+   "itemSeq": "201206823",
+   "name": "산도스설트랄린정100밀리그램(설트랄린염산염)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "111.9",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206823"
+  },
+  {
+   "itemSeq": "201207003",
+   "name": "트라린정100밀리그램(설트랄린염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "111.90",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207003"
+  },
+  {
+   "itemSeq": "201507070",
+   "name": "환인설트랄린정50밀리그램(설트랄린염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "55.95",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-10-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507070"
+  },
+  {
+   "itemSeq": "201507846",
+   "name": "환인설트랄린정100밀리그램(설트랄린염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "111.9",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507846"
+  },
+  {
+   "itemSeq": "201601111",
+   "name": "설트람정50밀리그램(설트랄린염산염)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "55.95",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601111"
+  },
+  {
+   "itemSeq": "201902444",
+   "name": "영진설트랄린정100밀리그램(설트랄린염산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "111.92",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902444"
+  },
+  {
+   "itemSeq": "201902446",
+   "name": "영진설트랄린정50밀리그램(설트랄린염산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "55.96",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902446"
+  },
+  {
+   "itemSeq": "201902586",
+   "name": "영진설트랄린정25밀리그램(설트랄린염산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "27.98",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902586"
+  },
+  {
+   "itemSeq": "201908216",
+   "name": "파마설트랄린정50밀리그램(설트랄린염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "55.95",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908216"
+  },
+  {
+   "itemSeq": "202001212",
+   "name": "파마설트랄린정100밀리그램(설트랄린염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "111.9",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001212"
+  },
+  {
+   "itemSeq": "202001213",
+   "name": "파마설트랄린정25밀리그램(설트랄린염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "27.975",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001213"
+  },
+  {
+   "itemSeq": "202204212",
+   "name": "트라린정25밀리그램(설트랄린염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "27.975",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204212"
+  },
+  {
+   "itemSeq": "202204286",
+   "name": "환인설트랄린정25밀리그램(설트랄린염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "27.975",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204286"
+  },
+  {
+   "itemSeq": "202302988",
+   "name": "설타린정25밀리그램(설트랄린염산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "27.98",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302988"
+  },
+  {
+   "itemSeq": "202303462",
+   "name": "설타린정100밀리그램(설트랄린염산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "111.92",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303462"
+  },
+  {
+   "itemSeq": "202303463",
+   "name": "설타린정50밀리그램(설트랄린염산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "설트랄린염산염",
+     "amount": "55.96",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303463"
+  }
+ ]
+}

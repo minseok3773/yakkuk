@@ -1,0 +1,148 @@
+{
+ "id": "ibuprofen",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "ibuprofen"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "ketorolac tromethamine",
+   "reason": "중증의 위장관계 이상반응",
+   "self": "ibuprofen"
+  },
+  {
+   "ingredient": "methotrexate",
+   "reason": "혈액학적 독성",
+   "self": "ibuprofen",
+   "remark": "1주에 MTX 20mg 이상 투여시 병용금기"
+  },
+  {
+   "ingredient": "safinamide mesylate (as safinamide)",
+   "reason": "정신병 또는 기괴한 행동 등의 유발 보고됨",
+   "self": "bromhexine hydrochloride+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+guaifenesin+ibuprofen+pseudoephedrine hydrochloride"
+  },
+  {
+   "ingredient": "rasagiline mesylate (as rasagiline)",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "bromhexine hydrochloride+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+guaifenesin+ibuprofen+pseudoephedrine hydrochloride"
+  },
+  {
+   "ingredient": "selegiline hydrochloride",
+   "reason": "경련, 반사항진, 이상고열, 혼수 등",
+   "self": "bromhexine hydrochloride+chlorpheniramine maleate+dextromethorphan hydrobromide hydrate+dl-methylephedrine hydrochloride+guaifenesin+ibuprofen+pseudoephedrine hydrochloride"
+  }
+ ],
+ "age": [
+  {
+   "text": "12세 이하: 코데인이 모르핀으로 대사되는 과정이 다양하고 예측 불가능하여 모르핀으로 인한 독성이 나타날 위험이 있음",
+   "ingredient": "codeine phosphate, ibuprofen, paracetamol"
+  }
+ ],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립.임신 말기에 투여시 태아의 동맥관조기폐쇄 가능성.임신 약 20주 이후 비스테로이드성 소염제의 사용은 태아의 신기능 이상을 일으켜 양수 과소증 유발 가능 및 경우에 따라 신생아 신장애 발생 가능",
+   "ingredient": "ibuprofen"
+  },
+  {
+   "grade": "2",
+   "reason": "ibuprofen: 임부에 대한 안전성 미확립.임신 말기에 투여시 태아의 동맥관조기폐쇄 가능성.임신 약 20주 이후 비스테로이드성 소염제의 사용은 태아의 신기능 이상을 일으켜 양수 과소증 유발 가능 및 경우에 따라 신생아 신장애 발생 가능",
+   "ingredient": "ibuprofen"
+  },
+  {
+   "grade": "2",
+   "reason": "(외용) 임신 후반기 투여 시 출산 지연, 출산 시 실혈, 신생아 출혈, 태아의 심폐독성(동맥관 조기폐쇄를 수반하는 폐고혈압), 신기능 저하로 양수과소증을 수반하는 신부전 발생 가능",
+   "ingredient": "ibuprofen"
+  },
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립. 임신 말기에 투여시 태아의 동맥관조기폐쇄 가능성. 임신 약 20주 이후 비스테로이드성 소염제의 사용은 태아의 신기능 이상을 일으켜 양수 과소증 유발 가능 및 경우에 따라 신생아 신장애 발생 가능",
+   "ingredient": "ibuprofen"
+  },
+  {
+   "grade": "2",
+   "reason": "ibuprofen: 임부에 대한 안전성 미확립.임신 말기에 투여시 태아의 동맥관조기폐쇄 가능성.임신 약 20주 이후 비스테로이드성 소염제의 사용은 태아의 신기능 이상을 일으켜 양수 과소증 유발 가능 및 경우에 따라 신생아 신장애 발생 가능/ Pseudoephedrine: 임부에 대한 안전성 미확립",
+   "ingredient": "ibuprofen+pseudoephedrine"
+  },
+  {
+   "grade": "2",
+   "reason": "임신 3기에 사용 시 출산 지연, 출산시 실혈, 신생아 출혈, 태아의 심폐독성(동맥관 조기폐쇄를 수반하는 폐고혈압), 신기능 저하로 양수과소증을 수반하는 신부전 발생 가능",
+   "ingredient": "Ibuprofen Piconol"
+  },
+  {
+   "grade": "2",
+   "reason": "ibuprofen:임부에 대한 안전성 미확립.임신 말기에 투여시 태아의 동맥관조기폐쇄 가능성.임신 약 20주 이후 비스테로이드성 소염제의 사용은 태아의 신기능 이상을 일으켜 양수 과소증 유발 가능 및 경우에 따라 신생아 신장애 발생 가능",
+   "ingredient": "ibuprofen + magnesium aluminometasilicate"
+  },
+  {
+   "grade": "2",
+   "reason": "ibuprofen: 임부에 대한 안전성 미확립. 임신 말기에 투여시 태아의 동맥관조기폐쇄 가능성. 임신 약 20주 이후 비스테로이드성 소염제의 사용은 태아의 신기능 이상을 일으켜 양수 과소증 유발 가능 및 경우에 따라 신생아 신장애 발생 가능",
+   "ingredient": "ibuprofen + allylisopropyl acetylurea + caffeine anhydrous"
+  },
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립. 임신 말기에 투여시 태아의 동맥관조기폐쇄 가능성.임신 약 20주 이후 비스테로이드성 소염제의 사용은 태아의 신기능 이상을 일으켜 양수 과소증 유발 가능 및 경우에 따라 신생아 신장애 발생 가능",
+   "ingredient": "ibuprofen"
+  },
+  {
+   "grade": "2",
+   "reason": "ibuprofen: 임부에 대한 안전성 미확립. 임신 말기에 투여시 태아의 동맥관조기폐쇄 가능성.임신 약 20주 이후 비스테로이드성 소염제의 사용은 태아의 신기능 이상을 일으켜 양수 과소증 유발 가능 및 경우에 따라 신생아 신장애 발생 가능 / pseudoephedrine : 임부에 대한 안전성 미확립.",
+   "ingredient": "ibuprofen + pseudoephedrine"
+  },
+  {
+   "grade": "2",
+   "reason": "guaifenesin: - / ibuprofen: 임부에 대한 안전성 미확립. 임신 말기에 투여시 태아의 동맥관조기폐쇄 가능성. 임신 약 20주 이후 비스테로이드성 소염제의 사용은 태아의 신기능 이상을 일으켜 양수 과소증 유발 가능 및 경우에 따라 신생아 신장애 발생 가능 / pseudoephedrine: 임부에 대한 안전성 미확립.",
+   "ingredient": "guaifenesin + ibuprofen + pseudoephedrine"
+  },
+  {
+   "grade": "2",
+   "reason": "guaifenesin: - / ibuprofen: 임부에 대한 안전성 미확립. 임신 말기에 투여시 태아의 동맥관조기폐쇄 가능성. 임신 약 20주 이후 비스테로이드성 소염제의 사용은 태아의 신기능 이상을 일으켜 양수 과소증 유발 가능 및 경우에 따라 신생아 신장애 발생 가능",
+   "ingredient": "guaifenesin + ibuprofen"
+  },
+  {
+   "grade": "2",
+   "reason": "ibuprofen: 임부에 대한 안전성 미확립. 임신 말기에 투여시 태아의 동맥관조기폐쇄 가능성. 임신 약 20주 이후 비스테로이드성 소염제의 사용은 태아의 신기능 이상을 일으켜 양수 과소증 유발 가능 및 경우에 따라 신생아 신장애 발생 가능 / pseudoephedrine: 임부에 대한 안전성 미확립.",
+   "ingredient": "ibuprofen + pseudoephedrine"
+  }
+ ],
+ "elderly": [
+  {
+   "reason": "",
+   "ingredient": "ibuprofen"
+  },
+  {
+   "reason": "",
+   "ingredient": "ibuprofen arginine"
+  },
+  {
+   "reason": "",
+   "ingredient": "ibuprofen arginine (as ibuprofen)"
+  },
+  {
+   "reason": "",
+   "ingredient": "ibuprofen lysine (as ibuprofen)"
+  }
+ ],
+ "dose": [
+  {
+   "text": "1일 최대투여량: 이부프로펜 3,200mg"
+  },
+  {
+   "text": "1일 최대투여량: 아세트아미노펜으로써 4,000mg"
+  },
+  {
+   "text": "1일 최대투여량: 코데인인산염수화물 120mg/이부프로펜 2,400mg/아세트아미노펜 3,000mg"
+  }
+ ],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "해열진통소염제",
+   "subgroup": "Group 1",
+   "code": "114A0019"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

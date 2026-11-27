@@ -1,0 +1,389 @@
+{
+ "id": "atomoxetine",
+ "query": [
+  "아토목세틴"
+ ],
+ "fetched": "2026-11-26",
+ "total": 25,
+ "kept": 25,
+ "mfdsName": [
+  "아토목세틴염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "201306366",
+   "name": "환인아토목세틴캡슐10밀리그램(아토목세틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "11.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306366"
+  },
+  {
+   "itemSeq": "201306367",
+   "name": "환인아토목세틴캡슐18밀리그램(아토목세틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "20.57",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306367"
+  },
+  {
+   "itemSeq": "201306368",
+   "name": "환인아토목세틴캡슐25밀리그램(아토목세틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "28.57",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306368"
+  },
+  {
+   "itemSeq": "201306370",
+   "name": "환인아토목세틴캡슐40밀리그램(아토목세틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "45.71",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306370"
+  },
+  {
+   "itemSeq": "201306369",
+   "name": "환인아토목세틴캡슐60밀리그램(아토목세틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "68.56",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306369"
+  },
+  {
+   "itemSeq": "201307635",
+   "name": "아토목신캡슐40밀리그램(아토목세틴염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "45.71",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307635"
+  },
+  {
+   "itemSeq": "201309921",
+   "name": "아토목신캡슐18밀리그램(아토목세틴염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "20.57",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309921"
+  },
+  {
+   "itemSeq": "201309920",
+   "name": "아토목신캡슐25밀리그램(아토목세틴염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "28.57",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309920"
+  },
+  {
+   "itemSeq": "201309964",
+   "name": "환인아토목세틴캡슐80밀리그램(아토목세틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "91.42",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309964"
+  },
+  {
+   "itemSeq": "201400959",
+   "name": "아트렉스캡슐10mg(아토목세틴염산염)(수출용)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "11.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400959"
+  },
+  {
+   "itemSeq": "201400963",
+   "name": "아트렉스캡슐18밀리그램(아토목세틴염산염)(수출용)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "20.57",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400963"
+  },
+  {
+   "itemSeq": "201400960",
+   "name": "아트렉스캡슐25밀리그램(아토목세틴염산염)(수출용)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "28.57",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400960"
+  },
+  {
+   "itemSeq": "201400958",
+   "name": "아트렉스캡슐40mg(아토목세틴염산염)(수출용)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "45.71",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400958"
+  },
+  {
+   "itemSeq": "201400964",
+   "name": "아트렉스캡슐60밀리그램(아토목세틴염산염)(수출용)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "68.56",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400964"
+  },
+  {
+   "itemSeq": "201401189",
+   "name": "아토목신캡슐10밀리그램(아토목세틴염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "11.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401189"
+  },
+  {
+   "itemSeq": "201401190",
+   "name": "아토목신캡슐60밀리그램(아토목세틴염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "68.56",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401190"
+  },
+  {
+   "itemSeq": "201404924",
+   "name": "아토목신캡슐80밀리그램(아토목세틴염산염)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "91.42",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404924"
+  },
+  {
+   "itemSeq": "202600050",
+   "name": "환인아토목세틴정40밀리그램(아토목세틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "45.71",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-01-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600050"
+  },
+  {
+   "itemSeq": "202600373",
+   "name": "환인아토목세틴정10밀리그램(아토목세틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "11.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600373"
+  },
+  {
+   "itemSeq": "202600374",
+   "name": "환인아토목세틴정18밀리그램(아토목세틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "20.57",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600374"
+  },
+  {
+   "itemSeq": "202600375",
+   "name": "환인아토목세틴정25밀리그램(아토목세틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "28.57",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600375"
+  },
+  {
+   "itemSeq": "202600515",
+   "name": "환인아토목세틴정80밀리그램(아토목세틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "91.42",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600515"
+  },
+  {
+   "itemSeq": "202600750",
+   "name": "환인아토목세틴정60밀리그램(아토목세틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "68.56",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600750"
+  },
+  {
+   "itemSeq": "202602321",
+   "name": "아토세틴정40밀리그램(아토목세틴염산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "45.71",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602321"
+  },
+  {
+   "itemSeq": "202602513",
+   "name": "아토세틴정20밀리그램(아토목세틴염산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아토목세틴염산염",
+     "amount": "22.855",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-08-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602513"
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "id": "sildenafil",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "sildenafil"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "Micronized Riociguat",
+   "reason": "Guanylate cyclase 자극제의 혈압강하작용 증가",
+   "self": "sildenafil citrate(as sildenafil)"
+  },
+  {
+   "ingredient": "diluted nitroglycerin (as nitroglycerin)",
+   "reason": "혈압강하작용 증가",
+   "self": "sildenafil citrate(as sildenafil)"
+  },
+  {
+   "ingredient": "ritonavir",
+   "reason": "sildenafil 혈중농도 증가",
+   "self": "sildenafil citrate(as sildenafil)"
+  },
+  {
+   "ingredient": "cobicistat silicon dioxide (as cobicistat)+elvitegravir+emtricitabine+tenofovir alafenamide fumarate (as tenofovir alafenamide)",
+   "reason": "Sildenafil 혈중농도 증가, 병용투여 할 경우에는 Sildenafil의 투여용량이 25mg을 초과하지 않도록 하며, 48시간 내 재투여 금지",
+   "self": "sildenafil citrate(as sildenafil)"
+  },
+  {
+   "ingredient": "diluted nitroglycerin solution (as nitroglycerin)",
+   "reason": "혈압강하작용 증강",
+   "self": "sildenafil citrate(as sildenafil)"
+  },
+  {
+   "ingredient": "isosorbide dinitrate",
+   "reason": "혈관확장작용 증가로 저혈압 효과 상승",
+   "self": "sildenafil citrate(as sildenafil)"
+  },
+  {
+   "ingredient": "isosorbide mononitrate",
+   "reason": "혈관확장작용 증가로 저혈압 효과 상승",
+   "self": "sildenafil citrate(as sildenafil)"
+  },
+  {
+   "ingredient": "molsidomin",
+   "reason": "혈압강하작용 증강",
+   "self": "sildenafil citrate(as sildenafil)"
+  },
+  {
+   "ingredient": "nicorandil",
+   "reason": "혈관확장작용 증가로 저혈압 효과 상승",
+   "self": "sildenafil citrate(as sildenafil)"
+  },
+  {
+   "ingredient": "nirmatrelvir+ritonavir",
+   "reason": "시각 이상, 발기 시간 지연 및 실신을 포함한 Sildenafil 관련 이상반응의 가능성. 폐고혈압 치료에 사용 시 병용투여 금기, 발기부전에 사용 시 Sildenafil의 용량조절이 권장됨",
+   "self": "sildenafil citrate(as sildenafil)"
+  },
+  {
+   "ingredient": "sodium nitroprusside",
+   "reason": "혈압강하작용 증강",
+   "self": "sildenafil citrate(as sildenafil)"
+  },
+  {
+   "ingredient": "Udenafil",
+   "reason": "동일계열 병용투여 금기",
+   "self": "sildenafil"
+  },
+  {
+   "ingredient": "nirmatrelvir+ritonavir",
+   "reason": "시각 이상, 발기 시간 지연 및 실신을 포함한 실데나필 관련 이상반응의 가능성. 폐고혈압 치료에 사용 시 병용투여 금기, 발기부전에 사용 시 실데나필의 용량조절이 권장됨",
+   "self": "clomipramine hydrochloride+sildenafil citrate (as sildenafil)"
+  },
+  {
+   "ingredient": "diluted nitroglycerin (as nitroglycerin)",
+   "reason": "혈압강하작용 증강",
+   "self": "sildenafil"
+  },
+  {
+   "ingredient": "mirodenafil",
+   "reason": "동일계열 병용투여 금기",
+   "self": "sildenafil"
+  },
+  {
+   "ingredient": "mirodenafil hydrochloride (as mirodenafil)",
+   "reason": "동일계열 병용투여 금기",
+   "self": "sildenafil"
+  },
+  {
+   "ingredient": "tadalafil",
+   "reason": "동일계열 병용투여 금기",
+   "self": "sildenafil"
+  },
+  {
+   "ingredient": "udenafil",
+   "reason": "동일계열 병용투여 금기",
+   "self": "sildenafil"
+  },
+  {
+   "ingredient": "vardenafil hydrochloride hydrate (as vardenafil)",
+   "reason": "동일계열 병용투여 금기",
+   "self": "sildenafil"
+  }
+ ],
+ "age": [
+  {
+   "text": "18세 이하: 다만, 발기부전치료에 한함",
+   "ingredient": "sildenafil"
+  },
+  {
+   "text": "18세 이하:",
+   "ingredient": "sildenafil"
+  }
+ ],
+ "pregnancy": [
+  {
+   "grade": "1",
+   "reason": "(폐동맥고혈압 치료시 제외) 여성에게 사용할 수 없음. 동물실험에서 착상률, 수컷 태자의 체중 감소, 한배새끼수 감소 나타남",
+   "ingredient": "sildenafil"
+  },
+  {
+   "grade": "1",
+   "reason": "여성에게 사용할 수 없음. 동물실험에서 착상률, 수컷 태자의 체중 감소, 한배새끼수 감소 나타남",
+   "ingredient": "sildenafil"
+  },
+  {
+   "grade": "1",
+   "reason": "sildenafil: 여성에게 사용할 수 없음. 동물실험에서 착상률, 수컷 태자의 체중 감소, 한배새끼수 감소 나타남/clomipramine: 동물실험에서 최대 임상노출보다는 낮은 정도의 전신노출수준(AUC)에서 생식독성 나타냄. 임신말기에 복용시 신생아 중단증후군 발생 가능성.",
+   "ingredient": "clomipramine hydrochloride + sildenafil"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

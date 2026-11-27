@@ -1,0 +1,686 @@
+{
+ "id": "levodopa",
+ "query": [
+  "레보도파",
+  "카르비도파"
+ ],
+ "fetched": "2026-11-27",
+ "total": 29,
+ "kept": 29,
+ "mfdsName": [
+  "레보도파",
+  "카르비도파수화물"
+ ],
+ "items": [
+  {
+   "itemSeq": "199203393",
+   "name": "마도파에취비에스캡슐125",
+   "company": "(주)한국로슈",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보도파",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "염산벤세라짓",
+     "amount": "28.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1992-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199203393"
+  },
+  {
+   "itemSeq": "199201045",
+   "name": "퍼킨정25-100밀리그램(카르비도파,레보도파)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르비도파수화물",
+     "amount": "27.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "레보도파",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1992-12-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201045"
+  },
+  {
+   "itemSeq": "199201046",
+   "name": "퍼킨정25-250밀리그램(카르비도파,레보도파)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르비도파수화물",
+     "amount": "27",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "레보도파",
+     "amount": "250",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1992-12-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199201046"
+  },
+  {
+   "itemSeq": "199604709",
+   "name": "마도파확산정125",
+   "company": "(주)한국로슈",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보도파",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "염산벤세라짓",
+     "amount": "28.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1996-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199604709"
+  },
+  {
+   "itemSeq": "200410073",
+   "name": "스타레보필름코팅정150/37.5/200밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엔타카폰",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "레보도파",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르비도파수화물",
+     "amount": "40.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410073"
+  },
+  {
+   "itemSeq": "200410072",
+   "name": "스타레보필름코팅정100/25/200밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엔타카폰",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "레보도파",
+     "amount": "100",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르비도파수화물",
+     "amount": "27",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410072"
+  },
+  {
+   "itemSeq": "200410071",
+   "name": "스타레보필름코팅정50/12.5/200밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엔타카폰",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "레보도파",
+     "amount": "50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르비도파수화물",
+     "amount": "13.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200410071"
+  },
+  {
+   "itemSeq": "200805910",
+   "name": "스타레보필름코팅정200/50/200밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엔타카폰",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "레보도파",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르비도파수화물",
+     "amount": "54.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805910"
+  },
+  {
+   "itemSeq": "200908500",
+   "name": "스타레보필름코팅정125/31.25/200밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엔타카폰",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "레보도파",
+     "amount": "125.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르비도파수화물",
+     "amount": "33.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-12-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200908500"
+  },
+  {
+   "itemSeq": "200908499",
+   "name": "스타레보필름코팅정75/18.75/200밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엔타카폰",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "레보도파",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르비도파수화물",
+     "amount": "20.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-12-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200908499"
+  },
+  {
+   "itemSeq": "201501550",
+   "name": "트리레보정125/31.25/200밀리그램(레보도파, 카르비도파, 엔타카폰)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보도파",
+     "amount": "125",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르비도파수화물",
+     "amount": "33.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엔타카폰",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501550"
+  },
+  {
+   "itemSeq": "201504179",
+   "name": "트리레보정100/25/200밀리그램(레보도파, 카르비도파, 엔타카폰)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보도파",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르비도파수화물",
+     "amount": "27.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엔타카폰",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504179"
+  },
+  {
+   "itemSeq": "201504270",
+   "name": "트리도파정100/25/200밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보도파",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르비도파수화물",
+     "amount": "27.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엔타카폰",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504270"
+  },
+  {
+   "itemSeq": "201504271",
+   "name": "트리도파정125/31.25/200밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보도파",
+     "amount": "125",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르비도파수화물",
+     "amount": "33.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엔타카폰",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504271"
+  },
+  {
+   "itemSeq": "201506120",
+   "name": "트리레보정75/18.75/200밀리그램(레보도파, 카르비도파, 엔타카폰)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보도파",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르비도파수화물",
+     "amount": "20.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엔타카폰",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506120"
+  },
+  {
+   "itemSeq": "201506164",
+   "name": "트리도파정75/18.75/200밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보도파",
+     "amount": "75.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르비도파수화물",
+     "amount": "20.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엔타카폰",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506164"
+  },
+  {
+   "itemSeq": "201506766",
+   "name": "트리레보정50/12.5/200밀리그램(레보도파, 카르비도파, 엔타카폰)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보도파",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르비도파수화물",
+     "amount": "13.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엔타카폰",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506766"
+  },
+  {
+   "itemSeq": "201506801",
+   "name": "트리도파정50/12.5/200밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보도파",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르비도파수화물",
+     "amount": "13.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엔타카폰",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506801"
+  },
+  {
+   "itemSeq": "201701460",
+   "name": "트리레보정150/37.5/200밀리그램(레보도파, 카르비도파, 엔타카폰)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보도파",
+     "amount": "150",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르비도파수화물",
+     "amount": "40.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엔타카폰",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701460"
+  },
+  {
+   "itemSeq": "201701459",
+   "name": "트리레보정200/50/200밀리그램(레보도파, 카르비도파, 엔타카폰)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보도파",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르비도파수화물",
+     "amount": "54.1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엔타카폰",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701459"
+  },
+  {
+   "itemSeq": "201701529",
+   "name": "트리도파정150/37.5/200밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보도파",
+     "amount": "150",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르비도파수화물",
+     "amount": "40.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엔타카폰",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701529"
+  },
+  {
+   "itemSeq": "201701530",
+   "name": "트리도파정200/50/200밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보도파",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "카르비도파수화물",
+     "amount": "54.1",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엔타카폰",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701530"
+  },
+  {
+   "itemSeq": "201907607",
+   "name": "퍼킨씨알정50-200밀리그램(카르비도파, 레보도파)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "카르비도파수화물",
+     "amount": "54.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "레보도파",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907607"
+  },
+  {
+   "itemSeq": "202103852",
+   "name": "명도파정50/200밀리그램(벤세라지드, 레보도파)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤세라지드염산염",
+     "amount": "57.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "레보도파",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-05-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103852"
+  },
+  {
+   "itemSeq": "202104353",
+   "name": "명도파정25/100밀리그램(벤세라지드, 레보도파)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤세라지드염산염",
+     "amount": "28.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "레보도파",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104353"
+  },
+  {
+   "itemSeq": "202301581",
+   "name": "명도파정12.5/50밀리그램(벤세라지드, 레보도파)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "벤세라지드염산염",
+     "amount": "14.25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "레보도파",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-05-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301581"
+  },
+  {
+   "itemSeq": "202502527",
+   "name": "원도파정12.5/50밀리그램(벤세라지드, 레보도파)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보도파",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "벤세라지드염산염",
+     "amount": "14.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502527"
+  },
+  {
+   "itemSeq": "202502528",
+   "name": "원도파정25/100밀리그램(벤세라지드, 레보도파)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보도파",
+     "amount": "100.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "벤세라지드염산염",
+     "amount": "28.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502528"
+  },
+  {
+   "itemSeq": "202502529",
+   "name": "원도파정50/200밀리그램(벤세라지드, 레보도파)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "레보도파",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "벤세라지드염산염",
+     "amount": "57.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502529"
+  }
+ ]
+}

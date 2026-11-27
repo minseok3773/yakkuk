@@ -1,0 +1,3144 @@
+{
+ "id": "finasteride",
+ "query": [
+  "피나스테리드"
+ ],
+ "fetched": "2026-11-27",
+ "total": 207,
+ "kept": 207,
+ "mfdsName": [
+  "피나스테리드"
+ ],
+ "items": [
+  {
+   "itemSeq": "199504272",
+   "name": "프로스카정(피나스테리드)",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1995-08-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199504272"
+  },
+  {
+   "itemSeq": "200009059",
+   "name": "프로페시아정1밀리그램(피나스테리드)",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200009059"
+  },
+  {
+   "itemSeq": "200200252",
+   "name": "피나스타정(피나스테리드)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200252"
+  },
+  {
+   "itemSeq": "200400993",
+   "name": "피나드론정(피나스테리드)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400993"
+  },
+  {
+   "itemSeq": "200400011",
+   "name": "프로피나정(피나스테리드)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400011"
+  },
+  {
+   "itemSeq": "200400150",
+   "name": "알파스카정(피나스테리드)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-04-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400150"
+  },
+  {
+   "itemSeq": "200402677",
+   "name": "피로이드정(피나스테리드)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402677"
+  },
+  {
+   "itemSeq": "200400340",
+   "name": "한올피나스테리드정",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400340"
+  },
+  {
+   "itemSeq": "200403305",
+   "name": "프로리드정(피나스테리드)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403305"
+  },
+  {
+   "itemSeq": "200401373",
+   "name": "스카테론정(피나스테리드)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401373"
+  },
+  {
+   "itemSeq": "200402149",
+   "name": "유로피나정(피나스테리드)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402149"
+  },
+  {
+   "itemSeq": "200402286",
+   "name": "피나베린정(피나스테리드)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402286"
+  },
+  {
+   "itemSeq": "200400691",
+   "name": "스카렉스정(피나스테리드)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400691"
+  },
+  {
+   "itemSeq": "200400104",
+   "name": "프로스몰정(피나스테리드)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400104"
+  },
+  {
+   "itemSeq": "200401751",
+   "name": "핀카정(피나스테리드)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401751"
+  },
+  {
+   "itemSeq": "200402944",
+   "name": "푸로스타정(피나스테리드)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402944"
+  },
+  {
+   "itemSeq": "200401512",
+   "name": "유로리드정(피나스테리드)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401512"
+  },
+  {
+   "itemSeq": "200401555",
+   "name": "대웅바이오피나스테리드정5밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-12-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401555"
+  },
+  {
+   "itemSeq": "200500572",
+   "name": "파나스카정(피나스테리드)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500572"
+  },
+  {
+   "itemSeq": "200502109",
+   "name": "푸로케어정(피나스테리드)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502109"
+  },
+  {
+   "itemSeq": "200501194",
+   "name": "보령피나스테리드정5밀리그램(피나스테리드)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501194"
+  },
+  {
+   "itemSeq": "200501987",
+   "name": "유로스칸정(피나스테리드)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501987"
+  },
+  {
+   "itemSeq": "200501225",
+   "name": "일양피나스테리드정(피나스테리드)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501225"
+  },
+  {
+   "itemSeq": "200501004",
+   "name": "파나드정(피나스테리드)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501004"
+  },
+  {
+   "itemSeq": "200500410",
+   "name": "피나스티드정(피나스테리드)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500410"
+  },
+  {
+   "itemSeq": "200512320",
+   "name": "피나스틴정(피나스테리드)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512320"
+  },
+  {
+   "itemSeq": "200502868",
+   "name": "한림피나스테리드정(피나스테리드)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502868"
+  },
+  {
+   "itemSeq": "200502193",
+   "name": "피나테드정1밀리그램(피나스테리드)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200502193"
+  },
+  {
+   "itemSeq": "200500853",
+   "name": "트로피나정(피나스테리드)",
+   "company": "동성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-11-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500853"
+  },
+  {
+   "itemSeq": "200503075",
+   "name": "알로시아정(피나스테리드)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-12-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200503075"
+  },
+  {
+   "itemSeq": "200600052",
+   "name": "모나스타정1밀리그램(피나스테리드)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-03-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600052"
+  },
+  {
+   "itemSeq": "200605399",
+   "name": "피나모린정(피나스테리드)",
+   "company": "태극제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605399"
+  },
+  {
+   "itemSeq": "200605386",
+   "name": "헤어페시아정(피나스테리드)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605386"
+  },
+  {
+   "itemSeq": "200611392",
+   "name": "마이시아정(피나스테리드)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200611392"
+  },
+  {
+   "itemSeq": "200611317",
+   "name": "미노페시아정1밀리그람(피나스테리드)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200611317"
+  },
+  {
+   "itemSeq": "200610951",
+   "name": "바로피나정(피나스테리드)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200610951"
+  },
+  {
+   "itemSeq": "200701016",
+   "name": "그로모정1밀리그램(피나스테리드)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701016"
+  },
+  {
+   "itemSeq": "200700565",
+   "name": "다모케어정(피나스테리드)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700565"
+  },
+  {
+   "itemSeq": "200701024",
+   "name": "두피나정(피나스테리드)",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701024"
+  },
+  {
+   "itemSeq": "200700566",
+   "name": "메디페시아정1밀리그램(피나스테리드)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700566"
+  },
+  {
+   "itemSeq": "200701020",
+   "name": "모나리드정1밀리그램(피나스테리드)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701020"
+  },
+  {
+   "itemSeq": "200701023",
+   "name": "모나스틴정(피나스테리드)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701023"
+  },
+  {
+   "itemSeq": "200703342",
+   "name": "스카테리드정(피나스테리드)(수출용)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703342"
+  },
+  {
+   "itemSeq": "200703343",
+   "name": "피나베린정1밀리그램(피나스테리드)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703343"
+  },
+  {
+   "itemSeq": "200703801",
+   "name": "피나시딜정(피나스테리드)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703801"
+  },
+  {
+   "itemSeq": "200704420",
+   "name": "모나드정(피나스테리드)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704420"
+  },
+  {
+   "itemSeq": "200704541",
+   "name": "다모페시아정(피나스테리드)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704541"
+  },
+  {
+   "itemSeq": "200704531",
+   "name": "파세드정1mg(피나스테리드)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704531"
+  },
+  {
+   "itemSeq": "200704533",
+   "name": "피나스텔정1mg(피나스테리드)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704533"
+  },
+  {
+   "itemSeq": "200705099",
+   "name": "알로펙정(피나스테리드)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705099"
+  },
+  {
+   "itemSeq": "200705313",
+   "name": "알로스칸정(피나스테리드)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705313"
+  },
+  {
+   "itemSeq": "200705402",
+   "name": "마이페시아정(피나스테리드)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705402"
+  },
+  {
+   "itemSeq": "200705737",
+   "name": "유니볼드정(피나스테리드)(수출용)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705737"
+  },
+  {
+   "itemSeq": "200708364",
+   "name": "베아리모정(피나스테리드)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708364"
+  },
+  {
+   "itemSeq": "200708405",
+   "name": "프로시정(피나스테리드)",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708405"
+  },
+  {
+   "itemSeq": "200711309",
+   "name": "헤어그로정1밀리그램(피나스테리드)",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711309"
+  },
+  {
+   "itemSeq": "200803186",
+   "name": "유나시아정(피나스테리드)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200803186"
+  },
+  {
+   "itemSeq": "200805553",
+   "name": "모나필정1밀리그램(피나스테리드)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805553"
+  },
+  {
+   "itemSeq": "201207332",
+   "name": "피나젠정5밀리그램(피나스테리드)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207332"
+  },
+  {
+   "itemSeq": "201207578",
+   "name": "프리스타정5밀리그램(피나스테리드)",
+   "company": "(주)휴메딕스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201207578"
+  },
+  {
+   "itemSeq": "201208465",
+   "name": "피나트라정5밀리그램(피나스테리드)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208465"
+  },
+  {
+   "itemSeq": "201209017",
+   "name": "AG피나스테리드정(피나스테리드)(수출용)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-12-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201209017"
+  },
+  {
+   "itemSeq": "201300109",
+   "name": "핀스타정5밀리그램(피나스테리드)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201300109"
+  },
+  {
+   "itemSeq": "201305403",
+   "name": "피나라이드정(피나스테리드)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-02-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201305403"
+  },
+  {
+   "itemSeq": "201307566",
+   "name": "필라스트정(피나스테리드)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307566"
+  },
+  {
+   "itemSeq": "201310312",
+   "name": "프로스테리드정5밀리그램(피나스테리드)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310312"
+  },
+  {
+   "itemSeq": "201310348",
+   "name": "피나시아정5밀리그램(피나스테리드)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310348"
+  },
+  {
+   "itemSeq": "201310785",
+   "name": "피나그렌정5mg(피나스테리드)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310785"
+  },
+  {
+   "itemSeq": "201400381",
+   "name": "피나린정(피나스테리드)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400381"
+  },
+  {
+   "itemSeq": "201401626",
+   "name": "프로스타트정(피나스테리드)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401626"
+  },
+  {
+   "itemSeq": "201402071",
+   "name": "마이피나정(피나스테리드)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402071"
+  },
+  {
+   "itemSeq": "201402875",
+   "name": "메리나정(피나스테리드)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402875"
+  },
+  {
+   "itemSeq": "201403175",
+   "name": "파나리드정5밀리그램(피나스테리드)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403175"
+  },
+  {
+   "itemSeq": "201403977",
+   "name": "피나프로스정(피나스테리드)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403977"
+  },
+  {
+   "itemSeq": "201404126",
+   "name": "그로모정5밀리그램(피나스테리드)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404126"
+  },
+  {
+   "itemSeq": "201404741",
+   "name": "피나텐정5mg(피나스테리드)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404741"
+  },
+  {
+   "itemSeq": "201405009",
+   "name": "피나스토정(피나스테리드)",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405009"
+  },
+  {
+   "itemSeq": "201405462",
+   "name": "에피나시정1밀리그램(피나스테리드)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405462"
+  },
+  {
+   "itemSeq": "201405889",
+   "name": "씨엠프로정1mg(피나스테리드)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405889"
+  },
+  {
+   "itemSeq": "201405888",
+   "name": "씨엠피나정5mg(피나스테리드)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405888"
+  },
+  {
+   "itemSeq": "201405966",
+   "name": "피나스칸정5mg(피나스테리드)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405966"
+  },
+  {
+   "itemSeq": "201406197",
+   "name": "피나스칸정1mg(피나스테리드)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406197"
+  },
+  {
+   "itemSeq": "201500591",
+   "name": "피나드정5mg(피나스테리드)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500591"
+  },
+  {
+   "itemSeq": "201501683",
+   "name": "모나정(피나스테리드)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501683"
+  },
+  {
+   "itemSeq": "201502780",
+   "name": "모더페시아정1밀리그램(피나스테리드)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502780"
+  },
+  {
+   "itemSeq": "201503168",
+   "name": "비피케어정5밀리그램(피나스테리드)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503168"
+  },
+  {
+   "itemSeq": "201503298",
+   "name": "피나스로정5mg(피나스테리드)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503298"
+  },
+  {
+   "itemSeq": "201504073",
+   "name": "피나프로정1밀리그램(피나스테리드)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504073"
+  },
+  {
+   "itemSeq": "201506121",
+   "name": "프로스틸정(피나스테리드)",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506121"
+  },
+  {
+   "itemSeq": "201506502",
+   "name": "대웅바이오피나스테리드정1밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506502"
+  },
+  {
+   "itemSeq": "201600565",
+   "name": "피나스테리드정 0.2mg「SN」(수출용)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "0.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600565"
+  },
+  {
+   "itemSeq": "201600566",
+   "name": "피나스테리드정 1.0mg「SN」(수출용)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600566"
+  },
+  {
+   "itemSeq": "201600572",
+   "name": "베르모나정1밀리그램(피나스테리드)",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600572"
+  },
+  {
+   "itemSeq": "201600874",
+   "name": "엔피스카정(피나스테리드)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600874"
+  },
+  {
+   "itemSeq": "201601093",
+   "name": "피나스테아정(피나스테리드)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601093"
+  },
+  {
+   "itemSeq": "201601239",
+   "name": "피나진정5밀리그램(피나스테리드)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601239"
+  },
+  {
+   "itemSeq": "201601763",
+   "name": "피테스정5mg(피나스테리드)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601763"
+  },
+  {
+   "itemSeq": "201603165",
+   "name": "피나스카정(피나스테리드)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603165"
+  },
+  {
+   "itemSeq": "201603224",
+   "name": "프로나드정5밀리그램(피나스테리드)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603224"
+  },
+  {
+   "itemSeq": "201603616",
+   "name": "유레이드정(피나스테리드)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603616"
+  },
+  {
+   "itemSeq": "201603765",
+   "name": "피나에이블정5밀리그램(피나스테리드)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603765"
+  },
+  {
+   "itemSeq": "201603906",
+   "name": "비보존피나스테리드정5밀리그램",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603906"
+  },
+  {
+   "itemSeq": "201603944",
+   "name": "피나즈정(피나스테리드)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603944"
+  },
+  {
+   "itemSeq": "201604011",
+   "name": "피나론정(피나스테리드)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604011"
+  },
+  {
+   "itemSeq": "201701055",
+   "name": "모나페시아정1밀리그램(피나스테리드)",
+   "company": "(주)티디에스팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701055"
+  },
+  {
+   "itemSeq": "201701291",
+   "name": "스텐카정1밀리그램(피나스테리드)",
+   "company": "(주)옵투스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701291"
+  },
+  {
+   "itemSeq": "201701551",
+   "name": "피나시딜정5밀리그램(피나스테리드)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701551"
+  },
+  {
+   "itemSeq": "201704723",
+   "name": "이노엔피나스테리드정5밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704723"
+  },
+  {
+   "itemSeq": "201705805",
+   "name": "이노엔피나스테리드정1밀리그램",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705805"
+  },
+  {
+   "itemSeq": "201706266",
+   "name": "피나스로정1mg(피나스테리드)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706266"
+  },
+  {
+   "itemSeq": "201707104",
+   "name": "프로스테리드정1mg(피나스테리드)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707104"
+  },
+  {
+   "itemSeq": "201707251",
+   "name": "삼성피나스테리드정5밀리그램",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707251"
+  },
+  {
+   "itemSeq": "201707496",
+   "name": "피나스트리온정5밀리그램(피나스테리드)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707496"
+  },
+  {
+   "itemSeq": "201802602",
+   "name": "모나시아정1밀리그램(피나스테리드)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802602"
+  },
+  {
+   "itemSeq": "201802729",
+   "name": "큐로이드정(피나스테리드)",
+   "company": "주식회사큐엘파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802729"
+  },
+  {
+   "itemSeq": "201802808",
+   "name": "피나프로스정1밀리그램(피나스테리드)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802808"
+  },
+  {
+   "itemSeq": "201803189",
+   "name": "프로화정(피나스테리드)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803189"
+  },
+  {
+   "itemSeq": "201803548",
+   "name": "모리턴정1밀리그램(피나스테리드)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803548"
+  },
+  {
+   "itemSeq": "201803800",
+   "name": "신신피나스테리드정1밀리그램",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803800"
+  },
+  {
+   "itemSeq": "201804339",
+   "name": "피나스정1밀리그램(피나스테리드)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804339"
+  },
+  {
+   "itemSeq": "201804506",
+   "name": "피나윈정1밀리그램(피나스테리드)",
+   "company": "코스맥스파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804506"
+  },
+  {
+   "itemSeq": "201805362",
+   "name": "리모날정1밀리그램(피나스테리드)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805362"
+  },
+  {
+   "itemSeq": "201900082",
+   "name": "엔피나정(피나스테리드)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900082"
+  },
+  {
+   "itemSeq": "201900938",
+   "name": "다림피나스테리드정1밀리그램",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900938"
+  },
+  {
+   "itemSeq": "201900940",
+   "name": "리모날정5밀리그램(피나스테리드)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900940"
+  },
+  {
+   "itemSeq": "201901476",
+   "name": "모어에이블정1밀리그램(피나스테리드)",
+   "company": "(주)바스칸바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901476"
+  },
+  {
+   "itemSeq": "201901584",
+   "name": "피나스톤정5밀리그램(피나스테리드)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901584"
+  },
+  {
+   "itemSeq": "201901821",
+   "name": "피나테크정1밀리그램(피나스테리드)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901821"
+  },
+  {
+   "itemSeq": "201901898",
+   "name": "피나테크정5밀리그램(피나스테리드)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901898"
+  },
+  {
+   "itemSeq": "201901926",
+   "name": "피나스테린정5밀리그램(피나스테리드)",
+   "company": "(주)바스칸바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901926"
+  },
+  {
+   "itemSeq": "201902071",
+   "name": "유니테리드정5밀리그램(피나스테리드)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902071"
+  },
+  {
+   "itemSeq": "201902249",
+   "name": "모그로정1밀리그램(피나스테리드)",
+   "company": "정우신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902249"
+  },
+  {
+   "itemSeq": "201902250",
+   "name": "모그로정5밀리그램(피나스테리드)",
+   "company": "정우신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902250"
+  },
+  {
+   "itemSeq": "201902332",
+   "name": "프로모아정5밀리그램(피나스테리드)",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902332"
+  },
+  {
+   "itemSeq": "201902353",
+   "name": "피나세타정5밀리그램(피나스테리드)",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902353"
+  },
+  {
+   "itemSeq": "201902356",
+   "name": "피노테정5밀리그램(피나스테리드)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902356"
+  },
+  {
+   "itemSeq": "201902474",
+   "name": "스카페시아정1밀리그램(피나스테리드)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902474"
+  },
+  {
+   "itemSeq": "201902552",
+   "name": "제이페시아정1mg(피나스테리드)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902552"
+  },
+  {
+   "itemSeq": "201902553",
+   "name": "제이피나정5mg(피나스테리드)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902553"
+  },
+  {
+   "itemSeq": "201902594",
+   "name": "모모페시아정1밀리그램(피나스테리드)",
+   "company": "주식회사더유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902594"
+  },
+  {
+   "itemSeq": "201902805",
+   "name": "피나스정5밀리그램(피나스테리드)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902805"
+  },
+  {
+   "itemSeq": "201903316",
+   "name": "피나리정(피나스테리드)",
+   "company": "(주)서흥",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903316"
+  },
+  {
+   "itemSeq": "201903396",
+   "name": "에이페시아정1밀리그램(피나스테리드)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903396"
+  },
+  {
+   "itemSeq": "201903425",
+   "name": "피나프로정5밀리그램(피나스테리드)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903425"
+  },
+  {
+   "itemSeq": "201904321",
+   "name": "위피나정(피나스테리드)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904321"
+  },
+  {
+   "itemSeq": "201905393",
+   "name": "멕스페시아정1밀리그램(피나스테리드)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905393"
+  },
+  {
+   "itemSeq": "201905440",
+   "name": "피나온정1밀리그램(피나스테리드)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905440"
+  },
+  {
+   "itemSeq": "201905545",
+   "name": "피나세트정1mg(피나스테리드)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905545"
+  },
+  {
+   "itemSeq": "201905590",
+   "name": "명문피나스테리드정5밀리그램",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905590"
+  },
+  {
+   "itemSeq": "201905647",
+   "name": "피나세트정5mg(피나스테리드)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905647"
+  },
+  {
+   "itemSeq": "201905959",
+   "name": "뉴페시아정1밀리그램(피나스테리드)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905959"
+  },
+  {
+   "itemSeq": "201905988",
+   "name": "피나모아정1밀리그램(피나스테리드)",
+   "company": "제이더블유생명과학(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905988"
+  },
+  {
+   "itemSeq": "201905960",
+   "name": "피나에스정5밀리그램(피나스테리드)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905960"
+  },
+  {
+   "itemSeq": "201906559",
+   "name": "프로핀카정(피나스테리드)",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906559"
+  },
+  {
+   "itemSeq": "201906668",
+   "name": "알로피나정5밀리그램(피나스테리드)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906668"
+  },
+  {
+   "itemSeq": "201906768",
+   "name": "피나스트정1밀리그램(피나스테리드)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906768"
+  },
+  {
+   "itemSeq": "201906850",
+   "name": "넬슨피나스테리드정1밀리그램(피나스테리드)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906850"
+  },
+  {
+   "itemSeq": "201906851",
+   "name": "넬슨피나스테리드정5밀리그램(피나스테리드)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906851"
+  },
+  {
+   "itemSeq": "201907100",
+   "name": "삼성피나스테리드정1밀리그램",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907100"
+  },
+  {
+   "itemSeq": "201907357",
+   "name": "피나앤정1밀리그램(피나스테리드)",
+   "company": "(주)유앤생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907357"
+  },
+  {
+   "itemSeq": "201907328",
+   "name": "헤오나정1밀리그램(피나스테리드)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907328"
+  },
+  {
+   "itemSeq": "201907358",
+   "name": "휴피나정5밀리그램(피나스테리드)",
+   "company": "(주)유앤생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907358"
+  },
+  {
+   "itemSeq": "201907777",
+   "name": "피나신정(피나스테리드)",
+   "company": "(주)킴스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907777"
+  },
+  {
+   "itemSeq": "201907899",
+   "name": "스테리정1밀리그램(피나스테리드)",
+   "company": "(주)텔콘알에프제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907899"
+  },
+  {
+   "itemSeq": "201907898",
+   "name": "텔콘알에프피나스테리드정5밀리그램",
+   "company": "(주)텔콘알에프제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907898"
+  },
+  {
+   "itemSeq": "201908019",
+   "name": "프로아모정1밀리그램(피나스테리드)",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908019"
+  },
+  {
+   "itemSeq": "201908083",
+   "name": "다모테리드정1밀리그램(피나스테리드)",
+   "company": "한국신텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908083"
+  },
+  {
+   "itemSeq": "201908113",
+   "name": "비피스타정(피나스테리드)",
+   "company": "주식회사더유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908113"
+  },
+  {
+   "itemSeq": "201908369",
+   "name": "메가페시아정1밀리그램(피나스테리드)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908369"
+  },
+  {
+   "itemSeq": "202000208",
+   "name": "엔티테리드정5밀리그램(피나스테리드)",
+   "company": "(주)셀비온",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000208"
+  },
+  {
+   "itemSeq": "202001337",
+   "name": "메가페시아정5밀리그램(피나스테리드)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001337"
+  },
+  {
+   "itemSeq": "202001530",
+   "name": "피나스텐정1밀리그램(피나스테리드)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001530"
+  },
+  {
+   "itemSeq": "202002329",
+   "name": "피나스텐정5밀리그램(피나스테리드)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002329"
+  },
+  {
+   "itemSeq": "202003376",
+   "name": "피나시드정5밀리그램(피나스테리드)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003376"
+  },
+  {
+   "itemSeq": "202003757",
+   "name": "피나움정(피나스테리드)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003757"
+  },
+  {
+   "itemSeq": "202004694",
+   "name": "모벤시아정(피나스테리드)",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004694"
+  },
+  {
+   "itemSeq": "202005123",
+   "name": "피나엠정1밀리그램(피나스테리드)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005123"
+  },
+  {
+   "itemSeq": "202006563",
+   "name": "모모드정(피나스테리드)",
+   "company": "(주)서흥",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006563"
+  },
+  {
+   "itemSeq": "202006597",
+   "name": "피나스톤정1밀리그램(피나스테리드)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202006597"
+  },
+  {
+   "itemSeq": "202009181",
+   "name": "다나페시아정1밀리그램(피나스테리드)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009181"
+  },
+  {
+   "itemSeq": "202009263",
+   "name": "피나시드정1밀리그램(피나스테리드)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202009263"
+  },
+  {
+   "itemSeq": "202100729",
+   "name": "모시아모정(피나스테리드)",
+   "company": "주식회사큐엘파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100729"
+  },
+  {
+   "itemSeq": "202102023",
+   "name": "피나스테아정1밀리그램(피나스테리드)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-03-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102023"
+  },
+  {
+   "itemSeq": "202103355",
+   "name": "알로피나정1밀리그램(피나스테리드)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103355"
+  },
+  {
+   "itemSeq": "202103463",
+   "name": "명문다모케어정(피나스테리드)(수출용)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103463"
+  },
+  {
+   "itemSeq": "202105453",
+   "name": "알로테드정1밀리그램(피나스테리드)",
+   "company": "삼아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-07-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105453"
+  },
+  {
+   "itemSeq": "202106154",
+   "name": "그로페시아정1밀리그램(피나스테리드)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106154"
+  },
+  {
+   "itemSeq": "202106216",
+   "name": "피나모정1mg(피나스테리드)",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106216"
+  },
+  {
+   "itemSeq": "202106423",
+   "name": "피나시아정1밀리그램(피나스테리드)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-09-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202106423"
+  },
+  {
+   "itemSeq": "202107071",
+   "name": "제노페시아정(피나스테리드)",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107071"
+  },
+  {
+   "itemSeq": "202107112",
+   "name": "오뉴페시아정1밀리그램(피나스테리드)",
+   "company": "미래바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107112"
+  },
+  {
+   "itemSeq": "202107289",
+   "name": "핀스타정1밀리그램(피나스테리드)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107289"
+  },
+  {
+   "itemSeq": "202200293",
+   "name": "원페시아정1밀리그램(피나스테리드)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-01-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200293"
+  },
+  {
+   "itemSeq": "202201129",
+   "name": "명문다모케어정1.3밀리그램(피나스테리드)(수출용)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201129"
+  },
+  {
+   "itemSeq": "202203492",
+   "name": "핀쥬베스프레이(피나스테리드)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "2.275",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-09-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203492"
+  },
+  {
+   "itemSeq": "202303302",
+   "name": "피노테정1밀리그램(피나스테리드)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-12-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303302"
+  },
+  {
+   "itemSeq": "202401636",
+   "name": "피나베린정1.5밀리그램(피나스테리드)(수출용)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-07-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401636"
+  },
+  {
+   "itemSeq": "202502390",
+   "name": "온유페시아정1밀리그램(피나스테리드)",
+   "company": "하이플생명과학(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502390"
+  },
+  {
+   "itemSeq": "202601324",
+   "name": "모모나정(피나스테리드)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601324"
+  },
+  {
+   "itemSeq": "202601829",
+   "name": "프로시아정(피나스테리드)",
+   "company": "주식회사 노바엠헬스케어",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601829"
+  },
+  {
+   "itemSeq": "202601981",
+   "name": "보란피나스테리드정1밀리그램",
+   "company": "보란파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601981"
+  },
+  {
+   "itemSeq": "202602209",
+   "name": "헤어엔정(피나스테리드)",
+   "company": "경방신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602209"
+  },
+  {
+   "itemSeq": "202602447",
+   "name": "코오롱피나스테리드정1밀리그램",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602447"
+  },
+  {
+   "itemSeq": "202602490",
+   "name": "피나원정1밀리그램(피나스테리드)",
+   "company": "씨에이치디제약주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-08-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602490"
+  },
+  {
+   "itemSeq": "202603226",
+   "name": "동성피나스테리드정",
+   "company": "동성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피나스테리드",
+     "amount": "1.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603226"
+  },
+  {
+   "itemSeq": "202204627",
+   "name": "다모케어플러스정(피나스테리드,미녹시딜)(수출용)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미녹시딜",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피나스테리드",
+     "amount": "1.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204627"
+  },
+  {
+   "itemSeq": "202402667",
+   "name": "피나베린듀오정(미녹시딜,피나스테리드)(수출용)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미녹시딜",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피나스테리드",
+     "amount": "1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-11-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402667"
+  }
+ ]
+}

@@ -1,0 +1,4951 @@
+{
+ "id": "linagliptin",
+ "query": [
+  "리나글립틴"
+ ],
+ "fetched": "2026-11-26",
+ "total": 256,
+ "kept": 256,
+ "mfdsName": [
+  "리나글립틴",
+  "리나글립틴(미분화)",
+  "리나글립틴베실산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "201106367",
+   "name": "트라젠타정(리나글립틴)",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201106367"
+  },
+  {
+   "itemSeq": "201801784",
+   "name": "트라디엠정5밀리그램(리나글립틴)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801784"
+  },
+  {
+   "itemSeq": "201801836",
+   "name": "글리젠타정5밀리그램(리나글립틴)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801836"
+  },
+  {
+   "itemSeq": "201801837",
+   "name": "리나티젠정5밀리그램(리나글립틴)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801837"
+  },
+  {
+   "itemSeq": "201801842",
+   "name": "안국리나글립틴정5밀리그램",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801842"
+  },
+  {
+   "itemSeq": "201801878",
+   "name": "리나원정5밀리그램(리나글립틴)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801878"
+  },
+  {
+   "itemSeq": "201803133",
+   "name": "리타진정(리나글립틴)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803133"
+  },
+  {
+   "itemSeq": "201803132",
+   "name": "트라리틴정(리나글립틴)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803132"
+  },
+  {
+   "itemSeq": "201803154",
+   "name": "리나글로정(리나글립틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803154"
+  },
+  {
+   "itemSeq": "201803845",
+   "name": "유젠타정(리나글립틴)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803845"
+  },
+  {
+   "itemSeq": "201804141",
+   "name": "글루젠타정5밀리그램(리나글립틴)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804141"
+  },
+  {
+   "itemSeq": "201805130",
+   "name": "리나탑정5밀리그램(리나글립틴)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805130"
+  },
+  {
+   "itemSeq": "201805437",
+   "name": "트라글립틴정(리나글립틴)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805437"
+  },
+  {
+   "itemSeq": "201900150",
+   "name": "리나젠타정(리나글립틴)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900150"
+  },
+  {
+   "itemSeq": "201900179",
+   "name": "리나그린정5밀리그램(리나글립틴)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900179"
+  },
+  {
+   "itemSeq": "201900193",
+   "name": "리나로정(리나글립틴)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900193"
+  },
+  {
+   "itemSeq": "201900194",
+   "name": "리나제틴정(리나글립틴)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900194"
+  },
+  {
+   "itemSeq": "201900708",
+   "name": "트루리나정(리나글립틴)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900708"
+  },
+  {
+   "itemSeq": "201901237",
+   "name": "리나글정(리나글립틴)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901237"
+  },
+  {
+   "itemSeq": "201901206",
+   "name": "리나디엠정5밀리그램(리나글립틴)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901206"
+  },
+  {
+   "itemSeq": "201901817",
+   "name": "리나디포정5mg(리나글립틴)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901817"
+  },
+  {
+   "itemSeq": "201902174",
+   "name": "리나톤정5밀리그램(리나글립틴)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902174"
+  },
+  {
+   "itemSeq": "201902440",
+   "name": "리나그립정(리나글립틴)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902440"
+  },
+  {
+   "itemSeq": "201903081",
+   "name": "리나디아정5밀리그램(리나글립틴)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903081"
+  },
+  {
+   "itemSeq": "201903547",
+   "name": "명문리나글립틴정",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903547"
+  },
+  {
+   "itemSeq": "201903610",
+   "name": "리나틴정(리나글립틴)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903610"
+  },
+  {
+   "itemSeq": "201904712",
+   "name": "리나트라정5밀리그램(리나글립틴)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904712"
+  },
+  {
+   "itemSeq": "201906128",
+   "name": "뉴라젠타정(리나글립틴)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906128"
+  },
+  {
+   "itemSeq": "201908011",
+   "name": "리트라젠정5mg(리나글립틴)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908011"
+  },
+  {
+   "itemSeq": "202000323",
+   "name": "동광리나글립틴정5밀리그램",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000323"
+  },
+  {
+   "itemSeq": "202000322",
+   "name": "리납틴정5밀리그램(리나글립틴)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000322"
+  },
+  {
+   "itemSeq": "202000382",
+   "name": "이니젠타정(리나글립틴)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000382"
+  },
+  {
+   "itemSeq": "202002013",
+   "name": "글로틴정5밀리그램(리나글립틴)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002013"
+  },
+  {
+   "itemSeq": "202003187",
+   "name": "글레린정5밀리그램(리나글립틴)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003187"
+  },
+  {
+   "itemSeq": "202004750",
+   "name": "나리젠타정5밀리그램(리나글립틴)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202004750"
+  },
+  {
+   "itemSeq": "202100814",
+   "name": "트란타정5밀리그램(리나글립틴)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100814"
+  },
+  {
+   "itemSeq": "202200756",
+   "name": "일라글립정5밀리그램(리나글립틴)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202200756"
+  },
+  {
+   "itemSeq": "202302805",
+   "name": "트라케이정(리나글립틴)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302805"
+  },
+  {
+   "itemSeq": "202302902",
+   "name": "다림리나온정(리나글립틴)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302902"
+  },
+  {
+   "itemSeq": "202303418",
+   "name": "리나하나정(리나글립틴)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-12-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303418"
+  },
+  {
+   "itemSeq": "202400697",
+   "name": "리나루틴정5밀리그램(리나글립틴베실산염)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "6.67",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400697"
+  },
+  {
+   "itemSeq": "202400690",
+   "name": "리라젠타정5밀리그램(리나글립틴베실산염)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "6.67",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400690"
+  },
+  {
+   "itemSeq": "202400699",
+   "name": "트라이나정5밀리그램(리나글립틴베실산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "6.67",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400699"
+  },
+  {
+   "itemSeq": "202400696",
+   "name": "트립엠정5밀리그램(리나글립틴베실산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "6.67",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400696"
+  },
+  {
+   "itemSeq": "202401209",
+   "name": "트리나정5밀리그램(리나글립틴)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401209"
+  },
+  {
+   "itemSeq": "201208291",
+   "name": "트라젠타듀오정2.5/850밀리그램",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208291"
+  },
+  {
+   "itemSeq": "201208290",
+   "name": "트라젠타듀오정2.5/500밀리그램",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208290"
+  },
+  {
+   "itemSeq": "201208292",
+   "name": "트라젠타듀오정2.5/1000밀리그램",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.500",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-11-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201208292"
+  },
+  {
+   "itemSeq": "201701586",
+   "name": "에스글리토정10/5밀리그램",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701586"
+  },
+  {
+   "itemSeq": "201701587",
+   "name": "에스글리토정25/5밀리그램",
+   "company": "한국베링거인겔하임(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701587"
+  },
+  {
+   "itemSeq": "201801859",
+   "name": "리나글로듀오정2.5/1000밀리그램",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801859"
+  },
+  {
+   "itemSeq": "201801848",
+   "name": "안국리나듀오정2.5/1000밀리그램",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801848"
+  },
+  {
+   "itemSeq": "201802273",
+   "name": "트라디엠듀오정2.5/1000밀리그램",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1,000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802273"
+  },
+  {
+   "itemSeq": "201802631",
+   "name": "트라디엠듀오정2.5/500밀리그램",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802631"
+  },
+  {
+   "itemSeq": "201802632",
+   "name": "트라디엠듀오정2.5/850밀리그램",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802632"
+  },
+  {
+   "itemSeq": "201803144",
+   "name": "리타메진정2.5/1000밀리그램",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803144"
+  },
+  {
+   "itemSeq": "201803142",
+   "name": "리타메진정2.5/500밀리그램",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803142"
+  },
+  {
+   "itemSeq": "201803143",
+   "name": "리타메진정2.5/850밀리그램",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803143"
+  },
+  {
+   "itemSeq": "201803844",
+   "name": "유젠타듀오정2.5/1000밀리그램",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803844"
+  },
+  {
+   "itemSeq": "201900303",
+   "name": "유젠타듀오정2.5/850밀리그램",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900303"
+  },
+  {
+   "itemSeq": "201900304",
+   "name": "유젠타듀오정2.5/500밀리그램",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900304"
+  },
+  {
+   "itemSeq": "201901611",
+   "name": "리나디포듀오정2.5/850mg(리나글립틴, 메트포르민)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901611"
+  },
+  {
+   "itemSeq": "201901617",
+   "name": "리나디포듀오정2.5/1000mg(리나글립틴, 메트포르민)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901617"
+  },
+  {
+   "itemSeq": "201901622",
+   "name": "리나톤엠정2.5/1000밀리그램",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1,000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901622"
+  },
+  {
+   "itemSeq": "201902171",
+   "name": "트라글립틴듀오정2.5/1000mg",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902171"
+  },
+  {
+   "itemSeq": "201902169",
+   "name": "트라글립틴듀오정2.5/500mg",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902169"
+  },
+  {
+   "itemSeq": "201902170",
+   "name": "트라글립틴듀오정2.5/850mg",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902170"
+  },
+  {
+   "itemSeq": "201902225",
+   "name": "글리젠타듀오정2.5/850밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902225"
+  },
+  {
+   "itemSeq": "201902223",
+   "name": "글리젠타듀오정2.5/1000밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902223"
+  },
+  {
+   "itemSeq": "201902224",
+   "name": "글리젠타듀오정2.5/500밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902224"
+  },
+  {
+   "itemSeq": "201902340",
+   "name": "트라리틴콤비정2.5/1000mg",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902340"
+  },
+  {
+   "itemSeq": "201902373",
+   "name": "리나젠타듀오정2.5/850mg",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902373"
+  },
+  {
+   "itemSeq": "201902372",
+   "name": "리나젠타듀오정2.5/1000mg",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902372"
+  },
+  {
+   "itemSeq": "201902371",
+   "name": "리나젠타듀오정2.5/500mg",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902371"
+  },
+  {
+   "itemSeq": "201902369",
+   "name": "트루리나엠정2.5/500mg(리나글립틴,메트포르민염산염)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902369"
+  },
+  {
+   "itemSeq": "201902368",
+   "name": "트루리나엠정2.5/1000mg(리나글립틴,메트포르민염산염)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902368"
+  },
+  {
+   "itemSeq": "201902370",
+   "name": "트루리나엠정2.5/850mg(리나글립틴,메트포르민염산염)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902370"
+  },
+  {
+   "itemSeq": "201902607",
+   "name": "리나티젠듀오정2.5/500밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902607"
+  },
+  {
+   "itemSeq": "201902608",
+   "name": "리나티젠듀오정2.5/850밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902608"
+  },
+  {
+   "itemSeq": "201902609",
+   "name": "리나티젠듀오정2.5/1000밀리그램",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902609"
+  },
+  {
+   "itemSeq": "201902757",
+   "name": "리나제틴듀오정2.5/500밀리그램",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902757"
+  },
+  {
+   "itemSeq": "201902756",
+   "name": "리나제틴듀오정2.5/850밀리그램",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902756"
+  },
+  {
+   "itemSeq": "201902755",
+   "name": "리나제틴듀오정2.5/1000밀리그램",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902755"
+  },
+  {
+   "itemSeq": "201902780",
+   "name": "리나로엠정2.5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902780"
+  },
+  {
+   "itemSeq": "201902779",
+   "name": "리나로엠정2.5/500밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902779"
+  },
+  {
+   "itemSeq": "201902778",
+   "name": "리나로엠정2.5/850밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902778"
+  },
+  {
+   "itemSeq": "201902783",
+   "name": "명문리나글립틴듀오정2.5/1000mg",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1,000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902783"
+  },
+  {
+   "itemSeq": "201903156",
+   "name": "리나디아듀오정2.5/850밀리그램",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903156"
+  },
+  {
+   "itemSeq": "201903155",
+   "name": "리나디아듀오정2.5/1000밀리그램",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903155"
+  },
+  {
+   "itemSeq": "201903127",
+   "name": "리나디아듀오정2.5/500밀리그램",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903127"
+  },
+  {
+   "itemSeq": "201903533",
+   "name": "리나원듀오정2.5/850밀리그램(리나글립틴,메트포르민)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903533"
+  },
+  {
+   "itemSeq": "201903532",
+   "name": "리나원듀오정2.5/1000밀리그램(리나글립틴,메트포르민)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903532"
+  },
+  {
+   "itemSeq": "201903534",
+   "name": "리나원듀오정2.5/500밀리그램(리나글립틴,메트포르민)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903534"
+  },
+  {
+   "itemSeq": "201903570",
+   "name": "리나톤엠정2.5/500밀리그램",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903570"
+  },
+  {
+   "itemSeq": "201903571",
+   "name": "리나톤엠정2.5/850밀리그램",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903571"
+  },
+  {
+   "itemSeq": "201904409",
+   "name": "라니글듀오정2.5/1000밀리그램",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904409"
+  },
+  {
+   "itemSeq": "201904407",
+   "name": "라니글듀오정2.5/500밀리그램",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904407"
+  },
+  {
+   "itemSeq": "201904408",
+   "name": "라니글듀오정2.5/850밀리그램",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904408"
+  },
+  {
+   "itemSeq": "201904459",
+   "name": "리나탑듀오정2.5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904459"
+  },
+  {
+   "itemSeq": "201904462",
+   "name": "리나탑듀오정2.5/500밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904462"
+  },
+  {
+   "itemSeq": "201904463",
+   "name": "리나탑듀오정2.5/850밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904463"
+  },
+  {
+   "itemSeq": "201908009",
+   "name": "리트라젠듀오정2.5/500mg",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908009"
+  },
+  {
+   "itemSeq": "201908008",
+   "name": "리트라젠듀오정2.5/850mg",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908008"
+  },
+  {
+   "itemSeq": "201908010",
+   "name": "리트라젠듀오정2.5/1000mg",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908010"
+  },
+  {
+   "itemSeq": "202001274",
+   "name": "글로틴듀오정2.5/500mg(리나글립틴, 메트포르민염산염)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001274"
+  },
+  {
+   "itemSeq": "202001275",
+   "name": "글로틴듀오정2.5/850mg(리나글립틴, 메트포르민염산염)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001275"
+  },
+  {
+   "itemSeq": "202001276",
+   "name": "글로틴듀오정2.5/1000mg(리나글립틴, 메트포르민염산염)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001276"
+  },
+  {
+   "itemSeq": "202001311",
+   "name": "리나트라듀오정2.5/500밀리그램",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001311"
+  },
+  {
+   "itemSeq": "202001310",
+   "name": "리나트라듀오정2.5/850밀리그램",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001310"
+  },
+  {
+   "itemSeq": "202001309",
+   "name": "리나트라듀오정2.5/1000밀리그램",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001309"
+  },
+  {
+   "itemSeq": "202105928",
+   "name": "리나디포듀오정2.5/500mg(리나글립틴, 메트포르민)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-08-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202105928"
+  },
+  {
+   "itemSeq": "202201610",
+   "name": "트라케이듀오정2.5/850밀리그램",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201610"
+  },
+  {
+   "itemSeq": "202201612",
+   "name": "트라케이듀오정2.5/1000밀리그램",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201612"
+  },
+  {
+   "itemSeq": "202201611",
+   "name": "트라케이듀오정2.5/500밀리그램",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201611"
+  },
+  {
+   "itemSeq": "202201810",
+   "name": "나리젠타듀오정2.5/500밀리그램",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201810"
+  },
+  {
+   "itemSeq": "202201809",
+   "name": "나리젠타듀오정2.5/850밀리그램",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201809"
+  },
+  {
+   "itemSeq": "202201811",
+   "name": "나리젠타듀오정2.5/1000밀리그램",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201811"
+  },
+  {
+   "itemSeq": "202201893",
+   "name": "트라젠트듀오정2.5/850밀리그램",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201893"
+  },
+  {
+   "itemSeq": "202201894",
+   "name": "트라젠트듀오정2.5/500밀리그램",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201894"
+  },
+  {
+   "itemSeq": "202201895",
+   "name": "트라젠트듀오정2.5/1000밀리그램",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201895"
+  },
+  {
+   "itemSeq": "202203527",
+   "name": "리나틴플러스정2.5/1000밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-09-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203527"
+  },
+  {
+   "itemSeq": "202203839",
+   "name": "리나틴플러스정2.5/500밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-10-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203839"
+  },
+  {
+   "itemSeq": "202204204",
+   "name": "리디포엠정2.5/1000밀리그램",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-11-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202204204"
+  },
+  {
+   "itemSeq": "202300413",
+   "name": "리나틴플러스정2.5/850밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300413"
+  },
+  {
+   "itemSeq": "202302840",
+   "name": "트라디앙정10/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302840"
+  },
+  {
+   "itemSeq": "202302839",
+   "name": "트라디앙정25/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302839"
+  },
+  {
+   "itemSeq": "202302914",
+   "name": "트라리틴콤비서방정5/1000밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염 콜로이드성이산화규소",
+     "amount": "1010.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-10-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302914"
+  },
+  {
+   "itemSeq": "202302920",
+   "name": "트라폴민듀오서방정5/1000밀리그램",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염 콜로이드성이산화규소",
+     "amount": "1010.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302920"
+  },
+  {
+   "itemSeq": "202400025",
+   "name": "트라케이듀오서방정2.5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400025"
+  },
+  {
+   "itemSeq": "202400024",
+   "name": "트라케이듀오서방정5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400024"
+  },
+  {
+   "itemSeq": "202400189",
+   "name": "리나글로메트서방정2.5/1000밀리그램(리나글립틴,메트포르민)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400189"
+  },
+  {
+   "itemSeq": "202400188",
+   "name": "리나글로메트서방정5/1000밀리그램(리나글립틴,메트포르민)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400188"
+  },
+  {
+   "itemSeq": "202400186",
+   "name": "리나틴플러스엑스알정2.5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400186"
+  },
+  {
+   "itemSeq": "202400187",
+   "name": "리나틴플러스엑스알정5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400187"
+  },
+  {
+   "itemSeq": "202400185",
+   "name": "리타메진서방정2.5/1000밀리그램(리나글립틴(미분화),메트포르민염산염)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400185"
+  },
+  {
+   "itemSeq": "202400184",
+   "name": "리타메진서방정5/1000밀리그램(리나글립틴(미분화),메트포르민염산염)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400184"
+  },
+  {
+   "itemSeq": "202400388",
+   "name": "리나디엠메트서방정2.5/1000밀리그램(리나글립틴,메트포르민)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400388"
+  },
+  {
+   "itemSeq": "202400383",
+   "name": "리나디엠메트서방정5/1000밀리그램(리나글립틴,메트포르민)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400383"
+  },
+  {
+   "itemSeq": "202400470",
+   "name": "뉴젠타씨알정(리나글립틴,메트포르민)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400470"
+  },
+  {
+   "itemSeq": "202400469",
+   "name": "리나로엠서방정5/1000밀리그램(리나글립틴,메트포르민)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400469"
+  },
+  {
+   "itemSeq": "202400515",
+   "name": "라니글듀오서방정2.5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400515"
+  },
+  {
+   "itemSeq": "202400514",
+   "name": "라니글듀오서방정5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400514"
+  },
+  {
+   "itemSeq": "202400517",
+   "name": "트라리틴콤비서방정2.5/1000밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염 콜로이드성이산화규소",
+     "amount": "1010.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400517"
+  },
+  {
+   "itemSeq": "202400516",
+   "name": "트라리틴콤비서방정2.5/750밀리그램",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염 콜로이드성이산화규소",
+     "amount": "757.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400516"
+  },
+  {
+   "itemSeq": "202400571",
+   "name": "리나로엠서방정2.5/1000밀리그램(리나글립틴, 메트포르민)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400571"
+  },
+  {
+   "itemSeq": "202400573",
+   "name": "리나콤비서방정2.5/1000밀리그램(리나글립틴,메트포르민)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400573"
+  },
+  {
+   "itemSeq": "202400574",
+   "name": "리나콤비서방정5/1000밀리그램(리나글립틴,메트포르민)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400574"
+  },
+  {
+   "itemSeq": "202400626",
+   "name": "글레린듀오서방정2.5/1000밀리그램(리나글립틴,메트포르민)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400626"
+  },
+  {
+   "itemSeq": "202400627",
+   "name": "글레린듀오서방정5/1000밀리그램(리나글립틴,메트포르민)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400627"
+  },
+  {
+   "itemSeq": "202400607",
+   "name": "나리젠타듀오서방정 5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400607"
+  },
+  {
+   "itemSeq": "202400606",
+   "name": "나리젠타듀오서방정 2.5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400606"
+  },
+  {
+   "itemSeq": "202400629",
+   "name": "리나루틴듀오서방정2.5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400629"
+  },
+  {
+   "itemSeq": "202400628",
+   "name": "리나루틴듀오서방정5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400628"
+  },
+  {
+   "itemSeq": "202400613",
+   "name": "리나맥스서방정2.5/1000밀리그램(리나글립틴, 메트포르민염산염)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400613"
+  },
+  {
+   "itemSeq": "202400612",
+   "name": "리나맥스서방정5/1000밀리그램(리나글립틴, 메트포르민염산염)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400612"
+  },
+  {
+   "itemSeq": "202400620",
+   "name": "리나젠타듀오서방정2.5/1000밀리그램(리나글립틴, 메트포르민염산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400620"
+  },
+  {
+   "itemSeq": "202400621",
+   "name": "리나젠타듀오서방정5/1000밀리그램(리나글립틴, 메트포르민염산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400621"
+  },
+  {
+   "itemSeq": "202400608",
+   "name": "리나칸메트서방정2.5/1000밀리그램(리나글립틴(미분화),메트포르민염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400608"
+  },
+  {
+   "itemSeq": "202400609",
+   "name": "리나칸메트서방정5/1000밀리그램(리나글립틴(미분화),메트포르민염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400609"
+  },
+  {
+   "itemSeq": "202400605",
+   "name": "리나탑듀오서방정2.5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400605"
+  },
+  {
+   "itemSeq": "202400604",
+   "name": "리나탑듀오서방정5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400604"
+  },
+  {
+   "itemSeq": "202400622",
+   "name": "리디포엠서방정2.5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400622"
+  },
+  {
+   "itemSeq": "202400623",
+   "name": "리디포엠서방정5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400623"
+  },
+  {
+   "itemSeq": "202400611",
+   "name": "리젠타듀오서방정2.5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400611"
+  },
+  {
+   "itemSeq": "202400610",
+   "name": "리젠타듀오서방정5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400610"
+  },
+  {
+   "itemSeq": "202400614",
+   "name": "리포민듀오서방정2.5/1000밀리그램(리나글립틴, 메트포르민염산염)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400614"
+  },
+  {
+   "itemSeq": "202400615",
+   "name": "리포민듀오서방정5/1000밀리그램(리나글립틴, 메트포르민염산염)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400615"
+  },
+  {
+   "itemSeq": "202400616",
+   "name": "명문리나글립틴듀오서방정2.5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400616"
+  },
+  {
+   "itemSeq": "202400617",
+   "name": "명문리나글립틴듀오서방정 5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400617"
+  },
+  {
+   "itemSeq": "202400619",
+   "name": "트루리나엠서방정2.5/1000밀리그램(리나글립틴,메트포르민)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400619"
+  },
+  {
+   "itemSeq": "202400618",
+   "name": "트루리나엠서방정5/1000밀리그램(리나글립틴,메트포르민)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400618"
+  },
+  {
+   "itemSeq": "202400624",
+   "name": "트리나엠서방정2.5/1000밀리그램(리나글립틴, 메트포르민)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400624"
+  },
+  {
+   "itemSeq": "202400625",
+   "name": "트리나엠서방정5/1000밀리그램(리나글립틴, 메트포르민)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400625"
+  },
+  {
+   "itemSeq": "202400633",
+   "name": "글리젠타듀오서방정2.5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400633"
+  },
+  {
+   "itemSeq": "202400634",
+   "name": "글리젠타듀오서방정5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400634"
+  },
+  {
+   "itemSeq": "202400631",
+   "name": "트라폴민듀오서방정2.5/1000밀리그램",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염 콜로이드성이산화규소",
+     "amount": "1010.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400631"
+  },
+  {
+   "itemSeq": "202400630",
+   "name": "트라폴민듀오서방정2.5/750밀리그램",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염 콜로이드성이산화규소",
+     "amount": "757.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400630"
+  },
+  {
+   "itemSeq": "202400662",
+   "name": "글루립틴듀오엑스알서방정5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400662"
+  },
+  {
+   "itemSeq": "202400663",
+   "name": "글루립틴듀오엑스알서방정2.5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400663"
+  },
+  {
+   "itemSeq": "202400661",
+   "name": "리나티젠듀오서방정2.5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400661"
+  },
+  {
+   "itemSeq": "202400660",
+   "name": "리나티젠듀오서방정5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400660"
+  },
+  {
+   "itemSeq": "202400691",
+   "name": "트라듀오서방정5/1000밀리그램(리나글립틴, 메트포르민)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400691"
+  },
+  {
+   "itemSeq": "202400702",
+   "name": "트란타듀오정2.5/500밀리그램",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400702"
+  },
+  {
+   "itemSeq": "202400703",
+   "name": "트란타듀오정2.5/1000밀리그램",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1,000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400703"
+  },
+  {
+   "itemSeq": "202400701",
+   "name": "트란타듀오정2.5/850밀리그램",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400701"
+  },
+  {
+   "itemSeq": "202400695",
+   "name": "폴민리나서방정2.5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400695"
+  },
+  {
+   "itemSeq": "202400694",
+   "name": "폴민리나서방정5/1000밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-03-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400694"
+  },
+  {
+   "itemSeq": "202400905",
+   "name": "다파리나정(다파글리플로진프로판디올수화물,리나글립틴)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400905"
+  },
+  {
+   "itemSeq": "202400923",
+   "name": "다파로엘정10/5밀리그램(다파글리플로진프로판디올수화물,리나글립틴)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400923"
+  },
+  {
+   "itemSeq": "202400937",
+   "name": "다파엔젠타정10/5밀리그램(다파글리플로진,리나글립틴)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400937"
+  },
+  {
+   "itemSeq": "202400935",
+   "name": "리나다파지정(다파글리플로진프로판디올수화물,리나글립틴)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400935"
+  },
+  {
+   "itemSeq": "202400934",
+   "name": "트라시가정10/5밀리그램(다파글리플로진프로판디올수화물,리나글립틴)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400934"
+  },
+  {
+   "itemSeq": "202400936",
+   "name": "트루다파엘정10/5밀리그램(다파글리플로진,리나글립틴)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400936"
+  },
+  {
+   "itemSeq": "202400922",
+   "name": "포사리나정10/5밀리그램(다파글리플로진프로판디올수화물,리나글립틴)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400922"
+  },
+  {
+   "itemSeq": "202400933",
+   "name": "포시젠타정(다파글리플로진프로판디올수화물,리나글립틴)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400933"
+  },
+  {
+   "itemSeq": "202401058",
+   "name": "리나루틴듀오정2.5/850밀리그램(리나글립틴,메트포르민)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "3.34",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401058"
+  },
+  {
+   "itemSeq": "202401059",
+   "name": "리나루틴듀오정2.5/500밀리그램(리나글립틴,메트포르민)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "3.34",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401059"
+  },
+  {
+   "itemSeq": "202401060",
+   "name": "리나루틴듀오정2.5/1000밀리그램(리나글립틴,메트포르민)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "3.34",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401060"
+  },
+  {
+   "itemSeq": "202401041",
+   "name": "리라젠타듀오정2.5/850밀리그램(리나글립틴베실산염,메트포르민염산염)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "3.34",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401041"
+  },
+  {
+   "itemSeq": "202401042",
+   "name": "리라젠타듀오정2.5/500밀리그램(리나글립틴베실산염,메트포르민염산염)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "3.34",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401042"
+  },
+  {
+   "itemSeq": "202401040",
+   "name": "리라젠타듀오정2.5/1000밀리그램(리나글립틴베실산염,메트포르민염산염)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "3.34",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401040"
+  },
+  {
+   "itemSeq": "202401052",
+   "name": "트라이나엠정2.5/1000밀리그램(리나글립틴,메트포르민)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "3.34",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401052"
+  },
+  {
+   "itemSeq": "202401053",
+   "name": "트라이나엠정2.5/850밀리그램(리나글립틴,메트포르민)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "3.34",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401053"
+  },
+  {
+   "itemSeq": "202401054",
+   "name": "트라이나엠정2.5/500밀리그램(리나글립틴,메트포르민)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "3.34",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401054"
+  },
+  {
+   "itemSeq": "202401057",
+   "name": "트립엠듀오정2.5/1000밀리그램(리나글립틴,메트포르민)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "3.34",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401057"
+  },
+  {
+   "itemSeq": "202401055",
+   "name": "트립엠듀오정2.5/500밀리그램(리나글립틴,메트포르민)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "3.34",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401055"
+  },
+  {
+   "itemSeq": "202401056",
+   "name": "트립엠듀오정2.5/850밀리그램(리나글립틴,메트포르민)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "3.34",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401056"
+  },
+  {
+   "itemSeq": "202401557",
+   "name": "리라젠타듀오서방정2.5/1000밀리그램(리나글립틴,메트포르민)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "3.34",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401557"
+  },
+  {
+   "itemSeq": "202401558",
+   "name": "리라젠타듀오서방정5/1000밀리그램(리나글립틴,메트포르민)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "6.67",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401558"
+  },
+  {
+   "itemSeq": "202401580",
+   "name": "트라이나엠서방정2.5/1000밀리그램(리나글립틴, 메트포르민)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "3.34",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401580"
+  },
+  {
+   "itemSeq": "202401579",
+   "name": "트라이나엠서방정5/1000밀리그램(리나글립틴, 메트포르민)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "6.67",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401579"
+  },
+  {
+   "itemSeq": "202401578",
+   "name": "트립엠듀오서방정2.5/1000밀리그램(리나글립틴, 메트포르민)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "3.34",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401578"
+  },
+  {
+   "itemSeq": "202401577",
+   "name": "트립엠듀오서방정5/1000밀리그램(리나글립틴, 메트포르민)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "6.67",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401577"
+  },
+  {
+   "itemSeq": "202402282",
+   "name": "리나엠파정10/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402282"
+  },
+  {
+   "itemSeq": "202402281",
+   "name": "리나엠파정25/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-09-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402281"
+  },
+  {
+   "itemSeq": "202402465",
+   "name": "휴리엠정10/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(미분화)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402465"
+  },
+  {
+   "itemSeq": "202402466",
+   "name": "휴리엠정25/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(미분화)",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402466"
+  },
+  {
+   "itemSeq": "202500418",
+   "name": "엠파비아정10/5밀리그램(엠파글리플로진, 리나글립틴)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500418"
+  },
+  {
+   "itemSeq": "202500417",
+   "name": "엠파비아정25/5밀리그램(엠파글리플로진, 리나글립틴)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500417"
+  },
+  {
+   "itemSeq": "202500884",
+   "name": "폴민리나서방정2.5/750밀리그램(리나글립틴,메트포르민염산염)",
+   "company": "(주)녹십자",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "750.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-04-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500884"
+  },
+  {
+   "itemSeq": "202501305",
+   "name": "엠글리토정10/5밀리그램(엠파글리플로진, 리나글립틴)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501305"
+  },
+  {
+   "itemSeq": "202501306",
+   "name": "엠글리토정25/5밀리그램(엠파글리플로진, 리나글립틴)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501306"
+  },
+  {
+   "itemSeq": "202501684",
+   "name": "엔글리나정25/5밀리그램(엠파글리플로진, 리나글립틴)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501684"
+  },
+  {
+   "itemSeq": "202501804",
+   "name": "리나칸엠파정10/5밀리그램(엠파글리플로진, 리나글립틴)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501804"
+  },
+  {
+   "itemSeq": "202501803",
+   "name": "리나칸엠파정25/5밀리그램(엠파글리플로진, 리나글립틴)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501803"
+  },
+  {
+   "itemSeq": "202501955",
+   "name": "트라듀오엠파서방정10/5/1000밀리그램(엠파글리플로진, 리나글립틴, 메트포르민)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501955"
+  },
+  {
+   "itemSeq": "202501956",
+   "name": "트라듀오엠파서방정25/5/1000밀리그램(엠파글리플로진, 리나글립틴, 메트포르민)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501956"
+  },
+  {
+   "itemSeq": "202502161",
+   "name": "알리엠정10/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502161"
+  },
+  {
+   "itemSeq": "202502160",
+   "name": "알리엠정25/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502160"
+  },
+  {
+   "itemSeq": "202502185",
+   "name": "에스엠파정25/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502185"
+  },
+  {
+   "itemSeq": "202502188",
+   "name": "엔글리나정10/5밀리그램(엠파글리플로진, 리나글립틴)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502188"
+  },
+  {
+   "itemSeq": "202502302",
+   "name": "리나플로엠서방정10/5/1000밀리그램(엠파글리플로진,리나글립틴,메트포르민염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502302"
+  },
+  {
+   "itemSeq": "202502389",
+   "name": "트루엠파엘정25/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502389"
+  },
+  {
+   "itemSeq": "202502393",
+   "name": "트루엠파엘정10/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502393"
+  },
+  {
+   "itemSeq": "202502428",
+   "name": "자디리나정10/5밀리그램(엠파글리플로진2L-프롤린,리나글립틴)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "15.107",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502428"
+  },
+  {
+   "itemSeq": "202502429",
+   "name": "자디리나정25/5밀리그램(엠파글리플로진2L-프롤린,리나글립틴)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "37.766",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502429"
+  },
+  {
+   "itemSeq": "202502441",
+   "name": "엠파리나정10/5밀리그램(엠파글리플로진,리나글립틴(미분화))",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502441"
+  },
+  {
+   "itemSeq": "202502451",
+   "name": "에스엠파정10/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진(무정형)",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502451"
+  },
+  {
+   "itemSeq": "202502505",
+   "name": "엠파리나정25/5밀리그램(엠파글리플로진,리나글립틴(미분화))",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502505"
+  },
+  {
+   "itemSeq": "202502558",
+   "name": "엠파칸리나정10/5밀리그램(엠파글리플로진2L-프롤린,리나글립틴)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "15.107",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502558"
+  },
+  {
+   "itemSeq": "202502559",
+   "name": "엠파칸리나정25/5밀리그램(엠파글리플로진2L-프롤린,리나글립틴)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진 2L-프롤린",
+     "amount": "37.766",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502559"
+  },
+  {
+   "itemSeq": "202502781",
+   "name": "리나플로엠서방정12.5/2.5/1000밀리그램(엠파글리플로진,리나글립틴,메트포르민염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502781"
+  },
+  {
+   "itemSeq": "202502782",
+   "name": "리나플로엠서방정25/5/1000밀리그램(엠파글리플로진,리나글립틴,메트포르민염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502782"
+  },
+  {
+   "itemSeq": "202502780",
+   "name": "리나플로엠서방정5/2.5/1000밀리그램(엠파글리플로진,리나글립틴,메트포르민염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "2.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502780"
+  },
+  {
+   "itemSeq": "202502793",
+   "name": "리나틴엠파정10/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502793"
+  },
+  {
+   "itemSeq": "202502794",
+   "name": "리나틴엠파정25/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴(미분화)",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502794"
+  },
+  {
+   "itemSeq": "202502936",
+   "name": "에스글리엠정10/5밀리그램(엠파글리플로진, 리나글립틴베실산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "6.67",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502936"
+  },
+  {
+   "itemSeq": "202502935",
+   "name": "에스글리엠정25/5밀리그램(엠파글리플로진, 리나글립틴베실산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "6.67",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502935"
+  },
+  {
+   "itemSeq": "202503049",
+   "name": "케이글리토정10/5밀리그램(엠파글리플로진, 리나글립틴베실산염)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "6.67",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503049"
+  },
+  {
+   "itemSeq": "202503048",
+   "name": "케이글리토정25/5밀리그램(엠파글리플로진, 리나글립틴베실산염)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴베실산염",
+     "amount": "6.67",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503048"
+  },
+  {
+   "itemSeq": "202503083",
+   "name": "엠파젠타정25/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503083"
+  },
+  {
+   "itemSeq": "202503120",
+   "name": "엠파젠타정10/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202503120"
+  },
+  {
+   "itemSeq": "202600398",
+   "name": "엠파린정10/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600398"
+  },
+  {
+   "itemSeq": "202600399",
+   "name": "엠파린정25/5밀리그램(엠파글리플로진,리나글립틴)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600399"
+  },
+  {
+   "itemSeq": "202601731",
+   "name": "트루엠파엘엠서방정10/5/1000밀리그램(엠파글리플로진,리나글립틴,메트포르민염산염)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601731"
+  },
+  {
+   "itemSeq": "202601730",
+   "name": "트루엠파엘엠서방정25/5/1000밀리그램(엠파글리플로진,리나글립틴,메트포르민염산염)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "리나글립틴",
+     "amount": "5.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "엠파글리플로진",
+     "amount": "25.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "1000.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601730"
+  }
+ ]
+}

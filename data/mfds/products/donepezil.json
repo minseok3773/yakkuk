@@ -1,0 +1,5268 @@
+{
+ "id": "donepezil",
+ "query": [
+  "도네페질"
+ ],
+ "fetched": "2026-11-26",
+ "total": 336,
+ "kept": 336,
+ "mfdsName": [
+  "도네페질염산염수화물",
+  "도네페질염산염일수화물",
+  "도네페질염산염",
+  "도네페질",
+  "염산도네페질"
+ ],
+ "items": [
+  {
+   "itemSeq": "200000797",
+   "name": "아리셉트정10밀리그램(도네페질염산염)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-08-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000797"
+  },
+  {
+   "itemSeq": "200000796",
+   "name": "아리셉트정5밀리그램(도네페질염산염)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-08-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200000796"
+  },
+  {
+   "itemSeq": "200500231",
+   "name": "도네페트정10밀리그램(도네페질염산염수화물)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-12-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500231"
+  },
+  {
+   "itemSeq": "200500784",
+   "name": "셉트페질정10밀리그램(도네페질염산염수화물)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-12-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500784"
+  },
+  {
+   "itemSeq": "200501384",
+   "name": "에이페질정10밀리그램(도네페질염산염수화물)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-12-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501384"
+  },
+  {
+   "itemSeq": "200500566",
+   "name": "아리페질정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500566"
+  },
+  {
+   "itemSeq": "200600394",
+   "name": "뉴로셉트정10밀리그램(도네페질염산염일수화물)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-01-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600394"
+  },
+  {
+   "itemSeq": "200600267",
+   "name": "브렌셉트정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-01-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600267"
+  },
+  {
+   "itemSeq": "200600181",
+   "name": "알셉트정(도네페질염산염수화물)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-01-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600181"
+  },
+  {
+   "itemSeq": "200600125",
+   "name": "도네프정10밀리그램(도네페질염산염수화물)",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600125"
+  },
+  {
+   "itemSeq": "200600167",
+   "name": "돈페질정10밀리그램(도네페질염산염일수화물)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600167"
+  },
+  {
+   "itemSeq": "200600350",
+   "name": "뉴토인정(도네페질염산염수화물)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600350"
+  },
+  {
+   "itemSeq": "200600501",
+   "name": "알도셉트정10밀리그램(도네페질염산염)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600501"
+  },
+  {
+   "itemSeq": "200600249",
+   "name": "실버셉트정10밀리그램(도네페질염산염수화물)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600249"
+  },
+  {
+   "itemSeq": "200605447",
+   "name": "도네질정10밀리그램(도네페질염산염수화물)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605447"
+  },
+  {
+   "itemSeq": "200605446",
+   "name": "도네질정5밀리그램(도네페질염산염수화물)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605446"
+  },
+  {
+   "itemSeq": "200605535",
+   "name": "아리페정(도네페질염산염수화물)",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605535"
+  },
+  {
+   "itemSeq": "200605500",
+   "name": "알츠머정10밀리그램(도네페질염산염수화물)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.430",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605500"
+  },
+  {
+   "itemSeq": "200605537",
+   "name": "케이셉트정10밀리그램(도네페질염산염수화물)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605537"
+  },
+  {
+   "itemSeq": "200605443",
+   "name": "하이페질정10밀리그램(도네페질염산염수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200605443"
+  },
+  {
+   "itemSeq": "200606986",
+   "name": "대원염산도네페질정5mg(도네페질염산염)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200606986"
+  },
+  {
+   "itemSeq": "200607003",
+   "name": "엘다임오디정10밀리그램(도네페질염산염일수화물)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-08-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200607003"
+  },
+  {
+   "itemSeq": "200700814",
+   "name": "뉴로페질정10밀리그램(도네페질염산염일수화물)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700814"
+  },
+  {
+   "itemSeq": "200701233",
+   "name": "하이도네정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701233"
+  },
+  {
+   "itemSeq": "200703278",
+   "name": "하이셉트정10밀리그람(도네페질염산염수화물)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703278"
+  },
+  {
+   "itemSeq": "200703338",
+   "name": "바로페질정10밀리그램(도네페질염산염수화물)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703338"
+  },
+  {
+   "itemSeq": "200704502",
+   "name": "제이더블유중외제약도네페질정10밀리그램(도네페질염산염수화물)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704502"
+  },
+  {
+   "itemSeq": "200704989",
+   "name": "도네페트정5밀리그램(도네페질염산염수화물)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704989"
+  },
+  {
+   "itemSeq": "200704947",
+   "name": "아리페질정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704947"
+  },
+  {
+   "itemSeq": "200704957",
+   "name": "아셉정10mg(도네페질염산염)(수출용)",
+   "company": "대한약품공업(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "염산도네페질",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704957"
+  },
+  {
+   "itemSeq": "200704966",
+   "name": "한림도네페질정10밀리그램(도네페질염산염수화물)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704966"
+  },
+  {
+   "itemSeq": "200706330",
+   "name": "알셉트정5mg(도네페질염산염수화물)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706330"
+  },
+  {
+   "itemSeq": "200708055",
+   "name": "도네프정5밀리그램(도네페질염산염수화물)",
+   "company": "코오롱제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708055"
+  },
+  {
+   "itemSeq": "200708377",
+   "name": "도멘탁속붕정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708377"
+  },
+  {
+   "itemSeq": "200708359",
+   "name": "도페질정5mg(도네페질염산염수화물)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708359"
+  },
+  {
+   "itemSeq": "200708360",
+   "name": "바로페질정5밀리그램(도네페질염산염수화물)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708360"
+  },
+  {
+   "itemSeq": "200708603",
+   "name": "바스티아정5밀리그램(도네페질염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708603"
+  },
+  {
+   "itemSeq": "200708819",
+   "name": "도네트정10밀리그램(도네페질염산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708819"
+  },
+  {
+   "itemSeq": "200708786",
+   "name": "도네트정5밀리그램(도네페질염산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708786"
+  },
+  {
+   "itemSeq": "200708816",
+   "name": "브렌셉트정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708816"
+  },
+  {
+   "itemSeq": "200708863",
+   "name": "위더페질정5밀리그램(도네페질염산염수화물)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708863"
+  },
+  {
+   "itemSeq": "200709072",
+   "name": "미라세트정5밀리그램(도네페질염산염수화물)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709072"
+  },
+  {
+   "itemSeq": "200709070",
+   "name": "셉트페질정5밀리그램(도네페질염산염수화물)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709070"
+  },
+  {
+   "itemSeq": "200709157",
+   "name": "알츠머정5밀리그램(도네페질염산염수화물)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.220",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709157"
+  },
+  {
+   "itemSeq": "200709163",
+   "name": "케이셉트정5밀리그램(도네페질염산염수화물)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709163"
+  },
+  {
+   "itemSeq": "200709159",
+   "name": "하이페질정5밀리그램(도네페질염산염수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709159"
+  },
+  {
+   "itemSeq": "200709247",
+   "name": "뉴토인정5밀리그램(도네페질염산염수화물)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709247"
+  },
+  {
+   "itemSeq": "200709319",
+   "name": "알도셉트정5밀리그램(도네페질염산염)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709319"
+  },
+  {
+   "itemSeq": "200709250",
+   "name": "알츠필정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709250"
+  },
+  {
+   "itemSeq": "200709388",
+   "name": "뉴로셉트정5밀리그램(도네페질염산염일수화물)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709388"
+  },
+  {
+   "itemSeq": "200709448",
+   "name": "도페린정5밀리그램(도네페질염산염수화물)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-08-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200709448"
+  },
+  {
+   "itemSeq": "200711456",
+   "name": "아리도네정10밀리그램(도네페질염산염일수화물)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711456"
+  },
+  {
+   "itemSeq": "200713689",
+   "name": "한림도네페질정5밀리그램(도네페질염산염수화물)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200713689"
+  },
+  {
+   "itemSeq": "200801564",
+   "name": "하이셉트정5밀리그람(도네페질염산염수화물)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-02-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200801564"
+  },
+  {
+   "itemSeq": "200802064",
+   "name": "에이페질정5밀리그램(도네페질염산염수화물)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802064"
+  },
+  {
+   "itemSeq": "200802326",
+   "name": "바스티아정10밀리그램(도네페질염산염)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802326"
+  },
+  {
+   "itemSeq": "200802325",
+   "name": "환인도네페질정5밀리그램(도네페질염산염수화물)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802325"
+  },
+  {
+   "itemSeq": "200802980",
+   "name": "아리셉트에비스정10밀리그램(도네페질염산염)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802980"
+  },
+  {
+   "itemSeq": "200802979",
+   "name": "아리셉트에비스정5밀리그램(도네페질염산염)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200802979"
+  },
+  {
+   "itemSeq": "200805116",
+   "name": "디멘셉트정10밀리그램(도네페질염산염수화물)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.41",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805116"
+  },
+  {
+   "itemSeq": "200805353",
+   "name": "환인도네페질정10밀리그램(도네페질염산염수화물)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805353"
+  },
+  {
+   "itemSeq": "200805495",
+   "name": "뉴로페질정5밀리그램(도네페질염산염일수화물)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200805495"
+  },
+  {
+   "itemSeq": "200806253",
+   "name": "위더페질정10밀리그램(도네페질염산염수화물)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806253"
+  },
+  {
+   "itemSeq": "200806368",
+   "name": "대원염산도네페질정10mg(도네페질염산염일수화물)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806368"
+  },
+  {
+   "itemSeq": "200806458",
+   "name": "돈페질정5밀리그램(도네페질염산염일수화물)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806458"
+  },
+  {
+   "itemSeq": "200807557",
+   "name": "엘다임오디정5밀리그램(도네페질염산염일수화물)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807557"
+  },
+  {
+   "itemSeq": "200807685",
+   "name": "아리도네정5밀리그램(도네페질염산염일수화물)",
+   "company": "동아에스티(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807685"
+  },
+  {
+   "itemSeq": "200807873",
+   "name": "도네필정10밀리그램(도네페질염산염수화물)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807873"
+  },
+  {
+   "itemSeq": "200808880",
+   "name": "도멘탁속붕정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808880"
+  },
+  {
+   "itemSeq": "200808985",
+   "name": "실버셉트정5밀리그램(도네페질염산염수화물)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808985"
+  },
+  {
+   "itemSeq": "200809902",
+   "name": "에이페질에프디정5밀리그램(도네페질염산염수화물)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-09-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200809902"
+  },
+  {
+   "itemSeq": "200901007",
+   "name": "디멘셉트정5밀리그램(도네페질염산염수화물)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-02-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200901007"
+  },
+  {
+   "itemSeq": "201002066",
+   "name": "도네질오디정10밀리그램(도네페질염산염수화물)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002066"
+  },
+  {
+   "itemSeq": "201002238",
+   "name": "도네질오디정5밀리그램(도네페질염산염수화물)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-03-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002238"
+  },
+  {
+   "itemSeq": "201002402",
+   "name": "중외도네페질속붕정10밀리그램",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201002402"
+  },
+  {
+   "itemSeq": "201004729",
+   "name": "도네필정5밀리그램(도네페질염산염수화물)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004729"
+  },
+  {
+   "itemSeq": "201007401",
+   "name": "에이페질에프디정10밀리그램(도네페질염산염수화물)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-12-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007401"
+  },
+  {
+   "itemSeq": "201100273",
+   "name": "실버셉트오디정10밀리그램(도네페질염산염수화물)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-01-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100273"
+  },
+  {
+   "itemSeq": "201103909",
+   "name": "실버셉트오디정5밀리그램(도네페질염산염수화물)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-06-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103909"
+  },
+  {
+   "itemSeq": "201106949",
+   "name": "중외도네페질속붕정5밀리그램(도네페질염산염일수화물)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-09-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201106949"
+  },
+  {
+   "itemSeq": "201307375",
+   "name": "아리셉트정23밀리그램(도네페질염산염)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "23.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307375"
+  },
+  {
+   "itemSeq": "201307726",
+   "name": "알리세질정10mg(도네페질염산염수화물)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307726"
+  },
+  {
+   "itemSeq": "201307725",
+   "name": "알리세질정5mg(도네페질염산염수화물)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307725"
+  },
+  {
+   "itemSeq": "201310407",
+   "name": "아트페질구강붕해필름10밀리그램(도네페질염산염일수화물)(수출용)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310407"
+  },
+  {
+   "itemSeq": "201400929",
+   "name": "아트페질구강붕해필름5밀리그램(도네페질염산염일수화물)(수출용)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400929"
+  },
+  {
+   "itemSeq": "201403215",
+   "name": "뉴로케어정10mg(도네페질염산염수화물)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403215"
+  },
+  {
+   "itemSeq": "201403214",
+   "name": "뉴로케어정5mg(도네페질염산염수화물)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403214"
+  },
+  {
+   "itemSeq": "201403930",
+   "name": "제이더블유중외제약도네페질정5밀리그램(도네페질염산염수화물)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-08-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403930"
+  },
+  {
+   "itemSeq": "201405224",
+   "name": "도네세트정10mg(도네페질염산염수화물)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405224"
+  },
+  {
+   "itemSeq": "201405368",
+   "name": "뉴페질구강붕해필름10mg(도네페질염산염)",
+   "company": "(주)씨엘팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405368"
+  },
+  {
+   "itemSeq": "201405369",
+   "name": "뉴페질구강붕해필름5mg(도네페질염산염)",
+   "company": "(주)씨엘팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405369"
+  },
+  {
+   "itemSeq": "201405444",
+   "name": "도네세트정5mg(도네페질염산염수화물)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405444"
+  },
+  {
+   "itemSeq": "201405466",
+   "name": "알쯔페질정10mg(도네페질염산염일수화물)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405466"
+  },
+  {
+   "itemSeq": "201405526",
+   "name": "알쯔페질정5mg(도네페질염산염일수화물)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405526"
+  },
+  {
+   "itemSeq": "201406044",
+   "name": "도네펜정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406044"
+  },
+  {
+   "itemSeq": "201500585",
+   "name": "알페질정10밀리그램(도네페질염산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500585"
+  },
+  {
+   "itemSeq": "201500584",
+   "name": "알페질정5밀리그램(도네페질염산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500584"
+  },
+  {
+   "itemSeq": "201501030",
+   "name": "도네펜정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501030"
+  },
+  {
+   "itemSeq": "201501435",
+   "name": "하이페질정23밀리그램(도네페질염산염일수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "24",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501435"
+  },
+  {
+   "itemSeq": "201501730",
+   "name": "넬슨도네페질정5밀리그램(도네페질염산염수화물)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201501730"
+  },
+  {
+   "itemSeq": "201502363",
+   "name": "환인도네페질정23밀리그램(도네페질염산염수화물)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "23.99",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502363"
+  },
+  {
+   "itemSeq": "201502455",
+   "name": "도네셉트정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502455"
+  },
+  {
+   "itemSeq": "201502456",
+   "name": "도네셉트정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502456"
+  },
+  {
+   "itemSeq": "201502704",
+   "name": "오코셉트정10mg(도네페질염산염수화물)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502704"
+  },
+  {
+   "itemSeq": "201502703",
+   "name": "오코셉트정5mg(도네페질염산염수화물)",
+   "company": "(주)오스코리아제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502703"
+  },
+  {
+   "itemSeq": "201506132",
+   "name": "아리셉트구강용해필름10밀리그램(도네페질염산염)",
+   "company": "한국에자이(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506132"
+  },
+  {
+   "itemSeq": "201506131",
+   "name": "아리셉트구강용해필름5밀리그램(도네페질염산염)",
+   "company": "한국에자이(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506131"
+  },
+  {
+   "itemSeq": "201507715",
+   "name": "하이도네정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507715"
+  },
+  {
+   "itemSeq": "201508293",
+   "name": "도네펙트정5mg(도네페질염산염수화물)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508293"
+  },
+  {
+   "itemSeq": "201508436",
+   "name": "도네원정10mg(도네페질염산염수화물)",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508436"
+  },
+  {
+   "itemSeq": "201508435",
+   "name": "도네원정5mg(도네페질염산염수화물)",
+   "company": "화일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201508435"
+  },
+  {
+   "itemSeq": "201600218",
+   "name": "바스티아오디정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600218"
+  },
+  {
+   "itemSeq": "201600585",
+   "name": "디멘솔정10밀리그램(도네페질염산염일수화물)",
+   "company": "동성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600585"
+  },
+  {
+   "itemSeq": "201600584",
+   "name": "디멘솔정5밀리그램(도네페질염산염일수화물)",
+   "company": "동성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600584"
+  },
+  {
+   "itemSeq": "201600568",
+   "name": "실버셉트정23밀리그램(도네페질염산염수화물)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "24.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600568"
+  },
+  {
+   "itemSeq": "201600794",
+   "name": "도네테정10밀리그램(도네페질염산염수화물)",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600794"
+  },
+  {
+   "itemSeq": "201600793",
+   "name": "도네테정5밀리그램(도네페질염산염수화물)",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600793"
+  },
+  {
+   "itemSeq": "201600809",
+   "name": "도네핀정10mg(도네페질염산염수화물)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600809"
+  },
+  {
+   "itemSeq": "201600810",
+   "name": "도네핀정5mg(도네페질염산염수화물)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600810"
+  },
+  {
+   "itemSeq": "201600815",
+   "name": "알로페질정10mg(도네페질염산염수화물)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600815"
+  },
+  {
+   "itemSeq": "201600814",
+   "name": "알로페질정5mg(도네페질염산염수화물)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600814"
+  },
+  {
+   "itemSeq": "201600870",
+   "name": "엔피셉트정10mg(도네페질염산염일수화물)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600870"
+  },
+  {
+   "itemSeq": "201600968",
+   "name": "도네시아정10mg(도네페질염산염수화물)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600968"
+  },
+  {
+   "itemSeq": "201600967",
+   "name": "도네시아정5mg(도네페질염산염수화물)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600967"
+  },
+  {
+   "itemSeq": "201601880",
+   "name": "엔피셉트정5mg(도네페질염산염)",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601880"
+  },
+  {
+   "itemSeq": "201602261",
+   "name": "도네펙트정10mg(도네페질염산염수화물)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602261"
+  },
+  {
+   "itemSeq": "201602300",
+   "name": "베아셉트정10밀리그램(도네페질염산염수화물)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602300"
+  },
+  {
+   "itemSeq": "201602670",
+   "name": "도네페질원정10밀리그램(도네페질염산염수화물)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602670"
+  },
+  {
+   "itemSeq": "201602671",
+   "name": "도네페질원정5밀리그램(도네페질염산염수화물)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602671"
+  },
+  {
+   "itemSeq": "201602676",
+   "name": "베아셉트정5밀리그램(도네페질염산염수화물)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602676"
+  },
+  {
+   "itemSeq": "201602784",
+   "name": "아리슨정10밀리그램(도네페질염산염수화물)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602784"
+  },
+  {
+   "itemSeq": "201602785",
+   "name": "아리슨정5밀리그램(도네페질염산염수화물)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602785"
+  },
+  {
+   "itemSeq": "201602880",
+   "name": "디멘도네정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602880"
+  },
+  {
+   "itemSeq": "201603073",
+   "name": "제뉴파마도네페질염산염정5밀리그램",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603073"
+  },
+  {
+   "itemSeq": "201603074",
+   "name": "제뉴파마도네페질염산염정10밀리그램",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603074"
+  },
+  {
+   "itemSeq": "201603159",
+   "name": "도네진정(도네페질염산염수화물)",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603159"
+  },
+  {
+   "itemSeq": "201603160",
+   "name": "도네진정10mg(도네페질염산염수화물)",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603160"
+  },
+  {
+   "itemSeq": "201603608",
+   "name": "도넬정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603608"
+  },
+  {
+   "itemSeq": "201603688",
+   "name": "비보존도네페질정10mg(도네페질염산염수화물)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603688"
+  },
+  {
+   "itemSeq": "201603687",
+   "name": "비보존도네페질정5mg(도네페질염산염수화물)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603687"
+  },
+  {
+   "itemSeq": "201603919",
+   "name": "페네도정10밀리그램(도네페질염산염일수화물)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603919"
+  },
+  {
+   "itemSeq": "201603920",
+   "name": "페네도정5밀리그램(도네페질염산염일수화물)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603920"
+  },
+  {
+   "itemSeq": "201604052",
+   "name": "오넵트정10mg(도네페질염산염수화물)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604052"
+  },
+  {
+   "itemSeq": "201604053",
+   "name": "오넵트정5mg(도네페질염산염수화물)",
+   "company": "조아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604053"
+  },
+  {
+   "itemSeq": "201604197",
+   "name": "뉴토인구강붕해필름10밀리그램(도네페질염산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604197"
+  },
+  {
+   "itemSeq": "201604196",
+   "name": "뉴토인구강붕해필름5밀리그램(도네페질염산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604196"
+  },
+  {
+   "itemSeq": "201604311",
+   "name": "네오페질정10밀리그램(도네페질염산염수화물)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604311"
+  },
+  {
+   "itemSeq": "201604312",
+   "name": "네오페질정5밀리그램(도네페질염산염수화물)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604312"
+  },
+  {
+   "itemSeq": "201604348",
+   "name": "도넬정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604348"
+  },
+  {
+   "itemSeq": "201604461",
+   "name": "아리제트정5밀리그램(도네페질염산염수화물)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604461"
+  },
+  {
+   "itemSeq": "201604485",
+   "name": "아리제트정10밀리그램(도네페질염산염수화물)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604485"
+  },
+  {
+   "itemSeq": "201604537",
+   "name": "베아셉트속붕정10밀리그램(도네페질염산염수화물)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604537"
+  },
+  {
+   "itemSeq": "201604538",
+   "name": "베아셉트속붕정5밀리그램(도네페질염산염수화물)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604538"
+  },
+  {
+   "itemSeq": "201604648",
+   "name": "도페질정10mg(도네페질염산염수화물)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604648"
+  },
+  {
+   "itemSeq": "201702237",
+   "name": "아리젠정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702237"
+  },
+  {
+   "itemSeq": "201702238",
+   "name": "아리젠정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201702238"
+  },
+  {
+   "itemSeq": "201704772",
+   "name": "뉴토인정23밀리그램(도네페질염산염수화물)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "24.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201704772"
+  },
+  {
+   "itemSeq": "201706210",
+   "name": "아리트정10밀리그램(도네페질염산염수화물)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706210"
+  },
+  {
+   "itemSeq": "201706209",
+   "name": "아리트정5밀리그램(도네페질염산염수화물)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706209"
+  },
+  {
+   "itemSeq": "201706211",
+   "name": "알츠케어정10밀리그램(도네페질염산염수화물)",
+   "company": "메딕스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706211"
+  },
+  {
+   "itemSeq": "201706212",
+   "name": "알츠케어정5밀리그램(도네페질염산염수화물)",
+   "company": "메딕스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706212"
+  },
+  {
+   "itemSeq": "201706736",
+   "name": "에스페질정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)텔콘알에프제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706736"
+  },
+  {
+   "itemSeq": "201707538",
+   "name": "도페정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)셀비온",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707538"
+  },
+  {
+   "itemSeq": "201707537",
+   "name": "도페정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)셀비온",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707537"
+  },
+  {
+   "itemSeq": "201708482",
+   "name": "에스페질정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)텔콘알에프제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708482"
+  },
+  {
+   "itemSeq": "201708553",
+   "name": "베아셉트정23밀리그램(도네페질염산염수화물)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "24.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708553"
+  },
+  {
+   "itemSeq": "201708601",
+   "name": "도네민정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)유유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708601"
+  },
+  {
+   "itemSeq": "201708602",
+   "name": "도네민정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)유유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708602"
+  },
+  {
+   "itemSeq": "201800772",
+   "name": "아도네정10밀리그램(도네페질염산염일수화물)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800772"
+  },
+  {
+   "itemSeq": "201800773",
+   "name": "아도네정5밀리그램(도네페질염산염일수화물)",
+   "company": "지엘팜텍(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800773"
+  },
+  {
+   "itemSeq": "201801387",
+   "name": "바스티아오디정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801387"
+  },
+  {
+   "itemSeq": "201801433",
+   "name": "와이셉트정10밀리그램(도네페질염산염일수화물)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801433"
+  },
+  {
+   "itemSeq": "201801432",
+   "name": "와이셉트정5밀리그램(도네페질염산염일수화물)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801432"
+  },
+  {
+   "itemSeq": "201801431",
+   "name": "이지페질정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801431"
+  },
+  {
+   "itemSeq": "201801430",
+   "name": "이지페질정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801430"
+  },
+  {
+   "itemSeq": "201801804",
+   "name": "뉴로도네정10밀리그램(도네페질염산염일수화물)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801804"
+  },
+  {
+   "itemSeq": "201802158",
+   "name": "뉴돈피질정10밀리그램(도네페질염산염수화물)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802158"
+  },
+  {
+   "itemSeq": "201802159",
+   "name": "뉴돈피질정5밀리그램(도네페질염산염수화물)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802159"
+  },
+  {
+   "itemSeq": "201802244",
+   "name": "뉴로도네정5밀리그램(도네페질염산염일수화물)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802244"
+  },
+  {
+   "itemSeq": "201802258",
+   "name": "디멘페질정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802258"
+  },
+  {
+   "itemSeq": "201802748",
+   "name": "디멘페질정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802748"
+  },
+  {
+   "itemSeq": "201802725",
+   "name": "씨트페질정10밀리그램(도네페질염산염수화물)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802725"
+  },
+  {
+   "itemSeq": "201802724",
+   "name": "씨트페질정5밀리그램(도네페질염산염수화물)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802724"
+  },
+  {
+   "itemSeq": "201803011",
+   "name": "유니페질정10mg(도네페질염산염수화물)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803011"
+  },
+  {
+   "itemSeq": "201803010",
+   "name": "유니페질정5mg(도네페질염산염수화물)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803010"
+  },
+  {
+   "itemSeq": "201803092",
+   "name": "도네필정23밀리그램(도네페질염산염수화물)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "24.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803092"
+  },
+  {
+   "itemSeq": "201803529",
+   "name": "도나셉트정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803529"
+  },
+  {
+   "itemSeq": "201803530",
+   "name": "도나셉트정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803530"
+  },
+  {
+   "itemSeq": "201803550",
+   "name": "도네포스정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803550"
+  },
+  {
+   "itemSeq": "201803551",
+   "name": "도네포스정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803551"
+  },
+  {
+   "itemSeq": "201803555",
+   "name": "삼성도네페질정10밀리그램(도네페질염산염수화물)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803555"
+  },
+  {
+   "itemSeq": "201803554",
+   "name": "삼성도네페질정5밀리그램(도네페질염산염수화물)",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-08-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803554"
+  },
+  {
+   "itemSeq": "201804333",
+   "name": "아로세트정10밀리그램(도네페질염산염수화물)",
+   "company": "삼남제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804333"
+  },
+  {
+   "itemSeq": "201804332",
+   "name": "아로세트정5밀리그램(도네페질염산염수화물)",
+   "company": "삼남제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804332"
+  },
+  {
+   "itemSeq": "201804351",
+   "name": "제이셉트정10밀리그램(도네페질염산염수화물)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804351"
+  },
+  {
+   "itemSeq": "201804350",
+   "name": "제이셉트정5밀리그램(도네페질염산염수화물)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804350"
+  },
+  {
+   "itemSeq": "201804334",
+   "name": "티디셉트정10밀리그램(도네페질염산염일수화물)",
+   "company": "(주)티디에스팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804334"
+  },
+  {
+   "itemSeq": "201804335",
+   "name": "티디셉트정5밀리그램(도네페질염산염일수화물)",
+   "company": "(주)티디에스팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804335"
+  },
+  {
+   "itemSeq": "201804656",
+   "name": "도네시지정10밀리그램(도네페질염산염일수화물)",
+   "company": "원광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804656"
+  },
+  {
+   "itemSeq": "201804657",
+   "name": "도네시지정5밀리그램(도네페질염산염일수화물)",
+   "company": "원광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804657"
+  },
+  {
+   "itemSeq": "201805143",
+   "name": "도페린정10밀리그램(도네페질염산염수화물)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805143"
+  },
+  {
+   "itemSeq": "201900918",
+   "name": "도네린정10밀리그램(도네페질염산염일수화물)",
+   "company": "(주)휴메딕스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900918"
+  },
+  {
+   "itemSeq": "201900923",
+   "name": "도네린정5밀리그램(도네페질염산염일수화물)",
+   "company": "(주)휴메딕스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900923"
+  },
+  {
+   "itemSeq": "201901498",
+   "name": "도네에이블정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901498"
+  },
+  {
+   "itemSeq": "201901497",
+   "name": "도네에이블정5밀리그램(도네페질염산염)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901497"
+  },
+  {
+   "itemSeq": "201901648",
+   "name": "아트페질정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901648"
+  },
+  {
+   "itemSeq": "201901647",
+   "name": "아트페질정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901647"
+  },
+  {
+   "itemSeq": "201901797",
+   "name": "하이실버도네정10밀리그램(도네페질염산염수화물)",
+   "company": "태극제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901797"
+  },
+  {
+   "itemSeq": "201901796",
+   "name": "하이실버도네정5밀리그램(도네페질염산염수화물)",
+   "company": "태극제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901796"
+  },
+  {
+   "itemSeq": "201901859",
+   "name": "유니온도네페질정10밀리그램(도네페질염산염수화물)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901859"
+  },
+  {
+   "itemSeq": "201901858",
+   "name": "유니온도네페질정5밀리그램(도네페질염산염수화물)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901858"
+  },
+  {
+   "itemSeq": "201902051",
+   "name": "도네케어정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902051"
+  },
+  {
+   "itemSeq": "201902252",
+   "name": "디멘케어정10밀리그램(도네페질염산염일수화물)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902252"
+  },
+  {
+   "itemSeq": "201902251",
+   "name": "디멘케어정5밀리그램(도네페질염산염일수화물)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902251"
+  },
+  {
+   "itemSeq": "201902737",
+   "name": "도네푸질정10밀리그램(도네페질염산염수화물)",
+   "company": "미래바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902737"
+  },
+  {
+   "itemSeq": "201902849",
+   "name": "도네그린정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902849"
+  },
+  {
+   "itemSeq": "201902850",
+   "name": "도네그린정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)시어스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902850"
+  },
+  {
+   "itemSeq": "201903309",
+   "name": "제이페질정10mg(도네페질염산염수화물)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903309"
+  },
+  {
+   "itemSeq": "201903434",
+   "name": "알쯔페질속붕정10mg(도네페질염산염수화물)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903434"
+  },
+  {
+   "itemSeq": "201903433",
+   "name": "알쯔페질속붕정5mg(도네페질염산염수화물)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903433"
+  },
+  {
+   "itemSeq": "201903463",
+   "name": "아리스트정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)그린제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903463"
+  },
+  {
+   "itemSeq": "201903462",
+   "name": "아리스트정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)그린제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903462"
+  },
+  {
+   "itemSeq": "201903522",
+   "name": "디멘도네정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903522"
+  },
+  {
+   "itemSeq": "201903791",
+   "name": "도네일정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903791"
+  },
+  {
+   "itemSeq": "201903790",
+   "name": "도네일정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)한풍제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903790"
+  },
+  {
+   "itemSeq": "201904405",
+   "name": "신신도네페질정10밀리그램(도네페질염산염수화물)",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904405"
+  },
+  {
+   "itemSeq": "201904404",
+   "name": "신신도네페질정5밀리그램(도네페질염산염수화물)",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904404"
+  },
+  {
+   "itemSeq": "201904543",
+   "name": "도네케어정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)중헌제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904543"
+  },
+  {
+   "itemSeq": "201905097",
+   "name": "디멘페질정23밀리그램(도네페질염산염수화물)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "24.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905097"
+  },
+  {
+   "itemSeq": "201905344",
+   "name": "한화도네페질정10mg(도네페질염산염일수화물)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905344"
+  },
+  {
+   "itemSeq": "201905692",
+   "name": "한화도네페질정5mg(도네페질염산염일수화물)",
+   "company": "한화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905692"
+  },
+  {
+   "itemSeq": "201906136",
+   "name": "엔티도네페질정10밀리그램(도네페질염산염수화물)",
+   "company": "한국신텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906136"
+  },
+  {
+   "itemSeq": "201906137",
+   "name": "엔티도네페질정5밀리그램(도네페질염산염수화물)",
+   "company": "한국신텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906137"
+  },
+  {
+   "itemSeq": "201906830",
+   "name": "도네페온정10밀리그램(도네페질염산염수화물)",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906830"
+  },
+  {
+   "itemSeq": "201906860",
+   "name": "도네페정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)서흥",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906860"
+  },
+  {
+   "itemSeq": "201906859",
+   "name": "도네페정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)서흥",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906859"
+  },
+  {
+   "itemSeq": "201906920",
+   "name": "도네페온정5밀리그램(도네페질염산염수화물)",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906920"
+  },
+  {
+   "itemSeq": "201907191",
+   "name": "넬슨도네페질정10밀리그램(도네페질염산염수화물)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907191"
+  },
+  {
+   "itemSeq": "201907399",
+   "name": "도네페진정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907399"
+  },
+  {
+   "itemSeq": "201907398",
+   "name": "도네페진정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907398"
+  },
+  {
+   "itemSeq": "201907443",
+   "name": "아도페정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)아리제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907443"
+  },
+  {
+   "itemSeq": "201907842",
+   "name": "아도페정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)아리제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907842"
+  },
+  {
+   "itemSeq": "201907992",
+   "name": "도파질정10밀리그램(도네페질염산염수화물)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907992"
+  },
+  {
+   "itemSeq": "201908006",
+   "name": "도파질정5밀리그램(도네페질염산염수화물)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908006"
+  },
+  {
+   "itemSeq": "201908176",
+   "name": "디멘트리정10밀리그램(도네페질염산염수화물)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908176"
+  },
+  {
+   "itemSeq": "201908177",
+   "name": "디멘트리정5밀리그램(도네페질염산염수화물)",
+   "company": "주식회사케이에스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908177"
+  },
+  {
+   "itemSeq": "201908298",
+   "name": "도네페즈정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908298"
+  },
+  {
+   "itemSeq": "201908299",
+   "name": "도네페즈정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908299"
+  },
+  {
+   "itemSeq": "201908483",
+   "name": "도네쿨정10밀리그램(도네페질염산염수화물)",
+   "company": "에스에스팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908483"
+  },
+  {
+   "itemSeq": "201908695",
+   "name": "돈셉트정10밀리그램(도네페질염산염수화물)",
+   "company": "정우신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-12-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908695"
+  },
+  {
+   "itemSeq": "202000004",
+   "name": "도네텍정10밀리그램(도네페질염산염수화물)",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000004"
+  },
+  {
+   "itemSeq": "202000005",
+   "name": "도네텍정5밀리그램(도네페질염산염수화물)",
+   "company": "대원바이오텍주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000005"
+  },
+  {
+   "itemSeq": "202000092",
+   "name": "돈셉트정5밀리그램(도네페질염산염수화물)",
+   "company": "정우신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000092"
+  },
+  {
+   "itemSeq": "202000413",
+   "name": "제이페질정5mg(도네페질염산염수화물)",
+   "company": "(주)라이트팜텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000413"
+  },
+  {
+   "itemSeq": "202000721",
+   "name": "도네파정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)유앤생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000721"
+  },
+  {
+   "itemSeq": "202000914",
+   "name": "도네파정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)유앤생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000914"
+  },
+  {
+   "itemSeq": "202001375",
+   "name": "도네펨정10밀리그램(도네페질염산염수화물)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001375"
+  },
+  {
+   "itemSeq": "202001374",
+   "name": "도네펨정5밀리그램(도네페질염산염수화물)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001374"
+  },
+  {
+   "itemSeq": "202001387",
+   "name": "아리페정5밀리그램(도네페질염산염수화물)",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001387"
+  },
+  {
+   "itemSeq": "202001512",
+   "name": "도네틴정10밀리그램(도네페질염산염일수화물)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001512"
+  },
+  {
+   "itemSeq": "202001513",
+   "name": "도네틴정5밀리그램(도네페질염산염일수화물)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001513"
+  },
+  {
+   "itemSeq": "202002049",
+   "name": "리메셉트정10밀리그램(도네페질염산염일수화물)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002049"
+  },
+  {
+   "itemSeq": "202002058",
+   "name": "리메셉트정5밀리그램(도네페질염산염일수화물)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002058"
+  },
+  {
+   "itemSeq": "202002108",
+   "name": "휴네페질정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002108"
+  },
+  {
+   "itemSeq": "202002109",
+   "name": "휴네페질정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002109"
+  },
+  {
+   "itemSeq": "202002257",
+   "name": "네오셉트정10밀리그램(도네페질염산염일수화물)",
+   "company": "(주)새한제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002257"
+  },
+  {
+   "itemSeq": "202002256",
+   "name": "네오셉트정5밀리그램(도네페질염산염일수화물)",
+   "company": "(주)새한제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002256"
+  },
+  {
+   "itemSeq": "202002258",
+   "name": "도네쿨정5밀리그램(도네페질염산염수화물)",
+   "company": "에스에스팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002258"
+  },
+  {
+   "itemSeq": "202002345",
+   "name": "도넵틴정10밀리그램(도네페질염산염수화물)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002345"
+  },
+  {
+   "itemSeq": "202002346",
+   "name": "도넵틴정5밀리그램(도네페질염산염수화물)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002346"
+  },
+  {
+   "itemSeq": "202002842",
+   "name": "도네푸질정5밀리그램(도네페질염산염수화물)",
+   "company": "미래바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002842"
+  },
+  {
+   "itemSeq": "202003140",
+   "name": "도넵트정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003140"
+  },
+  {
+   "itemSeq": "202003139",
+   "name": "도넵트정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003139"
+  },
+  {
+   "itemSeq": "202003900",
+   "name": "도네티아정10밀리그램(도네페질염산염수화물)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003900"
+  },
+  {
+   "itemSeq": "202003919",
+   "name": "도네티아정5밀리그램(도네페질염산염수화물)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003919"
+  },
+  {
+   "itemSeq": "202005299",
+   "name": "비엘페질정10밀리그램(도네페질염산염수화물)",
+   "company": "(주)씨엘팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005299"
+  },
+  {
+   "itemSeq": "202005298",
+   "name": "비엘페질정5밀리그램(도네페질염산염수화물)",
+   "company": "(주)씨엘팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-07-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202005298"
+  },
+  {
+   "itemSeq": "202008358",
+   "name": "아리트정23밀리그램(도네페질염산염수화물)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "24.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202008358"
+  },
+  {
+   "itemSeq": "202102916",
+   "name": "도네트정23밀리그램(도네페질염산염수화물)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "24.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102916"
+  },
+  {
+   "itemSeq": "202102936",
+   "name": "위더페질정23밀리그램(도네페질염산염수화물)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "24.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202102936"
+  },
+  {
+   "itemSeq": "202103022",
+   "name": "도네펜정23밀리그램(도네페질염산염수화물)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "24.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103022"
+  },
+  {
+   "itemSeq": "202103201",
+   "name": "도네쿨정23밀리그램(도네페질염산염수화물)",
+   "company": "에스에스팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "24.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103201"
+  },
+  {
+   "itemSeq": "202103511",
+   "name": "도페질정23밀리그램(도네페질염산염수화물)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "24",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202103511"
+  },
+  {
+   "itemSeq": "202104343",
+   "name": "아이큐어도네페질패취50(도네페질)(수출용)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질",
+     "amount": "175.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104343"
+  },
+  {
+   "itemSeq": "202104344",
+   "name": "아이큐어도네페질패취25(도네페질)(수출용)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질",
+     "amount": "87.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-06-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202104344"
+  },
+  {
+   "itemSeq": "202107341",
+   "name": "도네리온패취175밀리그램(도네페질)",
+   "company": "(주)셀트리온",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질",
+     "amount": "175.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107341"
+  },
+  {
+   "itemSeq": "202107340",
+   "name": "도네리온패취87.5밀리그램(도네페질)",
+   "company": "(주)셀트리온",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질",
+     "amount": "87.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107340"
+  },
+  {
+   "itemSeq": "202107338",
+   "name": "도네시브패취175밀리그램(도네페질)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질",
+     "amount": "175.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107338"
+  },
+  {
+   "itemSeq": "202107339",
+   "name": "도네시브패취87.5밀리그램(도네페질)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질",
+     "amount": "87.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-11-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107339"
+  },
+  {
+   "itemSeq": "202201524",
+   "name": "하이페질산5밀리그램(도네페질염산염수화물),하이페질산10밀리그램(도네페질염산염수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.22",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.44",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202201524"
+  },
+  {
+   "itemSeq": "202202912",
+   "name": "케이셉트액5밀리그램,10밀리그램(도네페질염산염수화물)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-07-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202912"
+  },
+  {
+   "itemSeq": "202203032",
+   "name": "베아셉트액5밀리그램,10밀리그램(도네페질염산염수화물)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202203032"
+  },
+  {
+   "itemSeq": "202202974",
+   "name": "신신도네페질액5밀리그램,10밀리그램(도네페질염산염수화물)",
+   "company": "신신제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202974"
+  },
+  {
+   "itemSeq": "202202999",
+   "name": "제이더블유도네페질액5밀리그램,10밀리그램(도네페질염산염수화물)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2022-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202202999"
+  },
+  {
+   "itemSeq": "202301978",
+   "name": "하이페질정3밀리그램(도네페질염산염수화물)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "3.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-06-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202301978"
+  },
+  {
+   "itemSeq": "202500434",
+   "name": "실버셉트정3밀리그램(도네페질염산염수화물)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "3.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500434"
+  },
+  {
+   "itemSeq": "202501294",
+   "name": "도네팩토오디프스산5밀리그램(도네페질염산염수화물), 도네팩토오디프스산10밀리그램(도네페질염산염수화물)",
+   "company": "(주)코아팜바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501294"
+  },
+  {
+   "itemSeq": "202501347",
+   "name": "도네티아산5밀리그램(도네페질염산염수화물), 도네티아산10밀리그램(도네페질염산염수화물)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "5.215",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-05-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202501347"
+  },
+  {
+   "itemSeq": "202502152",
+   "name": "애드라리티패취10mg/day(도네페질염산염수화물)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "193.7",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502152"
+  },
+  {
+   "itemSeq": "202502153",
+   "name": "애드라리티패취5mg/day(도네페질염산염수화물)",
+   "company": "알보젠코리아(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "96.9",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-08-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202502153"
+  },
+  {
+   "itemSeq": "202600786",
+   "name": "뉴로페질정3밀리그램(도네페질염산염일수화물)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염일수화물",
+     "amount": "3.13",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600786"
+  },
+  {
+   "itemSeq": "202600801",
+   "name": "뉴토인정3밀리그램(도네페질염산염수화물)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "3.129",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600801"
+  },
+  {
+   "itemSeq": "202402462",
+   "name": "디엠듀오정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-10-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202402462"
+  },
+  {
+   "itemSeq": "202403048",
+   "name": "뉴로셉트듀오정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403048"
+  },
+  {
+   "itemSeq": "202403049",
+   "name": "뉴로페질엠정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403049"
+  },
+  {
+   "itemSeq": "202403047",
+   "name": "도멘시아정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403047"
+  },
+  {
+   "itemSeq": "202403046",
+   "name": "디멘듀오정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403046"
+  },
+  {
+   "itemSeq": "202403045",
+   "name": "메만셉트정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403045"
+  },
+  {
+   "itemSeq": "202403044",
+   "name": "알쯔콤프정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403044"
+  },
+  {
+   "itemSeq": "202403090",
+   "name": "아리플러스정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-12-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202403090"
+  },
+  {
+   "itemSeq": "202600664",
+   "name": "뉴토인듀오정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600664"
+  },
+  {
+   "itemSeq": "202600662",
+   "name": "도네빅사정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "신일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600662"
+  },
+  {
+   "itemSeq": "202600665",
+   "name": "도네트엠정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600665"
+  },
+  {
+   "itemSeq": "202600658",
+   "name": "도메틴엠정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600658"
+  },
+  {
+   "itemSeq": "202600663",
+   "name": "알츠듀오정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "삼일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600663"
+  },
+  {
+   "itemSeq": "202600759",
+   "name": "아리만틴정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-03-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202600759"
+  },
+  {
+   "itemSeq": "202601319",
+   "name": "디엠콤비정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "(주)유앤생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601319"
+  },
+  {
+   "itemSeq": "202601376",
+   "name": "세레디엠정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601376"
+  },
+  {
+   "itemSeq": "202601402",
+   "name": "도네듀오정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601402"
+  },
+  {
+   "itemSeq": "202601417",
+   "name": "도네포스듀오정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601417"
+  },
+  {
+   "itemSeq": "202601448",
+   "name": "도네펜타정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "에스에스팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601448"
+  },
+  {
+   "itemSeq": "202601503",
+   "name": "디멘가드정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "(주)보령바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601503"
+  },
+  {
+   "itemSeq": "202601506",
+   "name": "에빅셉트정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601506"
+  },
+  {
+   "itemSeq": "202601570",
+   "name": "뉴돈피질듀오정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601570"
+  },
+  {
+   "itemSeq": "202601637",
+   "name": "도네플러스정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-06-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202601637"
+  },
+  {
+   "itemSeq": "202602051",
+   "name": "도네만틴정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602051"
+  },
+  {
+   "itemSeq": "202602045",
+   "name": "알페질듀오정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-07-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602045"
+  },
+  {
+   "itemSeq": "202602266",
+   "name": "도네메듀오정10/20밀리그램(도네페질염산염수화물, 메만틴염산염)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-08-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602266"
+  },
+  {
+   "itemSeq": "202602797",
+   "name": "로빅사듀오정10/20밀리그램(도네페질염산염, 메만틴염산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-09-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602797"
+  },
+  {
+   "itemSeq": "202602933",
+   "name": "도네엠듀오정10/20밀리그램(도네페질염산염,메만틴염산염)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202602933"
+  },
+  {
+   "itemSeq": "202603074",
+   "name": "디멘틴듀오정10/20밀리그램(도네페질염산염,메만틴염산염)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-10-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603074"
+  },
+  {
+   "itemSeq": "202603139",
+   "name": "디엠플러스정10/20밀리그램(도네페질염산염,메만틴염산염)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603139"
+  },
+  {
+   "itemSeq": "202603195",
+   "name": "디멘원정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603195"
+  },
+  {
+   "itemSeq": "202603196",
+   "name": "인빅사듀오정10/20밀리그램(도네페질염산염,메만틴염산염)",
+   "company": "(주)인트로바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603196"
+  },
+  {
+   "itemSeq": "202603425",
+   "name": "알셉틴듀오정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-11-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603425"
+  },
+  {
+   "itemSeq": "202603474",
+   "name": "하이도네듀오정10/20밀리그램(도네페질염산염수화물,메만틴염산염)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "도네페질염산염수화물",
+     "amount": "10.43",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메만틴염산염",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2026-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202603474"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "id": "acamprosate",
+ "query": [
+  "아캄프로세이트"
+ ],
+ "fetched": "2026-11-26",
+ "total": 2,
+ "kept": 2,
+ "mfdsName": [
+  "아캄프로세이트칼슘"
+ ],
+ "items": [
+  {
+   "itemSeq": "200501241",
+   "name": "환인아캄프로세이트정(아캄프로세이트칼슘)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아캄프로세이트칼슘",
+     "amount": "333",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-12-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501241"
+  },
+  {
+   "itemSeq": "201900645",
+   "name": "명인아캄프로세이트정333mg(아캄프로세이트칼슘)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "아캄프로세이트칼슘",
+     "amount": "333.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900645"
+  }
+ ]
+}

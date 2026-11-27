@@ -1,0 +1,405 @@
+{
+ "id": "mirabegron",
+ "query": [
+  "미라베그론"
+ ],
+ "fetched": "2026-11-27",
+ "total": 26,
+ "kept": 26,
+ "mfdsName": [
+  "미라베그론",
+  "미라베그론수화물"
+ ],
+ "items": [
+  {
+   "itemSeq": "201310989",
+   "name": "베타미가서방정25밀리그램(미라베그론)",
+   "company": "한국아스텔라스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310989"
+  },
+  {
+   "itemSeq": "201310988",
+   "name": "베타미가서방정50밀리그램(미라베그론)",
+   "company": "한국아스텔라스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201310988"
+  },
+  {
+   "itemSeq": "202002247",
+   "name": "미라벡서방정50밀리그램(미라베그론)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002247"
+  },
+  {
+   "itemSeq": "202002246",
+   "name": "셀레베타서방정50밀리그램(미라베그론)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002246"
+  },
+  {
+   "itemSeq": "202101450",
+   "name": "뉴미가서방정50밀리그램(미라베그론)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101450"
+  },
+  {
+   "itemSeq": "202101461",
+   "name": "뉴타미가서방정50밀리그램(미라베그론)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101461"
+  },
+  {
+   "itemSeq": "202101477",
+   "name": "라블론서방정50밀리그램(미라베그론)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101477"
+  },
+  {
+   "itemSeq": "202101448",
+   "name": "미가론서방정50밀리그램(미라베그론)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101448"
+  },
+  {
+   "itemSeq": "202101446",
+   "name": "미라론서방정50밀리그램(미라베그론)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101446"
+  },
+  {
+   "itemSeq": "202101447",
+   "name": "미라베가서방정50밀리그램(미라베그론)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101447"
+  },
+  {
+   "itemSeq": "202101478",
+   "name": "미라베서방정50밀리그램(미라베그론)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101478"
+  },
+  {
+   "itemSeq": "202101453",
+   "name": "미라엠서방정50밀리그램(미라베그론)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101453"
+  },
+  {
+   "itemSeq": "202101462",
+   "name": "미라큐론서방정50밀리그램(미라베그론)",
+   "company": "주식회사큐엘파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101462"
+  },
+  {
+   "itemSeq": "202101444",
+   "name": "베미가서방정50밀리그램(미라베그론)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101444"
+  },
+  {
+   "itemSeq": "202101452",
+   "name": "베미그론서방정50밀리그램(미라베그론)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101452"
+  },
+  {
+   "itemSeq": "202101443",
+   "name": "베타그론서방정50밀리그램(미라베그론)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101443"
+  },
+  {
+   "itemSeq": "202101449",
+   "name": "베타미라서방정50밀리그램(미라베그론)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101449"
+  },
+  {
+   "itemSeq": "202101454",
+   "name": "베타믹서방정50밀리그램(미라베그론)",
+   "company": "주식회사더유제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101454"
+  },
+  {
+   "itemSeq": "202101459",
+   "name": "베타유론서방정50밀리그램(미라베그론)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101459"
+  },
+  {
+   "itemSeq": "202101469",
+   "name": "보령미라베그론서방정50밀리그램",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101469"
+  },
+  {
+   "itemSeq": "202101472",
+   "name": "에이미가서방정50밀리그램(미라베그론)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101472"
+  },
+  {
+   "itemSeq": "202101470",
+   "name": "지타미가서방정50밀리그램(미라베그론)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101470"
+  },
+  {
+   "itemSeq": "202101475",
+   "name": "타미가서방정50밀리그램(미라베그론)",
+   "company": "제이더블유신약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101475"
+  },
+  {
+   "itemSeq": "202101456",
+   "name": "하이베로서방정50밀리그램(미라베그론)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101456"
+  },
+  {
+   "itemSeq": "202101467",
+   "name": "휴베그론서방정50밀리그램(미라베그론)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202101467"
+  },
+  {
+   "itemSeq": "202107123",
+   "name": "셀레베타서방정25밀리그램(미라베그론수화물)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "미라베그론수화물",
+     "amount": "26.14",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-10-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202107123"
+  }
+ ]
+}

@@ -1,0 +1,5004 @@
+{
+ "id": "olmesartan",
+ "query": [
+  "올메사르탄"
+ ],
+ "fetched": "2026-11-26",
+ "total": 236,
+ "kept": 236,
+ "mfdsName": [
+  "올메사르탄메독소밀"
+ ],
+ "items": [
+  {
+   "itemSeq": "200400472",
+   "name": "올메텍정20밀리그램(올메사르탄메독소밀)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400472"
+  },
+  {
+   "itemSeq": "200600114",
+   "name": "올메텍정10밀리그램(올메사르탄메독소밀)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600114"
+  },
+  {
+   "itemSeq": "200600115",
+   "name": "올메텍정40밀리그램(올메사르탄메독소밀)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-04-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200600115"
+  },
+  {
+   "itemSeq": "201100802",
+   "name": "올프레정10밀리그램(올메사르탄메독소밀)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100802"
+  },
+  {
+   "itemSeq": "201100827",
+   "name": "벨메텍정10밀리그램(올메사르탄메독소밀)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100827"
+  },
+  {
+   "itemSeq": "201100828",
+   "name": "벨메텍정20밀리그램(올메사르탄메독소밀)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100828"
+  },
+  {
+   "itemSeq": "201100866",
+   "name": "오메탄정20밀리그램(올메사르탄메독소밀)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100866"
+  },
+  {
+   "itemSeq": "201100901",
+   "name": "올위너정20밀리그램(올메사르탄메독소밀)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100901"
+  },
+  {
+   "itemSeq": "201100917",
+   "name": "위메탄정20밀리그램(올메사르탄메독소밀)",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100917"
+  },
+  {
+   "itemSeq": "201100898",
+   "name": "이텍스올메사탄정20밀리그램(올메사르탄메독소밀)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100898"
+  },
+  {
+   "itemSeq": "201100978",
+   "name": "오르메탄정20밀리그램(올메사르탄메독소밀)",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100978"
+  },
+  {
+   "itemSeq": "201100946",
+   "name": "올레정20밀리그램(올메사르탄메독소밀)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100946"
+  },
+  {
+   "itemSeq": "201100980",
+   "name": "프리살탄정20밀리그램(올메사르탄메독소밀)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100980"
+  },
+  {
+   "itemSeq": "201101022",
+   "name": "에스올정20밀리그램(올메사르탄메독소밀)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101022"
+  },
+  {
+   "itemSeq": "201101021",
+   "name": "올고탄정20밀리그램(올메사르탄메독소밀)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101021"
+  },
+  {
+   "itemSeq": "201101843",
+   "name": "에스올정10밀리그램(올메사르탄메독소밀)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101843"
+  },
+  {
+   "itemSeq": "201101844",
+   "name": "에스올정40밀리그램(올메사르탄메독소밀)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101844"
+  },
+  {
+   "itemSeq": "201101841",
+   "name": "올고탄정10밀리그램(올메사르탄메독소밀)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101841"
+  },
+  {
+   "itemSeq": "201103854",
+   "name": "프리살탄정10밀리그램(올메사르탄메독소밀)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103854"
+  },
+  {
+   "itemSeq": "201503645",
+   "name": "셀메텍정20밀리그램(올메사르탄메독소밀)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201503645"
+  },
+  {
+   "itemSeq": "201900105",
+   "name": "오멕실정10밀리그램(올메사르탄메독소밀)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900105"
+  },
+  {
+   "itemSeq": "201900104",
+   "name": "오멕실정20밀리그램(올메사르탄메독소밀)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900104"
+  },
+  {
+   "itemSeq": "201900103",
+   "name": "오멕실정40밀리그램(올메사르탄메독소밀)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900103"
+  },
+  {
+   "itemSeq": "201904736",
+   "name": "올메탄정10밀리그램(올메사르탄메독소밀)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904736"
+  },
+  {
+   "itemSeq": "202002234",
+   "name": "올메탄정20밀리그램(올메사르탄메독소밀)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002234"
+  },
+  {
+   "itemSeq": "202002233",
+   "name": "올메탄정40밀리그램(올메사르탄메독소밀)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002233"
+  },
+  {
+   "itemSeq": "202002277",
+   "name": "올메건정10밀리그램(올메사르탄메독소밀)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002277"
+  },
+  {
+   "itemSeq": "202002276",
+   "name": "올메건정20밀리그램(올메사르탄메독소밀)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002276"
+  },
+  {
+   "itemSeq": "202002275",
+   "name": "올메건정40밀리그램(올메사르탄메독소밀)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002275"
+  },
+  {
+   "itemSeq": "202302975",
+   "name": "이텍스올메사탄정10밀리그램(올메사르탄메독소밀)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-10-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302975"
+  },
+  {
+   "itemSeq": "200500541",
+   "name": "올메텍플러스정20/12.5밀리그램",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500541"
+  },
+  {
+   "itemSeq": "200808588",
+   "name": "세비카정 5/20밀리그램",
+   "company": "한국다이이찌산쿄(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200808588"
+  },
+  {
+   "itemSeq": "201004570",
+   "name": "세비카정 10/40밀리그램",
+   "company": "한국다이이찌산쿄(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-07-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004570"
+  },
+  {
+   "itemSeq": "201004569",
+   "name": "세비카정 5/40밀리그램",
+   "company": "한국다이이찌산쿄(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-07-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004569"
+  },
+  {
+   "itemSeq": "201100826",
+   "name": "벨메텍플러스정20/12.5밀리그램",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100826"
+  },
+  {
+   "itemSeq": "201100893",
+   "name": "올고탄플러스정20/12.5밀리그램",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100893"
+  },
+  {
+   "itemSeq": "201100894",
+   "name": "올메히드플러스정20/12.5밀리그램",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100894"
+  },
+  {
+   "itemSeq": "201100888",
+   "name": "올스텍플러스정20/12.5밀리그램",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100888"
+  },
+  {
+   "itemSeq": "201100887",
+   "name": "올위너플러스정",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100887"
+  },
+  {
+   "itemSeq": "201100985",
+   "name": "오르메탄플러스정20/12.5밀리그램",
+   "company": "(주)경보제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100985"
+  },
+  {
+   "itemSeq": "201100981",
+   "name": "올메세틸엠플러스정20/12.5밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100981"
+  },
+  {
+   "itemSeq": "201100979",
+   "name": "프리살탄플러스정20/12.5밀리그램(올메사르탄메독소밀,히드로클로로티아지드)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201100979"
+  },
+  {
+   "itemSeq": "201101640",
+   "name": "올레플러스정",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101640"
+  },
+  {
+   "itemSeq": "201101861",
+   "name": "에스올플러스정",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201101861"
+  },
+  {
+   "itemSeq": "201206780",
+   "name": "세비카에이치씨티정10/40/12.5밀리그램",
+   "company": "한국다이이찌산쿄(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206780"
+  },
+  {
+   "itemSeq": "201206778",
+   "name": "세비카에이치씨티정5/40/12.5밀리그램",
+   "company": "한국다이이찌산쿄(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206778"
+  },
+  {
+   "itemSeq": "201206782",
+   "name": "세비카에이치씨티정5/20/12.5밀리그램",
+   "company": "한국다이이찌산쿄(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201206782"
+  },
+  {
+   "itemSeq": "201307882",
+   "name": "올메자이드정20/12.5mg(올메사르탄메독소밀,히드로클로로티아지드)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-06-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201307882"
+  },
+  {
+   "itemSeq": "201308099",
+   "name": "올로스타정40/20밀리그램(올메사르탄메독소밀, 로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308099"
+  },
+  {
+   "itemSeq": "201308278",
+   "name": "올로스타정20/10밀리그램(올메사르탄메독소밀, 로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201308278"
+  },
+  {
+   "itemSeq": "201400426",
+   "name": "올로스타정20/20밀리그램(올메사르탄메독소밀, 로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.80",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400426"
+  },
+  {
+   "itemSeq": "201400806",
+   "name": "올로스타정20/5밀리그램(올메사르탄메독소밀, 로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-02-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201400806"
+  },
+  {
+   "itemSeq": "201404597",
+   "name": "올메듀오정10/40밀리그램",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404597"
+  },
+  {
+   "itemSeq": "201404596",
+   "name": "올메듀오정5/20밀리그램",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404596"
+  },
+  {
+   "itemSeq": "201404595",
+   "name": "올메듀오정5/40밀리그램",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404595"
+  },
+  {
+   "itemSeq": "201404731",
+   "name": "세비원정10/40밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404731"
+  },
+  {
+   "itemSeq": "201404733",
+   "name": "세비원정5/20밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404733"
+  },
+  {
+   "itemSeq": "201404732",
+   "name": "세비원정5/40밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404732"
+  },
+  {
+   "itemSeq": "201404737",
+   "name": "아몰비카정5/20mg",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404737"
+  },
+  {
+   "itemSeq": "201404735",
+   "name": "아몰비카정5/40mg",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404735"
+  },
+  {
+   "itemSeq": "201404738",
+   "name": "올로디핀정5/20밀리그램(암로디핀, 올메사르탄메독소밀)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404738"
+  },
+  {
+   "itemSeq": "201404739",
+   "name": "올로디핀정5/40밀리그램(암로디핀, 올메사르탄메독소밀)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404739"
+  },
+  {
+   "itemSeq": "201404714",
+   "name": "제이비카정10/40mg",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404714"
+  },
+  {
+   "itemSeq": "201404716",
+   "name": "제이비카정5/20mg",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404716"
+  },
+  {
+   "itemSeq": "201404715",
+   "name": "제이비카정5/40mg",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404715"
+  },
+  {
+   "itemSeq": "201404728",
+   "name": "하비카정10/40밀리그램",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404728"
+  },
+  {
+   "itemSeq": "201404726",
+   "name": "하비카정5/20밀리그램",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404726"
+  },
+  {
+   "itemSeq": "201404727",
+   "name": "하비카정5/40밀리그램",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404727"
+  },
+  {
+   "itemSeq": "201404765",
+   "name": "비바스정10/40밀리그램",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404765"
+  },
+  {
+   "itemSeq": "201404764",
+   "name": "비바스정5/20밀리그램",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404764"
+  },
+  {
+   "itemSeq": "201404769",
+   "name": "올스디핀정5/20밀리그램",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404769"
+  },
+  {
+   "itemSeq": "201404821",
+   "name": "세비듀오정5/20밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404821"
+  },
+  {
+   "itemSeq": "201404822",
+   "name": "세비듀오정5/40밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404822"
+  },
+  {
+   "itemSeq": "201404895",
+   "name": "올로디핀정10/40밀리그램(암로디핀, 올메사르탄메독소밀)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404895"
+  },
+  {
+   "itemSeq": "201404995",
+   "name": "올딥정10/40밀리그램",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404995"
+  },
+  {
+   "itemSeq": "201404994",
+   "name": "올딥정5/20밀리그램",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404994"
+  },
+  {
+   "itemSeq": "201404993",
+   "name": "올딥정5/40밀리그램",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404993"
+  },
+  {
+   "itemSeq": "201405005",
+   "name": "세비듀오정10/40밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-10-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405005"
+  },
+  {
+   "itemSeq": "201405130",
+   "name": "로메탄정10/40밀리그램",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405130"
+  },
+  {
+   "itemSeq": "201405132",
+   "name": "로메탄정5/20밀리그램",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405132"
+  },
+  {
+   "itemSeq": "201405131",
+   "name": "로메탄정5/40밀리그램",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405131"
+  },
+  {
+   "itemSeq": "201405503",
+   "name": "세비로텐정5/20밀리그램",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405503"
+  },
+  {
+   "itemSeq": "201405504",
+   "name": "세비로텐정5/40밀리그램",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405504"
+  },
+  {
+   "itemSeq": "201405515",
+   "name": "파미카정10/40밀리그램",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405515"
+  },
+  {
+   "itemSeq": "201405513",
+   "name": "파미카정5/20밀리그램",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405513"
+  },
+  {
+   "itemSeq": "201405514",
+   "name": "파미카정5/40밀리그램",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405514"
+  },
+  {
+   "itemSeq": "201405735",
+   "name": "세비텐션정10/40밀리그램",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405735"
+  },
+  {
+   "itemSeq": "201406169",
+   "name": "리비카정10/40밀리그램",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406169"
+  },
+  {
+   "itemSeq": "201406170",
+   "name": "리비카정5/20밀리그램",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406170"
+  },
+  {
+   "itemSeq": "201406171",
+   "name": "리비카정5/40밀리그램",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406171"
+  },
+  {
+   "itemSeq": "201406189",
+   "name": "세비텐션정5/20밀리그램",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201406189"
+  },
+  {
+   "itemSeq": "201500292",
+   "name": "두비카정5/20mg",
+   "company": "삼아제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500292"
+  },
+  {
+   "itemSeq": "201500327",
+   "name": "세비텐션정5/40밀리그램",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500327"
+  },
+  {
+   "itemSeq": "201500471",
+   "name": "비바스정5/40밀리그램",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-01-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500471"
+  },
+  {
+   "itemSeq": "201500863",
+   "name": "올메디핀정5/20밀리그램(암로디핀, 올메사르탄)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-02-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201500863"
+  },
+  {
+   "itemSeq": "201502461",
+   "name": "올메디핀정10/40밀리그램(암로디핀, 올메사르탄)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-04-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502461"
+  },
+  {
+   "itemSeq": "201505105",
+   "name": "셀메텍플러스정20/12.5밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505105"
+  },
+  {
+   "itemSeq": "201505169",
+   "name": "셀레비카정10/40밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505169"
+  },
+  {
+   "itemSeq": "201505167",
+   "name": "셀레비카정5/20밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505167"
+  },
+  {
+   "itemSeq": "201505168",
+   "name": "셀레비카정5/40밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-07-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505168"
+  },
+  {
+   "itemSeq": "201505941",
+   "name": "오로텐션정10/40밀리그램(암로디핀베실산염, 올메사르탄메독소밀)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505941"
+  },
+  {
+   "itemSeq": "201505939",
+   "name": "오로텐션정5/20밀리그램(암로디핀베실산염, 올메사르탄메독소밀)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505939"
+  },
+  {
+   "itemSeq": "201505940",
+   "name": "오로텐션정5/40밀리그램(암로디핀베실산염, 올메사르탄메독소밀)",
+   "company": "고려제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-08-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201505940"
+  },
+  {
+   "itemSeq": "201506871",
+   "name": "올로스타정10/10밀리그램(올메사르탄메독소밀, 로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506871"
+  },
+  {
+   "itemSeq": "201506872",
+   "name": "올로스타정10/5밀리그램(올메사르탄메독소밀, 로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201506872"
+  },
+  {
+   "itemSeq": "201601778",
+   "name": "뉴비카정10/40mg",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601778"
+  },
+  {
+   "itemSeq": "201601780",
+   "name": "뉴비카정5/20mg",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601780"
+  },
+  {
+   "itemSeq": "201601779",
+   "name": "뉴비카정5/40mg",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601779"
+  },
+  {
+   "itemSeq": "201603461",
+   "name": "엠디비카정5/20밀리그램(암로디핀베실산염, 올메사르탄메독소밀)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603461"
+  },
+  {
+   "itemSeq": "201603902",
+   "name": "올듀오비정5/20밀리그램",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603902"
+  },
+  {
+   "itemSeq": "201603903",
+   "name": "올듀오비정5/40밀리그램",
+   "company": "삼천당제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603903"
+  },
+  {
+   "itemSeq": "201603967",
+   "name": "로우탄플러스정(올메사르탄메독소밀, 히드로클로로티아지드)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603967"
+  },
+  {
+   "itemSeq": "201604125",
+   "name": "올로스타정40/10밀리그램(올메사르탄메독소밀, 로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604125"
+  },
+  {
+   "itemSeq": "201805227",
+   "name": "올멕포스에이치정10/40/12.5밀리그램(암로디핀베실산염,올메사르탄메독소밀,히드로클로로티아지드)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805227"
+  },
+  {
+   "itemSeq": "201805226",
+   "name": "올멕포스에이치정5/20/12.5밀리그램(암로디핀베실산염,올메사르탄메독소밀,히드로클로로티아지드)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805226"
+  },
+  {
+   "itemSeq": "201805228",
+   "name": "올멕포스에이치정5/40/12.5밀리그램(암로디핀베실산염,올메사르탄메독소밀,히드로클로로티아지드)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805228"
+  },
+  {
+   "itemSeq": "201805288",
+   "name": "세라칸에이치씨티정10/40/12.5밀리그램",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805288"
+  },
+  {
+   "itemSeq": "201805287",
+   "name": "세라칸에이치씨티정5/40/12.5밀리그램",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805287"
+  },
+  {
+   "itemSeq": "201805286",
+   "name": "세라칸에이치씨티정5/20/12.5밀리그램",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805286"
+  },
+  {
+   "itemSeq": "201805265",
+   "name": "세비듀오에이치씨티정5/20/12.5밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805265"
+  },
+  {
+   "itemSeq": "201805264",
+   "name": "세비듀오에이치씨티정5/40/12.5밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805264"
+  },
+  {
+   "itemSeq": "201805266",
+   "name": "세비듀오에이치씨티정10/40/12.5밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805266"
+  },
+  {
+   "itemSeq": "201805295",
+   "name": "세비원에이치씨티정10/40/12.5밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805295"
+  },
+  {
+   "itemSeq": "201805293",
+   "name": "세비원에이치씨티정5/40/12.5밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805293"
+  },
+  {
+   "itemSeq": "201805294",
+   "name": "세비원에이치씨티정5/20/12.5밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805294"
+  },
+  {
+   "itemSeq": "201805284",
+   "name": "암로비카에이치씨티정5/20/12.5밀리그램",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805284"
+  },
+  {
+   "itemSeq": "201805283",
+   "name": "암로비카에이치씨티정5/40/12.5밀리그램",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805283"
+  },
+  {
+   "itemSeq": "201805285",
+   "name": "암로비카에이치씨티정10/40/12.5밀리그램",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805285"
+  },
+  {
+   "itemSeq": "201805281",
+   "name": "올메디퀄에이치씨티정 5/20/12.5밀리그램",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805281"
+  },
+  {
+   "itemSeq": "201805280",
+   "name": "올메디퀄에이치씨티정10/40/12.5밀리그램",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805280"
+  },
+  {
+   "itemSeq": "201805279",
+   "name": "올메디퀄에이치씨티정5/40/12.5밀리그램",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805279"
+  },
+  {
+   "itemSeq": "201805245",
+   "name": "올메로핀에이치씨티정10/40/12.5밀리그램",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805245"
+  },
+  {
+   "itemSeq": "201805244",
+   "name": "올메로핀에이치씨티정5/40/12.5밀리그램",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805244"
+  },
+  {
+   "itemSeq": "201805243",
+   "name": "올메로핀에이치씨티정5/20/12.5밀리그램",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805243"
+  },
+  {
+   "itemSeq": "201805306",
+   "name": "세비테라에이치씨티정5/20/12.5밀리그램",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805306"
+  },
+  {
+   "itemSeq": "201805304",
+   "name": "세비테라에이치씨티정5/40/12.5밀리그램",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805304"
+  },
+  {
+   "itemSeq": "201805305",
+   "name": "세비테라에이치씨티정10/40/12.5밀리그램",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805305"
+  },
+  {
+   "itemSeq": "201805309",
+   "name": "아몰비카에이치씨티정10/40/12.5mg",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805309"
+  },
+  {
+   "itemSeq": "201805308",
+   "name": "아몰비카에이치씨티정5/20/12.5mg",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805308"
+  },
+  {
+   "itemSeq": "201805307",
+   "name": "아몰비카에이치씨티정5/40/12.5mg",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805307"
+  },
+  {
+   "itemSeq": "201805337",
+   "name": "올딥에이치씨티정10/40/12.5밀리그램",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805337"
+  },
+  {
+   "itemSeq": "201805339",
+   "name": "올딥에이치씨티정5/40/12.5밀리그램",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805339"
+  },
+  {
+   "itemSeq": "201805338",
+   "name": "올딥에이치씨티정5/20/12.5밀리그램",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805338"
+  },
+  {
+   "itemSeq": "201805341",
+   "name": "올로디핀에이치씨티정5/20/12.5밀리그램",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805341"
+  },
+  {
+   "itemSeq": "201805342",
+   "name": "올로디핀에이치씨티정10/40/12.5밀리그램",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805342"
+  },
+  {
+   "itemSeq": "201805340",
+   "name": "올로디핀에이치씨티정5/40/12.5밀리그램",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805340"
+  },
+  {
+   "itemSeq": "201805389",
+   "name": "제이비카에이치씨티정5/20/12.5밀리그램",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805389"
+  },
+  {
+   "itemSeq": "201805390",
+   "name": "제이비카에이치씨티정10/40/12.5밀리그램",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805390"
+  },
+  {
+   "itemSeq": "201900269",
+   "name": "에스카에이치씨티정10/40/12.5밀리그램",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900269"
+  },
+  {
+   "itemSeq": "201900270",
+   "name": "에스카에이치씨티정5/20/12.5밀리그램",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900270"
+  },
+  {
+   "itemSeq": "201900768",
+   "name": "로우비카에이치씨티정5/20/12.5밀리그램",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900768"
+  },
+  {
+   "itemSeq": "201900767",
+   "name": "로우비카에이치씨티정5/40/12.5밀리그램",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900767"
+  },
+  {
+   "itemSeq": "201900774",
+   "name": "로우비카에이치씨티정10/40/12.5밀리그램",
+   "company": "일성아이에스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900774"
+  },
+  {
+   "itemSeq": "201901162",
+   "name": "제이비카에이치씨티정5/40/12.5밀리그램",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901162"
+  },
+  {
+   "itemSeq": "201901263",
+   "name": "올로맥스정20/5/5밀리그램(올메사르탄메독소밀, 암로디핀, 로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.95",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901263"
+  },
+  {
+   "itemSeq": "201901264",
+   "name": "올로맥스정20/5/10밀리그램(올메사르탄메독소밀, 암로디핀, 로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.95",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901264"
+  },
+  {
+   "itemSeq": "201901356",
+   "name": "세바코정10/40밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901356"
+  },
+  {
+   "itemSeq": "201901354",
+   "name": "세바코정5/20밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901354"
+  },
+  {
+   "itemSeq": "201901355",
+   "name": "세바코정5/40밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901355"
+  },
+  {
+   "itemSeq": "201901667",
+   "name": "에스카에이치씨티정5/40/12.5밀리그램",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901667"
+  },
+  {
+   "itemSeq": "201902022",
+   "name": "삼비카에이치씨티정10/40/12.5밀리그램",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902022"
+  },
+  {
+   "itemSeq": "201902020",
+   "name": "삼비카에이치씨티정5/20/12.5밀리그램",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902020"
+  },
+  {
+   "itemSeq": "201902021",
+   "name": "삼비카에이치씨티정5/40/12.5밀리그램",
+   "company": "삼성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902021"
+  },
+  {
+   "itemSeq": "201902139",
+   "name": "맥세비카정5/40밀리그램",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902139"
+  },
+  {
+   "itemSeq": "201902221",
+   "name": "에스카정5/20밀리그램",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902221"
+  },
+  {
+   "itemSeq": "201902222",
+   "name": "에스카정5/40밀리그램",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902222"
+  },
+  {
+   "itemSeq": "201902308",
+   "name": "맥세비카정10/40밀리그램",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902308"
+  },
+  {
+   "itemSeq": "201902990",
+   "name": "세비엠에이치씨티정10/40/12.5밀리그램",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902990"
+  },
+  {
+   "itemSeq": "201902991",
+   "name": "세비엠에이치씨티정5/20/12.5밀리그램",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902991"
+  },
+  {
+   "itemSeq": "201902989",
+   "name": "세비엠에이치씨티정5/40/12.5밀리그램",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902989"
+  },
+  {
+   "itemSeq": "201903062",
+   "name": "올메디카에이치씨티정5/20/12.5밀리그램",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903062"
+  },
+  {
+   "itemSeq": "201903061",
+   "name": "올메디카에이치씨티정5/40/12.5밀리그램",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903061"
+  },
+  {
+   "itemSeq": "201903060",
+   "name": "올메디카에이치씨티정10/40/12.5밀리그램",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903060"
+  },
+  {
+   "itemSeq": "201903158",
+   "name": "올디피정10/40/12.5밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903158"
+  },
+  {
+   "itemSeq": "201903157",
+   "name": "올디피정5/20/12.5밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903157"
+  },
+  {
+   "itemSeq": "201903159",
+   "name": "올디피정5/40/12.5밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903159"
+  },
+  {
+   "itemSeq": "201903278",
+   "name": "올메카정10/40밀리그램(수출용)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903278"
+  },
+  {
+   "itemSeq": "201903279",
+   "name": "올메카정5/20밀리그램(수출용)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903279"
+  },
+  {
+   "itemSeq": "201903277",
+   "name": "올메카정5/40밀리그램(수출용)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903277"
+  },
+  {
+   "itemSeq": "201903525",
+   "name": "비카원스정10/40밀리그램",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903525"
+  },
+  {
+   "itemSeq": "201903523",
+   "name": "비카원스정5/20밀리그램",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903523"
+  },
+  {
+   "itemSeq": "201903524",
+   "name": "비카원스정5/40밀리그램",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903524"
+  },
+  {
+   "itemSeq": "201903521",
+   "name": "투비카정10/40밀리그램",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903521"
+  },
+  {
+   "itemSeq": "201903519",
+   "name": "투비카정5/20밀리그램",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903519"
+  },
+  {
+   "itemSeq": "201903520",
+   "name": "투비카정5/40밀리그램",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903520"
+  },
+  {
+   "itemSeq": "201904428",
+   "name": "세비루카에이치씨티정5/20/12.5밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904428"
+  },
+  {
+   "itemSeq": "201904429",
+   "name": "세비루카에이치씨티정5/40/12.5밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.000",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904429"
+  },
+  {
+   "itemSeq": "201904506",
+   "name": "맥세비카정5/20밀리그램",
+   "company": "맥널티제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904506"
+  },
+  {
+   "itemSeq": "201905993",
+   "name": "올세비탄에이치씨티정5/40/12.5밀리그램",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905993"
+  },
+  {
+   "itemSeq": "201905994",
+   "name": "올세비탄에이치씨티정10/40/12.5밀리그램",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905994"
+  },
+  {
+   "itemSeq": "201905992",
+   "name": "올세비탄에이치씨티정5/20/12.5밀리그램",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-08-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905992"
+  },
+  {
+   "itemSeq": "201906433",
+   "name": "에스카정10/40밀리그램",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906433"
+  },
+  {
+   "itemSeq": "201906791",
+   "name": "세바코에이치씨티정10/40/12.5밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906791"
+  },
+  {
+   "itemSeq": "201906789",
+   "name": "세바코에이치씨티정5/40/12.5밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906789"
+  },
+  {
+   "itemSeq": "201906790",
+   "name": "세바코에이치씨티정5/20/12.5밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-09-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201906790"
+  },
+  {
+   "itemSeq": "201907788",
+   "name": "세비칸정5/20밀리그램",
+   "company": "한국신텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907788"
+  },
+  {
+   "itemSeq": "202000347",
+   "name": "올메로핀정10/40밀리그램(암로디핀베실산염, 올메사르탄메독소밀)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000347"
+  },
+  {
+   "itemSeq": "202000345",
+   "name": "올메로핀정5/20밀리그램(암로디핀베실산염, 올메사르탄메독소밀)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000345"
+  },
+  {
+   "itemSeq": "202000346",
+   "name": "올메로핀정5/40밀리그램(암로디핀베실산염, 올메사르탄메독소밀)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000346"
+  },
+  {
+   "itemSeq": "202000708",
+   "name": "올로맥스정40/5/10밀리그램(올메사르탄메독소밀, 암로디핀, 로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.95",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000708"
+  },
+  {
+   "itemSeq": "202001166",
+   "name": "올로맥스정40/5/5밀리그램(올메사르탄메독소밀, 암로디핀, 로수바스타틴)",
+   "company": "(주)대웅제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.95",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001166"
+  },
+  {
+   "itemSeq": "202001262",
+   "name": "올메핀정10/40밀리그램",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001262"
+  },
+  {
+   "itemSeq": "202001260",
+   "name": "올메핀정5/20밀리그램",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001260"
+  },
+  {
+   "itemSeq": "202001261",
+   "name": "올메핀정5/40밀리그램",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001261"
+  },
+  {
+   "itemSeq": "202002694",
+   "name": "로메탄에이치씨티정10/40/12.5밀리그램",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002694"
+  },
+  {
+   "itemSeq": "202002698",
+   "name": "로메탄에이치씨티정5/20/12.5밀리그램",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002698"
+  },
+  {
+   "itemSeq": "202002697",
+   "name": "로메탄에이치씨티정5/40/12.5밀리그램",
+   "company": "(주)제뉴파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002697"
+  },
+  {
+   "itemSeq": "202002773",
+   "name": "하비카에이치씨티정5/40/12.5밀리그램",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002773"
+  },
+  {
+   "itemSeq": "202002772",
+   "name": "하비카에이치씨티정5/20/12.5밀리그램",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002772"
+  },
+  {
+   "itemSeq": "202002973",
+   "name": "올메딜에이치씨티정10/40/12.5밀리그램",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002973"
+  },
+  {
+   "itemSeq": "202002971",
+   "name": "올메딜에이치씨티정5/40/12.5밀리그램",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002971"
+  },
+  {
+   "itemSeq": "202002972",
+   "name": "올메딜에이치씨티정5/20/12.5밀리그램",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002972"
+  },
+  {
+   "itemSeq": "202003546",
+   "name": "세비루카에이치씨티정10/40/12.5밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003546"
+  },
+  {
+   "itemSeq": "202003822",
+   "name": "세비루카정10/40밀리그램(암로디핀,올메사르탄)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "13.888",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003822"
+  },
+  {
+   "itemSeq": "202003824",
+   "name": "세비루카정5/20밀리그램(암로디핀,올메사르탄)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003824"
+  },
+  {
+   "itemSeq": "202003823",
+   "name": "세비루카정5/40밀리그램(암로디핀,올메사르탄)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003823"
+  },
+  {
+   "itemSeq": "202003972",
+   "name": "올로듀엣정20/10밀리그램",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003972"
+  },
+  {
+   "itemSeq": "202003974",
+   "name": "올로듀엣정20/20밀리그램",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003974"
+  },
+  {
+   "itemSeq": "202003973",
+   "name": "올로듀엣정20/5밀리그램",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003973"
+  },
+  {
+   "itemSeq": "202003951",
+   "name": "올르메틴정20/10밀리그램",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003951"
+  },
+  {
+   "itemSeq": "202003947",
+   "name": "올르메틴정20/20밀리그램",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003947"
+  },
+  {
+   "itemSeq": "202003952",
+   "name": "올르메틴정20/5밀리그램",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003952"
+  },
+  {
+   "itemSeq": "202003957",
+   "name": "올메로수정20/10밀리그램",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003957"
+  },
+  {
+   "itemSeq": "202003956",
+   "name": "올메로수정20/20밀리그램",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003956"
+  },
+  {
+   "itemSeq": "202003958",
+   "name": "올메로수정20/5밀리그램",
+   "company": "위더스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003958"
+  },
+  {
+   "itemSeq": "202003964",
+   "name": "올프로정20/10밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003964"
+  },
+  {
+   "itemSeq": "202003976",
+   "name": "올프로정20/20밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003976"
+  },
+  {
+   "itemSeq": "202003963",
+   "name": "올프로정20/5밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003963"
+  },
+  {
+   "itemSeq": "202003954",
+   "name": "유메로정20/10mg",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003954"
+  },
+  {
+   "itemSeq": "202003953",
+   "name": "유메로정20/20mg",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "20.8",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003953"
+  },
+  {
+   "itemSeq": "202003955",
+   "name": "유메로정20/5mg",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003955"
+  },
+  {
+   "itemSeq": "202100101",
+   "name": "올바스타정20/10밀리그램",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "10.4",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100101"
+  },
+  {
+   "itemSeq": "202100100",
+   "name": "올바스타정20/5밀리그램",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "로수바스타틴칼슘",
+     "amount": "5.2",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2021-01-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202100100"
+  },
+  {
+   "itemSeq": "202401353",
+   "name": "올메비카에이치씨티정2.5/40/12.5밀리그램(에스암로디핀베실산염이수화물,올메사르탄메독소밀,히드로클로로티아지드)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스암로디핀베실산염이수화물",
+     "amount": "3.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401353"
+  },
+  {
+   "itemSeq": "202401354",
+   "name": "올메비카에이치씨티정2.5/20/12.5밀리그램(에스암로디핀베실산염이수화물,올메사르탄메독소밀,히드로클로로티아지드)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스암로디핀베실산염이수화물",
+     "amount": "3.69",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401354"
+  },
+  {
+   "itemSeq": "202401352",
+   "name": "올메비카에이치씨티정5/40/12.5밀리그램(에스암로디핀베실산염이수화물,올메사르탄메독소밀,히드로클로로티아지드)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "올메사르탄메독소밀",
+     "amount": "40.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "히드로클로로티아지드",
+     "amount": "12.50",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에스암로디핀베실산염이수화물",
+     "amount": "7.38",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401352"
+  }
+ ]
+}

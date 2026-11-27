@@ -1,0 +1,404 @@
+{
+ "id": "valproate",
+ "query": [
+  "발프로산",
+  "발프로에이트",
+  "디발프로엑스"
+ ],
+ "fetched": "2026-11-26",
+ "total": 25,
+ "kept": 25,
+ "mfdsName": [
+  "발프로산나트륨",
+  "디발프로엑스나트륨",
+  "발프로산",
+  "발프로산마그네슘"
+ ],
+ "items": [
+  {
+   "itemSeq": "198500623",
+   "name": "올트릴정200밀리그램(발프로산나트륨)(수출용)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발프로산나트륨",
+     "amount": "200",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500623"
+  },
+  {
+   "itemSeq": "198500624",
+   "name": "올트릴정300밀리그램(발프로산나트륨)(수출용)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발프로산나트륨",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-07-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500624"
+  },
+  {
+   "itemSeq": "198900925",
+   "name": "발핀연질캡슐250mg(발프로산)(수출용)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발프로산",
+     "amount": "250.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1989-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198900925"
+  },
+  {
+   "itemSeq": "199001352",
+   "name": "오르필서방정300밀리그램(발프로산나트륨)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발프로산나트륨",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1990-03-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199001352"
+  },
+  {
+   "itemSeq": "199402228",
+   "name": "바로인주사(발프로산나트륨)(수출용)",
+   "company": "한림제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발프로산나트륨",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1994-02-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199402228"
+  },
+  {
+   "itemSeq": "199400873",
+   "name": "올트릴주(발프로산나트륨)(수출명:뉴올트릴주(발프론산나트륨))",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발프로산나트륨",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1994-06-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400873"
+  },
+  {
+   "itemSeq": "199400905",
+   "name": "바렙톨서방정(발프로산나트륨)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발프로산나트륨",
+     "amount": "300",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1994-09-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199400905"
+  },
+  {
+   "itemSeq": "199504171",
+   "name": "데파코트스프링클캡슐(디발프로엑스나트륨)",
+   "company": "한국애보트(유)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "디발프로엑스나트륨",
+     "amount": "134.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1995-10-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199504171"
+  },
+  {
+   "itemSeq": "199601861",
+   "name": "레브발주사(발프로산나트륨)(수출용)",
+   "company": "(주)비씨월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발프로산나트륨",
+     "amount": "400",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1996-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199601861"
+  },
+  {
+   "itemSeq": "199801582",
+   "name": "오르필주사액(발프로산나트륨)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발프로산나트륨",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-04-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801582"
+  },
+  {
+   "itemSeq": "199801581",
+   "name": "오르필서방정150밀리그램(발프로산나트륨)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발프로산나트륨",
+     "amount": "150.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1998-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199801581"
+  },
+  {
+   "itemSeq": "199901651",
+   "name": "오르필서방정600밀리그램(발프로산나트륨)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발프로산나트륨",
+     "amount": "600.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1999-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199901651"
+  },
+  {
+   "itemSeq": "200001458",
+   "name": "프로막정200밀리그램(발프로산마그네슘)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발프로산마그네슘",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001458"
+  },
+  {
+   "itemSeq": "200001457",
+   "name": "프로막정500밀리그램(발프로산마그네슘)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발프로산마그네슘",
+     "amount": "500.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-03-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001457"
+  },
+  {
+   "itemSeq": "200001939",
+   "name": "오르필시럽(발프로산나트륨)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발프로산나트륨",
+     "amount": "6,000",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001939"
+  },
+  {
+   "itemSeq": "200209716",
+   "name": "데파코트서방정500밀리그램(디발프로엑스나트륨)",
+   "company": "한국애보트(유)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "디발프로엑스나트륨",
+     "amount": "538.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200209716"
+  },
+  {
+   "itemSeq": "200511051",
+   "name": "데파코트서방정250밀리그램(디발프로엑스나트륨)",
+   "company": "한국애보트(유)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "디발프로엑스나트륨",
+     "amount": "269.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511051"
+  },
+  {
+   "itemSeq": "201004349",
+   "name": "프로막정300밀리그램(발프로산마그네슘)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발프로산마그네슘",
+     "amount": "300.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-07-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201004349"
+  },
+  {
+   "itemSeq": "201402359",
+   "name": "발핀연질캡슐500mg(발프로산)(수출용)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발프로산",
+     "amount": "500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-05-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402359"
+  },
+  {
+   "itemSeq": "202303094",
+   "name": "디발프로서방정500밀리그램(디발프로엑스나트륨)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "디발프로엑스나트륨",
+     "amount": "538.1",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-11-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303094"
+  },
+  {
+   "itemSeq": "202303449",
+   "name": "디발프로서방정250밀리그램(디발프로엑스나트륨)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "디발프로엑스나트륨",
+     "amount": "269.05",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-12-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303449"
+  },
+  {
+   "itemSeq": "202400190",
+   "name": "미래디발프로서방정500밀리그램(디발프로엑스나트륨)",
+   "company": "미래바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "디발프로엑스나트륨",
+     "amount": "538.12",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400190"
+  },
+  {
+   "itemSeq": "202401255",
+   "name": "미래디발프로서방정250밀리그램(디발프로엑스나트륨)",
+   "company": "미래바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "디발프로엑스나트륨",
+     "amount": "269.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-05-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202401255"
+  },
+  {
+   "itemSeq": "200701033",
+   "name": "데파킨크로노정500밀리그램",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발프로산나트륨",
+     "amount": "333.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "발프로산",
+     "amount": "145.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701033"
+  },
+  {
+   "itemSeq": "200701028",
+   "name": "데파킨크로노정300밀리그램",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "발프로산나트륨",
+     "amount": "200",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "발프로산",
+     "amount": "87",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-10",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701028"
+  }
+ ]
+}

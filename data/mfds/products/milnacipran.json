@@ -1,0 +1,59 @@
+{
+ "id": "milnacipran",
+ "query": [
+  "밀나시프란"
+ ],
+ "fetched": "2026-11-27",
+ "total": 3,
+ "kept": 3,
+ "mfdsName": [
+  "밀나시프란염산염"
+ ],
+ "items": [
+  {
+   "itemSeq": "200001931",
+   "name": "익셀캡슐25밀리그램(밀나시프란염산염)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "밀나시프란염산염",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-05-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001931"
+  },
+  {
+   "itemSeq": "200001932",
+   "name": "익셀캡슐50밀리그램(밀나시프란염산염)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "밀나시프란염산염",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2000-05-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200001932"
+  },
+  {
+   "itemSeq": "201007695",
+   "name": "익셀캡슐12.5밀리그램(밀나시프란염산염)",
+   "company": "부광약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "밀나시프란염산염",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-12-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007695"
+  }
+ ]
+}

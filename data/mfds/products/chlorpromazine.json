@@ -1,0 +1,90 @@
+{
+ "id": "chlorpromazine",
+ "query": [
+  "클로르프로마진"
+ ],
+ "fetched": "2026-11-26",
+ "total": 5,
+ "kept": 5,
+ "mfdsName": [
+  "클로르프로마진염산염",
+  "염산클로르프로마진"
+ ],
+ "items": [
+  {
+   "itemSeq": "199203520",
+   "name": "네오마찐정100밀리그램(클로르프로마진염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로르프로마진염산염",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1960-03-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199203520"
+  },
+  {
+   "itemSeq": "198500616",
+   "name": "명인클로르프로마진염산염정100mg",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로르프로마진염산염",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500616"
+  },
+  {
+   "itemSeq": "198500636",
+   "name": "명인클로르프로마진염산염정50mg",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로르프로마진염산염",
+     "amount": "50.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1985-04-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198500636"
+  },
+  {
+   "itemSeq": "199000979",
+   "name": "명인클로르프로마진염산염정200mg",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로르프로마진염산염",
+     "amount": "200.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1990-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199000979"
+  },
+  {
+   "itemSeq": "199703373",
+   "name": "코러스염산클로르프로마진정(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "염산클로르프로마진",
+     "amount": "100",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-08-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199703373"
+  }
+ ]
+}

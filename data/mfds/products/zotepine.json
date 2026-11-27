@@ -1,0 +1,60 @@
+{
+ "id": "zotepine",
+ "query": [
+  "조테핀",
+  "zotepine"
+ ],
+ "fetched": "2026-11-27",
+ "total": 3,
+ "kept": 3,
+ "mfdsName": [
+  "죠테핀"
+ ],
+ "items": [
+  {
+   "itemSeq": "199701065",
+   "name": "로도핀정100mg(죠테핀)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "죠테핀",
+     "amount": "100.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701065"
+  },
+  {
+   "itemSeq": "199701063",
+   "name": "로도핀정25mg(죠테핀)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "죠테핀",
+     "amount": "25.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701063"
+  },
+  {
+   "itemSeq": "199701064",
+   "name": "로도핀정50mg(죠테핀)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "죠테핀",
+     "amount": "50",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-09-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199701064"
+  }
+ ]
+}

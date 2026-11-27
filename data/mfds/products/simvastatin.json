@@ -1,0 +1,2214 @@
+{
+ "id": "simvastatin",
+ "query": [
+  "심바스타틴"
+ ],
+ "fetched": "2026-11-27",
+ "total": 125,
+ "kept": 125,
+ "mfdsName": [
+  "심바스타틴"
+ ],
+ "items": [
+  {
+   "itemSeq": "200200173",
+   "name": "심바로드정20밀리그램(심바스타틴)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200173"
+  },
+  {
+   "itemSeq": "200201201",
+   "name": "심바스타정20밀리그램(심바스타틴)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201201"
+  },
+  {
+   "itemSeq": "200200644",
+   "name": "심바틴정40밀리그람(심바스타틴)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200644"
+  },
+  {
+   "itemSeq": "200202205",
+   "name": "심바스트정20밀리그램(심바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200202205"
+  },
+  {
+   "itemSeq": "200200720",
+   "name": "동성심바스타틴정",
+   "company": "동성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-10-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200720"
+  },
+  {
+   "itemSeq": "200201416",
+   "name": "심펙스정(심바스타틴)(수출명:Simtano)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200201416"
+  },
+  {
+   "itemSeq": "200200214",
+   "name": "휴심바정(심바스타틴)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2002-12-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200200214"
+  },
+  {
+   "itemSeq": "200308855",
+   "name": "심콜정(심바스타틴)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-01-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308855"
+  },
+  {
+   "itemSeq": "200301131",
+   "name": "심바스타정40밀리그램(심바스타틴)",
+   "company": "에이치케이이노엔(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-03-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301131"
+  },
+  {
+   "itemSeq": "200300283",
+   "name": "심바롤정(심바스타틴)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300283"
+  },
+  {
+   "itemSeq": "200300639",
+   "name": "심바로틴정20밀리그램(심바스타틴)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300639"
+  },
+  {
+   "itemSeq": "200300941",
+   "name": "시스타정40밀리그램(심바스타틴)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-06-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300941"
+  },
+  {
+   "itemSeq": "200300551",
+   "name": "심바틴정20밀리그람(수출명:Austin)(심바스타틴)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-06-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300551"
+  },
+  {
+   "itemSeq": "200301112",
+   "name": "에프심바정40밀리그람(심바스타틴)(수출용)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-06-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301112"
+  },
+  {
+   "itemSeq": "200300670",
+   "name": "에이프로젠심바스타틴정20밀리그램",
+   "company": "(주)에이프로젠바이오로직스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-07-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200300670"
+  },
+  {
+   "itemSeq": "200301662",
+   "name": "리피듀정(심바스타틴)",
+   "company": "에스케이케미칼(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-10-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200301662"
+  },
+  {
+   "itemSeq": "200308586",
+   "name": "심바코정(심바스타틴)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2003-11-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200308586"
+  },
+  {
+   "itemSeq": "200401881",
+   "name": "심바젠정(심바스타틴)",
+   "company": "(주)셀릭스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-01-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401881"
+  },
+  {
+   "itemSeq": "200403126",
+   "name": "시바스정(심바스타틴)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403126"
+  },
+  {
+   "itemSeq": "200401411",
+   "name": "조바틴정20밀리그램(심바스타틴)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-01-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401411"
+  },
+  {
+   "itemSeq": "200402946",
+   "name": "심바스정(심바스타틴)",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402946"
+  },
+  {
+   "itemSeq": "200402472",
+   "name": "심바란정(심바스타틴)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-03-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402472"
+  },
+  {
+   "itemSeq": "200402617",
+   "name": "심바스트정40밀리그램(심바스타틴)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402617"
+  },
+  {
+   "itemSeq": "200404707",
+   "name": "심바타틴정20밀리그램(심바스타틴)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404707"
+  },
+  {
+   "itemSeq": "200401145",
+   "name": "태극심바스타틴정",
+   "company": "태극제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401145"
+  },
+  {
+   "itemSeq": "200402374",
+   "name": "리피스탄정(심바스타틴)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402374"
+  },
+  {
+   "itemSeq": "200403258",
+   "name": "심바스포정20밀리그램(심바스타틴)",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403258"
+  },
+  {
+   "itemSeq": "200400724",
+   "name": "심바트정20밀리그람(심바스타틴)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-05-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400724"
+  },
+  {
+   "itemSeq": "200411015",
+   "name": "심바스탄정(심바스타틴)",
+   "company": "에스피씨(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200411015"
+  },
+  {
+   "itemSeq": "200400828",
+   "name": "리포스타정20밀리그램(심바스타틴)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400828"
+  },
+  {
+   "itemSeq": "200401924",
+   "name": "에이치엘비심바스타틴정20밀리그램",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401924"
+  },
+  {
+   "itemSeq": "200402309",
+   "name": "심바로정(심바스타틴)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-06-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402309"
+  },
+  {
+   "itemSeq": "200402982",
+   "name": "바스트정20밀리그람(심바스타틴)",
+   "company": "(주)하원제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402982"
+  },
+  {
+   "itemSeq": "200404029",
+   "name": "심비단정(심바스타틴)(수출명:SIVASTANTTAB.,SIVANSTANTTAB.)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404029"
+  },
+  {
+   "itemSeq": "200403084",
+   "name": "심바크린정(심바스타틴)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403084"
+  },
+  {
+   "itemSeq": "200403028",
+   "name": "콜스테롤정(심바스타틴)",
+   "company": "(주)티디에스팜",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-08-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403028"
+  },
+  {
+   "itemSeq": "200400121",
+   "name": "심바로드정40밀리그램(심바스타틴)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400121"
+  },
+  {
+   "itemSeq": "200404196",
+   "name": "조코나정40밀리그람(심바스타틴)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200404196"
+  },
+  {
+   "itemSeq": "200403819",
+   "name": "유니심바정20밀리그램(심바스타틴)(수출명:조쿠나정)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403819"
+  },
+  {
+   "itemSeq": "200403243",
+   "name": "명문심바스타틴정",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-09-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403243"
+  },
+  {
+   "itemSeq": "200401687",
+   "name": "조바코정(심바스타틴)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200401687"
+  },
+  {
+   "itemSeq": "200403459",
+   "name": "심박정(심바스타틴)(수출명 : SIMVAC Tab.)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-10-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200403459"
+  },
+  {
+   "itemSeq": "200400682",
+   "name": "심바스테롤정20밀리그람(심바스타틴)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200400682"
+  },
+  {
+   "itemSeq": "200402604",
+   "name": "심바넥스정(심바스타틴)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402604"
+  },
+  {
+   "itemSeq": "200402567",
+   "name": "심바탄정20mg(심바스타틴)",
+   "company": "미래바이오제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2004-11-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200402567"
+  },
+  {
+   "itemSeq": "200501423",
+   "name": "조바코정40밀리그람(심바스타틴)(수출용)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "40",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-07-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200501423"
+  },
+  {
+   "itemSeq": "200500072",
+   "name": "심바스틴정20밀리그램(심바스타틴)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-09-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200500072"
+  },
+  {
+   "itemSeq": "200512250",
+   "name": "심비단정10밀리그람(심바스타틴)(수출용)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200512250"
+  },
+  {
+   "itemSeq": "200702568",
+   "name": "심바로드정10밀리그램(심바스타틴)(수출용)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702568"
+  },
+  {
+   "itemSeq": "200807527",
+   "name": "조코정20밀리그램(심바스타틴)",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807527"
+  },
+  {
+   "itemSeq": "200807528",
+   "name": "조코정40밀리그램(심바스타틴)",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "40.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-07-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200807528"
+  },
+  {
+   "itemSeq": "201306445",
+   "name": "리바스타틴정 20밀리그램(심바스타틴)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201306445"
+  },
+  {
+   "itemSeq": "201402515",
+   "name": "심바메디정(심바스타틴)",
+   "company": "메딕스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-06-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201402515"
+  },
+  {
+   "itemSeq": "201405436",
+   "name": "휴코정20mg(심바스타틴)",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-11-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201405436"
+  },
+  {
+   "itemSeq": "201504313",
+   "name": "유니심바정5밀리그램(심바스타틴)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-06-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201504313"
+  },
+  {
+   "itemSeq": "201600436",
+   "name": "심바코틴정(심바스타틴)",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-01-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600436"
+  },
+  {
+   "itemSeq": "201606670",
+   "name": "에프심바정20밀리그램(심바스타틴)(수출용)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-11-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201606670"
+  },
+  {
+   "itemSeq": "201707670",
+   "name": "조코나정20밀리그램(심바스타틴)",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201707670"
+  },
+  {
+   "itemSeq": "201800820",
+   "name": "뉴심바드정(심바스타틴)",
+   "company": "안국뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-02-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201800820"
+  },
+  {
+   "itemSeq": "201801491",
+   "name": "코시바정20밀리그램(심바스타틴)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801491"
+  },
+  {
+   "itemSeq": "201804346",
+   "name": "비엘심바정20밀리그램(심바스타틴)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804346"
+  },
+  {
+   "itemSeq": "201901722",
+   "name": "심스틴정20밀리그램(심바스타틴)",
+   "company": "익수제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901722"
+  },
+  {
+   "itemSeq": "201907068",
+   "name": "아심바정20밀리그램(심바스타틴)",
+   "company": "(주)아리제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907068"
+  },
+  {
+   "itemSeq": "201907577",
+   "name": "엔티심바정20밀리그램(심바스타틴)",
+   "company": "한국신텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907577"
+  },
+  {
+   "itemSeq": "200511262",
+   "name": "바이토린정10/10",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511262"
+  },
+  {
+   "itemSeq": "200511263",
+   "name": "바이토린정10/20",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511263"
+  },
+  {
+   "itemSeq": "200511264",
+   "name": "바이토린정10/40",
+   "company": "한국오가논(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "40",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2005-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200511264"
+  },
+  {
+   "itemSeq": "201007235",
+   "name": "이지심바정10/10밀리그램(에제티미브, 심바스타틴)",
+   "company": "(주)서흥",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007235"
+  },
+  {
+   "itemSeq": "201007236",
+   "name": "이지심바정10/20밀리그램(에제티미브, 심바스타틴)",
+   "company": "(주)서흥",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007236"
+  },
+  {
+   "itemSeq": "201007276",
+   "name": "바이테롤정 10/10",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007276"
+  },
+  {
+   "itemSeq": "201007275",
+   "name": "바이테롤정 10/20",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007275"
+  },
+  {
+   "itemSeq": "201007277",
+   "name": "아이토린정10/20",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2010-11-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201007277"
+  },
+  {
+   "itemSeq": "201202540",
+   "name": "코아틴정20/5 (Coatin Tablet20/5)(수출용)",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "암로디핀베실산염",
+     "amount": "6.944",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2012-04-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201202540"
+  },
+  {
+   "itemSeq": "201600853",
+   "name": "바이시브정10/20밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600853"
+  },
+  {
+   "itemSeq": "201600854",
+   "name": "에제심바정10/20밀리그램",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600854"
+  },
+  {
+   "itemSeq": "201600869",
+   "name": "심바트롤정10/20밀리그램",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600869"
+  },
+  {
+   "itemSeq": "201600903",
+   "name": "바이스틴정10/20밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600903"
+  },
+  {
+   "itemSeq": "201600904",
+   "name": "엔피토린정10/20mg",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600904"
+  },
+  {
+   "itemSeq": "201600928",
+   "name": "바스타에정10/20(에제티미브, 심바스타틴)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600928"
+  },
+  {
+   "itemSeq": "201600929",
+   "name": "바이제타정10/20",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600929"
+  },
+  {
+   "itemSeq": "201600960",
+   "name": "심바티브정10/20",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600960"
+  },
+  {
+   "itemSeq": "201600974",
+   "name": "임펙트윈정10/20mg",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201600974"
+  },
+  {
+   "itemSeq": "201601004",
+   "name": "바이테브정10/20밀리그램",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601004"
+  },
+  {
+   "itemSeq": "201601009",
+   "name": "바이스타정10/20mg",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601009"
+  },
+  {
+   "itemSeq": "201601110",
+   "name": "듀오토린정10/20mg",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601110"
+  },
+  {
+   "itemSeq": "201601084",
+   "name": "심록스에프정",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601084"
+  },
+  {
+   "itemSeq": "201601116",
+   "name": "심펙스듀오정10/20mg",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601116"
+  },
+  {
+   "itemSeq": "201601144",
+   "name": "베아토린정10/20",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601144"
+  },
+  {
+   "itemSeq": "201601234",
+   "name": "이지토린정10/20밀리그램",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601234"
+  },
+  {
+   "itemSeq": "201601385",
+   "name": "조바토린정10/20밀리그램(에제티미브/심바스타틴)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601385"
+  },
+  {
+   "itemSeq": "201601714",
+   "name": "듀오토린정10/10mg",
+   "company": "(주)씨엠지제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601714"
+  },
+  {
+   "itemSeq": "201601733",
+   "name": "바스타에정10/10(에제티미브, 심바스타틴)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601733"
+  },
+  {
+   "itemSeq": "201601725",
+   "name": "바이스타정10/10mg",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601725"
+  },
+  {
+   "itemSeq": "201601728",
+   "name": "바이스틴정10/10밀리그램",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601728"
+  },
+  {
+   "itemSeq": "201601731",
+   "name": "바이시브정10/10밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601731"
+  },
+  {
+   "itemSeq": "201601734",
+   "name": "바이테브정10/10밀리그램",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601734"
+  },
+  {
+   "itemSeq": "201601729",
+   "name": "베아토린정10/10",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601729"
+  },
+  {
+   "itemSeq": "201601723",
+   "name": "심바트롤정10/10밀리그램",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601723"
+  },
+  {
+   "itemSeq": "201601716",
+   "name": "심바티브정10/10",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601716"
+  },
+  {
+   "itemSeq": "201601736",
+   "name": "심펙스듀오정10/10mg",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601736"
+  },
+  {
+   "itemSeq": "201601703",
+   "name": "아이토린정10/10",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601703"
+  },
+  {
+   "itemSeq": "201601735",
+   "name": "에제심바정10/10밀리그램",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601735"
+  },
+  {
+   "itemSeq": "201601726",
+   "name": "엔피토린정10/10mg",
+   "company": "대한뉴팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601726"
+  },
+  {
+   "itemSeq": "201601743",
+   "name": "이지토린정10/10밀리그램",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601743"
+  },
+  {
+   "itemSeq": "201601721",
+   "name": "임펙트윈정10/10mg",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601721"
+  },
+  {
+   "itemSeq": "201602085",
+   "name": "조바토린정10/10밀리그램(에제티미브/심바스타틴)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201602085"
+  },
+  {
+   "itemSeq": "201603858",
+   "name": "심바제트정10/10",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603858"
+  },
+  {
+   "itemSeq": "201603895",
+   "name": "에제스타정10/10",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603895"
+  },
+  {
+   "itemSeq": "201604540",
+   "name": "심바제트정10/20",
+   "company": "(주)비보존제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604540"
+  },
+  {
+   "itemSeq": "201604669",
+   "name": "에제스타정10/20",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201604669"
+  },
+  {
+   "itemSeq": "201803737",
+   "name": "에브심바정10/10밀리그램",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803737"
+  },
+  {
+   "itemSeq": "201803738",
+   "name": "에브심바정10/20밀리그램",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803738"
+  },
+  {
+   "itemSeq": "201803869",
+   "name": "바이제틴정10/10",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803869"
+  },
+  {
+   "itemSeq": "201803868",
+   "name": "바이제틴정10/20",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-09-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201803868"
+  },
+  {
+   "itemSeq": "201805436",
+   "name": "바이제타정10/10",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-12-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201805436"
+  },
+  {
+   "itemSeq": "201900015",
+   "name": "씨트토린정10/10밀리그램",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900015"
+  },
+  {
+   "itemSeq": "201900016",
+   "name": "씨트토린정10/20밀리그램",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900016"
+  },
+  {
+   "itemSeq": "201900316",
+   "name": "바이트린큐정10/10밀리그램",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900316"
+  },
+  {
+   "itemSeq": "201900315",
+   "name": "바이트린큐정10/20밀리그램",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-01-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201900315"
+  },
+  {
+   "itemSeq": "201903432",
+   "name": "심바플러스정10/10(수출용)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903432"
+  },
+  {
+   "itemSeq": "201903431",
+   "name": "심바플러스정10/20(수출용)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903431"
+  },
+  {
+   "itemSeq": "201907684",
+   "name": "심바듀엣정10/10mg",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907684"
+  },
+  {
+   "itemSeq": "201907689",
+   "name": "심바듀엣정10/20mg",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907689"
+  },
+  {
+   "itemSeq": "202003232",
+   "name": "조코토린정10/10밀리그램",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "10",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003232"
+  },
+  {
+   "itemSeq": "202003233",
+   "name": "조코토린정10/20밀리그램",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에제티미브",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "심바스타틴",
+     "amount": "20.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003233"
+  }
+ ]
+}

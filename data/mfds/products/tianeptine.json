@@ -1,0 +1,239 @@
+{
+ "id": "tianeptine",
+ "query": [
+  "티아넵틴"
+ ],
+ "fetched": "2026-11-27",
+ "total": 15,
+ "kept": 15,
+ "mfdsName": [
+  "티아넵틴나트륨"
+ ],
+ "items": [
+  {
+   "itemSeq": "199700688",
+   "name": "스타브론정(티아넵틴나트륨)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "티아넵틴나트륨",
+     "amount": "12.500",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1997-11-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199700688"
+  },
+  {
+   "itemSeq": "201103511",
+   "name": "스타넵틴정(티아넵틴나트륨)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "티아넵틴나트륨",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103511"
+  },
+  {
+   "itemSeq": "201103510",
+   "name": "스티론정(티아넵틴나트륨)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "티아넵틴나트륨",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103510"
+  },
+  {
+   "itemSeq": "201103512",
+   "name": "케이넵틴정(티아넵틴나트륨)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "티아넵틴나트륨",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103512"
+  },
+  {
+   "itemSeq": "201103615",
+   "name": "디프론정(티아넵틴나트륨)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "티아넵틴나트륨",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103615"
+  },
+  {
+   "itemSeq": "201103609",
+   "name": "티아론정(티아넵틴나트륨)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "티아넵틴나트륨",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103609"
+  },
+  {
+   "itemSeq": "201103610",
+   "name": "티아스틴정(티아넵틴나트륨)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "티아넵틴나트륨",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-05-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201103610"
+  },
+  {
+   "itemSeq": "201104725",
+   "name": "넵틴정12.5밀리그램(티아넵틴나트륨)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "티아넵틴나트륨",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201104725"
+  },
+  {
+   "itemSeq": "201104726",
+   "name": "스티아론정(티아넵틴나트륨)",
+   "company": "(주)한국파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "티아넵틴나트륨",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-07-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201104726"
+  },
+  {
+   "itemSeq": "201104755",
+   "name": "아주브론정12.5밀리그램(티아넵틴나트륨)",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "티아넵틴나트륨",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2011-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201104755"
+  },
+  {
+   "itemSeq": "201300317",
+   "name": "스타보린정(티아넵틴나트륨)",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "티아넵틴나트륨",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201300317"
+  },
+  {
+   "itemSeq": "201401489",
+   "name": "티아네틴정(티아넵틴나트륨)",
+   "company": "동성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "티아넵틴나트륨",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-03-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201401489"
+  },
+  {
+   "itemSeq": "201403125",
+   "name": "하이넵틴정(티아넵틴나트륨)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "티아넵틴나트륨",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201403125"
+  },
+  {
+   "itemSeq": "201603727",
+   "name": "건일티아넵틴정(티아넵틴나트륨)",
+   "company": "건일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "티아넵틴나트륨",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-06-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201603727"
+  },
+  {
+   "itemSeq": "201701430",
+   "name": "티아본정(티아넵틴나트륨)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "티아넵틴나트륨",
+     "amount": "12.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201701430"
+  }
+ ]
+}

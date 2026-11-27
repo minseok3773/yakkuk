@@ -1,0 +1,2320 @@
+{
+ "id": "pioglitazone",
+ "query": [
+  "피오글리타존"
+ ],
+ "fetched": "2026-11-26",
+ "total": 138,
+ "kept": 138,
+ "mfdsName": [
+  "피오글리타존염산염",
+  "염산피오글리타존"
+ ],
+ "items": [
+  {
+   "itemSeq": "200108671",
+   "name": "액토스정15밀리그램(피오글리타존염산염)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-01-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108671"
+  },
+  {
+   "itemSeq": "200108672",
+   "name": "액토스정30밀리그램(피오글리타존염산염)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-01-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200108672"
+  },
+  {
+   "itemSeq": "200701045",
+   "name": "액티엠정(피오글리타존염산염)",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701045"
+  },
+  {
+   "itemSeq": "200701042",
+   "name": "팩토스정(피오글리타존염산염)",
+   "company": "한올바이오파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701042"
+  },
+  {
+   "itemSeq": "200701043",
+   "name": "피타존정(피오글리타존염산염)",
+   "company": "신풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-09",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200701043"
+  },
+  {
+   "itemSeq": "200700868",
+   "name": "피오타존정(피오글리타존염산염)",
+   "company": "동화약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200700868"
+  },
+  {
+   "itemSeq": "200702367",
+   "name": "픽토스정(피오글리타존염산염)",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-02-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702367"
+  },
+  {
+   "itemSeq": "200702697",
+   "name": "글레존정(피오글리타존염산염)",
+   "company": "삼진제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702697"
+  },
+  {
+   "itemSeq": "200702710",
+   "name": "파존정15밀리그램(피오글리타존염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702710"
+  },
+  {
+   "itemSeq": "200702694",
+   "name": "피오맥스정15밀리그램(피오글리타존염산염)",
+   "company": "광동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702694"
+  },
+  {
+   "itemSeq": "200702692",
+   "name": "피오벡스정15mg(피오글리타존염산염)",
+   "company": "(주)서울제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200702692"
+  },
+  {
+   "itemSeq": "200703230",
+   "name": "글리타정(피오글리타존염산염)",
+   "company": "풍림무약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703230"
+  },
+  {
+   "itemSeq": "200703261",
+   "name": "글리타존정(피오글리타존염산염)",
+   "company": "유니메드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703261"
+  },
+  {
+   "itemSeq": "200703204",
+   "name": "액타존정15밀리그램(피오글리타존염산염)",
+   "company": "대한약품공업(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "염산피오글리타존",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703204"
+  },
+  {
+   "itemSeq": "200703201",
+   "name": "케이토스정(피오글리타존염산염)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703201"
+  },
+  {
+   "itemSeq": "200703202",
+   "name": "피오글리정(피오글리타존염산염)",
+   "company": "성원애드콕제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703202"
+  },
+  {
+   "itemSeq": "200703229",
+   "name": "피오렉스정(피오글리타존염산염)",
+   "company": "안국약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703229"
+  },
+  {
+   "itemSeq": "200703236",
+   "name": "피오메드정15밀리그램(피오글리타존염산염)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703236"
+  },
+  {
+   "itemSeq": "200703205",
+   "name": "피오타정(피오글리타존염산염)(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703205"
+  },
+  {
+   "itemSeq": "200703464",
+   "name": "피그리온정(피오글리타존염산염)",
+   "company": "에스에스팜(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703464"
+  },
+  {
+   "itemSeq": "200703462",
+   "name": "피오나정(피오글리타존염산염)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703462"
+  },
+  {
+   "itemSeq": "200703452",
+   "name": "피오리정15밀리그램(피오글리타존염산염)",
+   "company": "(주)휴온스메디텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703452"
+  },
+  {
+   "itemSeq": "200703459",
+   "name": "피오리타정(피오글리타존염산염)",
+   "company": "환인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703459"
+  },
+  {
+   "itemSeq": "200703458",
+   "name": "피오민정(피오글리타존염산염)",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703458"
+  },
+  {
+   "itemSeq": "200703460",
+   "name": "피오스정(피오글리타존염산염)",
+   "company": "(주)킵스바이오파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703460"
+  },
+  {
+   "itemSeq": "200703463",
+   "name": "피오스타정(피오글리타존염산염)",
+   "company": "동국제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703463"
+  },
+  {
+   "itemSeq": "200703601",
+   "name": "피그존정(피오글리타존염산염)",
+   "company": "삼남제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-03-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703601"
+  },
+  {
+   "itemSeq": "200703873",
+   "name": "그루타존정15밀리그램(피오글리타존염산염)",
+   "company": "한국넬슨제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703873"
+  },
+  {
+   "itemSeq": "200703870",
+   "name": "글루스탑정(피오글리타존염산염)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703870"
+  },
+  {
+   "itemSeq": "200703876",
+   "name": "피오글루정15밀리그램(피오글리타존염산염)",
+   "company": "(주)바이넥스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703876"
+  },
+  {
+   "itemSeq": "200703877",
+   "name": "피오트정15밀리그램(피오글리타존염산염)",
+   "company": "동광제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-03",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200703877"
+  },
+  {
+   "itemSeq": "200704316",
+   "name": "글루타존정(피오글리타존염산염)",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704316"
+  },
+  {
+   "itemSeq": "200704321",
+   "name": "아토스정15밀리그램(피오글리타존염산염)",
+   "company": "대화제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704321"
+  },
+  {
+   "itemSeq": "200704285",
+   "name": "액티라존정(피오글리타존염산염)",
+   "company": "동성제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704285"
+  },
+  {
+   "itemSeq": "200704284",
+   "name": "피글리정15밀리그램(피오글리타존염산염)",
+   "company": "영일제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704284"
+  },
+  {
+   "itemSeq": "200704291",
+   "name": "피오글라정15밀리그램(피오글리타존염산염)",
+   "company": "케이엠에스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704291"
+  },
+  {
+   "itemSeq": "200704287",
+   "name": "피오론정15밀리그램(피오글리타존염산염)",
+   "company": "(주)한국파비스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704287"
+  },
+  {
+   "itemSeq": "200704290",
+   "name": "피오리돈정15밀리그램(피오글리타존염산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704290"
+  },
+  {
+   "itemSeq": "200704286",
+   "name": "피오졸정(피오글리타존염산염)",
+   "company": "오스틴제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704286"
+  },
+  {
+   "itemSeq": "200704317",
+   "name": "피오틴정15밀리그램(피오글리타존염산염)",
+   "company": "에이치엘비제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704317"
+  },
+  {
+   "itemSeq": "200704534",
+   "name": "피글리토정15밀리그램(피오글리타존염산염)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704534"
+  },
+  {
+   "itemSeq": "200704769",
+   "name": "국제피오글리타존정(피오글리타존염산염)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704769"
+  },
+  {
+   "itemSeq": "200704960",
+   "name": "글리액트정(피오글리타존염산염)",
+   "company": "명문제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200704960"
+  },
+  {
+   "itemSeq": "200705479",
+   "name": "엑토린정15밀리그램(피오글리타존염산염)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-05-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200705479"
+  },
+  {
+   "itemSeq": "200706313",
+   "name": "액피오정15밀리그램(피오글리타존염산염)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706313"
+  },
+  {
+   "itemSeq": "200706386",
+   "name": "영진글리트존정(피오글리타존염산염)",
+   "company": "영진약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706386"
+  },
+  {
+   "itemSeq": "200706892",
+   "name": "액토존정15밀리그램(피오글리타존염산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706892"
+  },
+  {
+   "itemSeq": "200706891",
+   "name": "액티글리정15밀리그램(피오글리타존염산염)",
+   "company": "일양약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-15",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200706891"
+  },
+  {
+   "itemSeq": "200707250",
+   "name": "대웅피오글리타존정15밀리그램(피오글리타존염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707250"
+  },
+  {
+   "itemSeq": "200707542",
+   "name": "피어리존정15밀리그램(피오글리타존염산염)",
+   "company": "한미약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200707542"
+  },
+  {
+   "itemSeq": "200708367",
+   "name": "그리핀정(피오글리타존염산염)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708367"
+  },
+  {
+   "itemSeq": "200708428",
+   "name": "유란정15밀리그램(피오글리타존염산염)(수출용)",
+   "company": "명인제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708428"
+  },
+  {
+   "itemSeq": "200708372",
+   "name": "피오그린정(피오글리타존염산염)",
+   "company": "부광유니파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708372"
+  },
+  {
+   "itemSeq": "200708368",
+   "name": "피오딘정(피오글리타존염산염)",
+   "company": "(주)테라젠이텍스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708368"
+  },
+  {
+   "itemSeq": "200708369",
+   "name": "피오렌정(피오글리타존염산염)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-07-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200708369"
+  },
+  {
+   "itemSeq": "200710496",
+   "name": "그리타존정15밀리그램(피오글리타존염산염)",
+   "company": "일동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-09-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200710496"
+  },
+  {
+   "itemSeq": "200711148",
+   "name": "액토그린정(피오글리타존염산염)",
+   "company": "진양제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-10-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711148"
+  },
+  {
+   "itemSeq": "200711538",
+   "name": "피로스정(피오글리타존염산염)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2007-10-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200711538"
+  },
+  {
+   "itemSeq": "200806488",
+   "name": "액피오정30밀리그램(피오글리타존염산염)",
+   "company": "(주)유한양행",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.07",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2008-06-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200806488"
+  },
+  {
+   "itemSeq": "200906578",
+   "name": "뉴피오정(피오글리타존염산염)",
+   "company": "하나제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2009-08-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200906578"
+  },
+  {
+   "itemSeq": "201309032",
+   "name": "하이피오정(피오글리타존염산염)",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-08-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309032"
+  },
+  {
+   "itemSeq": "201404064",
+   "name": "액토피스정(피오글리타존염산염)",
+   "company": "(주)이든파마",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2014-09-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201404064"
+  },
+  {
+   "itemSeq": "201502986",
+   "name": "피오라정(피오글리타존염산염)",
+   "company": "(주)아이월드제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-05-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201502986"
+  },
+  {
+   "itemSeq": "201507941",
+   "name": "피오글정15밀리그램(피오글리타존염산염)",
+   "company": "알리코제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2015-11-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201507941"
+  },
+  {
+   "itemSeq": "201601149",
+   "name": "액스타존정(피오글리타존염산염)",
+   "company": "아이큐어(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2016-02-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201601149"
+  },
+  {
+   "itemSeq": "201708069",
+   "name": "케이토스정30밀리그램(피오글리타존염산염)",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-11-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708069"
+  },
+  {
+   "itemSeq": "201708138",
+   "name": "피오리돈정30mg(피오글리타존염산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-11-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708138"
+  },
+  {
+   "itemSeq": "201801324",
+   "name": "국제피오글리타존정30밀리그램(피오글리타존염산염)",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801324"
+  },
+  {
+   "itemSeq": "201802670",
+   "name": "씨토스정(피오글리타존염산염)",
+   "company": "(주)씨티씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802670"
+  },
+  {
+   "itemSeq": "201802982",
+   "name": "글리디아정15밀리그램(피오글리타존염산염)",
+   "company": "(주)다산제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802982"
+  },
+  {
+   "itemSeq": "201901271",
+   "name": "피오투정(피오글리타존염산염)",
+   "company": "코스맥스파마(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-02-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901271"
+  },
+  {
+   "itemSeq": "201901673",
+   "name": "피오신정15밀리그램(피오글리타존염산염)",
+   "company": "(주)휴메딕스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901673"
+  },
+  {
+   "itemSeq": "201901765",
+   "name": "파존정30밀리그램(피오글리타존염산염)",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-25",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901765"
+  },
+  {
+   "itemSeq": "201903743",
+   "name": "글루스탑정30밀리그램(피오글리타존염산염)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-05",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903743"
+  },
+  {
+   "itemSeq": "201904309",
+   "name": "대웅피오글리타존정30밀리그램(피오글리타존염산염)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-24",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904309"
+  },
+  {
+   "itemSeq": "201904418",
+   "name": "피오스크정15밀리그램(피오글리타존염산염)",
+   "company": "한국유나이티드제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-06-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201904418"
+  },
+  {
+   "itemSeq": "201905085",
+   "name": "그리핀정30밀리그램(피오글리타존염산염)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-07-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201905085"
+  },
+  {
+   "itemSeq": "201907026",
+   "name": "피오나정30밀리그램(피오글리타존염산염)",
+   "company": "(주)휴온스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-02",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907026"
+  },
+  {
+   "itemSeq": "201908131",
+   "name": "피오글론정15밀리그램(피오글리타존염산염)",
+   "company": "건일바이오팜주식회사",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-11-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201908131"
+  },
+  {
+   "itemSeq": "202000624",
+   "name": "엑토린정30밀리그램(피오글리타존염산염)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-02-04",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000624"
+  },
+  {
+   "itemSeq": "202001690",
+   "name": "피오란정30밀리그램(피오글리타존염산염)",
+   "company": "(주)유앤생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001690"
+  },
+  {
+   "itemSeq": "202001748",
+   "name": "피글렌정(피오글리타존염산염)",
+   "company": "(주)서흥",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-13",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001748"
+  },
+  {
+   "itemSeq": "202001909",
+   "name": "피오란정15밀리그램(피오글리타존염산염)",
+   "company": "(주)유앤생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-19",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202001909"
+  },
+  {
+   "itemSeq": "202002025",
+   "name": "제이더블유피오글리타존정15밀리그램(피오글리타존염산염)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002025"
+  },
+  {
+   "itemSeq": "202002026",
+   "name": "제이더블유피오글리타존정30밀리그램(피오글리타존염산염)",
+   "company": "제이더블유중외제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002026"
+  },
+  {
+   "itemSeq": "202002149",
+   "name": "메가피오정15밀리그램(피오글리타존염산염)",
+   "company": "(주)엘앤씨바이오",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202002149"
+  },
+  {
+   "itemSeq": "202003311",
+   "name": "피리존정(피오글리타존염산염)",
+   "company": "엔비케이제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003311"
+  },
+  {
+   "itemSeq": "202003843",
+   "name": "피오글리타정15밀리그램(피오글리타존염산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003843"
+  },
+  {
+   "itemSeq": "202003844",
+   "name": "피오글리타정30밀리그램(피오글리타존염산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-26",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003844"
+  },
+  {
+   "itemSeq": "202003902",
+   "name": "글루피오정15밀리그램(피오글리타존염산염)",
+   "company": "(주)팜젠사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-05-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202003902"
+  },
+  {
+   "itemSeq": "202300408",
+   "name": "액토존정30밀리그램(피오글리타존염산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202300408"
+  },
+  {
+   "itemSeq": "201309844",
+   "name": "액토스릴정30/2밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "2.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309844"
+  },
+  {
+   "itemSeq": "201309845",
+   "name": "액토스릴정30/4밀리그램",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "글리메피리드",
+     "amount": "4.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2013-10-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201309845"
+  },
+  {
+   "itemSeq": "201705673",
+   "name": "케이토스메트정15/850밀리그램",
+   "company": "주식회사제뉴원사이언스",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-14",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705673"
+  },
+  {
+   "itemSeq": "201705701",
+   "name": "피오글루파정15/850밀리그램(피오글리타존염산염, 메트포르민염산염)",
+   "company": "(주)다림바이오텍",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-07-17",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201705701"
+  },
+  {
+   "itemSeq": "201706791",
+   "name": "픽토민정",
+   "company": "경동제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-08-23",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201706791"
+  },
+  {
+   "itemSeq": "201708493",
+   "name": "피오타엠정(수출용)",
+   "company": "한국코러스(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2017-12-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201708493"
+  },
+  {
+   "itemSeq": "201801346",
+   "name": "피오민메트정15/850밀리그램",
+   "company": "한국프라임제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801346"
+  },
+  {
+   "itemSeq": "201801687",
+   "name": "피오폴민정15/850밀리그램",
+   "company": "(주)일화",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801687"
+  },
+  {
+   "itemSeq": "201801834",
+   "name": "피오엠정15/850밀리그램(피오글리타존염산염,메트포르민염산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-04-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201801834"
+  },
+  {
+   "itemSeq": "201802737",
+   "name": "액토핀메트정15/850밀리그램",
+   "company": "영풍제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-06-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802737"
+  },
+  {
+   "itemSeq": "201802894",
+   "name": "피오트민정15/850밀리그램",
+   "company": "(주)휴비스트제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-07-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201802894"
+  },
+  {
+   "itemSeq": "201804095",
+   "name": "액티엠메트정15/850mg",
+   "company": "구주제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-10-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804095"
+  },
+  {
+   "itemSeq": "201804719",
+   "name": "피오비스정15/850밀리그램",
+   "company": "국제약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2018-11-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201804719"
+  },
+  {
+   "itemSeq": "201901634",
+   "name": "피오토민정15/850밀리그램",
+   "company": "아주약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-18",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901634"
+  },
+  {
+   "itemSeq": "201901835",
+   "name": "파존메트정15/850밀리그램",
+   "company": "(주)동구바이오제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-03-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201901835"
+  },
+  {
+   "itemSeq": "201902248",
+   "name": "대웅피오메트정15/850밀리그램",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "850",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902248"
+  },
+  {
+   "itemSeq": "201902708",
+   "name": "엑토린메트정15/850밀리그램(피오글리타존, 메트포르민염산염)",
+   "company": "(주)넥스팜코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-04-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201902708"
+  },
+  {
+   "itemSeq": "201903191",
+   "name": "피로메트정15/850밀리그램(피오글리타존염산염, 메트포르민염산염)",
+   "company": "이연제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-05-16",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201903191"
+  },
+  {
+   "itemSeq": "201907392",
+   "name": "액토존메트정15/850밀리그램",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2019-10-22",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=201907392"
+  },
+  {
+   "itemSeq": "202000339",
+   "name": "하이메트정15/850밀리그램",
+   "company": "(주)화이트생명과학",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.0",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2020-01-21",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202000339"
+  },
+  {
+   "itemSeq": "202302262",
+   "name": "시타액트정100/15밀리그램(시타글립틴,피오글리타존)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302262"
+  },
+  {
+   "itemSeq": "202302261",
+   "name": "시타액트정100/30밀리그램(시타글립틴,피오글리타존)",
+   "company": "대우제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-07-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302261"
+  },
+  {
+   "itemSeq": "202302298",
+   "name": "시타피오정100/15밀리그램(시타글립틴인산염수화물,피오글리타존염산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302298"
+  },
+  {
+   "itemSeq": "202302297",
+   "name": "시타피오정100/30밀리그램(시타글립틴인산염수화물,피오글리타존염산염)",
+   "company": "현대약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302297"
+  },
+  {
+   "itemSeq": "202302300",
+   "name": "자누액토정100/15밀리그램(시타글립틴인산염, 피오글리타존염산염)",
+   "company": "하이플생명과학(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302300"
+  },
+  {
+   "itemSeq": "202302299",
+   "name": "자누액토정100/30밀리그램(시타글립틴인산염, 피오글리타존염산염)",
+   "company": "하이플생명과학(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302299"
+  },
+  {
+   "itemSeq": "202302302",
+   "name": "자누피오정100/15밀리그램(시타글립틴,피오글리타존)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302302"
+  },
+  {
+   "itemSeq": "202302301",
+   "name": "자누피오정100/30밀리그램(시타글립틴,피오글리타존)",
+   "company": "대원제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-07-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302301"
+  },
+  {
+   "itemSeq": "202302344",
+   "name": "피오시타정100/30밀리그램(시타글립틴인산염수화물,피오글리타존염산염)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-07",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302344"
+  },
+  {
+   "itemSeq": "202302365",
+   "name": "시타디온정100/15밀리그램(시타글립틴인산염수화물,피오글리타존염산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302365"
+  },
+  {
+   "itemSeq": "202302357",
+   "name": "시타디온정100/30밀리그램(시타글립틴인산염수화물,피오글리타존염산염)",
+   "company": "(주)마더스제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302357"
+  },
+  {
+   "itemSeq": "202302355",
+   "name": "피오글시타정100/30밀리그램(시타글립틴인산염수화물,피오글리타존염산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302355"
+  },
+  {
+   "itemSeq": "202302364",
+   "name": "피오글시타정100/15밀리그램(시타글립틴인산염수화물,피오글리타존염산염)",
+   "company": "(주)메디카코리아",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302364"
+  },
+  {
+   "itemSeq": "202302363",
+   "name": "피오비아정100/15밀리그램(시타글립틴인산염수화물,피오글리타존염산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302363"
+  },
+  {
+   "itemSeq": "202302356",
+   "name": "피오비아정100/30밀리그램(시타글립틴인산염수화물,피오글리타존염산염)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302356"
+  },
+  {
+   "itemSeq": "202302358",
+   "name": "피오시타정100/15밀리그램(시타글립틴인산염수화물,피오글리타존염산염)",
+   "company": "삼익제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "시타글립틴인산염수화물",
+     "amount": "128.5",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-08",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302358"
+  },
+  {
+   "itemSeq": "202302547",
+   "name": "트루버디정10/15밀리그램(다파글리플로진,피오글리타존)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.300",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.530",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302547"
+  },
+  {
+   "itemSeq": "202302548",
+   "name": "트루버디정10/30밀리그램(다파글리플로진,피오글리타존)",
+   "company": "(주)보령",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.300",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.060",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-08-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302548"
+  },
+  {
+   "itemSeq": "202302837",
+   "name": "듀글로우정10/15밀리그램(다파글리플로진프로판디올수화물,피오글리타존염산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-09-27",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202302837"
+  },
+  {
+   "itemSeq": "202303455",
+   "name": "네시나액트정25/15밀리그램(알로글립틴벤조산염,피오글리타존염산염)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "알로글립틴 벤조산염",
+     "amount": "34.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303455"
+  },
+  {
+   "itemSeq": "202303456",
+   "name": "네시나액트정25/30밀리그램(알로글립틴벤조산염,피오글리타존염산염)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "알로글립틴 벤조산염",
+     "amount": "34.00",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-12-28",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303456"
+  },
+  {
+   "itemSeq": "202303461",
+   "name": "피오다정10/15밀리그램(다파글리플로진,피오글리타존)",
+   "company": "(주)유영제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2023-12-29",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202303461"
+  },
+  {
+   "itemSeq": "202400224",
+   "name": "듀글로우정10/30밀리그램(다파글리플로진프로판디올수화물,피오글리타존염산염)",
+   "company": "제일약품(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.06",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-30",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400224"
+  },
+  {
+   "itemSeq": "202400231",
+   "name": "다파피오정10/15밀리그램(다파글리플로진,피오글리타존)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.300",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.530",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400231"
+  },
+  {
+   "itemSeq": "202400232",
+   "name": "다파피오정10/30밀리그램(다파글리플로진,피오글리타존)",
+   "company": "대웅바이오(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.300",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "피오글리타존염산염",
+     "amount": "33.060",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-01-31",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400232"
+  },
+  {
+   "itemSeq": "202400241",
+   "name": "엑토시가정10/15밀리그램(다파글리플로진, 피오글리타존)",
+   "company": "한국휴텍스제약(주)",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "다파글리플로진프로판디올수화물",
+     "amount": "12.30",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2024-02-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202400241"
+  },
+  {
+   "itemSeq": "202500638",
+   "name": "액토스메트정15/850밀리그램(피오글리타존염산염, 메트포르민염산염)",
+   "company": "(주)셀트리온제약",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "피오글리타존염산염",
+     "amount": "16.53",
+     "unit": "밀리그램"
+    },
+    {
+     "name": "메트포르민염산염",
+     "amount": "850.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2025-03-20",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=202500638"
+  }
+ ]
+}

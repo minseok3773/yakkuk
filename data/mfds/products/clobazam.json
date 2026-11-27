@@ -1,0 +1,74 @@
+{
+ "id": "clobazam",
+ "query": [
+  "클로바잠"
+ ],
+ "fetched": "2026-11-26",
+ "total": 4,
+ "kept": 4,
+ "mfdsName": [
+  "클로바잠"
+ ],
+ "items": [
+  {
+   "itemSeq": "198100698",
+   "name": "센틸정10밀리그람(클로바잠)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로바잠",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1981-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198100698"
+  },
+  {
+   "itemSeq": "198100711",
+   "name": "센틸정5밀리그람(클로바잠)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로바잠",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1981-02-12",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=198100711"
+  },
+  {
+   "itemSeq": "200109980",
+   "name": "푸리지움10밀리그람(클로바잠)영문:Frisium10mg",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로바잠",
+     "amount": "10.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109980"
+  },
+  {
+   "itemSeq": "200109979",
+   "name": "푸리지움5밀리그람(클로바잠)",
+   "company": "(주)한독",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "클로바잠",
+     "amount": "5.0",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2001-01-11",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200109979"
+  }
+ ]
+}

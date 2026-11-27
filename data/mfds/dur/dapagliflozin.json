@@ -1,0 +1,168 @@
+{
+ "id": "dapagliflozin",
+ "fetched": "2026-11-26",
+ "source": "병용금기: https://www.data.go.kr/data/15089525/fileData.do (한국의약품안전관리원_병용금기약물_20260731); 연령금기: https://www.data.go.kr/data/15089531/fileData.do (한국의약품안전관리원_연령금기_20260721); 노인주의: https://www.data.go.kr/data/15089521/fileData.do (한국의약품안전관리원_노인주의약물_20260721); 임부금기: https://www.data.go.kr/data/15089735/fileData.do (한국의약품안전관리원_임부금기약물_20260721); 투여기간주의: https://www.data.go.kr/data/15089541/fileData.do (한국의약품안전관리원_투여기간주의약물_20260721); 용량주의: https://www.data.go.kr/data/15089533/fileData.do (한국의약품안전관리원_용량주의약물_20260721); 효능군중복: https://www.data.go.kr/data/15089542/fileData.do (한국의약품안전관리원_효능군중복주의약물_20260721)",
+ "matchedBy": [
+  "dapagliflozin"
+ ],
+ "contraindicated_with": [
+  {
+   "ingredient": "ethyl esters of the iodised fatty acids of poppyseed oil",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "dapagliflozin Bis L-proline (as dapagliflozin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iobitridol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "dapagliflozin Bis L-proline (as dapagliflozin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iodixanol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "dapagliflozin Bis L-proline (as dapagliflozin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iohexol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "dapagliflozin Bis L-proline (as dapagliflozin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iomeprol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "dapagliflozin Bis L-proline (as dapagliflozin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iopamidol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "dapagliflozin Bis L-proline (as dapagliflozin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "iopromide",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "dapagliflozin Bis L-proline (as dapagliflozin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  },
+  {
+   "ingredient": "ioversol",
+   "reason": "기능적 신부전에 의해 유산 산성증 촉진",
+   "self": "dapagliflozin Bis L-proline (as dapagliflozin)+metformin hydrochloride",
+   "remark": "48시간 이내 병용금기"
+  }
+ ],
+ "age": [],
+ "pregnancy": [
+  {
+   "grade": "2",
+   "reason": "임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고.",
+   "ingredient": "dapagliflozin propanediol"
+  },
+  {
+   "grade": "2",
+   "reason": "dapagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고. / metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함.",
+   "ingredient": "dapagliflozin propanediol hydrate, metformin HCl"
+  },
+  {
+   "grade": "2",
+   "reason": "dapagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고/saxagliptin: 임부에 대한 안전성 미확립. 동물실험에서 고용량 투여시 골반의 불완전 골화 및 발달지연, 모자독성 및 태아 체중감소, 경미한 골격변이 보고.",
+   "ingredient": "dapagliflozin + saxagliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "dapagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고./sitagliptin: 임부에 대한 안전성 미확립.",
+   "ingredient": "dapagliflozin+sitagliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "dapagliflozin : 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고. / sitagliptin : 임부에 대한 안전성 미확립.",
+   "ingredient": "dapagliflozin + sitagliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "dapagliflozin : 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고. / gemigliptin : 임부에 대한 안전성 미확립. 동물실험에서 태반통과 보고.",
+   "ingredient": "dapagliflozin + gemigliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / dapagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고.",
+   "ingredient": "dapagliflozin + metformin"
+  },
+  {
+   "grade": "2",
+   "reason": "dapagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고. / glimepiride: 동물실험에서 고용량 투여시 상완골의 단축, 비후, 굴곡의 골격기형 보고.",
+   "ingredient": "dapagliflozin + glimepiride"
+  },
+  {
+   "grade": "2",
+   "reason": "dapagliflozin : 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고. Evogliptin : 동물시험결과 태반을 통과. 임부를 대상으로 한 대조시험 결과 없음.부, 심장 및 혈관의 불량한 발달을 포함하는 발달 이상과 관련 있음",
+   "ingredient": "dapagliflozin + evogliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / lobeglitazone: 임부에 대한 안전성 미확립. 동물실험에서 고용량 투여시 배자독성(태자 사망수, 착상후 배자 사망률 증가, 태자 체중감소 등), 심장중량 증가, 형태분화지연 보고. / sitagliptin: 임부에 대한 안전성 미확립.",
+   "ingredient": "dapagliflozin + metformin + sitagliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "dapagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고/sitagliptin: 임부에 대한 안전성 미확립",
+   "ingredient": "dapagliflozin + sitagliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "dapagliflozin : 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고./sitagliptin: 임부에 대한 안전성 미확립.",
+   "ingredient": "dapagliflozin + sitagliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "dapagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고./sitagliptin:임부에 대한 안전성 미확립.",
+   "ingredient": "dapagliflozin+sitagliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "dapagliflozin:임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고./pioglitazone:동물실험에서 과용량 투여시 분만지연 및 배자독성(착상후 손실 증가, 발생지연, 태아 체중감소) 보고.",
+   "ingredient": "dapagliflozin + pioglitazone"
+  },
+  {
+   "grade": "2",
+   "reason": "metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / dapagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고. / evogliptin: 동물시험결과 태반을 통과. 임부를 대상으로 한 대조시험 결과 없음.부, 심장 및 혈관의 불량한 발달을 포함하는 발달 이상과 관련 있음",
+   "ingredient": "dapagliflozin + evogliptin + metformin"
+  },
+  {
+   "grade": "2",
+   "reason": "dapagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고. / linagliptin: 임부에 대한 안전성 미확립. 랫드와 토끼에서 태반이행 보고.",
+   "ingredient": "dapagliflozin + linagliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / dapagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고. / sitagliptin: 임부에 대한 안전성 미확립.",
+   "ingredient": "dapagliflozin + metformin + sitagliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "dapagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고. / Metformin: 태반을 통과하며 태반 통과 수준은 모체에서의 농도만큼 높을 수 있음. 자궁 내 노출된 출생아는 재태 연령에 비해 작을 수 있음. 태반 기능 부전, 자간전증, 자궁 내 성장지연의 위험도가 있는 임부의 경우 치료를 시작하지 않음. 태아 발달을 면밀히 모니터링 해야하며, 만약 태아의 성장 지연이 확인되면 투여를 중단함. / Sitagliptadin: 임부에 대한 안전성 미확립.",
+   "ingredient": "dapagliflozin + metformin + sitagliptin"
+  },
+  {
+   "grade": "2",
+   "reason": "dapagliflozin: 임부에 대한 안전성 미확립. 동물실험에서 사람의 임신 2기와 3기에 해당하는 신장 발달 독성(신우 및 세뇨관 확장) 보고. / sitagliptin: 임부에 대한 안전성 미확립.",
+   "ingredient": "dapagliflozin + sitagliptin"
+  }
+ ],
+ "elderly": [],
+ "dose": [],
+ "duration": [],
+ "class_duplication": [
+  {
+   "group": "당뇨병용제",
+   "subgroup": "Group 5",
+   "code": "3.96E+03"
+  }
+ ],
+ "sr_split": [],
+ "note": "서방정 분할주의는 인증키 없이 받을 수 있는 공식 파일을 찾지 못해 비워 두었습니다."
+}

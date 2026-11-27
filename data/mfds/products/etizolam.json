@@ -1,0 +1,59 @@
+{
+ "id": "etizolam",
+ "query": [
+  "에티졸람"
+ ],
+ "fetched": "2026-11-27",
+ "total": 3,
+ "kept": 3,
+ "mfdsName": [
+  "에티졸람"
+ ],
+ "items": [
+  {
+   "itemSeq": "199002729",
+   "name": "데파스정0.5밀리그람(에티졸람)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에티졸람",
+     "amount": "0.5",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1990-02-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199002729"
+  },
+  {
+   "itemSeq": "199002730",
+   "name": "데파스정1밀리그람(에티졸람)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에티졸람",
+     "amount": "1.00",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "1990-02-01",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=199002730"
+  },
+  {
+   "itemSeq": "200610866",
+   "name": "데파스정0.25밀리그램(에티졸람)",
+   "company": "(주)종근당",
+   "type": "전문",
+   "ingredients": [
+    {
+     "name": "에티졸람",
+     "amount": "0.25",
+     "unit": "밀리그램"
+    }
+   ],
+   "permitDate": "2006-11-06",
+   "url": "https://nedrug.mfds.go.kr/pbp/CCBBB01/getItemDetail?itemSeq=200610866"
+  }
+ ]
+}
